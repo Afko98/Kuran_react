@@ -1,0 +1,30 @@
+require('dotenv').config();
+const express = require('express');
+const path = require('path');
+const app = express();
+
+const PORT = process.env.PORT || 3000;
+
+// Middleware
+app.use(express.json());
+
+// Routes
+const quranRoots = require('./routes/root');
+const quranSurah = require('./routes/surah');
+const quranPage = require('./routes/page');
+const quranTefsir = require('./routes/tefsir');
+
+app.use('/api/root', quranRoots);
+app.use('/api/surah', quranSurah);
+app.use('/api/page', quranPage);
+app.use('/api/tefsir', quranTefsir);
+
+// Serve React build (for production)
+// app.use(express.static(path.join(__dirname, '../client/dist')));
+// app.get('*', (req, res) => {
+//     res.sendFile(path.join(__dirname, '../client/dist/index.html'));
+// });
+
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`);
+});
