@@ -1,0 +1,276 @@
+{
+  "description_bh": "",
+  "id": 306,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غِشاوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غاشِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُغْشِيَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَغَشَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْشَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْشِيّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غشو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غِشاوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غِشَـٰوَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) a veil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَغْشَىٰ",
+      "translation_bh": "",
+      "translation_en": "overcoming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غاشِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَوَاشٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "coverings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُغْشِيَتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُغْشِى",
+      "translation_bh": "",
+      "translation_en": "He covers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَغَشَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَغَشَّىٰهَا",
+      "translation_bh": "",
+      "translation_en": "he covers her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُغَشِّيكُمُ",
+      "translation_bh": "",
+      "translation_en": "He covered you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُغْشِيَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُغْشِيَتْ",
+      "translation_bh": "",
+      "translation_en": "had been covered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَغْشُونَ",
+      "translation_bh": "",
+      "translation_en": "they cover (themselves)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غاشِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَـٰشِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "an overwhelming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَغْشَىٰ",
+      "translation_bh": "",
+      "translation_en": "and will cover"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَغَشِيَهُم",
+      "translation_bh": "",
+      "translation_en": "but covered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "غَشِيَهُمْ",
+      "translation_bh": "",
+      "translation_en": "covered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغْشَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "covers it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغْشَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "will cover them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "غَشِيَهُم",
+      "translation_bh": "",
+      "translation_en": "covers them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُغْشَىٰ",
+      "translation_bh": "",
+      "translation_en": "faints"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُغْشِيَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَغْشَيْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and We covered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَغْشَى",
+      "translation_bh": "",
+      "translation_en": "Enveloping"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غِشاوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غِشَـٰوَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a veil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْشِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَغْشِىِّ",
+      "translation_bh": "",
+      "translation_en": "(of) one fainting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَغَشَّىٰهَا",
+      "translation_bh": "",
+      "translation_en": "So covered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "غَشَّىٰ",
+      "translation_bh": "",
+      "translation_en": "covered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْشَوْا۟",
+      "translation_bh": "",
+      "translation_en": "and covered themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غاشِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَـٰشِيَةِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Overwhelming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَشِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغْشَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "it covers it"
+    }
+  ]
+}

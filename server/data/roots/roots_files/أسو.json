@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 681,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَأْسَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُسْوَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أسو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَأْسَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْسَ",
+      "translation_bh": "",
+      "translation_en": "grieve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاسَىٰ",
+      "translation_bh": "",
+      "translation_en": "I grieve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُسْوَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أُسْوَةٌ",
+      "translation_bh": "",
+      "translation_en": "an excellent example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْسَوْا۟",
+      "translation_bh": "",
+      "translation_en": "grieve"
+    }
+  ]
+}

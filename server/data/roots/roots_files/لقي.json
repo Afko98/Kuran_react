@@ -1,0 +1,919 @@
+{
+  "description_bh": "",
+  "id": 76,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَقَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاقُوا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَقَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تِلْقاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْقي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لاقِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلاق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُلاقُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَلَقِّيان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاقِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْقِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لقي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَقُوا۟",
+      "translation_bh": "",
+      "translation_en": "they meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَقَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَلَقَّىٰٓ",
+      "translation_bh": "",
+      "translation_en": "Then received"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاقُوا",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُّلَـٰقُوا۟",
+      "translation_bh": "",
+      "translation_en": "will meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُلْقُوا۟",
+      "translation_bh": "",
+      "translation_en": "throw (yourselves)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاقُوا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّلَـٰقُوهُ ۗ",
+      "translation_bh": "",
+      "translation_en": "(will) meet Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱلْتَقَتَا ۖ",
+      "translation_bh": "",
+      "translation_en": "which met "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُلْقُونَ",
+      "translation_bh": "",
+      "translation_en": "they cast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "they meet you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَلْقَوْهُ",
+      "translation_bh": "",
+      "translation_en": "you met it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَنُلْقِى",
+      "translation_bh": "",
+      "translation_en": "We will cast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَقَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱلْتَقَى",
+      "translation_bh": "",
+      "translation_en": "met"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَلْقَوْا۟",
+      "translation_bh": "",
+      "translation_en": "and offer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُلْقُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and offer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْقَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "offers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْقَىٰهَآ",
+      "translation_bh": "",
+      "translation_en": "which He conveyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَأَلْقَيْنَا",
+      "translation_bh": "",
+      "translation_en": "And We have cast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "بِلِقَآءِ",
+      "translation_bh": "",
+      "translation_en": "in (the) meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "لِقَآءَ",
+      "translation_bh": "",
+      "translation_en": "(of the) meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تِلْقاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تِلْقَآءَ",
+      "translation_bh": "",
+      "translation_en": "towards"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَأَلْقَىٰ",
+      "translation_bh": "",
+      "translation_en": "So he threw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُلْقِىَ",
+      "translation_bh": "",
+      "translation_en": "you throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْقي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُلْقِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones to throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَلْقُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "Throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَلْقَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they threw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَلْقِ",
+      "translation_bh": "",
+      "translation_en": "Throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُلْقِىَ",
+      "translation_bh": "",
+      "translation_en": "And fell down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِقَآءِ",
+      "translation_bh": "",
+      "translation_en": "and (the) meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَلْقَى",
+      "translation_bh": "",
+      "translation_en": "And he cast down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأُلْقِى",
+      "translation_bh": "",
+      "translation_en": "I will cast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَقِيتُمُ",
+      "translation_bh": "",
+      "translation_en": "you meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱلْتَقَيْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you met "
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقِيتُمْ",
+      "translation_bh": "",
+      "translation_en": "you meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَلْقَوْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "when they will meet Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "لِقَآءَنَا",
+      "translation_bh": "",
+      "translation_en": "the meeting with Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تِلْقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تِلْقَآئِ",
+      "translation_bh": "",
+      "translation_en": "my own accord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَلْقُوا۟",
+      "translation_bh": "",
+      "translation_en": "Throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْقي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّلْقُونَ",
+      "translation_bh": "",
+      "translation_en": "(wish to) throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَلْقُوهُ",
+      "translation_bh": "",
+      "translation_en": "but throw him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَلْقُوهُ",
+      "translation_bh": "",
+      "translation_en": "and cast it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْقَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "he cast it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَلْقَىٰ",
+      "translation_bh": "",
+      "translation_en": "And He has cast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَلْقَوُا۟",
+      "translation_bh": "",
+      "translation_en": "then they would offer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَلْقَوْا۟",
+      "translation_bh": "",
+      "translation_en": "But they (will) throw back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْقَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "which he will find"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتُلْقَىٰ",
+      "translation_bh": "",
+      "translation_en": "lest you should be thrown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقِينَا",
+      "translation_bh": "",
+      "translation_en": "we have suffered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقِيَا",
+      "translation_bh": "",
+      "translation_en": "they met"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِقَآئِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and the meeting (with) Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْقَوْنَ",
+      "translation_bh": "",
+      "translation_en": "they will meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْقِهَا",
+      "translation_bh": "",
+      "translation_en": "Throw it down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَلْقَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "So he threw it down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيُلْقِهِ",
+      "translation_bh": "",
+      "translation_en": "then let cast it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَلْقَيْتُ",
+      "translation_bh": "",
+      "translation_en": "And I cast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَلْقَىٰ",
+      "translation_bh": "",
+      "translation_en": "throws"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَلْقِ",
+      "translation_bh": "",
+      "translation_en": "And throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأُلْقِىَ",
+      "translation_bh": "",
+      "translation_en": "So were thrown down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَلْقَى",
+      "translation_bh": "",
+      "translation_en": "threw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَقَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَتَلَقَّىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "and will meet them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُلْقِى",
+      "translation_bh": "",
+      "translation_en": "throws"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَقَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَلَقَّوْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "you received it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُلْقَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "is delivered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُلْقُوا۟",
+      "translation_bh": "",
+      "translation_en": "they are thrown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْقَ",
+      "translation_bh": "",
+      "translation_en": "will meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُلَقَّوْنَ",
+      "translation_bh": "",
+      "translation_en": "and they will be met"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتُلَقَّى",
+      "translation_bh": "",
+      "translation_en": "surely, receive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَلْقِهْ",
+      "translation_bh": "",
+      "translation_en": "and deliver it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أُلْقِىَ",
+      "translation_bh": "",
+      "translation_en": "is delivered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَلْقِيهِ",
+      "translation_bh": "",
+      "translation_en": "then cast him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لاقِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَـٰقِيهِ",
+      "translation_bh": "",
+      "translation_en": "(will) meet it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُلَقَّىٰهَآ",
+      "translation_bh": "",
+      "translation_en": "it is granted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِقَآئِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "and (the) meeting (with) Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِلِقَآئِ",
+      "translation_bh": "",
+      "translation_en": "in (the) meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِقَآئِ",
+      "translation_bh": "",
+      "translation_en": "and (the) meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّقَآئِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "receiving it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلتَّلَاقِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُلْقَىٰ",
+      "translation_bh": "",
+      "translation_en": "is cast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِقاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّقَآءِ",
+      "translation_bh": "",
+      "translation_en": "(the) meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُلاقُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُلَـٰقُوا۟",
+      "translation_bh": "",
+      "translation_en": "they meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَقَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَلَقَّى",
+      "translation_bh": "",
+      "translation_en": "receive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَلَقِّيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَلَقِّيَانِ",
+      "translation_bh": "",
+      "translation_en": "the two receivers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْقِيَا",
+      "translation_bh": "",
+      "translation_en": "Throw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَلْقِيَاهُ",
+      "translation_bh": "",
+      "translation_en": "so throw him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱلْتَقَى",
+      "translation_bh": "",
+      "translation_en": "so met"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَءُلْقِىَ",
+      "translation_bh": "",
+      "translation_en": "Has been sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْتَقِيَانِ",
+      "translation_bh": "",
+      "translation_en": "meeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُلْقُونَ",
+      "translation_bh": "",
+      "translation_en": "offering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاقِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُلَـٰقِيكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(will) meet you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُلَـٰقٍ",
+      "translation_bh": "",
+      "translation_en": "(will) meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَقَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَقَّىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and will cause them to meet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْقِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْمُلْقِيَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those who bring down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَلْقَتْ",
+      "translation_bh": "",
+      "translation_en": "And has cast out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلاقِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَمُلَـٰقِيهِ",
+      "translation_bh": "",
+      "translation_en": "and you (will) meet Him"
+    }
+  ]
+}

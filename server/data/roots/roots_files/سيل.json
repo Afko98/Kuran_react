@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 903,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سالَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسَلْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سيل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سالَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَالَتْ",
+      "translation_bh": "",
+      "translation_en": "and flows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيْلُ",
+      "translation_bh": "",
+      "translation_en": "the torrent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسَلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَسَلْنَا",
+      "translation_bh": "",
+      "translation_en": "and We caused to flow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيْلَ",
+      "translation_bh": "",
+      "translation_en": "(the) flood"
+    }
+  ]
+}

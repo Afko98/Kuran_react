@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 788,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شُحّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شحح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شُحّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشُّحَّ ۚ",
+      "translation_bh": "",
+      "translation_en": "(by) greed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُحّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَشِحَّةً",
+      "translation_bh": "",
+      "translation_en": "Miserly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُحّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شُحَّ",
+      "translation_bh": "",
+      "translation_en": "(from) stinginess"
+    }
+  ]
+}

@@ -1,0 +1,858 @@
+{
+  "description_bh": "",
+  "id": 8,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أيي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 134,
+      "part_of_speech": "N",
+      "text": "يَـٰٓأَيُّهَا",
+      "translation_bh": "",
+      "translation_en": "O"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِنَآ",
+      "translation_bh": "",
+      "translation_en": "Our Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِى",
+      "translation_bh": "",
+      "translation_en": "My Signs (for)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 34,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "in (the) Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 17,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "His Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتٍۭ",
+      "translation_bh": "",
+      "translation_en": "Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَايَةٍ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَةٌۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 25,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔايَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِكَ",
+      "translation_bh": "",
+      "translation_en": "Your Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ءَايَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِنَا",
+      "translation_bh": "",
+      "translation_en": "Our verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 28,
+      "part_of_speech": "N",
+      "text": "لَـَٔايَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "surely (are) Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَةٍۭ",
+      "translation_bh": "",
+      "translation_en": "(the) Sign(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 21,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "(the) Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَايَةَ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "لَـَٔايَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "(are the) Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ءَايَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 38,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِنَا",
+      "translation_bh": "",
+      "translation_en": "Our Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ءَايَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَايَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَايَتُكَ",
+      "translation_bh": "",
+      "translation_en": "your sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "أَيُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "(as to) which of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "with a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتٌۢ",
+      "translation_bh": "",
+      "translation_en": "(are) signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔايَـٰتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "أَيُّهَا",
+      "translation_bh": "",
+      "translation_en": "O"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "۞ يَـٰٓأَيُّهَا",
+      "translation_bh": "",
+      "translation_en": "O you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَايَةًۭ",
+      "translation_bh": "",
+      "translation_en": "and a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَىُّ",
+      "translation_bh": "",
+      "translation_en": "What"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِهِۦٓ ۗ",
+      "translation_bh": "",
+      "translation_en": "His Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَةٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "a Sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَأَىُّ",
+      "translation_bh": "",
+      "translation_en": "So which"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔايَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "the signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "in His Verses "
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِى",
+      "translation_bh": "",
+      "translation_en": "My Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِى ۙ",
+      "translation_bh": "",
+      "translation_en": "My Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "His Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِنَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "Our Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "Our Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "(as) signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِىَ",
+      "translation_bh": "",
+      "translation_en": "My Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "[in] Our Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 35,
+      "part_of_speech": "N",
+      "text": "فَبِأَىِّ",
+      "translation_bh": "",
+      "translation_en": "So in what"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتُهُۥ",
+      "translation_bh": "",
+      "translation_en": "His Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتُنَا",
+      "translation_bh": "",
+      "translation_en": "Our Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَءَايَـٰتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and His Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَيُّكُمْ",
+      "translation_bh": "",
+      "translation_en": "Which of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَاتُنَا",
+      "translation_bh": "",
+      "translation_en": "Our Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَاتِنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "Our Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَايَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَيَّتُهَا",
+      "translation_bh": "",
+      "translation_en": "O you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَةٍ",
+      "translation_bh": "",
+      "translation_en": "with a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَةٍۢ ۙ",
+      "translation_bh": "",
+      "translation_en": "(of) a Verse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِنَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "Our Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَتَيْنِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) two signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْـَٔايَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَيًّۭا",
+      "translation_bh": "",
+      "translation_en": "By whatever (name)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَيُّهَآ",
+      "translation_bh": "",
+      "translation_en": "which is"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَايَةً",
+      "translation_bh": "",
+      "translation_en": "(as) a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَيُّنَآ",
+      "translation_bh": "",
+      "translation_en": "which of us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِهَا",
+      "translation_bh": "",
+      "translation_en": "its Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "His Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِنَا ۗ",
+      "translation_bh": "",
+      "translation_en": "Our Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔايَـٰتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَيُّهَ",
+      "translation_bh": "",
+      "translation_en": "O believers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔايَـٰتِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "لَـَٔايَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "surely (is) a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔايَـٰتِنَآ ۖ",
+      "translation_bh": "",
+      "translation_en": "with Our Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَىَّ",
+      "translation_bh": "",
+      "translation_en": "(to) what"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتٍ",
+      "translation_bh": "",
+      "translation_en": "signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَيَّمَا",
+      "translation_bh": "",
+      "translation_en": "Whichever"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "Our Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَةًۢ",
+      "translation_bh": "",
+      "translation_en": "a sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "His Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "His Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِأَىِّ",
+      "translation_bh": "",
+      "translation_en": "in what"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَـَٔايَـٰتٍ ۖ",
+      "translation_bh": "",
+      "translation_en": "surely, are Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a sign:"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَءَايَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "And a Sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَأَىَّ",
+      "translation_bh": "",
+      "translation_en": "Then which"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتِهِ",
+      "translation_bh": "",
+      "translation_en": "His Signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَايَـٰتُهُۥٓ ۖ",
+      "translation_bh": "",
+      "translation_en": "its verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰٓأَيُّهَ",
+      "translation_bh": "",
+      "translation_en": "O"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَييِّكُمُ",
+      "translation_bh": "",
+      "translation_en": "Which of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَيُّهُم",
+      "translation_bh": "",
+      "translation_en": "which of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِـَٔايَـٰتِنَا",
+      "translation_bh": "",
+      "translation_en": "to Our Verses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأَىِّ",
+      "translation_bh": "",
+      "translation_en": "For what"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔايَةَ",
+      "translation_bh": "",
+      "translation_en": "the sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَىِّ",
+      "translation_bh": "",
+      "translation_en": "what"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰٓأَيَّتُهَا",
+      "translation_bh": "",
+      "translation_en": "O"
+    }
+  ]
+}

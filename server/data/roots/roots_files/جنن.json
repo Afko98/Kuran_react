@@ -1,0 +1,573 @@
+{
+  "description_bh": "",
+  "id": 46,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجِنَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُنَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جنن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 37,
+      "part_of_speech": "N",
+      "text": "جَنَّـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "(will be) Gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 16,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّةَ",
+      "translation_bh": "",
+      "translation_en": "(in) Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّةِ",
+      "translation_bh": "",
+      "translation_en": "Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّةٍۭ",
+      "translation_bh": "",
+      "translation_en": "a garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "جَنَّةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "جَنَّـٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) Gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجَنَّةٍ",
+      "translation_bh": "",
+      "translation_en": "and a Garden "
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجَنَّـٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "and Gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "جَنَّـٰتِ",
+      "translation_bh": "",
+      "translation_en": "(to) Gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "جَنَّ",
+      "translation_bh": "",
+      "translation_en": "covered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَجَنَّـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "And gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْجِنَّ",
+      "translation_bh": "",
+      "translation_en": "jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْجِنِّ",
+      "translation_bh": "",
+      "translation_en": "and the jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنّ",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ٱلْجِنِّ",
+      "translation_bh": "",
+      "translation_en": "(of) [the] jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّةُ",
+      "translation_bh": "",
+      "translation_en": "(is) Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جِنَّةٍ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) any madness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّةَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنَّة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْجِنَّةِ",
+      "translation_bh": "",
+      "translation_en": "the Jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "جَنَّـٰتُ",
+      "translation_bh": "",
+      "translation_en": "Gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لَمَجْنُونٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) surely mad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْجَآنَّ",
+      "translation_bh": "",
+      "translation_en": "And the jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْجِنُّ",
+      "translation_bh": "",
+      "translation_en": "and the jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جَنَّتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "two gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(of) the two gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّتَكَ",
+      "translation_bh": "",
+      "translation_en": "your garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّتِكَ",
+      "translation_bh": "",
+      "translation_en": "your garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جِنَّةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) madness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جِنَّةٌۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) madness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جَنَّةُ",
+      "translation_bh": "",
+      "translation_en": "Garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّةِ",
+      "translation_bh": "",
+      "translation_en": "(of) Garden(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "جَآنٌّۭ",
+      "translation_bh": "",
+      "translation_en": "(were) a snake"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جِنَّةٌۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) madness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجِنُّ",
+      "translation_bh": "",
+      "translation_en": "(to) the jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "جَنَّتَانِ",
+      "translation_bh": "",
+      "translation_en": "Two gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِجَنَّتَيْهِمْ",
+      "translation_bh": "",
+      "translation_en": "their two gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجِنَّ ۖ",
+      "translation_bh": "",
+      "translation_en": "the jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّةَ ۖ",
+      "translation_bh": "",
+      "translation_en": "Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّجْنُونٍۭ",
+      "translation_bh": "",
+      "translation_en": "mad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجِنَّةُ",
+      "translation_bh": "",
+      "translation_en": "the jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْجَنَّةِ",
+      "translation_bh": "",
+      "translation_en": "of Paradise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَنَّاتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the Gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّجْنُونٌ",
+      "translation_bh": "",
+      "translation_en": "a mad man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَجْنُونٌۭ",
+      "translation_bh": "",
+      "translation_en": "a madman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَجْنُونٌ",
+      "translation_bh": "",
+      "translation_en": "a madman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَجْنُونٍ",
+      "translation_bh": "",
+      "translation_en": "a madman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجِنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَجِنَّةٌۭ",
+      "translation_bh": "",
+      "translation_en": "fetuses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَآنَّ",
+      "translation_bh": "",
+      "translation_en": "the jinn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجَنَّتُ",
+      "translation_bh": "",
+      "translation_en": "and a Garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جُنَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "(as) a cover"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْنُون",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِمَجْنُونٍۢ",
+      "translation_bh": "",
+      "translation_en": "a madman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جَنَّةٍ",
+      "translation_bh": "",
+      "translation_en": "a Garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّةَ",
+      "translation_bh": "",
+      "translation_en": "a Garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "(with) a Garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجَنَّـٰتٍ",
+      "translation_bh": "",
+      "translation_en": "And gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنَّتِى",
+      "translation_bh": "",
+      "translation_en": "My Paradise"
+    }
+  ]
+}

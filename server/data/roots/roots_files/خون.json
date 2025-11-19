@@ -1,0 +1,176 @@
+{
+  "description_bh": "",
+  "id": 448,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَخْتانُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوّان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خانُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيانَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خون",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَخْتانُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخْتَانُونَ",
+      "translation_bh": "",
+      "translation_en": "deceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْخَآئِنِينَ",
+      "translation_bh": "",
+      "translation_en": "for the deceitful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَخْتانُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْتَانُونَ",
+      "translation_bh": "",
+      "translation_en": "deceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوّان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَوَّانًا",
+      "translation_bh": "",
+      "translation_en": "treacherous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَآئِنَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "treachery"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خانُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخُونُوا۟",
+      "translation_bh": "",
+      "translation_en": "betray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خانُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَخُونُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "or betray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيانَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِيَانَةًۭ",
+      "translation_bh": "",
+      "translation_en": "betrayal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَآئِنِينَ",
+      "translation_bh": "",
+      "translation_en": "the traitors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيانَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِيَانَتَكَ",
+      "translation_bh": "",
+      "translation_en": "(to) betray you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خانُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَانُوا۟",
+      "translation_bh": "",
+      "translation_en": "they have betrayed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خانُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخُنْهُ",
+      "translation_bh": "",
+      "translation_en": "[I] betray him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوّان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَوَّانٍۢ",
+      "translation_bh": "",
+      "translation_en": "treacherous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَآئِنَةَ",
+      "translation_bh": "",
+      "translation_en": "(the) stealthy glance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خانُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَخَانَتَاهُمَا",
+      "translation_bh": "",
+      "translation_en": "but they both betrayed them"
+    }
+  ]
+}

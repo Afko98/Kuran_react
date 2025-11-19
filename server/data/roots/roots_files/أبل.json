@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 960,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "إِبِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبابِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أبل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "إِبِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْإِبِلِ",
+      "translation_bh": "",
+      "translation_en": "the camels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبابِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَابِيلَ",
+      "translation_bh": "",
+      "translation_en": "(in) flocks"
+    }
+  ]
+}

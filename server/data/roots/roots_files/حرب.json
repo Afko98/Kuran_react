@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 555,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَرْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِحْراب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حارَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحارِيب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حرب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَرْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِحَرْبٍۢ",
+      "translation_bh": "",
+      "translation_en": "of a war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِحْراب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمِحْرَابَ",
+      "translation_bh": "",
+      "translation_en": "[the] prayer chamber"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِحْراب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمِحْرَابِ",
+      "translation_bh": "",
+      "translation_en": "the prayer chamber"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حارَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَارِبُونَ",
+      "translation_bh": "",
+      "translation_en": "wage war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْحَرْبِ",
+      "translation_bh": "",
+      "translation_en": "of [the] war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرْبِ",
+      "translation_bh": "",
+      "translation_en": "the war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حارَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَارَبَ",
+      "translation_bh": "",
+      "translation_en": "warred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحارِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّحَـٰرِيبَ",
+      "translation_bh": "",
+      "translation_en": "elevated chambers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرْبُ",
+      "translation_bh": "",
+      "translation_en": "the war"
+    }
+  ]
+}

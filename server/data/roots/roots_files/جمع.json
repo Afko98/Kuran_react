@@ -1,0 +1,534 @@
+{
+  "description_bh": "",
+  "id": 83,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جامِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْمُوع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَمَعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْمَع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْتَمِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُمُعَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جمع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 29,
+      "part_of_speech": "N",
+      "text": "جَمِيعًۭا",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "جَمِيعًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "all (of you)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "جَمِيعًا ۚ",
+      "translation_bh": "",
+      "translation_en": "together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَع",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "أَجْمَعِينَ",
+      "translation_bh": "",
+      "translation_en": "all together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جامِع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جَامِعُ",
+      "translation_bh": "",
+      "translation_en": "will gather"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "جَمَعْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We will gather them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْجَمْعَانِ",
+      "translation_bh": "",
+      "translation_en": "the two hosts "
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَجْمَعُونَ",
+      "translation_bh": "",
+      "translation_en": "they accumulate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "جَمَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "gathered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَجْمَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "you gather together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَيَجْمَعَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "surely He will gather you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "جَمِيعًا",
+      "translation_bh": "",
+      "translation_en": "all together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جَمِيعًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمِيعًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَجْمَعُ",
+      "translation_bh": "",
+      "translation_en": "will (be) gathered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَجَمَعَهُمْ",
+      "translation_bh": "",
+      "translation_en": "surely He (would) have gathered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمْعُكُمْ",
+      "translation_bh": "",
+      "translation_en": "your gathering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَمْعَانِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the two forces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَجْمِعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "So you all resolve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْمُوع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّجْمُوعٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will) be gathered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَجْمَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and agreed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَجْمَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they put together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمِيعًا ۗ",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَع",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَجْمَعُونَ",
+      "translation_bh": "",
+      "translation_en": "together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَمَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱجْتَمَعَتِ",
+      "translation_bh": "",
+      "translation_en": "gathered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْمَع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَجْمَعَ",
+      "translation_bh": "",
+      "translation_en": "the junction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَجَمَعْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "then We (will) gather them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمْعًۭا",
+      "translation_bh": "",
+      "translation_en": "all together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَجَمَعَ",
+      "translation_bh": "",
+      "translation_en": "and put together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْمَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَجْمِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "So put together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمِيعًۢا ۖ",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَمَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱجْتَمَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "they gathered together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جامِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَامِعٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) collective action"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَجُمِعَ",
+      "translation_bh": "",
+      "translation_en": "So were assembled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْتَمِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّجْتَمِعُونَ",
+      "translation_bh": "",
+      "translation_en": "assemble"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَجَمِيعٌ",
+      "translation_bh": "",
+      "translation_en": "(are) surely a multitude"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمْعًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) accumulation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيع",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "جَمِيعٌۭ",
+      "translation_bh": "",
+      "translation_en": "together"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَمْعِ",
+      "translation_bh": "",
+      "translation_en": "(of) Assembly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمْعِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their gathering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَجْمَعُكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will gather you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَمْعُ",
+      "translation_bh": "",
+      "translation_en": "(their) assembly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْمُوع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمَجْمُوعُونَ",
+      "translation_bh": "",
+      "translation_en": "Surely, will be gathered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُمُعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجُمُعَةِ",
+      "translation_bh": "",
+      "translation_en": "(of) Friday"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَمْعِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the Assembly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَجَمَعَ",
+      "translation_bh": "",
+      "translation_en": "And collected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّجْمَعَ",
+      "translation_bh": "",
+      "translation_en": "We will assemble"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَجُمِعَ",
+      "translation_bh": "",
+      "translation_en": "And are joined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمْعَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(is) its collection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "جَمَعْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "We have gathered you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمْعًا",
+      "translation_bh": "",
+      "translation_en": "collectively"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "جَمَعَ",
+      "translation_bh": "",
+      "translation_en": "collects"
+    }
+  ]
+}

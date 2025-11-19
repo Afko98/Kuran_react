@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 868,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وُقِفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْقُوف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وقف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وُقِفُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وُقِفُوا۟",
+      "translation_bh": "",
+      "translation_en": "they are made to stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْقُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْقُوفُونَ",
+      "translation_bh": "",
+      "translation_en": "will be made to stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وُقِفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقِفُوهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "And stop them"
+    }
+  ]
+}

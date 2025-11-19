@@ -1,0 +1,426 @@
+{
+  "description_bh": "",
+  "id": 197,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُضاعِفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعِيف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضاعَفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعُفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعاف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَضْعَف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَضْعَفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعْف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضْعَف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضْعِف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ضعف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُضاعِفُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَيُضَـٰعِفَهُۥ",
+      "translation_bh": "",
+      "translation_en": "so (that) He multiplies it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَضْعَافًۭا",
+      "translation_bh": "",
+      "translation_en": "manifolds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضاعِفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضَـٰعِفُ",
+      "translation_bh": "",
+      "translation_en": "gives manifold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضِعْفَيْنِ",
+      "translation_bh": "",
+      "translation_en": "double"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضُعَفَآءُ",
+      "translation_bh": "",
+      "translation_en": "(are) weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعِيف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضَعِيفًا",
+      "translation_bh": "",
+      "translation_en": "weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَضْعَـٰفًۭا",
+      "translation_bh": "",
+      "translation_en": "doubled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضاعَفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّضَـٰعَفَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "multiplied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعُفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ضَعُفُوا۟",
+      "translation_bh": "",
+      "translation_en": "they weakened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضِعَـٰفًا",
+      "translation_bh": "",
+      "translation_en": "weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَعِيفًۭا",
+      "translation_bh": "",
+      "translation_en": "weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضاعِفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضَـٰعِفْهَا",
+      "translation_bh": "",
+      "translation_en": "He doubles it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَضْعَف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُسْتَضْعَفِينَ",
+      "translation_bh": "",
+      "translation_en": "and (for) those who are weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَضْعَف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَضْعَفِينَ",
+      "translation_bh": "",
+      "translation_en": "oppressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَضْعَف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَضْعَفِينَ",
+      "translation_bh": "",
+      "translation_en": "the oppressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضِعْفًۭا",
+      "translation_bh": "",
+      "translation_en": "double"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضِعْفٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a double"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَضْعَفُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱسْتُضْعِفُوا۟",
+      "translation_bh": "",
+      "translation_en": "were oppressed "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَضْعَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسْتَضْعَفُونَ",
+      "translation_bh": "",
+      "translation_en": "considered weak "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَضْعَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَضْعَفُونِى",
+      "translation_bh": "",
+      "translation_en": "considered me weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَضْعَف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْتَضْعَفُونَ",
+      "translation_bh": "",
+      "translation_en": "(and) deemed weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَعْفًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(there) is weakness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضُّعَفَآءِ",
+      "translation_bh": "",
+      "translation_en": "the weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضاعِفُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُضَـٰعَفُ",
+      "translation_bh": "",
+      "translation_en": "And will be doubled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَعِيفًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعِيف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلضُّعَفَـٰٓؤُا۟",
+      "translation_bh": "",
+      "translation_en": "the weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضِعْفَ",
+      "translation_bh": "",
+      "translation_en": "double"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَضِعْفَ",
+      "translation_bh": "",
+      "translation_en": "and double"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضْعَف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَضْعَفُ",
+      "translation_bh": "",
+      "translation_en": "and weaker"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعُفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ضَعُفَ",
+      "translation_bh": "",
+      "translation_en": "So weak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضاعِفُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُضَـٰعَفْ",
+      "translation_bh": "",
+      "translation_en": "Will be doubled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَضْعَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَضْعِفُ",
+      "translation_bh": "",
+      "translation_en": "oppressing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضْعِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُضْعِفُونَ",
+      "translation_bh": "",
+      "translation_en": "(will) get manifold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعْف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضَعْفٍۢ",
+      "translation_bh": "",
+      "translation_en": "weakness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَعْفًۭا",
+      "translation_bh": "",
+      "translation_en": "weakness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضِعْفَيْنِ ۚ",
+      "translation_bh": "",
+      "translation_en": "two fold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَضْعَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتُضْعِفُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "who were oppressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِعْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضِّعْفِ",
+      "translation_bh": "",
+      "translation_en": "two-fold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضاعِفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضَـٰعِفْهُ",
+      "translation_bh": "",
+      "translation_en": "He will multiply it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضْعَف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَضْعَفُ",
+      "translation_bh": "",
+      "translation_en": "(is) weaker"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 585,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حاقَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حيق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حاقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَحَاقَ",
+      "translation_bh": "",
+      "translation_en": "but surrounded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاقَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "وَحَاقَ",
+      "translation_bh": "",
+      "translation_en": "and will surround"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحِيقُ",
+      "translation_bh": "",
+      "translation_en": "encompasses"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 886,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَلْمِزُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُمَزَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لمز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَلْمِزُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْمِزُكَ",
+      "translation_bh": "",
+      "translation_en": "criticizes you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَلْمِزُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْمِزُونَ",
+      "translation_bh": "",
+      "translation_en": "criticize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَلْمِزُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَلْمِزُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "insult"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُمَزَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لُّمَزَةٍ",
+      "translation_bh": "",
+      "translation_en": "backbiter"
+    }
+  ]
+}

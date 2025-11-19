@@ -1,0 +1,419 @@
+{
+  "description_bh": "",
+  "id": 175,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عائِد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عود",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "عَادَ",
+      "translation_bh": "",
+      "translation_en": "repeated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "a festival"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَادُوا۟",
+      "translation_bh": "",
+      "translation_en": "certainly they (would) return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعُودُونَ",
+      "translation_bh": "",
+      "translation_en": "(so) will you return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "عَادٍ",
+      "translation_bh": "",
+      "translation_en": "Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَادٍۢ",
+      "translation_bh": "",
+      "translation_en": "Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَتَعُودُنَّ",
+      "translation_bh": "",
+      "translation_en": "you must return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عُدْنَا",
+      "translation_bh": "",
+      "translation_en": "we returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّعُودَ",
+      "translation_bh": "",
+      "translation_en": "we return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعُودُوا۟",
+      "translation_bh": "",
+      "translation_en": "you return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَعُدْ",
+      "translation_bh": "",
+      "translation_en": "We will return (too)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعُودُوا۟",
+      "translation_bh": "",
+      "translation_en": "they return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَعَادٍۢ",
+      "translation_bh": "",
+      "translation_en": "and Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُعِيدُهُۥ",
+      "translation_bh": "",
+      "translation_en": "He repeats it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "repeats it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدُهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "repeats it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَادٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(was) Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَادًۭا",
+      "translation_bh": "",
+      "translation_en": "Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّعَادٍۢ",
+      "translation_bh": "",
+      "translation_en": "with Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُدتُّمْ",
+      "translation_bh": "",
+      "translation_en": "you return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُدْنَا ۘ",
+      "translation_bh": "",
+      "translation_en": "We will return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدُنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "will restore us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدَكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will send you back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "return you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنُعِيدُهَا",
+      "translation_bh": "",
+      "translation_en": "We will return it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُعِيدُكُمْ",
+      "translation_bh": "",
+      "translation_en": "We will return you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّعِيدُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "We will repeat it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُعِيدُوا۟",
+      "translation_bh": "",
+      "translation_en": "they will be returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَعَادٌۭ",
+      "translation_bh": "",
+      "translation_en": "and Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَعَادًۭا",
+      "translation_bh": "",
+      "translation_en": "And Ad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَادٌ",
+      "translation_bh": "",
+      "translation_en": "(the people) of Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعَادٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "a place of return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدُهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "repeats it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدُ",
+      "translation_bh": "",
+      "translation_en": "repeat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَادٌۭ",
+      "translation_bh": "",
+      "translation_en": "Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عائِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَآئِدُونَ",
+      "translation_bh": "",
+      "translation_en": "(will) return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَادًا",
+      "translation_bh": "",
+      "translation_en": "Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَعُودُونَ",
+      "translation_bh": "",
+      "translation_en": "go back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَادٌۢ",
+      "translation_bh": "",
+      "translation_en": "and Aad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعِيدُكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will return you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُعِيدُ",
+      "translation_bh": "",
+      "translation_en": "and repeats"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعَادٍ",
+      "translation_bh": "",
+      "translation_en": "with Aad"
+    }
+  ]
+}

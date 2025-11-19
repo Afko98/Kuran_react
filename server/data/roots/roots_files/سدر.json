@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 926,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سِدْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِدْرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سدر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سِدْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سِدْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "lote trees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِدْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِدْرَةِ",
+      "translation_bh": "",
+      "translation_en": "(the) Lote Tree"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِدْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسِّدْرَةَ",
+      "translation_bh": "",
+      "translation_en": "the Lote Tree"
+    }
+  ]
+}

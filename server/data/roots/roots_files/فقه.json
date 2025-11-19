@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 406,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَفْقَهُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَفَقَّهُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فقه",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَفْقَهُ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "يَفْقَهُونَ",
+      "translation_bh": "",
+      "translation_en": "(to) understand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْقَهُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَفْقَهُوهُ",
+      "translation_bh": "",
+      "translation_en": "they understand it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَفَقَّهُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَتَفَقَّهُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they may obtain understanding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْقَهُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَفْقَهُ",
+      "translation_bh": "",
+      "translation_en": "we understand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْقَهُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفْقَهُونَ",
+      "translation_bh": "",
+      "translation_en": "you understand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْقَهُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْقَهُوا۟",
+      "translation_bh": "",
+      "translation_en": "That they may understand"
+    }
+  ]
+}

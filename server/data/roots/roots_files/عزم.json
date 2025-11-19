@@ -1,0 +1,84 @@
+{
+  "description_bh": "",
+  "id": 604,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَزَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزْم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عزم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَزَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَزَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "they resolve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْزِمُوا۟",
+      "translation_bh": "",
+      "translation_en": "resolve (on)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَزَمْتَ",
+      "translation_bh": "",
+      "translation_en": "you have decided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَزْمِ",
+      "translation_bh": "",
+      "translation_en": "the matters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَزْمًۭا",
+      "translation_bh": "",
+      "translation_en": "determination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَزْمِ",
+      "translation_bh": "",
+      "translation_en": "those of determination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَزَمَ",
+      "translation_bh": "",
+      "translation_en": "(is) determined"
+    }
+  ]
+}

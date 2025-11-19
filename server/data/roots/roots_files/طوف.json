@@ -1,0 +1,275 @@
+{
+  "description_bh": "",
+  "id": 235,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "طائِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطَّوَّفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُوفان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوّاف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طافَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طوف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "طائِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِلطَّآئِفِينَ",
+      "translation_bh": "",
+      "translation_en": "for those who circumambulate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطَّوَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطَّوَّفَ",
+      "translation_bh": "",
+      "translation_en": "he walks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "طَّآئِفَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَّآئِفَتَانِ",
+      "translation_bh": "",
+      "translation_en": "two parties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طَآئِفَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَطَآئِفَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "while a group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "طَآئِفَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَآئِفَةٌ",
+      "translation_bh": "",
+      "translation_en": "a group "
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَآئِفَتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "the two groups"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُوفان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطُّوفَانَ",
+      "translation_bh": "",
+      "translation_en": "the flood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَـٰٓئِفٌۭ",
+      "translation_bh": "",
+      "translation_en": "an evil thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّآئِفَتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(of) the two groups "
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طَآئِفَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَآئِفَةًۢ",
+      "translation_bh": "",
+      "translation_en": "a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطَّوَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَطَّوَّفُوا۟",
+      "translation_bh": "",
+      "translation_en": "and circumambulate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوّاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَوَّٰفُونَ",
+      "translation_bh": "",
+      "translation_en": "(as) moving about"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُوفان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطُّوفَانُ",
+      "translation_bh": "",
+      "translation_en": "the flood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طافَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُطَافُ",
+      "translation_bh": "",
+      "translation_en": "Will be circulated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَآئِفَتَانِ",
+      "translation_bh": "",
+      "translation_en": "two parties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طافَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "۞ وَيَطُوفُ",
+      "translation_bh": "",
+      "translation_en": "And will circulate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطُوفُونَ",
+      "translation_bh": "",
+      "translation_en": "They will go around"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطُوفُ",
+      "translation_bh": "",
+      "translation_en": "Will circulate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَّآئِفَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَافَ",
+      "translation_bh": "",
+      "translation_en": "So there came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَآئِفٌۭ",
+      "translation_bh": "",
+      "translation_en": "a visitation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُطَافُ",
+      "translation_bh": "",
+      "translation_en": "And will be circulated"
+    }
+  ]
+}

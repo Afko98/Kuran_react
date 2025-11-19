@@ -1,0 +1,794 @@
+{
+  "description_bh": "",
+  "id": 88,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَلِيفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِلاف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْلَفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخَلَّف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوالِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُلِّفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَلَّفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُخالِفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْلِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِلْفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَخْلَف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خلف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَلِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلِيفَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a vicegerent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفَهَا",
+      "translation_bh": "",
+      "translation_en": "after them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُخْلِفَ",
+      "translation_bh": "",
+      "translation_en": "will break"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "يَخْتَلِفُونَ",
+      "translation_bh": "",
+      "translation_en": "differing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱخْتِلَـٰفِ",
+      "translation_bh": "",
+      "translation_en": "and alternation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "ٱخْتَلَفُوا۟",
+      "translation_bh": "",
+      "translation_en": "who differed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱخْتَلَفَ",
+      "translation_bh": "",
+      "translation_en": "differ[ed]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) behind them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُخْلِفُ",
+      "translation_bh": "",
+      "translation_en": "break"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَخْتَلِفُونَ",
+      "translation_bh": "",
+      "translation_en": "differing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱخْتَلَفُوا۟",
+      "translation_bh": "",
+      "translation_en": "and differed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "خَلْفِهِمْ",
+      "translation_bh": "",
+      "translation_en": "(but are) left behind "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُخْلِفُ",
+      "translation_bh": "",
+      "translation_en": "break"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱخْتِلَـٰفًۭا",
+      "translation_bh": "",
+      "translation_en": "contradiction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِلاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِلَـٰفٍ",
+      "translation_bh": "",
+      "translation_en": "opposite sides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَخْلِفْ",
+      "translation_bh": "",
+      "translation_en": "and grant succession"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُخْتَلِفًا",
+      "translation_bh": "",
+      "translation_en": "diverse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلِيفَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَلَـٰٓئِفَ",
+      "translation_bh": "",
+      "translation_en": "successors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلِيفَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "خُلَفَآءَ",
+      "translation_bh": "",
+      "translation_en": "successors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِلاف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "خِلَـٰفٍۢ",
+      "translation_bh": "",
+      "translation_en": "opposite (sides)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَخْلِفَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and make you successors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱخْلُفْنِى",
+      "translation_bh": "",
+      "translation_en": "Take my place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَفْتُمُونِى",
+      "translation_bh": "",
+      "translation_en": "you have done in my place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَخَلَفَ",
+      "translation_bh": "",
+      "translation_en": "Then succeeded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفٌۭ",
+      "translation_bh": "",
+      "translation_en": "successors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَٱخْتَلَفْتُمْ",
+      "translation_bh": "",
+      "translation_en": "certainly you would have failed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَلْفَهُمْ",
+      "translation_bh": "",
+      "translation_en": "(are) behind them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْلَفُوا۟",
+      "translation_bh": "",
+      "translation_en": "they broke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخَلَّف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُخَلَّفُونَ",
+      "translation_bh": "",
+      "translation_en": "those who remained behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِلاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِلَـٰفَ",
+      "translation_bh": "",
+      "translation_en": "behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَـٰلِفِينَ",
+      "translation_bh": "",
+      "translation_en": "those who stay behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوالِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَوَالِفِ",
+      "translation_bh": "",
+      "translation_en": "those who stay behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُلِّفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خُلِّفُوا۟",
+      "translation_bh": "",
+      "translation_en": "were left behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَلَّفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَخَلَّفُوا۟",
+      "translation_bh": "",
+      "translation_en": "they remain behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱخْتِلَـٰفِ",
+      "translation_bh": "",
+      "translation_en": "(the) alternation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱخْتَلَفُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "then they differed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفَكَ",
+      "translation_bh": "",
+      "translation_en": "succeed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَخْلِفُ",
+      "translation_bh": "",
+      "translation_en": "And my Lord will give succession"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُخالِفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخَالِفَكُمْ",
+      "translation_bh": "",
+      "translation_en": "I differ from you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱخْتُلِفَ",
+      "translation_bh": "",
+      "translation_en": "but differences arose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُخْتَلِفِينَ",
+      "translation_bh": "",
+      "translation_en": "to differ"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَلْفِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and behind him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخْلَفْتُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "but I betrayed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْلِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُخْلِفَ",
+      "translation_bh": "",
+      "translation_en": "will fail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّخْتَلِفٌ",
+      "translation_bh": "",
+      "translation_en": "(of) varying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِلاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِلَـٰفَكَ",
+      "translation_bh": "",
+      "translation_en": "after you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱخْتَلَفَ",
+      "translation_bh": "",
+      "translation_en": "But differed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ فَخَلَفَ",
+      "translation_bh": "",
+      "translation_en": "Then succeeded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفٌ",
+      "translation_bh": "",
+      "translation_en": "successors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفَنَا",
+      "translation_bh": "",
+      "translation_en": "(is) behind us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُخْلِفُهُۥ",
+      "translation_bh": "",
+      "translation_en": "we will fail it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخْلَفْتُم",
+      "translation_bh": "",
+      "translation_en": "so you broke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْلَفْنَا",
+      "translation_bh": "",
+      "translation_en": "we broke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُخْلَفَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "you will fail to (keep) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفَهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) after them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱخْتِلَـٰفُ",
+      "translation_bh": "",
+      "translation_en": "(is the) alternation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَسْتَخْلِفَنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "surely He will grant them succession"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَخْلَفَ",
+      "translation_bh": "",
+      "translation_en": "He gave succession"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُخالِفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخَالِفُونَ",
+      "translation_bh": "",
+      "translation_en": "oppose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِلْفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِلْفَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(in) succession"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱخْتِلَـٰفُ",
+      "translation_bh": "",
+      "translation_en": "and the diversity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفَهُم",
+      "translation_bh": "",
+      "translation_en": "(is) behind them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْلَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْلِفُهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "will compensate it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّخْتَلِفًا",
+      "translation_bh": "",
+      "translation_en": "(of) various"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُخْتَلِفٌ",
+      "translation_bh": "",
+      "translation_en": "(are) various"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفَكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) behind you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلِيفَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a vicegerent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْتَلِفُونَ ۗ",
+      "translation_bh": "",
+      "translation_en": "differ"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "behind it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱخْتَلَفْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you differ"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْلُفُونَ",
+      "translation_bh": "",
+      "translation_en": "succeeding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱخْتَلَفُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they differed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْفِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "and after him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخَلَّف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْمُخَلَّفِينَ",
+      "translation_bh": "",
+      "translation_en": "to those who remained behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّخْتَلِفٍۢ",
+      "translation_bh": "",
+      "translation_en": "differing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَخْلَف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْتَخْلَفِينَ",
+      "translation_bh": "",
+      "translation_en": "trustees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْتَلِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُخْتَلِفُونَ",
+      "translation_bh": "",
+      "translation_en": "(in) disagreement"
+    }
+  ]
+}

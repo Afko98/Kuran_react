@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1133,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَجْذُوذ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُذاذ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جذذ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَجْذُوذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَجْذُوذٍۢ",
+      "translation_bh": "",
+      "translation_en": "interrupted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُذاذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُذَٰذًا",
+      "translation_bh": "",
+      "translation_en": "(into) pieces"
+    }
+  ]
+}

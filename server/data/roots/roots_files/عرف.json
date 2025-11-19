@@ -1,0 +1,443 @@
+{
+  "description_bh": "",
+  "id": 153,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفات",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْراف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُرْف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَرَفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَعارَفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَّفَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عرف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَرَفُوا۟",
+      "translation_bh": "",
+      "translation_en": "they recognized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَعْرِفُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "they recognize it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَعْرِفُونَ",
+      "translation_bh": "",
+      "translation_en": "they recognize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "بِٱلْمَعْرُوفِ",
+      "translation_bh": "",
+      "translation_en": "with suitable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱلْمَعْرُوفِ ۖ",
+      "translation_bh": "",
+      "translation_en": "with due fairness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرَفَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "(Mount) Arafat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِٱلْمَعْرُوفِ ۚ",
+      "translation_bh": "",
+      "translation_en": "in a reasonable manner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِمَعْرُوفٍ",
+      "translation_bh": "",
+      "translation_en": "in a reasonable manner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَعْرُوفٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "in a fair manner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱلْمَعْرُوفِ ۗ",
+      "translation_bh": "",
+      "translation_en": "in a fair manner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّعْرُوفًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "honorable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْرُوفٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "honorably"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْرُوفٌۭ",
+      "translation_bh": "",
+      "translation_en": "kind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْرِفُهُم",
+      "translation_bh": "",
+      "translation_en": "you recognize them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَّعْرُوفًۭا",
+      "translation_bh": "",
+      "translation_en": "(of) kindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْرُوفٍ",
+      "translation_bh": "",
+      "translation_en": "kindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْراف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْرَافِ",
+      "translation_bh": "",
+      "translation_en": "the heights"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْرِفُونَهُم",
+      "translation_bh": "",
+      "translation_en": "whom they recognize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُرْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْعُرْفِ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَعْرُوفِ",
+      "translation_bh": "",
+      "translation_en": "(is) the right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَرَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْتَرَفُوا۟",
+      "translation_bh": "",
+      "translation_en": "(who have) acknowledged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَعارَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَعَارَفُونَ",
+      "translation_bh": "",
+      "translation_en": "they will recognize each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَرَفَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and he recognized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْرِفُونَهَآ",
+      "translation_bh": "",
+      "translation_en": "may recognize it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعْرِفُ",
+      "translation_bh": "",
+      "translation_en": "you will recognize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْرِفُوا۟",
+      "translation_bh": "",
+      "translation_en": "they recognize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْرُوفَةٌ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَعْرِفُونَهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "and you will recognize them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْرُوفًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(with) kindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعْرَفْنَ",
+      "translation_bh": "",
+      "translation_en": "they should be known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَرَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْتَرَفْنَا",
+      "translation_bh": "",
+      "translation_en": "and we confess"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَرَّفَهَا",
+      "translation_bh": "",
+      "translation_en": "He has made it known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْرُوفٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "kind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَعَرَفْتَهُم",
+      "translation_bh": "",
+      "translation_en": "and you would know them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَتَعْرِفَنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "but surely, you will know them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَعارَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَعَارَفُوٓا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "that you may know one another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعْرَفُ",
+      "translation_bh": "",
+      "translation_en": "Will be known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْرُوفٍۢ ۙ",
+      "translation_bh": "",
+      "translation_en": "(the) right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَعْرُوفٍۢ",
+      "translation_bh": "",
+      "translation_en": "with kindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَعْرُوفٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "with kindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَرَّفَ",
+      "translation_bh": "",
+      "translation_en": "he made known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَرَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْتَرَفُوا۟",
+      "translation_bh": "",
+      "translation_en": "Then they (will) confess"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُرْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُرْفًۭا",
+      "translation_bh": "",
+      "translation_en": "one after another"
+    }
+  ]
+}

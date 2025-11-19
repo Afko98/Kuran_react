@@ -1,0 +1,121 @@
+{
+  "description_bh": "",
+  "id": 530,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وادِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْدِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "واد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ودي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَدِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "and blood money"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَدِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "then blood money"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وادِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَادِيًا",
+      "translation_bh": "",
+      "translation_en": "a valley"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْدِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْدِيَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "the valleys"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِوَادٍ",
+      "translation_bh": "",
+      "translation_en": "in a valley"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱلْوَادِ",
+      "translation_bh": "",
+      "translation_en": "(are) in the valley"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَادٍۢ",
+      "translation_bh": "",
+      "translation_en": "valley"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَادِ",
+      "translation_bh": "",
+      "translation_en": "(the) valley"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوَادِ",
+      "translation_bh": "",
+      "translation_en": "(of) the valley "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْدِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْدِيَتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their valleys"
+    }
+  ]
+}

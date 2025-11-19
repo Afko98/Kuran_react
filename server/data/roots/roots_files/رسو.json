@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 480,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَواسِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رسو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْسَىٰهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "its appointed time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُرْسَىٰهَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "and its anchorage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَواسِي",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "رَوَٰسِىَ",
+      "translation_bh": "",
+      "translation_en": "firm mountains"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَواسِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّاسِيَـٰتٍ ۚ",
+      "translation_bh": "",
+      "translation_en": "fixed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْسَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "He made them firm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْسَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "(is) its arrival"
+    }
+  ]
+}

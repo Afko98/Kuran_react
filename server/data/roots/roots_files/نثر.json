@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 1023,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَنثُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَثَرَتْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نثر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَنثُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّنثُورًا",
+      "translation_bh": "",
+      "translation_en": "dispersed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنثُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّنثُورًۭا",
+      "translation_bh": "",
+      "translation_en": "scattered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَثَرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنتَثَرَتْ",
+      "translation_bh": "",
+      "translation_en": "scatter"
+    }
+  ]
+}

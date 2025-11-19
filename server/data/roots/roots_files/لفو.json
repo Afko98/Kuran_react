@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 935,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَلْفَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لفو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَلْفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْفَيْنَا",
+      "translation_bh": "",
+      "translation_en": "we found"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَلْفَيَا",
+      "translation_bh": "",
+      "translation_en": "and they both found"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْفَوْا۟",
+      "translation_bh": "",
+      "translation_en": "found"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 467,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَطَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمْطِرَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُمْطِر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مطر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَطَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّطَرٍ",
+      "translation_bh": "",
+      "translation_en": "rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمْطِرَتْ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَأَمْطَرْنَا",
+      "translation_bh": "",
+      "translation_en": "And We showered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَّطَرًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "a rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمْطِرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَمْطِرْ",
+      "translation_bh": "",
+      "translation_en": "then (send) rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمْطِرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُمْطِرَتْ",
+      "translation_bh": "",
+      "translation_en": "was showered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَطَرَ",
+      "translation_bh": "",
+      "translation_en": "(with) a rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَطَرُ",
+      "translation_bh": "",
+      "translation_en": "(was) the rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُمْطِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّمْطِرُنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "bringing us rain"
+    }
+  ]
+}

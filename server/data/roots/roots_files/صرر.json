@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 712,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صِرّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَرُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صرر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صِرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِرٌّ",
+      "translation_bh": "",
+      "translation_en": "(is) frost"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَرُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِرُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they persist"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَرُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِرُّ",
+      "translation_bh": "",
+      "translation_en": "persists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَرَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a loud voice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَرُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِرُّونَ",
+      "translation_bh": "",
+      "translation_en": "persisting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَرُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَصَرُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and persisted"
+    }
+  ]
+}

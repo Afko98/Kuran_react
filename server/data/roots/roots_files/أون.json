@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 633,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "آن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أون",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "آن",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔـٰنَ",
+      "translation_bh": "",
+      "translation_en": "Now"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْـَٔـٰنَ",
+      "translation_bh": "",
+      "translation_en": "So now"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَآلْـَٔـٰنَ",
+      "translation_bh": "",
+      "translation_en": "Now"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔانَ",
+      "translation_bh": "",
+      "translation_en": "now"
+    }
+  ]
+}

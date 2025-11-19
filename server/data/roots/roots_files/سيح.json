@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 968,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سِيحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِحَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سيح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سِيحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسِيحُوا۟",
+      "translation_bh": "",
+      "translation_en": "So move about"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّـٰٓئِحُونَ",
+      "translation_bh": "",
+      "translation_en": "those who go out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَـٰٓئِحَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "who fast"
+    }
+  ]
+}

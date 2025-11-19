@@ -1,0 +1,779 @@
+{
+  "description_bh": "",
+  "id": 79,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُسَلَّمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِلْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَّمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْلِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُلَّم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَسْلِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سالِم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سلم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُسَلَّمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسَلَّمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "sound"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَسْلَمَ",
+      "translation_bh": "",
+      "translation_en": "submits"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْلِمَيْنِ",
+      "translation_bh": "",
+      "translation_en": "both submissive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْلِمَةًۭ",
+      "translation_bh": "",
+      "translation_en": "submissive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْلِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "Submit (yourself)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَسْلَمْتُ",
+      "translation_bh": "",
+      "translation_en": "I (have) submitted (myself)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "مُّسْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) submissive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "مُسْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) submissive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسِّلْمِ",
+      "translation_bh": "",
+      "translation_en": "Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَلَّمْتُم",
+      "translation_bh": "",
+      "translation_en": "you pay"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِسْلَـٰمُ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَأَسْلَمْتُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "Have you submitted yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَسْلَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "they submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْلِمًۭا",
+      "translation_bh": "",
+      "translation_en": "Muslim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِسْلَـٰمِ",
+      "translation_bh": "",
+      "translation_en": "[the] Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُسَلِّمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَسْلِيمًۭا",
+      "translation_bh": "",
+      "translation_en": "(in full) submission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلسَّلَمَ",
+      "translation_bh": "",
+      "translation_en": "[the] peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَلَّمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّسَلَّمَةٌ",
+      "translation_bh": "",
+      "translation_en": "(is to be) paid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّلَـٰمَ",
+      "translation_bh": "",
+      "translation_en": "(a greeting of) peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِسْلَـٰمَ",
+      "translation_bh": "",
+      "translation_en": "[the] Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلسَّلَـٰمِ",
+      "translation_bh": "",
+      "translation_en": "(of) the peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْلَمَ ۖ",
+      "translation_bh": "",
+      "translation_en": "submits (to Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُلَّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُلَّمًۭا",
+      "translation_bh": "",
+      "translation_en": "a ladder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "سَلَـٰمٌ",
+      "translation_bh": "",
+      "translation_en": "Peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنُسْلِمَ",
+      "translation_bh": "",
+      "translation_en": "that we submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْإِسْلَـٰمِ ۖ",
+      "translation_bh": "",
+      "translation_en": "to Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the ones who surrender (to Him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "مُسْلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "(as) Muslims"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَلَّمَ ۗ",
+      "translation_bh": "",
+      "translation_en": "saved (you)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلسَّلْمِ",
+      "translation_bh": "",
+      "translation_en": "to peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِسْلَـٰمِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their (pretense of) Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَلَـٰمٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "Peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "Muslims"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسَلَـٰمٍۢ",
+      "translation_bh": "",
+      "translation_en": "with peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَلَـٰمًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "Peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَلَـٰمٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "Peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْلِمًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a Muslim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسَلَـٰمٍ",
+      "translation_bh": "",
+      "translation_en": "in peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سَلَـٰمًۭا",
+      "translation_bh": "",
+      "translation_en": "Peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّلَمَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the submission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِلْمُسْلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "for the Muslims"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَسَلَـٰمٌ",
+      "translation_bh": "",
+      "translation_en": "And peace be"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّلَـٰمُ",
+      "translation_bh": "",
+      "translation_en": "And peace (be)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَسَلَـٰمًا",
+      "translation_bh": "",
+      "translation_en": "and safe[ty]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْلِمُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُسَلِّمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and you have greeted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَلِّمُوا۟",
+      "translation_bh": "",
+      "translation_en": "then greet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَلِيمٍۢ",
+      "translation_bh": "",
+      "translation_en": "sound"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَسْلَمْتُ",
+      "translation_bh": "",
+      "translation_en": "and I submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسْلِمْ",
+      "translation_bh": "",
+      "translation_en": "submits"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَسْلِيمًۭا",
+      "translation_bh": "",
+      "translation_en": "and submission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُسْلِمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the Muslim women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَلِّمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and greet him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَسْلِيمًا",
+      "translation_bh": "",
+      "translation_en": "(with) greetings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَلَـٰمٌۭ",
+      "translation_bh": "",
+      "translation_en": "Peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَسْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَسْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(will) surrender"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَلِيمٍ",
+      "translation_bh": "",
+      "translation_en": "sound"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْلَمَا",
+      "translation_bh": "",
+      "translation_en": "both of them had submitted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْإِسْلَـٰمِ",
+      "translation_bh": "",
+      "translation_en": "for Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَلَمًۭا",
+      "translation_bh": "",
+      "translation_en": "(belonging) exclusively"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَسْلِمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُسْلِمَ",
+      "translation_bh": "",
+      "translation_en": "submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّلْمِ",
+      "translation_bh": "",
+      "translation_en": "peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسْلِمُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "they will submit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْلَمْنَا",
+      "translation_bh": "",
+      "translation_en": "We have submitted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْلَمُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "they have accepted Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِسْلَـٰمَكُم ۖ",
+      "translation_bh": "",
+      "translation_en": "your Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسَلَـٰمٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "in peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُلَّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُلَّمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a stairway"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَسَلَـٰمٌۭ",
+      "translation_bh": "",
+      "translation_en": "Then, peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّلَـٰمُ",
+      "translation_bh": "",
+      "translation_en": "the Giver of Peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِسْلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِسْلَـٰمِ ۚ",
+      "translation_bh": "",
+      "translation_en": "Islam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْلِمَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "submissive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَـٰلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) sound"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) Muslims"
+    }
+  ]
+}

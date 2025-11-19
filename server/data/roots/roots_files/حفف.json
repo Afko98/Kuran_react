@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1164,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَفَفْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حافّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حفف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَفَفْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَفَفْنَـٰهُمَا",
+      "translation_bh": "",
+      "translation_en": "and We bordered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حافّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَآفِّينَ",
+      "translation_bh": "",
+      "translation_en": "surrounding"
+    }
+  ]
+}

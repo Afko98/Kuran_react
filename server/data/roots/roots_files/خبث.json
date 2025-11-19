@@ -1,0 +1,134 @@
+{
+  "description_bh": "",
+  "id": 451,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَبِيث",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبُثَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيثَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خبث",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَبِيث",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْخَبِيثَ",
+      "translation_bh": "",
+      "translation_en": "the bad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَبِيثُ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَبِيثِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبُثَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَبُثَ",
+      "translation_bh": "",
+      "translation_en": "is bad "
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيثَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَبَـٰٓئِثَ",
+      "translation_bh": "",
+      "translation_en": "the impure things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيثَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَبِيثَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيثَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَبِيثَةٍ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيثَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَبَـٰٓئِثَ ۗ",
+      "translation_bh": "",
+      "translation_en": "wicked deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيثَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَبِيثَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "Evil women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْخَبِيثِينَ",
+      "translation_bh": "",
+      "translation_en": "(are) for evil men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْخَبِيثُونَ",
+      "translation_bh": "",
+      "translation_en": "and evil men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَبِيثَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْخَبِيثَـٰتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) for evil women"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 687,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دَكّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَكّاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُكَّتِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَكَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دكك",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دَكّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "دَكًّۭا",
+      "translation_bh": "",
+      "translation_en": "crumbled to dust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَكّاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَكَّآءَ ۖ",
+      "translation_bh": "",
+      "translation_en": "level"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُكَّتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَدُكَّتَا",
+      "translation_bh": "",
+      "translation_en": "and crushed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَكَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَكَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "(with) a crushing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُكَّتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دُكَّتِ",
+      "translation_bh": "",
+      "translation_en": "is leveled"
+    }
+  ]
+}

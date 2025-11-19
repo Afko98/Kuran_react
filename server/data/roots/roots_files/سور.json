@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 432,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سُورَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَساوِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسَوَّرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُور",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سُورَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِسُورَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a chapter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُورَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سُورَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a Surah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُورَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سُورَةٌ",
+      "translation_bh": "",
+      "translation_en": "a Surah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُورَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوَرٍۢ",
+      "translation_bh": "",
+      "translation_en": "Surahs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَساوِر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَسَاوِرَ",
+      "translation_bh": "",
+      "translation_en": "bracelets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسَوَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسَوَّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they climbed over the wall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَساوِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْوِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "bracelets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُورَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُورَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a Surah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسُورٍۢ",
+      "translation_bh": "",
+      "translation_en": "a wall"
+    }
+  ]
+}

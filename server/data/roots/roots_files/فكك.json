@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1252,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَكّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنفَكّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فكك",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَكّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَكُّ",
+      "translation_bh": "",
+      "translation_en": "(It is) freeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنفَكّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنفَكِّينَ",
+      "translation_bh": "",
+      "translation_en": "to be abandoned"
+    }
+  ]
+}

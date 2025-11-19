@@ -1,0 +1,189 @@
+{
+  "description_bh": "",
+  "id": 255,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَيْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِيبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرِيب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْتاب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ريب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَيْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَيْبَ ۛ",
+      "translation_bh": "",
+      "translation_en": "doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَيْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَيْبٍۢ",
+      "translation_bh": "",
+      "translation_en": "doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْتَابُوٓا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "you (have) doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَيْب",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "رَيْبَ",
+      "translation_bh": "",
+      "translation_en": "doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱرْتَبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱرْتَابَتْ",
+      "translation_bh": "",
+      "translation_en": "and (are in) doubts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَيْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَيْبِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their doubts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِيبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِيبَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a (cause of) doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرِيب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مُرِيبٍۢ",
+      "translation_bh": "",
+      "translation_en": "suspicious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱرْتَابُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "do they doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّٱرْتَابَ",
+      "translation_bh": "",
+      "translation_en": "surely (would) have doubted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّرِيبٍۭ",
+      "translation_bh": "",
+      "translation_en": "disquieting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّرْتَابٌ",
+      "translation_bh": "",
+      "translation_en": "a doubter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْتَابُوا۟",
+      "translation_bh": "",
+      "translation_en": "doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّرِيبٍ",
+      "translation_bh": "",
+      "translation_en": "doubter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱرْتَبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "and you doubted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْتَابَ",
+      "translation_bh": "",
+      "translation_en": "may doubt"
+    }
+  ]
+}

@@ -1,0 +1,986 @@
+{
+  "description_bh": "",
+  "id": 39,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آمِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمّارَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْتَمِرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أمر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "أَمَرَ",
+      "translation_bh": "",
+      "translation_en": "has ordered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ أَتَأْمُرُونَ",
+      "translation_bh": "",
+      "translation_en": "Do you order"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْمُرُكُمْ",
+      "translation_bh": "",
+      "translation_en": "commands you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُؤْمَرُونَ",
+      "translation_bh": "",
+      "translation_en": "you are commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْمُرُكُم",
+      "translation_bh": "",
+      "translation_en": "orders you (to do) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِهِۦٓ ۗ",
+      "translation_bh": "",
+      "translation_en": "His Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "أَمْرًۭا",
+      "translation_bh": "",
+      "translation_en": "a matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْأُمُورُ",
+      "translation_bh": "",
+      "translation_en": "(all) the matters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَرَكُمُ",
+      "translation_bh": "",
+      "translation_en": "has ordered you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَأْمُرُكُم",
+      "translation_bh": "",
+      "translation_en": "and orders you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَمْرُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and his case"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَأْمُرُونَ",
+      "translation_bh": "",
+      "translation_en": "order"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْمُرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "he will order you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَيَأْمُرُكُم",
+      "translation_bh": "",
+      "translation_en": "Would he order you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَيَأْمُرُونَ",
+      "translation_bh": "",
+      "translation_en": "[and] enjoining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَأْمُرُونَ",
+      "translation_bh": "",
+      "translation_en": "enjoining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرِ",
+      "translation_bh": "",
+      "translation_en": "the decision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَمْرِنَا",
+      "translation_bh": "",
+      "translation_en": "our affairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرَ",
+      "translation_bh": "",
+      "translation_en": "the matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْأُمُورِ",
+      "translation_bh": "",
+      "translation_en": "(of) determination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "أَمْرُ",
+      "translation_bh": "",
+      "translation_en": "(the) command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أُمِرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they were ordered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "a matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَلَـَٔامُرَنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "and surely I will order them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "أَمْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "a decision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) his deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَرْتَنِى",
+      "translation_bh": "",
+      "translation_en": "You commanded me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرُ",
+      "translation_bh": "",
+      "translation_en": "the matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أُمِرْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] am commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُمِرْنَا",
+      "translation_bh": "",
+      "translation_en": "and we have been commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَرْتُكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "I commanded you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَرَنَا",
+      "translation_bh": "",
+      "translation_en": "(has) ordered us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَأْمُرُ",
+      "translation_bh": "",
+      "translation_en": "order"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَمْرُ ۗ",
+      "translation_bh": "",
+      "translation_en": "and the command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "أَمْرِ",
+      "translation_bh": "",
+      "translation_en": "(the) command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَأْمُرْ",
+      "translation_bh": "",
+      "translation_en": "and order"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَمْرَ",
+      "translation_bh": "",
+      "translation_en": "(over the) matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْمُرُهُم",
+      "translation_bh": "",
+      "translation_en": "He commands them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "His Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُمُورَ",
+      "translation_bh": "",
+      "translation_en": "the matters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرَنَا",
+      "translation_bh": "",
+      "translation_en": "our matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأَمْرِ",
+      "translation_bh": "",
+      "translation_en": "for the Command of Allah "
+    },
+    {
+      "description_bh": "",
+      "lemma": "آمِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔامِرُونَ",
+      "translation_bh": "",
+      "translation_en": "those who enjoin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the affairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "أَمْرُنَا",
+      "translation_bh": "",
+      "translation_en": "Our command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the affairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your plan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(in) your plan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَأُمِرْتُ",
+      "translation_bh": "",
+      "translation_en": "and I have been commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْمُرُكَ",
+      "translation_bh": "",
+      "translation_en": "command you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُمِرْتَ",
+      "translation_bh": "",
+      "translation_en": "you are commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "about this affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَمْرًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(to) a matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَمْرِهِۦ",
+      "translation_bh": "",
+      "translation_en": "His affairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَامُرُهُۥ",
+      "translation_bh": "",
+      "translation_en": "I order him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمّارَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَأَمَّارَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "(is) a certain enjoiner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَمَرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "ordered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their plan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "by His command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْمَرُ",
+      "translation_bh": "",
+      "translation_en": "you are ordered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْمَرُونَ ۩",
+      "translation_bh": "",
+      "translation_en": "they are commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَرْنَا",
+      "translation_bh": "",
+      "translation_en": "We order"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِكُم",
+      "translation_bh": "",
+      "translation_en": "your affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "about their affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَمْرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرُهُۥ",
+      "translation_bh": "",
+      "translation_en": "his affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِمْرًۭا",
+      "translation_bh": "",
+      "translation_en": "grave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "أَمْرِى",
+      "translation_bh": "",
+      "translation_en": "my affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِى ۚ",
+      "translation_bh": "",
+      "translation_en": "my (own) accord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِ",
+      "translation_bh": "",
+      "translation_en": "by (the) Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَمْرَهُم",
+      "translation_bh": "",
+      "translation_en": "(in) their affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِهِۦ",
+      "translation_bh": "",
+      "translation_en": "by His command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِنَا",
+      "translation_bh": "",
+      "translation_en": "by Our Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "by his command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَمَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they enjoin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْرِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَرْتَهُمْ",
+      "translation_bh": "",
+      "translation_en": "you ordered them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "his orders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْمُرُنَا",
+      "translation_bh": "",
+      "translation_en": "you order us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَمْرًا",
+      "translation_bh": "",
+      "translation_en": "any matter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَمْرُ",
+      "translation_bh": "",
+      "translation_en": "and the command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْمُرِينَ",
+      "translation_bh": "",
+      "translation_en": "you will command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْتَمِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتَمِرُونَ",
+      "translation_bh": "",
+      "translation_en": "are taking counsel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَمْرِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "by His Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِهِمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "their affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْمُرُونَنَآ",
+      "translation_bh": "",
+      "translation_en": "you were ordering us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "His Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْمَرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "you are commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْمُرُوٓنِّىٓ",
+      "translation_bh": "",
+      "translation_en": "you order me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِىٓ",
+      "translation_bh": "",
+      "translation_en": "my affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرَهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "its affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُمِرْتَ ۖ",
+      "translation_bh": "",
+      "translation_en": "you are commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَمْرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their affairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "Our Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرٍ",
+      "translation_bh": "",
+      "translation_en": "affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْمُرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "command them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرُنَآ",
+      "translation_bh": "",
+      "translation_en": "(is) Our Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْرِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "His purpose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْتَمِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأْتَمِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and consult"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَمْرِهَا",
+      "translation_bh": "",
+      "translation_en": "(of) its affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْمَرُونَ",
+      "translation_bh": "",
+      "translation_en": "they are commanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "He commanded him"
+    }
+  ]
+}

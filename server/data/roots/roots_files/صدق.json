@@ -1,0 +1,758 @@
+{
+  "description_bh": "",
+  "id": 71,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصَدَّقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدُقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدِّيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْدَق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدِّيقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصْدِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَصَدِّق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَصَدِّقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَّدِّق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَّدِّقَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صدق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 31,
+      "part_of_speech": "N",
+      "text": "صَـٰدِقِينَ",
+      "translation_bh": "",
+      "translation_en": "truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "مُصَدِّقًۭا",
+      "translation_bh": "",
+      "translation_en": "confirming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُصَدِّقٌۭ",
+      "translation_bh": "",
+      "translation_en": "confirming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَقُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "are true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدَقَةٍ",
+      "translation_bh": "",
+      "translation_en": "charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدَقَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدَقَـٰتِكُم",
+      "translation_bh": "",
+      "translation_en": "your charities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلصَّدَقَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the charities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّدَقَـٰتِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(for) the charities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَصَدَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "you remit as charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلصَّـٰدِقِينَ",
+      "translation_bh": "",
+      "translation_en": "and the truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُصَدِّقًۢا",
+      "translation_bh": "",
+      "translation_en": "confirming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمُصَدِّقًۭا",
+      "translation_bh": "",
+      "translation_en": "And confirming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّصَدِّقٌۭ",
+      "translation_bh": "",
+      "translation_en": "confirming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "صَدَقَ",
+      "translation_bh": "",
+      "translation_en": "(has) spoken the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَقَكُمُ",
+      "translation_bh": "",
+      "translation_en": "fulfilled to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدُقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدُقَـٰتِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "their dower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدِّيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلصِّدِّيقِينَ",
+      "translation_bh": "",
+      "translation_en": "and the truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْدَق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَصْدَقُ",
+      "translation_bh": "",
+      "translation_en": "(is) more truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصَّدَّقُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they remit (as) charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِصَدَقَةٍ",
+      "translation_bh": "",
+      "translation_en": "charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَصَدَّقَ",
+      "translation_bh": "",
+      "translation_en": "gives charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدِّيقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِدِّيقَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(was) truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَقْتَنَا",
+      "translation_bh": "",
+      "translation_en": "you have spoken the truth to us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 17,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰدِقِينَ",
+      "translation_bh": "",
+      "translation_en": "the truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِدْقُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their truthfulness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّصَدِّقُ",
+      "translation_bh": "",
+      "translation_en": "confirming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِدْقًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "لَصَـٰدِقُونَ",
+      "translation_bh": "",
+      "translation_en": "[surely] are truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "صَدَقُوا۟",
+      "translation_bh": "",
+      "translation_en": "were truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّدَقَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "the charities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَصَّدَّقَنَّ",
+      "translation_bh": "",
+      "translation_en": "surely we will give charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدَقَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "صِدْقٍ",
+      "translation_bh": "",
+      "translation_en": "(will be) a respectable position"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصْدِيق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَصْدِيقَ",
+      "translation_bh": "",
+      "translation_en": "(it is) a confirmation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "صِدْقٍۢ",
+      "translation_bh": "",
+      "translation_en": "honorable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَصَدَقَتْ",
+      "translation_bh": "",
+      "translation_en": "then she has spoken the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدِّيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصِّدِّيقُ",
+      "translation_bh": "",
+      "translation_en": "the truthful one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَصَدَّقْ",
+      "translation_bh": "",
+      "translation_en": "and be charitable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَصَدِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَصَدِّقِينَ",
+      "translation_bh": "",
+      "translation_en": "the charitable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدِّيق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "صِدِّيقًۭا",
+      "translation_bh": "",
+      "translation_en": "a man of truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَادِقَ",
+      "translation_bh": "",
+      "translation_en": "true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَقْنَـٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "We fulfilled (for) them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدِيقِكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your friend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدِيقٍ",
+      "translation_bh": "",
+      "translation_en": "a friend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَدَقْتَ",
+      "translation_bh": "",
+      "translation_en": "whether you speak (the) truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصَدِّقُنِىٓ ۖ",
+      "translation_bh": "",
+      "translation_en": "who will confirm me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِدْقِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَصَدَقَ",
+      "translation_bh": "",
+      "translation_en": "and Allah spoke the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِصِدْقِهِمْ",
+      "translation_bh": "",
+      "translation_en": "for their truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلصَّـٰدِقَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the truthful women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَصَدِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُتَصَدِّقِينَ",
+      "translation_bh": "",
+      "translation_en": "and the men who give charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَصَدِّقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُتَصَدِّقَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the women who give charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "صَدَّقَ",
+      "translation_bh": "",
+      "translation_en": "found true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَصَدَّقَ",
+      "translation_bh": "",
+      "translation_en": "and confirmed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُصَدِّقِينَ",
+      "translation_bh": "",
+      "translation_en": "those who believe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَّقْتَ",
+      "translation_bh": "",
+      "translation_en": "you have fulfilled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلصِّدْقِ",
+      "translation_bh": "",
+      "translation_en": "the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَقَنَا",
+      "translation_bh": "",
+      "translation_en": "has fulfilled for us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَادِقًۭا",
+      "translation_bh": "",
+      "translation_en": "truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصِّدْقِ",
+      "translation_bh": "",
+      "translation_en": "true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰدِقُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صادِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَصَادِقٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصَدِّقُونَ",
+      "translation_bh": "",
+      "translation_en": "you admit the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَّدِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُصَّدِّقِينَ",
+      "translation_bh": "",
+      "translation_en": "the men who give charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَّدِّقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُصَّدِّقَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the women who give charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِدِّيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصِّدِّيقُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) the truthful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدَقَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدَقَـٰتٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "charities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَدِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّصَدِّقًۭا",
+      "translation_bh": "",
+      "translation_en": "confirming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَصَّدَّقَ",
+      "translation_bh": "",
+      "translation_en": "so I would give charity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَصَدَّقَتْ",
+      "translation_bh": "",
+      "translation_en": "And she believed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصَدِّقُونَ",
+      "translation_bh": "",
+      "translation_en": "accept (the) truth"
+    }
+  ]
+}

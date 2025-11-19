@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 728,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَوْح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوّاحَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لوح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَوْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَلْوَاحِ",
+      "translation_bh": "",
+      "translation_en": "the tablets "
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَلْوَاحَ",
+      "translation_bh": "",
+      "translation_en": "the tablets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَلْوَاحَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the tablets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَلْوَٰحٍۢ",
+      "translation_bh": "",
+      "translation_en": "(ark) made of planks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوّاحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَوَّاحَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "Scorching"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَوْحٍۢ",
+      "translation_bh": "",
+      "translation_en": "a Tablet"
+    }
+  ]
+}

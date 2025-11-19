@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1017,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سُلالَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَسَلَّلُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سلل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سُلالَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سُلَـٰلَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "an essence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَسَلَّلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَسَلَّلُونَ",
+      "translation_bh": "",
+      "translation_en": "slip away"
+    }
+  ]
+}

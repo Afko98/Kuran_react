@@ -1,0 +1,591 @@
+{
+  "description_bh": "",
+  "id": 103,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاسَبْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِيب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاسِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْبان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْتَسِبُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حسب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "ٱلْحِسَابِ",
+      "translation_bh": "",
+      "translation_en": "(in taking) account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَحَسْبُهُۥ",
+      "translation_bh": "",
+      "translation_en": "Then enough for him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "حِسَابٍۢ",
+      "translation_bh": "",
+      "translation_en": "measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "حَسِبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "(do) you think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْسَبُهُمُ",
+      "translation_bh": "",
+      "translation_en": "Think (about) them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاسَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَاسِبْكُم",
+      "translation_bh": "",
+      "translation_en": "will call you to account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِسَابٍ",
+      "translation_bh": "",
+      "translation_en": "measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَحْسَبُوهُ",
+      "translation_bh": "",
+      "translation_en": "so that you may think it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تَحْسَبَنَّ",
+      "translation_bh": "",
+      "translation_en": "think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَسْبُنَا",
+      "translation_bh": "",
+      "translation_en": "Sufficient for us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَحْسَبَنَّ",
+      "translation_bh": "",
+      "translation_en": "think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْسَبَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "think (that) they"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِيب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَسِيبًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a Reckoner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسِيبًا",
+      "translation_bh": "",
+      "translation_en": "an Accountant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَسِبُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And they thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حِسَابِهِم",
+      "translation_bh": "",
+      "translation_en": "their account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِسَابِكَ",
+      "translation_bh": "",
+      "translation_en": "your account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاسِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَـٰسِبِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the Reckoners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُسْبَانًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(for) reckoning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَحْسَبُونَ",
+      "translation_bh": "",
+      "translation_en": "while they think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسْبَكَ",
+      "translation_bh": "",
+      "translation_en": "is sufficient for you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسْبُكَ",
+      "translation_bh": "",
+      "translation_en": "Sufficient for you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسْبُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "sufficient for them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَسْبِىَ",
+      "translation_bh": "",
+      "translation_en": "Sufficient for me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْحِسَابَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the count (of time)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحِسَابُ",
+      "translation_bh": "",
+      "translation_en": "(is) the reckoning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَسِبْتَ",
+      "translation_bh": "",
+      "translation_en": "have you thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَحْسَبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "And you (would) think them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُسْبَانًۭا",
+      "translation_bh": "",
+      "translation_en": "a calamity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَحَسِبَ",
+      "translation_bh": "",
+      "translation_en": "Do then think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَحْسَبُونَ",
+      "translation_bh": "",
+      "translation_en": "think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حِسَابُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاسِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَـٰسِبِينَ",
+      "translation_bh": "",
+      "translation_en": "(as) Reckoners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَيَحْسَبُونَ",
+      "translation_bh": "",
+      "translation_en": "Do they think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَحَسِبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "Then did you think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِسَابُهُۥ",
+      "translation_bh": "",
+      "translation_en": "his account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْسَبُوهُ",
+      "translation_bh": "",
+      "translation_en": "think it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَحْسَبُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and you thought it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْسَبُهُ",
+      "translation_bh": "",
+      "translation_en": "thinks it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِسَابَهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "his due"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْسَبُ",
+      "translation_bh": "",
+      "translation_en": "do you think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَسِبَتْهُ",
+      "translation_bh": "",
+      "translation_en": "she thought it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْسَبُهَا",
+      "translation_bh": "",
+      "translation_en": "thinking them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحَسِبَ",
+      "translation_bh": "",
+      "translation_en": "Do think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "حَسِبَ",
+      "translation_bh": "",
+      "translation_en": "think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْتَسِبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْتَسِبُونَ",
+      "translation_bh": "",
+      "translation_en": "taken into account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِحُسْبَانٍۢ",
+      "translation_bh": "",
+      "translation_en": "by (precise) calculation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسْبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "Sufficient (for) them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْتَسِبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْتَسِبُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "they expected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْسَبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "You think they"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْتَسِبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْتَسِبُ ۚ",
+      "translation_bh": "",
+      "translation_en": "he thinks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسْبُهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) sufficient for him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاسَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَحَاسَبْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "so We took it to account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "حِسَابًۭا",
+      "translation_bh": "",
+      "translation_en": "an account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حِسَابِيَهْ",
+      "translation_bh": "",
+      "translation_en": "my account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَيَحْسَبُ",
+      "translation_bh": "",
+      "translation_en": "Does think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَسِبْتَهُمْ",
+      "translation_bh": "",
+      "translation_en": "you would think them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاسَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَاسَبُ",
+      "translation_bh": "",
+      "translation_en": "his account will be taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِساب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِسَابَهُم",
+      "translation_bh": "",
+      "translation_en": "(is) their account"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْسَبُ",
+      "translation_bh": "",
+      "translation_en": "Thinking"
+    }
+  ]
+}

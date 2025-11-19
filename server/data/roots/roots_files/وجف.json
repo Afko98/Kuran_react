@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1240,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَوْجَفْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "واجِفَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وجف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَوْجَفْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَوْجَفْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you made expedition"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واجِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَاجِفَةٌ",
+      "translation_bh": "",
+      "translation_en": "will palpitate"
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "description_bh": "",
+  "id": 180,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُتُون",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاتِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفْتُون",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فتن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "فِتْنَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) a trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْفِتْنَةُ",
+      "translation_bh": "",
+      "translation_en": "and [the] oppression"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْفِتْنَةِ",
+      "translation_bh": "",
+      "translation_en": "[the] discord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتِنَكُمُ",
+      "translation_bh": "",
+      "translation_en": "(may) harm you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتِنُوكَ",
+      "translation_bh": "",
+      "translation_en": "they tempt you away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(for) them a plea"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَتَنَّا",
+      "translation_bh": "",
+      "translation_en": "We try"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتِنَنَّكُمُ",
+      "translation_bh": "",
+      "translation_en": "tempt you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَتُكَ",
+      "translation_bh": "",
+      "translation_en": "Your trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "فِتْنَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْفِتْنَةَ",
+      "translation_bh": "",
+      "translation_en": "dissension"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفْتِنِّىٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "put me to trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُفْتَنُونَ",
+      "translation_bh": "",
+      "translation_en": "are tried"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتِنَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "they persecute them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فُتِنُوا۟",
+      "translation_bh": "",
+      "translation_en": "they had been put to trials"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَفْتِنُونَكَ",
+      "translation_bh": "",
+      "translation_en": "tempt you away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَفَتَنَّـٰكَ",
+      "translation_bh": "",
+      "translation_en": "and We tried you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُتُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُتُونًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(with) a trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فُتِنتُم",
+      "translation_bh": "",
+      "translation_en": "you are being tested"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنَفْتِنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "that We may test them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) a trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فِتْنَةٌ",
+      "translation_bh": "",
+      "translation_en": "a trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَةً",
+      "translation_bh": "",
+      "translation_en": "a trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُفْتَنُونَ",
+      "translation_bh": "",
+      "translation_en": "being tested"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَةَ",
+      "translation_bh": "",
+      "translation_en": "(the) trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاتِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِفَـٰتِنِينَ",
+      "translation_bh": "",
+      "translation_en": "can tempt away (anyone)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَنَّـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We (had) tried him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَتَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَنتُمْ",
+      "translation_bh": "",
+      "translation_en": "led to temptation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِتْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِتْنَةٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) a trial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفْتُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَفْتُونُ",
+      "translation_bh": "",
+      "translation_en": "(is) the afflicted one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّنَفْتِنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "That We might test them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَنُوا۟",
+      "translation_bh": "",
+      "translation_en": "persecuted"
+    }
+  ]
+}

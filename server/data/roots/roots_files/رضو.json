@@ -1,0 +1,507 @@
+{
+  "description_bh": "",
+  "id": 148,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضات",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراضَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُرْضُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتَضَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "راضِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضِيَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رضو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَرْضَىٰ",
+      "translation_bh": "",
+      "translation_en": "will be pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْضَىٰهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "you will be pleased with"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضات",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَرْضَاتِ",
+      "translation_bh": "",
+      "translation_en": "pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَٰضَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they agree"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراض",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَرَاضٍۢ",
+      "translation_bh": "",
+      "translation_en": "mutual consent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْضَوْنَ",
+      "translation_bh": "",
+      "translation_en": "you agree"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرِضْوَٰنٌۭ",
+      "translation_bh": "",
+      "translation_en": "and approval"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رِضْوَٰنَ",
+      "translation_bh": "",
+      "translation_en": "(the) pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَٰضَيْتُم",
+      "translation_bh": "",
+      "translation_en": "you mutually agree"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَرْضَىٰ",
+      "translation_bh": "",
+      "translation_en": "(does) he approve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِضْوَٰنًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "and good pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَضِيتُ",
+      "translation_bh": "",
+      "translation_en": "and I have approved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رِضْوَٰنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "رَّضِىَ",
+      "translation_bh": "",
+      "translation_en": "is pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَرَضُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they are pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيَرْضَوْهُ",
+      "translation_bh": "",
+      "translation_en": "and so that they may be pleased with it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُرْضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرْضُونَكُم",
+      "translation_bh": "",
+      "translation_en": "They satisfy you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِضْوَٰنٍۢ",
+      "translation_bh": "",
+      "translation_en": "and Pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْضَوْنَهَآ",
+      "translation_bh": "",
+      "translation_en": "you delight (in) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرَضِيتُم",
+      "translation_bh": "",
+      "translation_en": "Are you pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "رَضُوا۟",
+      "translation_bh": "",
+      "translation_en": "they are pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُرْضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُرْضُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "to please you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُرْضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرْضُوهُ",
+      "translation_bh": "",
+      "translation_en": "they should please Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَضِيتُم",
+      "translation_bh": "",
+      "translation_en": "were satisfied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَرْضَوْا۟",
+      "translation_bh": "",
+      "translation_en": "that you may be pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْضَوْا۟",
+      "translation_bh": "",
+      "translation_en": "you are pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِضْوَٰنٍ",
+      "translation_bh": "",
+      "translation_en": "and (His) pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَضِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "pleasing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَرْضِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "pleasing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَرْضَىٰ",
+      "translation_bh": "",
+      "translation_en": "that You be pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَضِىَ",
+      "translation_bh": "",
+      "translation_en": "and He has accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ارْتَضَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱرْتَضَىٰ",
+      "translation_bh": "",
+      "translation_en": "He approves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْضَوْنَهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "they will be pleased (with) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَرْضَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "that will please You"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَرْضَيْنَ",
+      "translation_bh": "",
+      "translation_en": "and they may be pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْضَهُ",
+      "translation_bh": "",
+      "translation_en": "He likes it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "رَضِىَ",
+      "translation_bh": "",
+      "translation_en": "Allah was pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِضْوَٰنًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "and pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَرْضَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "and approves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِضْوَٰنٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "and Pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِضْوَٰنِ",
+      "translation_bh": "",
+      "translation_en": "(the) pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِضْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِضْوَٰنًۭا",
+      "translation_bh": "",
+      "translation_en": "and pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَرْضَاتِى ۚ",
+      "translation_bh": "",
+      "translation_en": "My Pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَرْضَاتَ",
+      "translation_bh": "",
+      "translation_en": "(to) please"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راضِيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَّاضِيَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "pleasant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راضِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَاضِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "satisfied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راضِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَاضِيَةًۭ",
+      "translation_bh": "",
+      "translation_en": "well pleased"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْضِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّرْضِيَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "and pleasing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَضِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَرْضَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "then you will be satisfied"
+    }
+  ]
+}

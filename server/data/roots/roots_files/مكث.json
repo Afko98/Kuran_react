@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 693,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَكَثَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكْث",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماكِث",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مكث",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَكَثَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَمْكُثُ",
+      "translation_bh": "",
+      "translation_en": "remains"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُكْثٍۢ",
+      "translation_bh": "",
+      "translation_en": "intervals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماكِث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّـٰكِثِينَ",
+      "translation_bh": "",
+      "translation_en": "(They will) abide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكَثَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱمْكُثُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Stay here"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكَثَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَمَكَثَ",
+      "translation_bh": "",
+      "translation_en": "So he stayed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماكِث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّـٰكِثُونَ",
+      "translation_bh": "",
+      "translation_en": "(will) remain"
+    }
+  ]
+}

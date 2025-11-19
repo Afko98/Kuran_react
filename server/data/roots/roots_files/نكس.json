@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 1013,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نُكِسُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناكِسُوا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُنَكِّسْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نكس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نُكِسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُكِسُوا۟",
+      "translation_bh": "",
+      "translation_en": "they were turned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناكِسُوا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَاكِسُوا۟",
+      "translation_bh": "",
+      "translation_en": "(will) hang"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُنَكِّسْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُنَكِّسْهُ",
+      "translation_bh": "",
+      "translation_en": "We reverse him"
+    }
+  ]
+}

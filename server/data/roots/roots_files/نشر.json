@@ -1,0 +1,214 @@
+{
+  "description_bh": "",
+  "id": 398,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَنشُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُشِرَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنشَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُشُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَنتَشِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنشَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَشِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنَشَّرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناشِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَشْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نشر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَنشُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنشُورًا",
+      "translation_bh": "",
+      "translation_en": "wide open"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُشِرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنشُرْ",
+      "translation_bh": "",
+      "translation_en": "Will spread"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنشَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنشِرُونَ",
+      "translation_bh": "",
+      "translation_en": "raise (the dead)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُشُور",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نُشُورًۭا",
+      "translation_bh": "",
+      "translation_en": "resurrection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَنتَشِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنتَشِرُونَ",
+      "translation_bh": "",
+      "translation_en": "dispersing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَنتَشِرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱنتَشِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "then disperse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُشُور",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلنُّشُورُ",
+      "translation_bh": "",
+      "translation_en": "(will be) the Resurrection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُشِرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَنشُرُ",
+      "translation_bh": "",
+      "translation_en": "and spreads"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنشَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنشَرْنَا",
+      "translation_bh": "",
+      "translation_en": "then We revive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُنشَرِينَ",
+      "translation_bh": "",
+      "translation_en": "(will be) raised again"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنشُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّنشُورٍۢ",
+      "translation_bh": "",
+      "translation_en": "unrolled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَشِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّنتَشِرٌۭ",
+      "translation_bh": "",
+      "translation_en": "spreading"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنَشَّرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّنَشَّرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "spread out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناشِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّـٰشِرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "And the ones that scatter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَشْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَشْرًۭا",
+      "translation_bh": "",
+      "translation_en": "far and wide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنشَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنشَرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "He will resurrect him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُشِرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُشِرَتْ",
+      "translation_bh": "",
+      "translation_en": "are laid open"
+    }
+  ]
+}

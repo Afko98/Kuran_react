@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 854,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَوْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَوْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَوْرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "suddenly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَفَارَ",
+      "translation_bh": "",
+      "translation_en": "and overflowed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفُورُ",
+      "translation_bh": "",
+      "translation_en": "boils up"
+    }
+  ]
+}

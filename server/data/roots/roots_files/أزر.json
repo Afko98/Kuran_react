@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1176,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَزْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آزَرَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أزر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَزْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَزْرِى",
+      "translation_bh": "",
+      "translation_en": "my strength"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آزَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔازَرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "then strengthens it"
+    }
+  ]
+}

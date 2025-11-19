@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 523,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَبْيَض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْيَضَّتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْض",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بيض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَبْيَض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَبْيَضُ",
+      "translation_bh": "",
+      "translation_en": "[the] white"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْيَضَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْيَضُّ",
+      "translation_bh": "",
+      "translation_en": "would become white"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْيَضَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱبْيَضَّتْ",
+      "translation_bh": "",
+      "translation_en": "turn white"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْيَض",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْضَآءُ",
+      "translation_bh": "",
+      "translation_en": "(was) white"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْيَضَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱبْيَضَّتْ",
+      "translation_bh": "",
+      "translation_en": "And became white"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْيَض",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بَيْضَآءَ",
+      "translation_bh": "",
+      "translation_en": "white"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْيَض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِيضٌۭ",
+      "translation_bh": "",
+      "translation_en": "white"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْضٌۭ",
+      "translation_bh": "",
+      "translation_en": "eggs"
+    }
+  ]
+}

@@ -1,0 +1,480 @@
+{
+  "description_bh": "",
+  "id": 146,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ضارّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اضْطُرَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِرار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضارَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضارّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضْطَرّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ضرر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ضارّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِضَآرِّينَ",
+      "translation_bh": "",
+      "translation_en": "at all [be those who] harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَضُرُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "harms them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اضْطُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضْطَرُّهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "I will force him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اضْطُرَّ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱضْطُرَّ",
+      "translation_bh": "",
+      "translation_en": "(is) forced by necessity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّاء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلضَّرَّآءِ",
+      "translation_bh": "",
+      "translation_en": "and [the] hardship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلضَّرَّآءُ",
+      "translation_bh": "",
+      "translation_en": "and [the] hardship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِرار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضِرَارًۭا",
+      "translation_bh": "",
+      "translation_en": "(to) hurt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضارَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُضَآرَّ",
+      "translation_bh": "",
+      "translation_en": "made to suffer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضارَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضَآرَّ",
+      "translation_bh": "",
+      "translation_en": "(should) be harmed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّوكُمْ",
+      "translation_bh": "",
+      "translation_en": "will they harm you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَضُرُّكُمْ",
+      "translation_bh": "",
+      "translation_en": "will harm you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرَّ",
+      "translation_bh": "",
+      "translation_en": "will he harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَضُرُّوا۟",
+      "translation_bh": "",
+      "translation_en": "will harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضارّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُضَآرٍّۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "(being) harmful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضَّرَرِ",
+      "translation_bh": "",
+      "translation_en": "[the] disabled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّونَكَ",
+      "translation_bh": "",
+      "translation_en": "they will harm you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّوكَ",
+      "translation_bh": "",
+      "translation_en": "will they harm you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ضَرًّۭا",
+      "translation_bh": "",
+      "translation_en": "any harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّكُم",
+      "translation_bh": "",
+      "translation_en": "will harm you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِضُرٍّۢ",
+      "translation_bh": "",
+      "translation_en": "with affliction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّنَا",
+      "translation_bh": "",
+      "translation_en": "harms us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اضْطُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱضْطُرِرْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you are compelled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضَّرَّآءُ",
+      "translation_bh": "",
+      "translation_en": "the adversity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضَرًّا",
+      "translation_bh": "",
+      "translation_en": "(power to) harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَضُرُّوهُ",
+      "translation_bh": "",
+      "translation_en": "you can harm Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلضُّرُّ",
+      "translation_bh": "",
+      "translation_en": "the affliction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضُرَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "his affliction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضُرٍّۢ",
+      "translation_bh": "",
+      "translation_en": "(the) affliction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّاء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ضَرَّآءَ",
+      "translation_bh": "",
+      "translation_en": "adversity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "harm you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَضُرُّونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "you will harm Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَرًّۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(to) harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضُّرَّ",
+      "translation_bh": "",
+      "translation_en": "the adversity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضُّرِّ",
+      "translation_bh": "",
+      "translation_en": "the misfortunes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضُرٍّۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "(the) adversity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "harms him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَرُّهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "his harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "harms them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَضُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضُرُّونَ",
+      "translation_bh": "",
+      "translation_en": "they harm (you)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضْطَرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُضْطَرَّ",
+      "translation_bh": "",
+      "translation_en": "(to) the distressed one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ضُرٌّۭ",
+      "translation_bh": "",
+      "translation_en": "hardship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اضْطُرَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَضْطَرُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "We will force them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِضُرٍّ",
+      "translation_bh": "",
+      "translation_en": "harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضُرِّهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "(of) harm (from) Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضارّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِضَآرِّهِمْ",
+      "translation_bh": "",
+      "translation_en": "he (can) harm them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُضارَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُضَآرُّوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "harm them"
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "description_bh": "",
+  "id": 402,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَبْوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِبا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْبَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رابِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَّيَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رابِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ربو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَبْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَبْوَةٍ",
+      "translation_bh": "",
+      "translation_en": "on a height"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِبا",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلرِّبَوٰا۟",
+      "translation_bh": "",
+      "translation_en": "[the] usury"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِبا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرِّبَوٰا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] usury"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِبا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرِّبَوٰا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "[the] usury"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْبَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُرْبِى",
+      "translation_bh": "",
+      "translation_en": "and (gives) increase"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِبا",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلرِّبَوٰٓا۟",
+      "translation_bh": "",
+      "translation_en": "[the] usury"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رابِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّابِيًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "rising"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْبَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْبَىٰ",
+      "translation_bh": "",
+      "translation_en": "more numerous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَّيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَبَّيَانِى",
+      "translation_bh": "",
+      "translation_en": "they brought me up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَبَتْ",
+      "translation_bh": "",
+      "translation_en": "and it swells"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبْوَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a high ground"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَّيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُرَبِّكَ",
+      "translation_bh": "",
+      "translation_en": "we bring you up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِّبًۭا",
+      "translation_bh": "",
+      "translation_en": "usury"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَرْبُوَا۟",
+      "translation_bh": "",
+      "translation_en": "to increase"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْبُوا۟",
+      "translation_bh": "",
+      "translation_en": "(will) increase"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَبَتْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and grows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رابِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّابِيَةً",
+      "translation_bh": "",
+      "translation_en": "exceeding"
+    }
+  ]
+}

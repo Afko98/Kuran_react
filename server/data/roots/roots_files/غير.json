@@ -1,0 +1,288 @@
+{
+  "description_bh": "",
+  "id": 72,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُغَيِّرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُغَيِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَغَيَّرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُغِيرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غير",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "غَيْرِ",
+      "translation_bh": "",
+      "translation_en": "not (of)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 39,
+      "part_of_speech": "N",
+      "text": "غَيْرَ",
+      "translation_bh": "",
+      "translation_en": "other (than)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 41,
+      "part_of_speech": "N",
+      "text": "بِغَيْرِ",
+      "translation_bh": "",
+      "translation_en": "without (any)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "لِغَيْرِ",
+      "translation_bh": "",
+      "translation_en": "to other than"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرَهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "other than him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَفَغَيْرَ",
+      "translation_bh": "",
+      "translation_en": "So is (it) other than"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرَهَا",
+      "translation_bh": "",
+      "translation_en": "for other (than) that"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "غَيْرُ",
+      "translation_bh": "",
+      "translation_en": "other than"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُغَيِّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَيُغَيِّرُنَّ",
+      "translation_bh": "",
+      "translation_en": "so they will surely change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "other than that"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرِكُمْ",
+      "translation_bh": "",
+      "translation_en": "other than you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَغَيْرَ",
+      "translation_bh": "",
+      "translation_en": "Is it other than"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "other than it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَغَيْرَ",
+      "translation_bh": "",
+      "translation_en": "and not"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "other than Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرُهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "other than Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "غَيْرُهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "other than Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُغَيِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُغَيِّرًۭا",
+      "translation_bh": "",
+      "translation_en": "One Who changes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُغَيِّرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُغَيِّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "غَيْرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "other than you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "غَيْرُهُۥٓ ۖ",
+      "translation_bh": "",
+      "translation_en": "other than Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَغَيْرُ",
+      "translation_bh": "",
+      "translation_en": "and not"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُغَيِّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُغَيِّرُ",
+      "translation_bh": "",
+      "translation_en": "change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْرَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "other (than) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَغَيْرِ",
+      "translation_bh": "",
+      "translation_en": "and unformed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "غَيْرِى",
+      "translation_bh": "",
+      "translation_en": "other than me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَغَيَّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَغَيَّرْ",
+      "translation_bh": "",
+      "translation_en": "changes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُغِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْمُغِيرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "And the chargers"
+    }
+  ]
+}

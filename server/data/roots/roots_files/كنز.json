@@ -1,0 +1,93 @@
+{
+  "description_bh": "",
+  "id": 625,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَنَزْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنز",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كنز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَنَزْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْنِزُونَ",
+      "translation_bh": "",
+      "translation_en": "hoard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنَزْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَنَزْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you hoarded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنَزْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَكْنِزُونَ",
+      "translation_bh": "",
+      "translation_en": "hoard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنز",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَنزٌ",
+      "translation_bh": "",
+      "translation_en": "a treasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَنزٌۭ",
+      "translation_bh": "",
+      "translation_en": "a treasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَنزَهُمَا",
+      "translation_bh": "",
+      "translation_en": "their treasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكُنُوزٍۢ",
+      "translation_bh": "",
+      "translation_en": "And treasures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَنز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكُنُوزِ",
+      "translation_bh": "",
+      "translation_en": "the treasures"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 709,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دَأْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَأَب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِبَيْن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دأب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دَأْب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كَدَأْبِ",
+      "translation_bh": "",
+      "translation_en": "Like behavior"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَأَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَأَبًۭا",
+      "translation_bh": "",
+      "translation_en": "as usual"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِبَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَآئِبَيْنِ ۖ",
+      "translation_bh": "",
+      "translation_en": "both constantly pursuing their courses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَأْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَأْبِ",
+      "translation_bh": "",
+      "translation_en": "(the) plight"
+    }
+  ]
+}

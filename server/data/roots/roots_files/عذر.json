@@ -1,0 +1,126 @@
+{
+  "description_bh": "",
+  "id": 536,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَعْذِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْتَذِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُذْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعاذِير",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عذر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَعْذِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْذِرَةً",
+      "translation_bh": "",
+      "translation_en": "To be absolved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْتَذِرُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَعْتَذِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "make excuse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُعَذِّرُونَ",
+      "translation_bh": "",
+      "translation_en": "the ones who make excuses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْتَذِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْتَذِرُونَ",
+      "translation_bh": "",
+      "translation_en": "They will make excuses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُذْرًۭا",
+      "translation_bh": "",
+      "translation_en": "an excuse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْذِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْذِرَتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their excuses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْذِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْذِرَتُهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their excuse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعاذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعَاذِيرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his excuses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُذْرًا",
+      "translation_bh": "",
+      "translation_en": "(As) justification"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْتَذِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَعْتَذِرُونَ",
+      "translation_bh": "",
+      "translation_en": "to make excuses"
+    }
+  ]
+}

@@ -1,0 +1,501 @@
+{
+  "description_bh": "",
+  "id": 141,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلاغ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلِيغ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَّغْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْلَغُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْلَغ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بلغ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَبْلُغَ",
+      "translation_bh": "",
+      "translation_en": "reaches"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَبَلَغْنَ",
+      "translation_bh": "",
+      "translation_en": "and they reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَلَغْنَ",
+      "translation_bh": "",
+      "translation_en": "they reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلاغ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْبَلَـٰغُ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) to [the] convey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَلَغَنِىَ",
+      "translation_bh": "",
+      "translation_en": "has reached me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَلَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "they reach[ed]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلِيغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَلِيغًۭا",
+      "translation_bh": "",
+      "translation_en": "penetrating"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَّغْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَلِّغْ",
+      "translation_bh": "",
+      "translation_en": "Convey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَّغْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَلَّغْتَ",
+      "translation_bh": "",
+      "translation_en": "you (have) conveyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلاغ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْبَلَـٰغُ",
+      "translation_bh": "",
+      "translation_en": "(is to) convey (the Message)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـٰلِغَ",
+      "translation_bh": "",
+      "translation_en": "reaching"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَلَغَ ۚ",
+      "translation_bh": "",
+      "translation_en": "it reaches"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَلَغْنَآ",
+      "translation_bh": "",
+      "translation_en": "and we have reached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَـٰلِغَةُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the conclusive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَّغْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُبَلِّغُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I convey to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْلَغُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَبْلَغْتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I have conveyed to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـٰلِغُوهُ",
+      "translation_bh": "",
+      "translation_en": "were to reach [it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْلَغُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْلِغْهُ",
+      "translation_bh": "",
+      "translation_en": "escort him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْلَغُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْلَغْتُكُم",
+      "translation_bh": "",
+      "translation_en": "I have conveyed to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "بَلَغَ",
+      "translation_bh": "",
+      "translation_en": "he reached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَبْلُغَ",
+      "translation_bh": "",
+      "translation_en": "to reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِبَـٰلِغِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "reaches it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلاغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَلَـٰغٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a Message"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـٰلِغِيهِ",
+      "translation_bh": "",
+      "translation_en": "reach it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْلُغَنَّ",
+      "translation_bh": "",
+      "translation_en": "reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْلُغَ",
+      "translation_bh": "",
+      "translation_en": "reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْلُغَ",
+      "translation_bh": "",
+      "translation_en": "I reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَلَغَا",
+      "translation_bh": "",
+      "translation_en": "they reached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَلَغْتَ",
+      "translation_bh": "",
+      "translation_en": "you have reached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْلُغَآ",
+      "translation_bh": "",
+      "translation_en": "they reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَلَغْتُ",
+      "translation_bh": "",
+      "translation_en": "I have reached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلاغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَبَلَـٰغًۭا",
+      "translation_bh": "",
+      "translation_en": "surely is a Message"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِتَبْلُغُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "that you may reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْلُغُوا۟",
+      "translation_bh": "",
+      "translation_en": "reached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَلَغَتِ",
+      "translation_bh": "",
+      "translation_en": "and reached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَّغْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَلِّغُونَ",
+      "translation_bh": "",
+      "translation_en": "convey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْلُغُ",
+      "translation_bh": "",
+      "translation_en": "reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِبَـٰلِغِيهِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(can) reach it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتَبْلُغُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and lets you reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتَبْلُغُوا۟",
+      "translation_bh": "",
+      "translation_en": "and that you may reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَلَغَ",
+      "translation_bh": "",
+      "translation_en": "and reaches"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَّغْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُبَلِّغُكُم",
+      "translation_bh": "",
+      "translation_en": "and I convey to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلاغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَلَـٰغٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "A notification"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْلَغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَبْلَغُهُم",
+      "translation_bh": "",
+      "translation_en": "(is) their sum"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـٰلِغَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "perfect"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلَغَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَلَغَتِ",
+      "translation_bh": "",
+      "translation_en": "it reaches"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـٰلِغُ",
+      "translation_bh": "",
+      "translation_en": "(will) accomplish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بالِغَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـٰلِغَةٌ",
+      "translation_bh": "",
+      "translation_en": "reaching"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَلاغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَلَـٰغًۭا",
+      "translation_bh": "",
+      "translation_en": "(the) notification"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْلَغُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْلَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "they have conveyed"
+    }
+  ]
+}

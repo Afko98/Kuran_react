@@ -1,0 +1,232 @@
+{
+  "description_bh": "",
+  "id": 292,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بارِئ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرَّأَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُبْرِئُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِيء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَراءَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرَّأَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَرَّء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَراء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبْرَأَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِيَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "برأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بارِئ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَارِئِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your Creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرَّأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَبَرَّأَ",
+      "translation_bh": "",
+      "translation_en": "will disown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنَتَبَرَّأَ",
+      "translation_bh": "",
+      "translation_en": "then we will disown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبَرَّءُوا۟",
+      "translation_bh": "",
+      "translation_en": "they disown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُبْرِئُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُبْرِئُ",
+      "translation_bh": "",
+      "translation_en": "And I cure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِيء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَرِيٓـًۭٔا",
+      "translation_bh": "",
+      "translation_en": "(on) an innocent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُبْرِئُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُبْرِئُ",
+      "translation_bh": "",
+      "translation_en": "and you heal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِيء",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "بَرِىٓءٌۭ",
+      "translation_bh": "",
+      "translation_en": "free"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَراءَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَرَآءَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "Freedom from obligations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِيء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَرِيٓـُٔونَ",
+      "translation_bh": "",
+      "translation_en": "(are) disassociated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُبَرِّئُ",
+      "translation_bh": "",
+      "translation_en": "I absolve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَرَّء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُبَرَّءُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) innocent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبَرَّأْنَآ",
+      "translation_bh": "",
+      "translation_en": "We declare our innocence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَبَرَّأَهُ",
+      "translation_bh": "",
+      "translation_en": "then Allah cleared him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَراء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَرَآءٌۭ",
+      "translation_bh": "",
+      "translation_en": "disassociated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبْرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّبْرَأَهَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "We bring it into existence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِئ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَارِئُ",
+      "translation_bh": "",
+      "translation_en": "the Inventor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِيء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُرَءَٰٓؤُا۟",
+      "translation_bh": "",
+      "translation_en": "(are) disassociated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِيَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَرِيَّةِ",
+      "translation_bh": "",
+      "translation_en": "(of) the creatures"
+    }
+  ]
+}

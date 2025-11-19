@@ -1,0 +1,121 @@
+{
+  "description_bh": "",
+  "id": 420,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فارِض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَضَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيضَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفْرُوض",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فارِض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَارِضٌۭ",
+      "translation_bh": "",
+      "translation_en": "old"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَضَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَرَضَ",
+      "translation_bh": "",
+      "translation_en": "undertakes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفْرِضُوا۟",
+      "translation_bh": "",
+      "translation_en": "you specified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيضَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَرِيضَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "an obligation (dower)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَضَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَرَضْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you have specified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيضَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "فَرِيضَةًۭ",
+      "translation_bh": "",
+      "translation_en": "an obligation (dower)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفْرُوض",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّفْرُوضًۭا",
+      "translation_bh": "",
+      "translation_en": "obligatory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَرِيضَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the obligation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَفَرَضْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "and We (have) made it obligatory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَضْنَا",
+      "translation_bh": "",
+      "translation_en": "We have made obligatory"
+    }
+  ]
+}

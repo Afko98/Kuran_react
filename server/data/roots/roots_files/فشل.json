@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 853,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَشِلْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فشل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَشِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفْشَلَا",
+      "translation_bh": "",
+      "translation_en": "they lost heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَشِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَشِلْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you lost courage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَشِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّفَشِلْتُمْ",
+      "translation_bh": "",
+      "translation_en": "surely you would have lost courage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَشِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَفْشَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "lest you lose courage"
+    }
+  ]
+}

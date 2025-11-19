@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 598,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَبْت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْبِتُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبات",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سبت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَبْت",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلسَّبْتِ",
+      "translation_bh": "",
+      "translation_en": "the (matter of) Sabbath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّبْتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the Sabbath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَبْتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "(of) their Sabbath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْبِتُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْبِتُونَ ۙ",
+      "translation_bh": "",
+      "translation_en": "they had Sabbath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّبْتُ",
+      "translation_bh": "",
+      "translation_en": "the Sabbath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبات",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سُبَاتًۭا",
+      "translation_bh": "",
+      "translation_en": "a rest"
+    }
+  ]
+}

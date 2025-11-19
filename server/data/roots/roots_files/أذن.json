@@ -1,0 +1,533 @@
+{
+  "description_bh": "",
+  "id": 111,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذَّنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤَذِّن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأَذَّنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آذَن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أذن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاذَانِهِم",
+      "translation_bh": "",
+      "translation_en": "their ears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِ",
+      "translation_bh": "",
+      "translation_en": "by (the) permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "with His permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "by His permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "by His permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأْذَنُوا۟",
+      "translation_bh": "",
+      "translation_en": "then be informed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَبِإِذْنِ",
+      "translation_bh": "",
+      "translation_en": "(was) by (the) permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاذَانَ",
+      "translation_bh": "",
+      "translation_en": "(the) ears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِهِۦ",
+      "translation_bh": "",
+      "translation_en": "by His permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأُذُنَ",
+      "translation_bh": "",
+      "translation_en": "and the ear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْأُذُنِ",
+      "translation_bh": "",
+      "translation_en": "for the ear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِى",
+      "translation_bh": "",
+      "translation_en": "by My permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِى ۖ",
+      "translation_bh": "",
+      "translation_en": "by My permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ءَاذَانِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their ears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَذَّنَ",
+      "translation_bh": "",
+      "translation_en": "Then will announce"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤَذِّن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُؤَذِّنٌۢ",
+      "translation_bh": "",
+      "translation_en": "an announcer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ءَاذَنَ",
+      "translation_bh": "",
+      "translation_en": "I give permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأَذَّنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأَذَّنَ",
+      "translation_bh": "",
+      "translation_en": "declared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَاذَانٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) ears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَذَٰنٌۭ",
+      "translation_bh": "",
+      "translation_en": "And an announcement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَذِنتَ",
+      "translation_bh": "",
+      "translation_en": "you grant leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْتَـْٔذِنُكَ",
+      "translation_bh": "",
+      "translation_en": "(Would) not ask your permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱئْذَن",
+      "translation_bh": "",
+      "translation_en": "Grant me leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُذُنٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(all) ear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُذُنُ",
+      "translation_bh": "",
+      "translation_en": "An ear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَـْٔذَنُوكَ",
+      "translation_bh": "",
+      "translation_en": "and they ask you permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَـْٔذَنَكَ",
+      "translation_bh": "",
+      "translation_en": "ask your permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُؤْذَنَ",
+      "translation_bh": "",
+      "translation_en": "that permission be granted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْتَـْٔذِنُونَكَ",
+      "translation_bh": "",
+      "translation_en": "ask your permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِذْنِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "His permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَذِنَ",
+      "translation_bh": "",
+      "translation_en": "permitted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَذَّنَ",
+      "translation_bh": "",
+      "translation_en": "called out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤَذِّن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُؤَذِّنٌ",
+      "translation_bh": "",
+      "translation_en": "an announcer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْذَنَ",
+      "translation_bh": "",
+      "translation_en": "permits"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤْذَنُ",
+      "translation_bh": "",
+      "translation_en": "will be permitted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آذَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاذَنتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I (have) announced to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَذِّن",
+      "translation_bh": "",
+      "translation_en": "And proclaim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُذِنَ",
+      "translation_bh": "",
+      "translation_en": "Permission is given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِذْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِإِذْنِهِۦٓ ۗ",
+      "translation_bh": "",
+      "translation_en": "by His permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤْذَنَ",
+      "translation_bh": "",
+      "translation_en": "permission has been given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَسْتَـْٔذِنكُمُ",
+      "translation_bh": "",
+      "translation_en": "Let ask your permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَسْتَـْٔذِنُوا۟",
+      "translation_bh": "",
+      "translation_en": "then let them ask permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَـْٔذَنَ",
+      "translation_bh": "",
+      "translation_en": "asked permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَـْٔذِنُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "they (have) asked his permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَـْٔذَنُوكَ",
+      "translation_bh": "",
+      "translation_en": "they ask your permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأْذَن",
+      "translation_bh": "",
+      "translation_en": "then give permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُذُنَيْهِ",
+      "translation_bh": "",
+      "translation_en": "his ears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَأْذَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَـْٔذِنُ",
+      "translation_bh": "",
+      "translation_en": "And asked permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاذَانِنَا",
+      "translation_bh": "",
+      "translation_en": "our ears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آذَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاذَنَّـٰكَ",
+      "translation_bh": "",
+      "translation_en": "We announce (to) You"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْذَنۢ",
+      "translation_bh": "",
+      "translation_en": "Allah has given permission of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُذُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُذُنٌۭ",
+      "translation_bh": "",
+      "translation_en": "an ear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذِنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَذِنَتْ",
+      "translation_bh": "",
+      "translation_en": "And has listened"
+    }
+  ]
+}

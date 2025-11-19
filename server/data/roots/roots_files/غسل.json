@@ -1,0 +1,67 @@
+{
+  "description_bh": "",
+  "id": 860,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَغْتَسِلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اغْسِلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُغْتَسَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غِسْلِين",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غسل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَغْتَسِلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَغْتَسِلُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "you have bathed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اغْسِلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱغْسِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "then wash"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُغْتَسَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُغْتَسَلٌۢ",
+      "translation_bh": "",
+      "translation_en": "(is a spring of) water to bathe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غِسْلِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غِسْلِينٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) discharge of wounds"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 833,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دُهْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِهان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْهِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُدْهِنُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دهن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دُهْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلدُّهْنِ",
+      "translation_bh": "",
+      "translation_en": "oil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِهان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلدِّهَانِ",
+      "translation_bh": "",
+      "translation_en": "like murky oil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْهِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّدْهِنُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) indifferent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُدْهِنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُدْهِنُ",
+      "translation_bh": "",
+      "translation_en": "you should compromise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُدْهِنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُدْهِنُونَ",
+      "translation_bh": "",
+      "translation_en": "so they would compromise"
+    }
+  ]
+}

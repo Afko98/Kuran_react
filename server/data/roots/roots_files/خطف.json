@@ -1,0 +1,89 @@
+{
+  "description_bh": "",
+  "id": 664,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَطِفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَطَّفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطْفَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خطف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَطِفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْطَفُ",
+      "translation_bh": "",
+      "translation_en": "snatches away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَطَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَخَطَّفَكُمُ",
+      "translation_bh": "",
+      "translation_en": "might do away with you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطِفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَخْطَفُهُ",
+      "translation_bh": "",
+      "translation_en": "and (had) snatched him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَطَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُتَخَطَّفْ",
+      "translation_bh": "",
+      "translation_en": "we would be swept"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَطَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُتَخَطَّفُ",
+      "translation_bh": "",
+      "translation_en": "while are being taken away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطِفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَطِفَ",
+      "translation_bh": "",
+      "translation_en": "snatches"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطْفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَطْفَةَ",
+      "translation_bh": "",
+      "translation_en": "(by) theft"
+    }
+  ]
+}

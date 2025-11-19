@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 985,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَشْكُوا۟",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِشْكاة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشْتَكِي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شكو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَشْكُوا۟",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْكُوا۟",
+      "translation_bh": "",
+      "translation_en": "I complain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِشْكاة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَمِشْكَوٰةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(is) like a niche"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشْتَكِي",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَشْتَكِىٓ",
+      "translation_bh": "",
+      "translation_en": "and she directs her complaint"
+    }
+  ]
+}

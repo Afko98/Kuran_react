@@ -1,0 +1,984 @@
+{
+  "description_bh": "",
+  "id": 42,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوَلِّي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوالِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْلَيان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلايَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وال",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ولي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَوَلَّيْتُم",
+      "translation_bh": "",
+      "translation_en": "you turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَوَلَّيْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "وَلِىٍّۢ",
+      "translation_bh": "",
+      "translation_en": "protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تُوَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "you turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 19,
+      "part_of_speech": "V",
+      "text": "تَوَلَّوْا۟",
+      "translation_bh": "",
+      "translation_en": "they turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَّىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "(has) turned them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَنُوَلِّيَنَّكَ",
+      "translation_bh": "",
+      "translation_en": "So We will surely turn you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَوَلِّ",
+      "translation_bh": "",
+      "translation_en": "So turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَوَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "[so] turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوَلِّي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُوَلِّيهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "turns towards it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "تَوَلَّىٰ",
+      "translation_bh": "",
+      "translation_en": "he turns away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَلِىُّ",
+      "translation_bh": "",
+      "translation_en": "(is the) Protecting Guardian"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآؤُهُمُ",
+      "translation_bh": "",
+      "translation_en": "their guardians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِيُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "his guardian"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلَىٰنَا",
+      "translation_bh": "",
+      "translation_en": "our Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّىٰ",
+      "translation_bh": "",
+      "translation_en": "turns away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءَ",
+      "translation_bh": "",
+      "translation_en": "(as) allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَى",
+      "translation_bh": "",
+      "translation_en": "the best to claim relationship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوَلُّوكُمُ",
+      "translation_bh": "",
+      "translation_en": "they will turn (towards) you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِيُّهُمَا ۗ",
+      "translation_bh": "",
+      "translation_en": "(was) their protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مَوْلَىٰكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) your Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(of) his allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوالِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوَٰلِىَ",
+      "translation_bh": "",
+      "translation_en": "heirs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "وَلِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُوَلِّهِۦ",
+      "translation_bh": "",
+      "translation_en": "We will turn him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْلَى",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "أَوْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "(is) nearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّوْنَ",
+      "translation_bh": "",
+      "translation_en": "they turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءَ ۘ",
+      "translation_bh": "",
+      "translation_en": "(as) allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءُ",
+      "translation_bh": "",
+      "translation_en": "(are) allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّهُم",
+      "translation_bh": "",
+      "translation_en": "takes them as allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِيُّكُمُ",
+      "translation_bh": "",
+      "translation_en": "your ally"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّ",
+      "translation_bh": "",
+      "translation_en": "takes as an ally"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْلَيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَوْلَيَـٰنِ",
+      "translation_bh": "",
+      "translation_en": "the former two "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَلِىٌّۭ",
+      "translation_bh": "",
+      "translation_en": "any protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَوْلَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "their Protector "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their friends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِيُّهُم",
+      "translation_bh": "",
+      "translation_en": "(will be) their protecting friend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآؤُهُم",
+      "translation_bh": "",
+      "translation_en": "their friends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُوَلِّى",
+      "translation_bh": "",
+      "translation_en": "We make friends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءَ ۗ",
+      "translation_bh": "",
+      "translation_en": "any allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَتَوَلَّىٰ",
+      "translation_bh": "",
+      "translation_en": "So he turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَلِيُّنَا",
+      "translation_bh": "",
+      "translation_en": "(are) our Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِـِّۧىَ",
+      "translation_bh": "",
+      "translation_en": "my protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّى",
+      "translation_bh": "",
+      "translation_en": "protects"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُوَلُّوهُمُ",
+      "translation_bh": "",
+      "translation_en": "turn to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوَلِّهِمْ",
+      "translation_bh": "",
+      "translation_en": "turns to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَوَلَّوا۟",
+      "translation_bh": "",
+      "translation_en": "surely they would have turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءَهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "its guardians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآؤُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "its guardians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلَىٰكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) your Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "(is) the Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلايَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَـٰيَتِهِم",
+      "translation_bh": "",
+      "translation_en": "their protection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَّيْتُم",
+      "translation_bh": "",
+      "translation_en": "you turned back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَوَلَّوا۟",
+      "translation_bh": "",
+      "translation_en": "And they turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلَىٰنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) our Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّوَلَّوْا۟",
+      "translation_bh": "",
+      "translation_en": "surely, they would turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّوْا۟",
+      "translation_bh": "",
+      "translation_en": "they turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَوَلَّوا۟",
+      "translation_bh": "",
+      "translation_en": "and turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوَلَّوا۟",
+      "translation_bh": "",
+      "translation_en": "They turned back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلُونَكُم",
+      "translation_bh": "",
+      "translation_en": "(are) close to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَتَوَلَّوْا۟",
+      "translation_bh": "",
+      "translation_en": "turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَتَوَلَّىٰ",
+      "translation_bh": "",
+      "translation_en": "And he turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِىِّۦ",
+      "translation_bh": "",
+      "translation_en": "(are) my Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَالٍ",
+      "translation_bh": "",
+      "translation_en": "protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِيُّهُمُ",
+      "translation_bh": "",
+      "translation_en": "(is) their ally"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَوْلَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "his master"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّوْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "take him as an ally"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِوَلِيِّهِۦ",
+      "translation_bh": "",
+      "translation_en": "for his heir"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَلَّوْا۟",
+      "translation_bh": "",
+      "translation_en": "they turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَوَلَّيْتَ",
+      "translation_bh": "",
+      "translation_en": "you (would) have surely turned back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلايَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوَلَـٰيَةُ",
+      "translation_bh": "",
+      "translation_en": "the protection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوالِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوَٰلِىَ",
+      "translation_bh": "",
+      "translation_en": "the successors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوَلَّاهُ",
+      "translation_bh": "",
+      "translation_en": "befriends him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَلَّىٰ",
+      "translation_bh": "",
+      "translation_en": "he turned back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوَلَّ",
+      "translation_bh": "",
+      "translation_en": "turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوَلَّىٰٓ",
+      "translation_bh": "",
+      "translation_en": "he turned back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوالِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَوَٰلِيكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and your friends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآئِكُم",
+      "translation_bh": "",
+      "translation_en": "your friends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوَلُّونَ",
+      "translation_bh": "",
+      "translation_en": "they would turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَوَلَّوْا۟",
+      "translation_bh": "",
+      "translation_en": "So they turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَتَوَلَّ",
+      "translation_bh": "",
+      "translation_en": "So turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَوَلَّ",
+      "translation_bh": "",
+      "translation_en": "So turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُوَلُّونَ",
+      "translation_bh": "",
+      "translation_en": "you will turn back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآؤُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(are) your protectors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِىٌّ",
+      "translation_bh": "",
+      "translation_en": "(was) a friend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءَ ۖ",
+      "translation_bh": "",
+      "translation_en": "protectors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْوَلِىُّ",
+      "translation_bh": "",
+      "translation_en": "(is) the Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلًى",
+      "translation_bh": "",
+      "translation_en": "a relation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّوْلًۭى",
+      "translation_bh": "",
+      "translation_en": "a relation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلِيَآءُ ۚ",
+      "translation_bh": "",
+      "translation_en": "protectors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلَى",
+      "translation_bh": "",
+      "translation_en": "(is the) Protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "protector"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْلَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَأَوْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "But more appropriate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَوَلَّوُا۟",
+      "translation_bh": "",
+      "translation_en": "surely they would turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُوَلُّونَ",
+      "translation_bh": "",
+      "translation_en": "and they will turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيُوَلُّنَّ",
+      "translation_bh": "",
+      "translation_en": "certainly they will turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوَلَّوْهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "you make them allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَوَلَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "makes them allies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَوَلَّوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "and turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَأَوْلَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "and woe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَلَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتَوَلَّىٰٓ",
+      "translation_bh": "",
+      "translation_en": "and turned away"
+    }
+  ]
+}

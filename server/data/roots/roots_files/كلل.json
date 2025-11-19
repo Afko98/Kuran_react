@@ -1,0 +1,418 @@
+{
+  "description_bh": "",
+  "id": 17,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كُلَّما",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلالَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كلل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كُلَّما",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "كُلَّمَآ",
+      "translation_bh": "",
+      "translation_en": "Whenever"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 123,
+      "part_of_speech": "N",
+      "text": "كُلِّ",
+      "translation_bh": "",
+      "translation_en": "every"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلَّما",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "كُلَّمَا",
+      "translation_bh": "",
+      "translation_en": "Every time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 33,
+      "part_of_speech": "N",
+      "text": "بِكُلِّ",
+      "translation_bh": "",
+      "translation_en": "of every"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "كُلَّهَا",
+      "translation_bh": "",
+      "translation_en": "all of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 46,
+      "part_of_speech": "N",
+      "text": "كُلُّ",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلَّما",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَفَكُلَّمَا",
+      "translation_bh": "",
+      "translation_en": "Is it (not) so (that) whenever"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلَّما",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوَكُلَّمَا",
+      "translation_bh": "",
+      "translation_en": "And is (it not that) whenever"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "كُلٌّۭ",
+      "translation_bh": "",
+      "translation_en": "All"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَلِكُلٍّۢ",
+      "translation_bh": "",
+      "translation_en": "And for everyone"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 49,
+      "part_of_speech": "N",
+      "text": "كُلَّ",
+      "translation_bh": "",
+      "translation_en": "every"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كُلٌّ",
+      "translation_bh": "",
+      "translation_en": "All"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ كُلُّ",
+      "translation_bh": "",
+      "translation_en": "All"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كُلِّهِۦ",
+      "translation_bh": "",
+      "translation_en": "all of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُلَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "all (of) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "لِكُلِّ",
+      "translation_bh": "",
+      "translation_en": "for each"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلَـٰلَةً",
+      "translation_bh": "",
+      "translation_en": "(has) no parent or child"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَلِكُلِّ",
+      "translation_bh": "",
+      "translation_en": "then for each"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "وَكُلًّۭا",
+      "translation_bh": "",
+      "translation_en": "And (to) all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كُلًّۭا",
+      "translation_bh": "",
+      "translation_en": "each (of them)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَلَـٰلَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Kalala"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِكُلٍّۢ",
+      "translation_bh": "",
+      "translation_en": "For each"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "لِّكُلِّ",
+      "translation_bh": "",
+      "translation_en": "For every"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُلًّا",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَلِكُلِّ",
+      "translation_bh": "",
+      "translation_en": "And for every"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُلًّۢا",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كُلُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "all of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَكُلٌّۭ",
+      "translation_bh": "",
+      "translation_en": "and (they) all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كُلُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "all of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلَّما",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكُلَّمَا",
+      "translation_bh": "",
+      "translation_en": "and every time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كُلٍّۢ",
+      "translation_bh": "",
+      "translation_en": "every kind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَكُلُّ",
+      "translation_bh": "",
+      "translation_en": "And every"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلٌّ",
+      "translation_bh": "",
+      "translation_en": "(is) a burden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَكُلَّ",
+      "translation_bh": "",
+      "translation_en": "And every"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكُلُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "And all of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكُلًّا",
+      "translation_bh": "",
+      "translation_en": "and (to) each"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكُلٌّ",
+      "translation_bh": "",
+      "translation_en": "And all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكُلٍّۢ",
+      "translation_bh": "",
+      "translation_en": "in all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَكُلًّا",
+      "translation_bh": "",
+      "translation_en": "So each"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُلُّهُنَّ ۚ",
+      "translation_bh": "",
+      "translation_en": "all of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُلِّهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "all"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُلِّهَا",
+      "translation_bh": "",
+      "translation_en": "all of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّكُلِّ",
+      "translation_bh": "",
+      "translation_en": "to every"
+    }
+  ]
+}

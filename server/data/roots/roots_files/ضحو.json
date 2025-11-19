@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 685,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ضُحًى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَضْحَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ضحو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ضُحًى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضُحًۭى",
+      "translation_bh": "",
+      "translation_en": "(in) daylight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَضْحَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَضْحَىٰ",
+      "translation_bh": "",
+      "translation_en": "exposed to the sun's heat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُحًى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضُحَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "its brightness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُحًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَضُحَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "and its brightness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضُحًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلضُّحَىٰ",
+      "translation_bh": "",
+      "translation_en": "By the morning brightness"
+    }
+  ]
+}

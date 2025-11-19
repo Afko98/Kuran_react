@@ -1,0 +1,748 @@
+{
+  "description_bh": "",
+  "id": 60,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثُلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمَثَّلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُثْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْثَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَماثِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مثل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَثَلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "Their example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "كَمَثَلِ",
+      "translation_bh": "",
+      "translation_en": "(is) like (the) example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مِّثْلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "like it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "مَثَلًۭا",
+      "translation_bh": "",
+      "translation_en": "an example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَثَلًۭا ۘ",
+      "translation_bh": "",
+      "translation_en": "example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلِهَآ ۗ",
+      "translation_bh": "",
+      "translation_en": "similar (to) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "مِثْلَ",
+      "translation_bh": "",
+      "translation_en": "similar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "مِّثْلَ",
+      "translation_bh": "",
+      "translation_en": "similar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِمِثْلِ",
+      "translation_bh": "",
+      "translation_en": "in (the) like"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَمَثَلُ",
+      "translation_bh": "",
+      "translation_en": "And (the) example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مَّثَلُ",
+      "translation_bh": "",
+      "translation_en": "like (came to)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "مِثْلُ",
+      "translation_bh": "",
+      "translation_en": "(is the) like"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَمَثَلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "Then his example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلَيْهِمْ",
+      "translation_bh": "",
+      "translation_en": "twice of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَثَلَ",
+      "translation_bh": "",
+      "translation_en": "(the) likeness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "مَثَلُ",
+      "translation_bh": "",
+      "translation_en": "Example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مِّثْلُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "like it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلَيْهَا",
+      "translation_bh": "",
+      "translation_en": "twice of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلُهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "(would be) like them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَمِثْلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and the like of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مِّثْلُ",
+      "translation_bh": "",
+      "translation_en": "(is) similar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْثَالُكُم ۚ",
+      "translation_bh": "",
+      "translation_en": "like you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّثَلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "[similar to him]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْثَالِهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "the like of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلَهَا",
+      "translation_bh": "",
+      "translation_en": "the like of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "similar to it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَثَلًا",
+      "translation_bh": "",
+      "translation_en": "(as) an example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْثَالُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "like you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمِثْلِهَا",
+      "translation_bh": "",
+      "translation_en": "(is) like it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ مَثَلُ",
+      "translation_bh": "",
+      "translation_en": "(The) example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَثَلًا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) comparison"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلَنَا",
+      "translation_bh": "",
+      "translation_en": "like us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثُلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَثُلَـٰتُ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] similar punishments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْثَالَ",
+      "translation_bh": "",
+      "translation_en": "the examples"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ مَّثَلُ",
+      "translation_bh": "",
+      "translation_en": "The example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مِّثْلُنَا",
+      "translation_bh": "",
+      "translation_en": "like us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مِّثْلُكُمْ",
+      "translation_bh": "",
+      "translation_en": "like you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَثَلُ",
+      "translation_bh": "",
+      "translation_en": "(is) the similitude"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْثَالَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the similitude"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِمِثْلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "the like of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَثَلٍۢ",
+      "translation_bh": "",
+      "translation_en": "example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "the like of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّثَلًۭا",
+      "translation_bh": "",
+      "translation_en": "the example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّثَلَ",
+      "translation_bh": "",
+      "translation_en": "the example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَثَلٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمَثَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَمَثَّلَ",
+      "translation_bh": "",
+      "translation_en": "then he assumed for her the likeness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُثْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُثْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "the exemplary"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْثَلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(the) best of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "like you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَماثِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلتَّمَاثِيلُ",
+      "translation_bh": "",
+      "translation_en": "[the] statues"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمِثْلَهُم",
+      "translation_bh": "",
+      "translation_en": "and (the) like thereof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَثَلٌۭ",
+      "translation_bh": "",
+      "translation_en": "an example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلَكُمْ",
+      "translation_bh": "",
+      "translation_en": "like you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلِنَا",
+      "translation_bh": "",
+      "translation_en": "like ourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِمِثْلِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "(to the) like of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمَثَلًۭا",
+      "translation_bh": "",
+      "translation_en": "and an example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْثَـٰلَ",
+      "translation_bh": "",
+      "translation_en": "the examples"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَثَلٍ",
+      "translation_bh": "",
+      "translation_en": "with an example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْثَـٰلَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the examples"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْثَـٰلُ",
+      "translation_bh": "",
+      "translation_en": "examples"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَماثِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَمَـٰثِيلَ",
+      "translation_bh": "",
+      "translation_en": "and statues"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّثَلًا",
+      "translation_bh": "",
+      "translation_en": "an example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلَهُم ۚ",
+      "translation_bh": "",
+      "translation_en": "(the) like of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِمِثْلِ",
+      "translation_bh": "",
+      "translation_en": "For (the) like"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلَهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "(the) like thereof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَمِثْلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "like Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلُهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "like it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "(the) like thereof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَمْثَـٰلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their similitudes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْثَـٰلُهَا",
+      "translation_bh": "",
+      "translation_en": "its likeness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْثَـٰلَكُم",
+      "translation_bh": "",
+      "translation_en": "(the) likes of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَثَلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "And their similitude"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْلِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "like it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَأَمْثَـٰلِ",
+      "translation_bh": "",
+      "translation_en": "Like"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْثَـٰلَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your likeness[es]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "(the) like of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَثَلًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "example"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْلُهَا",
+      "translation_bh": "",
+      "translation_en": "like them"
+    }
+  ]
+}

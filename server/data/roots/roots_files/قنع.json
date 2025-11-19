@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1142,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُقْنِعِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قانِع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قنع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُقْنِعِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُقْنِعِى",
+      "translation_bh": "",
+      "translation_en": "raised up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قانِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَانِعَ",
+      "translation_bh": "",
+      "translation_en": "the needy who do not ask"
+    }
+  ]
+}

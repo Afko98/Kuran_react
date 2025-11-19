@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 612,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فِضَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَضُّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فضض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فِضَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْفِضَّةِ",
+      "translation_bh": "",
+      "translation_en": "and [the] silver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَضُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَٱنفَضُّوا۟",
+      "translation_bh": "",
+      "translation_en": "surely they (would have) dispersed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِضَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْفِضَّةَ",
+      "translation_bh": "",
+      "translation_en": "and the silver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِضَّة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "فِضَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "silver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَضُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنفَضُّوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they rushed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَضُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنفَضُّوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "they disband"
+    }
+  ]
+}

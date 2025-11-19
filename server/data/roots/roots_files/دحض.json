@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 913,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُدْحِضُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْحَض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "داحِضَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دحض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُدْحِضُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِيُدْحِضُوا۟",
+      "translation_bh": "",
+      "translation_en": "to refute"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْحَض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُدْحَضِينَ",
+      "translation_bh": "",
+      "translation_en": "the losers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داحِضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَاحِضَةٌ",
+      "translation_bh": "",
+      "translation_en": "(is) invalid"
+    }
+  ]
+}

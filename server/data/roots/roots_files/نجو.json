@@ -1,0 +1,583 @@
+{
+  "description_bh": "",
+  "id": 131,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنَجُّو",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجاة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَناجَيْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناجَيْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نجو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَجَّيْنَـٰكُم",
+      "translation_bh": "",
+      "translation_en": "We saved you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنجَيْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "then We saved you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّجْوَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "their secret talk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُنَجِّيكُم",
+      "translation_bh": "",
+      "translation_en": "saves you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنجَىٰنَا",
+      "translation_bh": "",
+      "translation_en": "He saves us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَأَنجَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "so We saved him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَجَّىٰنَا",
+      "translation_bh": "",
+      "translation_en": "saved us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَنجَيْنَـٰكُم",
+      "translation_bh": "",
+      "translation_en": "We saved you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَنجَيْنَا",
+      "translation_bh": "",
+      "translation_en": "We saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَجْوَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their secret conversation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنجَيْتَنَا",
+      "translation_bh": "",
+      "translation_en": "You save us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنجَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "He saved them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَنَجَّيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "so We saved him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَجِّنَا",
+      "translation_bh": "",
+      "translation_en": "And save us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُنَجِّيكَ",
+      "translation_bh": "",
+      "translation_en": "We will save you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُنَجِّى",
+      "translation_bh": "",
+      "translation_en": "We will save"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُنجِ",
+      "translation_bh": "",
+      "translation_en": "(that) We save"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "نَجَّيْنَا",
+      "translation_bh": "",
+      "translation_en": "We saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَجَّيْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "and We saved them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَاجٍۢ",
+      "translation_bh": "",
+      "translation_en": "(would be) saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَجَا",
+      "translation_bh": "",
+      "translation_en": "was saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَجِيًّۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(in) private consultation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنُجِّىَ",
+      "translation_bh": "",
+      "translation_en": "and was saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنجَىٰكُم",
+      "translation_bh": "",
+      "translation_en": "He saved you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنَجُّو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمُنَجُّوهُمْ",
+      "translation_bh": "",
+      "translation_en": "surely will save them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَجْوَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "(are) in private conversation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَجَّىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "He delivers you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَجِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "(for) conversation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنَجَّيْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "but We saved you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنَّجْوَىٰ",
+      "translation_bh": "",
+      "translation_en": "the private conversation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّجْوَى",
+      "translation_bh": "",
+      "translation_en": "the private conversation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنجَيْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and We saved them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَنَجَّيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And We delivered him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُـۨجِى",
+      "translation_bh": "",
+      "translation_en": "We save"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَنجَيْنَا",
+      "translation_bh": "",
+      "translation_en": "And We saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَنَجِّنِى",
+      "translation_bh": "",
+      "translation_en": "and save me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَجِّنِى",
+      "translation_bh": "",
+      "translation_en": "Save me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَجَوْتَ",
+      "translation_bh": "",
+      "translation_en": "You have escaped"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنجَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "But Allah saved him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنُنَجِّيَنَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "We will surely save him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنَجُّو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنَجُّوكَ",
+      "translation_bh": "",
+      "translation_en": "(will) save you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَجَّىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "He delivers them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَجَّيْنَـٰهُمَا",
+      "translation_bh": "",
+      "translation_en": "And We saved both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَجَّيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We saved him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُنَجِّى",
+      "translation_bh": "",
+      "translation_en": "And Allah will deliver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجاة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّجَوٰةِ",
+      "translation_bh": "",
+      "translation_en": "the salvation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَجَّيْنَا",
+      "translation_bh": "",
+      "translation_en": "And We saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَجْوَىٰهُم ۚ",
+      "translation_bh": "",
+      "translation_en": "and their private counsel(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّجَّيْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "We saved them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّجْوَىٰ",
+      "translation_bh": "",
+      "translation_en": "secret counsel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَناجَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَنَـٰجَوْنَ",
+      "translation_bh": "",
+      "translation_en": "and they hold secret counsels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَناجَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنَـٰجَيْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you hold secret counsel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَناجَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَنَـٰجَوْا۟",
+      "translation_bh": "",
+      "translation_en": "hold secret counsel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَناجَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَنَـٰجَوْا۟",
+      "translation_bh": "",
+      "translation_en": "but hold secret counsel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناجَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَـٰجَيْتُمُ",
+      "translation_bh": "",
+      "translation_en": "you privately consult"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَجْوَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَجْوَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "your private consultation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُنجِيكُم",
+      "translation_bh": "",
+      "translation_en": "(that) will save you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنجَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنجِيهِ",
+      "translation_bh": "",
+      "translation_en": "it (could) save him"
+    }
+  ]
+}

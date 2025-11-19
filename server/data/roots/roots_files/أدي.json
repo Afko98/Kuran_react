@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 702,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَداء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤَدِّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أدي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَداء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَدَآءٌ",
+      "translation_bh": "",
+      "translation_en": "[and] payment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤَدِّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيُؤَدِّ",
+      "translation_bh": "",
+      "translation_en": "then let discharge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤَدِّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤَدِّهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "he will return it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤَدِّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤَدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "render"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤَدِّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَدُّوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Deliver"
+    }
+  ]
+}

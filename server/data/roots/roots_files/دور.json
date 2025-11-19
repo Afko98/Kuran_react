@@ -1,0 +1,293 @@
+{
+  "description_bh": "",
+  "id": 193,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُدِيرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَوائِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَدُورُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيّار",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "دِيَـٰرِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "دِيَـٰرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلدَّارُ",
+      "translation_bh": "",
+      "translation_en": "the home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِيَـٰرِنَا",
+      "translation_bh": "",
+      "translation_en": "our homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُدِيرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُدِيرُونَهَا",
+      "translation_bh": "",
+      "translation_en": "you carry out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِيَـٰرِكُم",
+      "translation_bh": "",
+      "translation_en": "your homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَآئِرَ ةٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "a misfortune"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَلدَّارُ",
+      "translation_bh": "",
+      "translation_en": "but the home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "دَارُ",
+      "translation_bh": "",
+      "translation_en": "(will be) home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدَّارِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(a good) home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "دَارِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "دَارَ",
+      "translation_bh": "",
+      "translation_en": "(the) home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلدَّارُ",
+      "translation_bh": "",
+      "translation_en": "And the home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دِيَـٰرِهِم",
+      "translation_bh": "",
+      "translation_en": "their homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَوائِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدَّوَآئِرَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the turns (of misfortune)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دَآئِرَةُ",
+      "translation_bh": "",
+      "translation_en": "(will be) the turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَارِ",
+      "translation_bh": "",
+      "translation_en": "(the) Home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَارِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your home(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَلَدَارُ",
+      "translation_bh": "",
+      "translation_en": "And surely the home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلدَّارِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Home "
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدِّيَارِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدَّارِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the good end in the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلدَّارَ",
+      "translation_bh": "",
+      "translation_en": "the home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِدَارِهِ",
+      "translation_bh": "",
+      "translation_en": "and his home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَدُورُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدُورُ",
+      "translation_bh": "",
+      "translation_en": "revolving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَدِيَـٰرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their houses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلدَّارَ",
+      "translation_bh": "",
+      "translation_en": "and the Home"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيّار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَيَّارًا",
+      "translation_bh": "",
+      "translation_en": "(as) an inhabitant"
+    }
+  ]
+}

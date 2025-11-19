@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 936,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَيْط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِياط",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خيط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَيْط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْطُ",
+      "translation_bh": "",
+      "translation_en": "the thread"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْطِ",
+      "translation_bh": "",
+      "translation_en": "the thread"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِياط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخِيَاطِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the needle"
+    }
+  ]
+}

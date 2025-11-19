@@ -1,0 +1,71 @@
+{
+  "description_bh": "",
+  "id": 683,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زَيْتُون",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَيْتُونَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَيْت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زيت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زَيْتُون",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلزَّيْتُونَ",
+      "translation_bh": "",
+      "translation_en": "and the olives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَيْتُونَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَيْتُونَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "an olive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَيْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَيْتُهَا",
+      "translation_bh": "",
+      "translation_en": "its oil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَيْتُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَزَيْتُونًۭا",
+      "translation_bh": "",
+      "translation_en": "And olive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَيْتُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلزَّيْتُونِ",
+      "translation_bh": "",
+      "translation_en": "and the olive"
+    }
+  ]
+}

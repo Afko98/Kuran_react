@@ -1,0 +1,500 @@
+{
+  "description_bh": "",
+  "id": 144,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَكْلِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَلَّمُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كلم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلِمَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كَلَـٰمَ",
+      "translation_bh": "",
+      "translation_en": "(the) words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُكَلِّمُنَا",
+      "translation_bh": "",
+      "translation_en": "speaks to us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكَلِمَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "with words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُكَلِّمُهُمُ",
+      "translation_bh": "",
+      "translation_en": "will speak to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَلَّمَ",
+      "translation_bh": "",
+      "translation_en": "spoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِكَلِمَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "[of] a Word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُكَلِّمَ",
+      "translation_bh": "",
+      "translation_en": "you will speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُكَلِّمُ",
+      "translation_bh": "",
+      "translation_en": "And he will speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلِمَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْكَلِمَ",
+      "translation_bh": "",
+      "translation_en": "the words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكَلَّمَ",
+      "translation_bh": "",
+      "translation_en": "And spoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَكْلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَكْلِيمًۭا",
+      "translation_bh": "",
+      "translation_en": "(in a) conversation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكَلِمَتُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and His word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُكَلِّمُ",
+      "translation_bh": "",
+      "translation_en": "you spoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِكَلِمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "(the) words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكَلَّمَهُمُ",
+      "translation_bh": "",
+      "translation_en": "and spoken to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "كَلِمَتُ",
+      "translation_bh": "",
+      "translation_en": "(the) word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِكَلِمَـٰتِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "His words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكَلَّمَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and spoke to him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِكَلَـٰمِى",
+      "translation_bh": "",
+      "translation_en": "and with My words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُكَلِّمُهُمْ",
+      "translation_bh": "",
+      "translation_en": "speak to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكَلِمَـٰتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and His Words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِكَلِمَـٰتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "by His words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كَلِمَةَ",
+      "translation_bh": "",
+      "translation_en": "(the) word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكَلِمَةُ",
+      "translation_bh": "",
+      "translation_en": "while (the) Word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "كَلِمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَلَّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَكَلَّمُ",
+      "translation_bh": "",
+      "translation_en": "will speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "كَلِمَةُ",
+      "translation_bh": "",
+      "translation_en": "(the) Word of your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَلَّمَهُۥ",
+      "translation_bh": "",
+      "translation_en": "he spoke to him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كُلِّمَ",
+      "translation_bh": "",
+      "translation_en": "could be made to speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَلِمَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلِمَةٍ",
+      "translation_bh": "",
+      "translation_en": "(of) a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِكَلِمَـٰتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "His Words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّكَلِمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "for (the) Words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَلِمَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "(the) Words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُكَلِّمَ",
+      "translation_bh": "",
+      "translation_en": "I will speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُكَلِّمُ",
+      "translation_bh": "",
+      "translation_en": "(can) we speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلِمَةٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُكَلِّمُونِ",
+      "translation_bh": "",
+      "translation_en": "speak to Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَلَّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّتَكَلَّمَ",
+      "translation_bh": "",
+      "translation_en": "we speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُكَلِّمُهُمْ",
+      "translation_bh": "",
+      "translation_en": "speaking to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَلَّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَكَلَّمُ",
+      "translation_bh": "",
+      "translation_en": "speaks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَلِمُ",
+      "translation_bh": "",
+      "translation_en": "the words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُكَلِّمُنَآ",
+      "translation_bh": "",
+      "translation_en": "and will speak to Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلِمَتُنَا",
+      "translation_bh": "",
+      "translation_en": "Our Word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكَلِمَـٰتِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "by His Words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُكَلِّمَهُ",
+      "translation_bh": "",
+      "translation_en": "Allah should speak to him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلِمَةًۢ",
+      "translation_bh": "",
+      "translation_en": "a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكَلِمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "(in the) Words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَلَّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَكَلَّمُونَ",
+      "translation_bh": "",
+      "translation_en": "they will speak"
+    }
+  ]
+}

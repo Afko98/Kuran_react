@@ -1,0 +1,111 @@
+{
+  "description_bh": "",
+  "id": 470,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحْرُثُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حرث",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرْثَ",
+      "translation_bh": "",
+      "translation_en": "the field"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرْثٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) a tilth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرْثَكُمْ",
+      "translation_bh": "",
+      "translation_en": "(to) your tilth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْحَرْثِ ۗ",
+      "translation_bh": "",
+      "translation_en": "and [the] tilled land"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَرْثَ",
+      "translation_bh": "",
+      "translation_en": "(the) harvest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرْثِ",
+      "translation_bh": "",
+      "translation_en": "the crops"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَرْثٌ",
+      "translation_bh": "",
+      "translation_en": "and crops"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرْثِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "his harvest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحْرُثُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْرُثُونَ",
+      "translation_bh": "",
+      "translation_en": "you sow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرْثِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your crop"
+    }
+  ]
+}

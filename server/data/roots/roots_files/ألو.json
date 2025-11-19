@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 253,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُؤْلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آلاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْتَلِ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ألو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُؤْلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْلُونَ",
+      "translation_bh": "",
+      "translation_en": "swear (off)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْلُونَكُمْ",
+      "translation_bh": "",
+      "translation_en": "they will spare you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آلاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَالَآءَ",
+      "translation_bh": "",
+      "translation_en": "(the) Bounties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْتَلِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتَلِ",
+      "translation_bh": "",
+      "translation_en": "let swear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آلاء",
+      "occurrences": 32,
+      "part_of_speech": "N",
+      "text": "ءَالَآءِ",
+      "translation_bh": "",
+      "translation_en": "the Favors"
+    }
+  ]
+}

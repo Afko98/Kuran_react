@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 790,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مائِدَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمِيدَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ميد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مائِدَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَآئِدَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a table spread"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمِيدَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَمِيدَ",
+      "translation_bh": "",
+      "translation_en": "it should shake"
+    }
+  ]
+}

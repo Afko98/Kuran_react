@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1250,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كادِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَدْح",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كدح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كادِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَادِحٌ",
+      "translation_bh": "",
+      "translation_en": "(are) laboring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَدْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَدْحًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) exertion"
+    }
+  ]
+}

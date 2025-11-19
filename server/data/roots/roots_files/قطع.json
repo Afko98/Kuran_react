@@ -1,0 +1,339 @@
+{
+  "description_bh": "",
+  "id": 256,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَطَّعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِطَع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِطْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْطُوع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاطِعَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْطُوعَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قطع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَقْطَعُونَ",
+      "translation_bh": "",
+      "translation_en": "and [they] cut"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَقَطَّعَتْ",
+      "translation_bh": "",
+      "translation_en": "[and] will be cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَقْطَعَ",
+      "translation_bh": "",
+      "translation_en": "That He may cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُقَطَّعَ",
+      "translation_bh": "",
+      "translation_en": "be cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱقْطَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "[then] cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقُطِعَ",
+      "translation_bh": "",
+      "translation_en": "So was cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَّقَطَّعَ",
+      "translation_bh": "",
+      "translation_en": "have been severed (bonds)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَطَعْنَا",
+      "translation_bh": "",
+      "translation_en": "And We cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَأُقَطِّعَنَّ",
+      "translation_bh": "",
+      "translation_en": "I will surely cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَطَّعْنَـٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "And We divided them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَطَّعْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We divided them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَقْطَعَ",
+      "translation_bh": "",
+      "translation_en": "and cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقَطَّعَ",
+      "translation_bh": "",
+      "translation_en": "(are) cut into pieces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقْطَعُونَ",
+      "translation_bh": "",
+      "translation_en": "they cross"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِطَع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِطَعًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) pieces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِطْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِقِطْعٍۢ",
+      "translation_bh": "",
+      "translation_en": "in a part"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَطَّعْنَ",
+      "translation_bh": "",
+      "translation_en": "and cut"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَطَّعْنَ",
+      "translation_bh": "",
+      "translation_en": "cut"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِطَع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِطَعٌۭ",
+      "translation_bh": "",
+      "translation_en": "are tracks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قُطِّعَتْ",
+      "translation_bh": "",
+      "translation_en": "could be cloven asunder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْطُوع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقْطُوعٌۭ",
+      "translation_bh": "",
+      "translation_en": "would be cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَأُقَطِّعَنَّ",
+      "translation_bh": "",
+      "translation_en": "So surely I will cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَقَطَّعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "But they cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لْيَقْطَعْ",
+      "translation_bh": "",
+      "translation_en": "let him cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَقَطَّعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "But they cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاطِعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَاطِعَةً",
+      "translation_bh": "",
+      "translation_en": "the one to decide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَقْطَعُونَ",
+      "translation_bh": "",
+      "translation_en": "and you cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَطَّعَ",
+      "translation_bh": "",
+      "translation_en": "so it cuts into pieces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَطَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُقَطِّعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and cut off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْطُوعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقْطُوعَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "limited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَطَعْتُم",
+      "translation_bh": "",
+      "translation_en": "you cut down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُطِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقَطَعْنَا",
+      "translation_bh": "",
+      "translation_en": "certainly We (would) have cut off"
+    }
+  ]
+}

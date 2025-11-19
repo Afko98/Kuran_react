@@ -1,0 +1,780 @@
+{
+  "description_bh": "",
+  "id": 65,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْتَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمات",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْتَت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "موت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "[the] death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْوَٰتًۭا",
+      "translation_bh": "",
+      "translation_en": "dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُمِيتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will cause you to die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتَىٰ",
+      "translation_bh": "",
+      "translation_en": "the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتَ",
+      "translation_bh": "",
+      "translation_en": "(for) [the] death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَمُوتُنَّ",
+      "translation_bh": "",
+      "translation_en": "(should) you die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتُ",
+      "translation_bh": "",
+      "translation_en": "[the] death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْوَٰتٌۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "(They are) dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَمَاتُوا۟",
+      "translation_bh": "",
+      "translation_en": "and die[d]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مَوْتِهَا",
+      "translation_bh": "",
+      "translation_en": "its death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْتَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَيْتَةَ",
+      "translation_bh": "",
+      "translation_en": "the dead animals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَمُتْ",
+      "translation_bh": "",
+      "translation_en": "then dies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتِ",
+      "translation_bh": "",
+      "translation_en": "(of) [the] death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "مُوتُوا۟",
+      "translation_bh": "",
+      "translation_en": "Die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيُمِيتُ",
+      "translation_bh": "",
+      "translation_en": "and causes death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُمِيتُ ۖ",
+      "translation_bh": "",
+      "translation_en": "and cause death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْتِهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "its death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَمَاتَهُ",
+      "translation_bh": "",
+      "translation_en": "Then he was made to die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "(to) the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْمَيِّتِ",
+      "translation_bh": "",
+      "translation_en": "the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمَيِّتَ",
+      "translation_bh": "",
+      "translation_en": "the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "مَّاتَ",
+      "translation_bh": "",
+      "translation_en": "he died"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمُوتَ",
+      "translation_bh": "",
+      "translation_en": "he dies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "مَاتُوا۟",
+      "translation_bh": "",
+      "translation_en": "they (would have) died"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُمِيتُ ۗ",
+      "translation_bh": "",
+      "translation_en": "and causes death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مُتُّمْ",
+      "translation_bh": "",
+      "translation_en": "die[d] "
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مُّتُّمْ",
+      "translation_bh": "",
+      "translation_en": "you die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْوَٰتًۢا ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتِ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَمُوتُونَ",
+      "translation_bh": "",
+      "translation_en": "die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْتِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "his death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْتَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَيْتَةُ",
+      "translation_bh": "",
+      "translation_en": "the dead animals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَوْتَىٰ",
+      "translation_bh": "",
+      "translation_en": "But the dead "
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَيْتًۭا",
+      "translation_bh": "",
+      "translation_en": "dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْتَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّيْتَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(born) dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْتَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَيْتَةً",
+      "translation_bh": "",
+      "translation_en": "dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَمَاتِى",
+      "translation_bh": "",
+      "translation_en": "and my dying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمُوتُونَ",
+      "translation_bh": "",
+      "translation_en": "you will die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّيِّتٍۢ",
+      "translation_bh": "",
+      "translation_en": "dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَيُمِيتُ ۖ",
+      "translation_bh": "",
+      "translation_en": "and causes death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُمِيتُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and He causes death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتَىٰ ۗ",
+      "translation_bh": "",
+      "translation_en": "the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَيِّتٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "will die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَنُمِيتُ",
+      "translation_bh": "",
+      "translation_en": "and We cause death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمْوَٰتٌ",
+      "translation_bh": "",
+      "translation_en": "(They are) dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَمُوتُ ۚ",
+      "translation_bh": "",
+      "translation_en": "dies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَوْتِهَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "its death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَمَاتِ",
+      "translation_bh": "",
+      "translation_en": "(after) the death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَمُوتُ",
+      "translation_bh": "",
+      "translation_en": "he dies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "مِتُّ",
+      "translation_bh": "",
+      "translation_en": "I (had) died"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمُوتُ",
+      "translation_bh": "",
+      "translation_en": "I will die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مِّتَّ",
+      "translation_bh": "",
+      "translation_en": "you die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمَيِّتُونَ",
+      "translation_bh": "",
+      "translation_en": "surely (will) die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مِتُّمْ",
+      "translation_bh": "",
+      "translation_en": "you are dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَمُوتُ",
+      "translation_bh": "",
+      "translation_en": "we die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "مِتْنَا",
+      "translation_bh": "",
+      "translation_en": "we are dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْتًۭا",
+      "translation_bh": "",
+      "translation_en": "death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّيْتًۭا",
+      "translation_bh": "",
+      "translation_en": "dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُمِيتُنِى",
+      "translation_bh": "",
+      "translation_en": "will cause me to die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَوْتِهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "its death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمُوتُ ۚ",
+      "translation_bh": "",
+      "translation_en": "it will die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْتِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "his death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمْوَٰتُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَمُوتُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَيِّتِينَ",
+      "translation_bh": "",
+      "translation_en": "(to) die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْتَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْتَتَنَا",
+      "translation_bh": "",
+      "translation_en": "our death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَيِّتٌۭ",
+      "translation_bh": "",
+      "translation_en": "will die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّيِّتُونَ",
+      "translation_bh": "",
+      "translation_en": "(will also) die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمُتْ",
+      "translation_bh": "",
+      "translation_en": "die"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَتَّنَا",
+      "translation_bh": "",
+      "translation_en": "You gave us death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتَىٰٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "(to) the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّيْتًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْتَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْتَتُنَا",
+      "translation_bh": "",
+      "translation_en": "our death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْتَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتَةَ",
+      "translation_bh": "",
+      "translation_en": "the death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَمَاتُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and their death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْتَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "(to) the dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَاتَ",
+      "translation_bh": "",
+      "translation_en": "causes death"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَيِّت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَمْوَٰتًۭا",
+      "translation_bh": "",
+      "translation_en": "and (the) dead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَماتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمَاتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "He causes him to die"
+    }
+  ]
+}

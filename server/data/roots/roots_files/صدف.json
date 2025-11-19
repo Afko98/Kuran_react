@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 792,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صَدَفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَفَيْن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صدف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صَدَفَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَصْدِفُونَ",
+      "translation_bh": "",
+      "translation_en": "turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَصَدَفَ",
+      "translation_bh": "",
+      "translation_en": "and turns away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَفَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّدَفَيْنِ",
+      "translation_bh": "",
+      "translation_en": "the two cliffs"
+    }
+  ]
+}

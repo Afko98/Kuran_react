@@ -1,0 +1,374 @@
+{
+  "description_bh": "",
+  "id": 134,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُرُمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْرُوم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حرم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُحَرَّمٌ",
+      "translation_bh": "",
+      "translation_en": "(was) forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرَامِ ۚ",
+      "translation_bh": "",
+      "translation_en": "Al-Haraam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرَامِ ۖ",
+      "translation_bh": "",
+      "translation_en": "Al-Haraam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 17,
+      "part_of_speech": "V",
+      "text": "حَرَّمَ",
+      "translation_bh": "",
+      "translation_en": "He has forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرَامِ",
+      "translation_bh": "",
+      "translation_en": "Al-Haraam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرَامُ",
+      "translation_bh": "",
+      "translation_en": "[the] sacred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُرُمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْحُرُمَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "and for all the violations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَرَّمَ",
+      "translation_bh": "",
+      "translation_en": "but (has) forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حُرِّمَ",
+      "translation_bh": "",
+      "translation_en": "was forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "حُرِّمَتْ",
+      "translation_bh": "",
+      "translation_en": "Forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "حَرَّمْنَا",
+      "translation_bh": "",
+      "translation_en": "We made unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُرُمٌ ۗ",
+      "translation_bh": "",
+      "translation_en": "(are in) Ihram"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرَامَ",
+      "translation_bh": "",
+      "translation_en": "the sacred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُحَرَّمَةٌ",
+      "translation_bh": "",
+      "translation_en": "(will be) forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحَرِّمُوا۟",
+      "translation_bh": "",
+      "translation_en": "make unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حُرُمٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are in) Ihram"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَحُرِّمَ",
+      "translation_bh": "",
+      "translation_en": "and is made unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُرُمًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "(are in) Ihram"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُحَرَّمٌ",
+      "translation_bh": "",
+      "translation_en": "and forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَرَّمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and forbid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُحَرَّمًا",
+      "translation_bh": "",
+      "translation_en": "(anything) forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَرَّمَهُمَا",
+      "translation_bh": "",
+      "translation_en": "has forbidden both"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُحَرِّمُ",
+      "translation_bh": "",
+      "translation_en": "and makes unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُرُمُ",
+      "translation_bh": "",
+      "translation_en": "the sacred months"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَرِّمُونَ",
+      "translation_bh": "",
+      "translation_en": "they make unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُحَرِّمُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and make it unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرَامًۭا",
+      "translation_bh": "",
+      "translation_en": "unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُحَرَّمِ",
+      "translation_bh": "",
+      "translation_en": "Your Sacred House"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرَامٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَرَٰمٌ",
+      "translation_bh": "",
+      "translation_en": "And (there is) prohibition"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُرُمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُرُمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "(the) sacred rites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَرَّمَهَا",
+      "translation_bh": "",
+      "translation_en": "made it sacred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَحَرَّمْنَا",
+      "translation_bh": "",
+      "translation_en": "And We had forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَرَمًا",
+      "translation_bh": "",
+      "translation_en": "a sanctuary"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْرُوم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَحْرُومِ",
+      "translation_bh": "",
+      "translation_en": "and the deprived"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْرُوم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَحْرُومُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) deprived"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحَرِّمُ",
+      "translation_bh": "",
+      "translation_en": "you prohibit"
+    }
+  ]
+}

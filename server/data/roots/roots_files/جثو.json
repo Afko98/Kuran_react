@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1008,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جِثِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاثِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جثو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جِثِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جِثِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "bent (on) knees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاثِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَاثِيَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "kneeling"
+    }
+  ]
+}

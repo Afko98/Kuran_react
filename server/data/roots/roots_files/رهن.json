@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 942,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رِهان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهِينَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رهن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رِهان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرِهَـٰنٌۭ",
+      "translation_bh": "",
+      "translation_en": "then pledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَهِينٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) pledged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهِينَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَهِينَةٌ",
+      "translation_bh": "",
+      "translation_en": "(is) pledged"
+    }
+  ]
+}

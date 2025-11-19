@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 906,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَمَإ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِئَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حمأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَمَإ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَمَإٍۢ",
+      "translation_bh": "",
+      "translation_en": "black mud"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَمِئَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) dark mud"
+    }
+  ]
+}

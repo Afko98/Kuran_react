@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 823,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حاصِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حصب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حاصِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَاصِبًۭا",
+      "translation_bh": "",
+      "translation_en": "a storm of stones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَصَبُ",
+      "translation_bh": "",
+      "translation_en": "(are) firewood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاصِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَاصِبًا",
+      "translation_bh": "",
+      "translation_en": "a storm of stones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاصِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَاصِبًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "a storm of stones"
+    }
+  ]
+}

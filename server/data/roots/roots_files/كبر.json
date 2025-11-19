@@ -1,0 +1,785 @@
+{
+  "description_bh": "",
+  "id": 66,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِيرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِّرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبُرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَبَّرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبْرِياء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَكْبِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَكَبِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَكْبِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبْرَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبَراء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِكْبار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبّار",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كبر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَكْبَرَ",
+      "translation_bh": "",
+      "translation_en": "and was arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَكَبِيرَةٌ",
+      "translation_bh": "",
+      "translation_en": "(is) surely difficult"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَكْبَرْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you acted arrogantly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَكَبِيرَةً",
+      "translation_bh": "",
+      "translation_en": "certainly a great (test)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتُكَبِّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and that you magnify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَبِيرٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) a great (sin)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "أَكْبَرُ",
+      "translation_bh": "",
+      "translation_en": "(is) greater (sin)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "كَبِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْكِبَرُ",
+      "translation_bh": "",
+      "translation_en": "[the] old age"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَبِيرًا",
+      "translation_bh": "",
+      "translation_en": "large"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "أَكْبَرُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) greater"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "كَبِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبُرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْبَرُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they will grow up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَبَآئِرَ",
+      "translation_bh": "",
+      "translation_en": "great (sins)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَكْبَرَ",
+      "translation_bh": "",
+      "translation_en": "greater"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَكْبِرْ",
+      "translation_bh": "",
+      "translation_en": "and is arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَكْبَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and were arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَسْتَكْبِرُونَ",
+      "translation_bh": "",
+      "translation_en": "arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبُرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "كَبُرَ",
+      "translation_bh": "",
+      "translation_en": "difficult"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَكْبَرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "greater"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَسْتَكْبِرُونَ",
+      "translation_bh": "",
+      "translation_en": "being arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَكَـٰبِرَ",
+      "translation_bh": "",
+      "translation_en": "greatest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَبَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَكَبَّرَ",
+      "translation_bh": "",
+      "translation_en": "you be arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "ٱسْتَكْبَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "(who) were arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱسْتَكْبَرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "were arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَكْبَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "but they showed arrogance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَكَبَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَكَبَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "are arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَكْبَرِ",
+      "translation_bh": "",
+      "translation_en": "(of) the greater Pilgrimage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَبِيرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "big"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبْرِياء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْكِبْرِيَآءُ",
+      "translation_bh": "",
+      "translation_en": "the greatness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَبِيرٍ",
+      "translation_bh": "",
+      "translation_en": "(of) a Great Day"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَكْبَرْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "they greatly admired him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَبِيرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "the eldest among them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْكَبِيرُ",
+      "translation_bh": "",
+      "translation_en": "the Most Great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْكِبَرِ",
+      "translation_bh": "",
+      "translation_en": "the old age"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَكْبِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّسْتَكْبِرُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَكْبِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَكْبِرِينَ",
+      "translation_bh": "",
+      "translation_en": "the arrogant ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَكَبِّر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَكَبِّرِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَكْبَرُ",
+      "translation_bh": "",
+      "translation_en": "and greater"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكِبَرَ",
+      "translation_bh": "",
+      "translation_en": "the old age"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبُرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْبُرُ",
+      "translation_bh": "",
+      "translation_en": "(is) great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكَبِّرْهُ",
+      "translation_bh": "",
+      "translation_en": "And magnify Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَكْبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَكْبِيرًۢا",
+      "translation_bh": "",
+      "translation_en": "(with all) magnificence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبُرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَبُرَتْ",
+      "translation_bh": "",
+      "translation_en": "Grave (is)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَبِيرَةً",
+      "translation_bh": "",
+      "translation_en": "a great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكُبْرَى",
+      "translation_bh": "",
+      "translation_en": "the Greatest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَكَبِيرُكُمُ",
+      "translation_bh": "",
+      "translation_en": "(is) your chief"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَكْبَرُ",
+      "translation_bh": "",
+      "translation_en": "[the] greatest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُكَبِّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "so that you may magnify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَكْبِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَكْبِرِينَ",
+      "translation_bh": "",
+      "translation_en": "(Being) arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِبْرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "took upon himself a greater share of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَكْبَرُ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) greatest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَكْبِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُسْتَكْبِرًۭا",
+      "translation_bh": "",
+      "translation_en": "arrogantly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَكْبِرُونَ ۩",
+      "translation_bh": "",
+      "translation_en": "are not arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبَراء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكُبَرَآءَنَا",
+      "translation_bh": "",
+      "translation_en": "and our great men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَبِيرٌ",
+      "translation_bh": "",
+      "translation_en": "great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِكْبار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱسْتِكْبَارًۭا",
+      "translation_bh": "",
+      "translation_en": "(Due to) arrogance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَكْبَرَ",
+      "translation_bh": "",
+      "translation_en": "he was arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْتَكْبَرْتَ",
+      "translation_bh": "",
+      "translation_en": "Are you arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَكْبَرْتَ",
+      "translation_bh": "",
+      "translation_en": "and were arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَكَبِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْمُتَكَبِّرِينَ",
+      "translation_bh": "",
+      "translation_en": "for the arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَبِيرِ",
+      "translation_bh": "",
+      "translation_en": "the Most Great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَكَبِّر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُتَكَبِّرٍۢ",
+      "translation_bh": "",
+      "translation_en": "arrogant one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِبْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِبْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "greatness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِيرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَبَـٰٓئِرَ",
+      "translation_bh": "",
+      "translation_en": "(the) greater"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبْرَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْكُبْرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the greatest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَكْبَرْتُمْ",
+      "translation_bh": "",
+      "translation_en": "but you were proud"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَكْبَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَكْبَرْتُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "while you are arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكَبِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "and big"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَكَبِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَكَبِّرُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Supreme"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَبِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبّار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُبَّارًۭا",
+      "translation_bh": "",
+      "translation_en": "great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَبِّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَكَبِّرْ",
+      "translation_bh": "",
+      "translation_en": "magnify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكُبَرِ",
+      "translation_bh": "",
+      "translation_en": "(of) the greatest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كُبْرَى",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْكُبْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "the great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْبَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَكْبَرَ",
+      "translation_bh": "",
+      "translation_en": "greatest"
+    }
+  ]
+}

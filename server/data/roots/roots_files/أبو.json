@@ -1,0 +1,575 @@
+{
+  "description_bh": "",
+  "id": 99,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبَوان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أبو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآئِكَ",
+      "translation_bh": "",
+      "translation_en": "(of) your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآءَنَآ ۗ",
+      "translation_bh": "",
+      "translation_en": "our forefathers (following)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَابَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبَوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِأَبَوَيْهِ",
+      "translation_bh": "",
+      "translation_en": "And for his parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبَوان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَبَوَاهُ",
+      "translation_bh": "",
+      "translation_en": "his parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُكُمْ",
+      "translation_bh": "",
+      "translation_en": "Your parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُكُم",
+      "translation_bh": "",
+      "translation_en": "your fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَابَآءَنَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "لِأَبِيهِ",
+      "translation_bh": "",
+      "translation_en": "to his father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَابَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُنَا",
+      "translation_bh": "",
+      "translation_en": "our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبَوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَوَيْكُم",
+      "translation_bh": "",
+      "translation_en": "your parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ءَابَآءَنَا",
+      "translation_bh": "",
+      "translation_en": "our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَءَابَآؤُكُم",
+      "translation_bh": "",
+      "translation_en": "and your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُنَآ",
+      "translation_bh": "",
+      "translation_en": "our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآؤُهُم",
+      "translation_bh": "",
+      "translation_en": "their forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "يَـٰٓأَبَتِ",
+      "translation_bh": "",
+      "translation_en": "O my father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبَوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَوَيْكَ",
+      "translation_bh": "",
+      "translation_en": "your two forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبِينَا",
+      "translation_bh": "",
+      "translation_en": "our father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَانَا",
+      "translation_bh": "",
+      "translation_en": "our father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَبِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "(of) your father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "يَـٰٓأَبَانَا",
+      "translation_bh": "",
+      "translation_en": "O our father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَاهُمْ",
+      "translation_bh": "",
+      "translation_en": "(to) their father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "يَـٰٓأَبَانَآ",
+      "translation_bh": "",
+      "translation_en": "O our father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآءِىٓ",
+      "translation_bh": "",
+      "translation_en": "(of) my forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبِيكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَاهُ",
+      "translation_bh": "",
+      "translation_en": "(from) his father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "their father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبُوهُم",
+      "translation_bh": "",
+      "translation_en": "their father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبًۭا",
+      "translation_bh": "",
+      "translation_en": "a father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَاكُمْ",
+      "translation_bh": "",
+      "translation_en": "your father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبِىٓ",
+      "translation_bh": "",
+      "translation_en": "my father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَبِى",
+      "translation_bh": "",
+      "translation_en": "(of) my father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "their father said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبَوان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَبَوَيْهِ",
+      "translation_bh": "",
+      "translation_en": "his parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِـَٔابَآئِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبُوهُمَا",
+      "translation_bh": "",
+      "translation_en": "their father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبُوكِ",
+      "translation_bh": "",
+      "translation_en": "your father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَءَابَآءَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَابَآؤُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَابَآئِنَا",
+      "translation_bh": "",
+      "translation_en": "our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآءَهُمُ",
+      "translation_bh": "",
+      "translation_en": "(to) their forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَءَابَآؤُنَا",
+      "translation_bh": "",
+      "translation_en": "and our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَابَآئِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "their fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآءِ",
+      "translation_bh": "",
+      "translation_en": "fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآئِكُمْ",
+      "translation_bh": "",
+      "translation_en": "(of) your fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَابَآئِكُمُ",
+      "translation_bh": "",
+      "translation_en": "(of) your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَابَآؤُكُمُ",
+      "translation_bh": "",
+      "translation_en": "and your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأَبِىٓ",
+      "translation_bh": "",
+      "translation_en": "my father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَابَآؤُنَآ",
+      "translation_bh": "",
+      "translation_en": "and our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبُونَا",
+      "translation_bh": "",
+      "translation_en": "and our father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِـَٔابَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "by their fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَابَآءَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their fathers "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَآ",
+      "translation_bh": "",
+      "translation_en": "(the) father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَوَءَابَآؤُنَا",
+      "translation_bh": "",
+      "translation_en": "Or our fathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَابَآءَكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آباء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِـَٔابَآئِنَآ",
+      "translation_bh": "",
+      "translation_en": "our forefathers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبِيهِ",
+      "translation_bh": "",
+      "translation_en": "and his father"
+    }
+  ]
+}

@@ -1,0 +1,556 @@
+{
+  "description_bh": "",
+  "id": 86,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَطَوَّعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُطاعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طاعَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوَّعَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَّوِّع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطاع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طوع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَطَوَّعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَطَوَّعَ",
+      "translation_bh": "",
+      "translation_en": "voluntarily does"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَـٰعُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they are able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 15,
+      "part_of_speech": "V",
+      "text": "يَسْتَطِيعُونَ",
+      "translation_bh": "",
+      "translation_en": "they are able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْتَطِيعُ",
+      "translation_bh": "",
+      "translation_en": "capable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَطَعْنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "and we obeyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَطِيعُوا۟",
+      "translation_bh": "",
+      "translation_en": "Obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "وَأَطِيعُونِ",
+      "translation_bh": "",
+      "translation_en": "and obey me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طَوْعًۭا",
+      "translation_bh": "",
+      "translation_en": "willingly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَاعَ",
+      "translation_bh": "",
+      "translation_en": "is able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تُطِيعُوا۟",
+      "translation_bh": "",
+      "translation_en": "you obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "وَأَطِيعُوا۟",
+      "translation_bh": "",
+      "translation_en": "And obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطَاعُونَا",
+      "translation_bh": "",
+      "translation_en": "they (had) obeyed us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يُطِعِ",
+      "translation_bh": "",
+      "translation_en": "obeys"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْتَطِعْ",
+      "translation_bh": "",
+      "translation_en": "able to"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطَعْنَكُمْ",
+      "translation_bh": "",
+      "translation_en": "they obey you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَأَطَعْنَا",
+      "translation_bh": "",
+      "translation_en": "and we obey[ed]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُطاعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُطَاعَ",
+      "translation_bh": "",
+      "translation_en": "to be obeyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطَاعَ",
+      "translation_bh": "",
+      "translation_en": "he obeyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طاعَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "طَاعَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(We pledge) obedience"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَطِيعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "will you be able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوَّعَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَوَّعَتْ",
+      "translation_bh": "",
+      "translation_en": "Then prompted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَعْتَ",
+      "translation_bh": "",
+      "translation_en": "you are able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تُطِعْ",
+      "translation_bh": "",
+      "translation_en": "you obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطَعْتُمُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "you obey them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَعْتُم",
+      "translation_bh": "",
+      "translation_en": "you able (to)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَعْنَا",
+      "translation_bh": "",
+      "translation_en": "we were able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طَوْعًا",
+      "translation_bh": "",
+      "translation_en": "willingly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُطِيعُونَ",
+      "translation_bh": "",
+      "translation_en": "and they obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَّوِّع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُطَّوِّعِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones who give willingly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَعْتُ ۚ",
+      "translation_bh": "",
+      "translation_en": "as much as I am able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَسْتَطِيعَ",
+      "translation_bh": "",
+      "translation_en": "you will be able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَطِع",
+      "translation_bh": "",
+      "translation_en": "you were able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْطِع",
+      "translation_bh": "",
+      "translation_en": "you were able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْطَـٰعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they were able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَـٰعُوا۟",
+      "translation_bh": "",
+      "translation_en": "they were able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَطِيعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطَعْتُم",
+      "translation_bh": "",
+      "translation_en": "you obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَطَعْنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "and we obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُطِيعُوهُ",
+      "translation_bh": "",
+      "translation_en": "you obey him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَطِيعُونَ",
+      "translation_bh": "",
+      "translation_en": "you are able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تُطِعِ",
+      "translation_bh": "",
+      "translation_en": "obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُطِيعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُطِعْهُمَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "obey both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُطِعْهُمَا ۖ",
+      "translation_bh": "",
+      "translation_en": "obey both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَطِعْنَ",
+      "translation_bh": "",
+      "translation_en": "and obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَطَعْنَا",
+      "translation_bh": "",
+      "translation_en": "we (had) obeyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُطاعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُطَاعُ",
+      "translation_bh": "",
+      "translation_en": "(who) is obeyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طائِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَآئِعِينَ",
+      "translation_bh": "",
+      "translation_en": "willingly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَطَاعُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and they obeyed him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنُطِيعُكُمْ",
+      "translation_bh": "",
+      "translation_en": "We will obey you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُطِيعُكُمْ",
+      "translation_bh": "",
+      "translation_en": "he were to obey you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطاعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطَعْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you are able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُطِيعُ",
+      "translation_bh": "",
+      "translation_en": "we will obey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطاع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّطَاعٍۢ",
+      "translation_bh": "",
+      "translation_en": "One to be obeyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطاعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُطِعْهُ",
+      "translation_bh": "",
+      "translation_en": "obey him"
+    }
+  ]
+}

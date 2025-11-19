@@ -1,0 +1,207 @@
+{
+  "description_bh": "",
+  "id": 166,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَجْرِمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْرَمُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِجْرام",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جرم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَجْرِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَجْرِمَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "incite you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "ٱلْمُجْرِمِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُجْرِمِيهَا",
+      "translation_bh": "",
+      "translation_en": "(of) its criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْرَمُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَجْرَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "committed crimes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "مُّجْرِمِينَ",
+      "translation_bh": "",
+      "translation_en": "criminal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "ٱلْمُجْرِمُونَ",
+      "translation_bh": "",
+      "translation_en": "the criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مُجْرِمِينَ",
+      "translation_bh": "",
+      "translation_en": "criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "جَرَمَ",
+      "translation_bh": "",
+      "translation_en": "doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِجْرام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِجْرَامِى",
+      "translation_bh": "",
+      "translation_en": "(is) my crime"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْرَمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُجْرِمُونَ",
+      "translation_bh": "",
+      "translation_en": "crimes you commit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُجْرِمًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a criminal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِّلْمُجْرِمِينَ",
+      "translation_bh": "",
+      "translation_en": "for the criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُجْرِمِينَ ۗ",
+      "translation_bh": "",
+      "translation_en": "the criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْرَمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَجْرَمُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "committed crimes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَجْرَمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَجْرَمْنَا",
+      "translation_bh": "",
+      "translation_en": "sins we committed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْمُجْرِمِينَ",
+      "translation_bh": "",
+      "translation_en": "with the criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّجْرِمُونَ",
+      "translation_bh": "",
+      "translation_en": "criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلْمُجْرِمِينَ",
+      "translation_bh": "",
+      "translation_en": "like the criminals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجْرِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُجْرِمُ",
+      "translation_bh": "",
+      "translation_en": "the criminal"
+    }
+  ]
+}

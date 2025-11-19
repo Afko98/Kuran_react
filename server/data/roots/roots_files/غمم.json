@@ -1,0 +1,116 @@
+{
+  "description_bh": "",
+  "id": 545,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غَمام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُمَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غمم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غَمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَمَامَ",
+      "translation_bh": "",
+      "translation_en": "(with) [the] clouds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَمَامِ",
+      "translation_bh": "",
+      "translation_en": "[the] clouds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَمًّۢا",
+      "translation_bh": "",
+      "translation_en": "(with) distress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِغَمٍّۢ",
+      "translation_bh": "",
+      "translation_en": "on distress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْغَمِّ",
+      "translation_bh": "",
+      "translation_en": "the distress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَمَـٰمَ",
+      "translation_bh": "",
+      "translation_en": "(with) the clouds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غُمَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "any doubt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَمِّ ۚ",
+      "translation_bh": "",
+      "translation_en": "the distress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَمٍّ",
+      "translation_bh": "",
+      "translation_en": "anguish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْغَمَـٰمِ",
+      "translation_bh": "",
+      "translation_en": "with the clouds"
+    }
+  ]
+}

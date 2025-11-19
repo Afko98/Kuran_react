@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1185,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَحِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُحْق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سحق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَحِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَحِيقٍۢ",
+      "translation_bh": "",
+      "translation_en": "far off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُحْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَسُحْقًۭا",
+      "translation_bh": "",
+      "translation_en": "so away with"
+    }
+  ]
+}

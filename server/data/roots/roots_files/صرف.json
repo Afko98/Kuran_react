@@ -1,0 +1,244 @@
+{
+  "description_bh": "",
+  "id": 301,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَصْرِيف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَّفْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انصَرَفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصْرُوف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصْرِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرْف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صرف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَصْرِيف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَتَصْرِيفِ",
+      "translation_bh": "",
+      "translation_en": "and directing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَرَفَكُمْ",
+      "translation_bh": "",
+      "translation_en": "He diverted you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصْرَفْ",
+      "translation_bh": "",
+      "translation_en": "is averted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَّفْ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "نُصَرِّفُ",
+      "translation_bh": "",
+      "translation_en": "We explain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صُرِفَتْ",
+      "translation_bh": "",
+      "translation_en": "are turned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَصْرِفُ",
+      "translation_bh": "",
+      "translation_en": "I will turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انصَرَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنصَرَفُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَرَفَ",
+      "translation_bh": "",
+      "translation_en": "Allah has turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُصْرَفُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) you turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصْرُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَصْرُوفًا",
+      "translation_bh": "",
+      "translation_en": "(will be) averted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنَصْرِفَ",
+      "translation_bh": "",
+      "translation_en": "that We might avert"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَصْرِفْ",
+      "translation_bh": "",
+      "translation_en": "You turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَصَرَفَ",
+      "translation_bh": "",
+      "translation_en": "and turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَّفْ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "صَرَّفْنَا",
+      "translation_bh": "",
+      "translation_en": "We have explained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصْرِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَصْرِفًۭا",
+      "translation_bh": "",
+      "translation_en": "a way of escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَّفْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَصَرَّفْنَا",
+      "translation_bh": "",
+      "translation_en": "and We have explained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَصْرِفُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and averts it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَرْفًۭا",
+      "translation_bh": "",
+      "translation_en": "(to) avert"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَّفْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَرَّفْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We have distributed it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱصْرِفْ",
+      "translation_bh": "",
+      "translation_en": "Avert"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصْرَفُونَ",
+      "translation_bh": "",
+      "translation_en": "they are turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَرَفْنَآ",
+      "translation_bh": "",
+      "translation_en": "We directed"
+    }
+  ]
+}

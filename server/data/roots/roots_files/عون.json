@@ -1,0 +1,131 @@
+{
+  "description_bh": "",
+  "id": 509,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعِينُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَوان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعاوَنُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَعان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعانَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماعُون",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عون",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعِينُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسْتَعِينُ",
+      "translation_bh": "",
+      "translation_en": "we ask for help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعِينُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَعِينُوا۟",
+      "translation_bh": "",
+      "translation_en": "And seek help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَوَانٌۢ",
+      "translation_bh": "",
+      "translation_en": "middle aged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعِينُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْتَعِينُوا۟",
+      "translation_bh": "",
+      "translation_en": "Seek help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعاوَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَعَاوَنُوا۟",
+      "translation_bh": "",
+      "translation_en": "And help one another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعاوَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعَاوَنُوا۟",
+      "translation_bh": "",
+      "translation_en": "help one another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَعان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَعَانُ",
+      "translation_bh": "",
+      "translation_en": "(is) the One sought for help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعانَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَعِينُونِى",
+      "translation_bh": "",
+      "translation_en": "but assist me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعانَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَعَانَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and helped him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماعُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَاعُونَ",
+      "translation_bh": "",
+      "translation_en": "[the] small kindnesses"
+    }
+  ]
+}

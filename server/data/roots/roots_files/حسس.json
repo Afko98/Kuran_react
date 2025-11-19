@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 710,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَحَسَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحُسُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحَسَّسُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِيس",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حسس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَحَسَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحَسَّ",
+      "translation_bh": "",
+      "translation_en": "perceived"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحُسُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحُسُّونَهُم",
+      "translation_bh": "",
+      "translation_en": "you were killing them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحَسَّسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَحَسَّسُوا۟",
+      "translation_bh": "",
+      "translation_en": "and inquire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَسَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحِسُّ",
+      "translation_bh": "",
+      "translation_en": "you perceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَسَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحَسُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they perceived"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِيس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسِيسَهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "(the) slightest sound of it"
+    }
+  ]
+}

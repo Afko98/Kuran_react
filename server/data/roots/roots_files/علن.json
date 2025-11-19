@@ -1,0 +1,93 @@
+{
+  "description_bh": "",
+  "id": 446,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلانِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "علن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُعْلِنُونَ",
+      "translation_bh": "",
+      "translation_en": "they declare"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلانِيَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَعَلَانِيَةًۭ",
+      "translation_bh": "",
+      "translation_en": "and openly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُعْلِنُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "they reveal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُعْلِنُ ۗ",
+      "translation_bh": "",
+      "translation_en": "we proclaim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُعْلِنُونَ",
+      "translation_bh": "",
+      "translation_en": "you reveal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَعْلَنتُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "you declare"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعْلِنُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "you declare"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَعْلَنتُ",
+      "translation_bh": "",
+      "translation_en": "announced"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "description_bh": "",
+  "id": 602,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَثَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَثّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنبَثّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْثُوثَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْثُوث",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بثث",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَثَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَبَثَّ",
+      "translation_bh": "",
+      "translation_en": "and dispersing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَثّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَثِّى",
+      "translation_bh": "",
+      "translation_en": "(of) my suffering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَثَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَثَّ",
+      "translation_bh": "",
+      "translation_en": "He has dispersed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَثَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبُثُّ",
+      "translation_bh": "",
+      "translation_en": "He disperses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنبَثّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّنۢبَثًّۭا",
+      "translation_bh": "",
+      "translation_en": "dispersing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْثُوثَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَبْثُوثَةٌ",
+      "translation_bh": "",
+      "translation_en": "spread out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْثُوث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَبْثُوثِ",
+      "translation_bh": "",
+      "translation_en": "scattered"
+    }
+  ]
+}

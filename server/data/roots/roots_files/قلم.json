@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 850,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَلَم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قلم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَلَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقْلَـٰمَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their pens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقْلَـٰمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(were) pens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقَلَمِ",
+      "translation_bh": "",
+      "translation_en": "By the pen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْقَلَمِ",
+      "translation_bh": "",
+      "translation_en": "by the pen"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1245,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَبَتَّلْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْتِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بتل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَبَتَّلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَبَتَّلْ",
+      "translation_bh": "",
+      "translation_en": "and devote yourself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْتِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبْتِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) devotion"
+    }
+  ]
+}

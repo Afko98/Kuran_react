@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 839,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَنسَخُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُسْخَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسْتَنسِخُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نسخ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَنسَخُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَنسَخْ",
+      "translation_bh": "",
+      "translation_en": "We abrogate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُسْخَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُسْخَتِهَا",
+      "translation_bh": "",
+      "translation_en": "their inscription"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنسَخُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَنسَخُ",
+      "translation_bh": "",
+      "translation_en": "But Allah abolishes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسْتَنسِخُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسْتَنسِخُ",
+      "translation_bh": "",
+      "translation_en": "transcribe"
+    }
+  ]
+}

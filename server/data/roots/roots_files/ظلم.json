@@ -1,0 +1,854 @@
+{
+  "description_bh": "",
+  "id": 26,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْلَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْلَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلّام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِمِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُظْلِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلُوم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَظْلُوم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ظلم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظُلُمَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "darkness[es]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُلُمَـٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "darkness[es]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَظْلَمَ",
+      "translation_bh": "",
+      "translation_en": "it darkens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 63,
+      "part_of_speech": "N",
+      "text": "ٱلظَّـٰلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ظَـٰلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمْتُمْ",
+      "translation_bh": "",
+      "translation_en": "[you] have wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ظَلَمُونَا",
+      "translation_bh": "",
+      "translation_en": "they wronged Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "يَظْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "doing wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 26,
+      "part_of_speech": "V",
+      "text": "ظَلَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلظَّـٰلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "of the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْلَم",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "أَظْلَمُ",
+      "translation_bh": "",
+      "translation_en": "(is) more unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "ظَلَمُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "ٱلظَّـٰلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ظَلَمَ",
+      "translation_bh": "",
+      "translation_en": "he wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلظُّلُمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "[the] darkness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلظُّلُمَـٰتِ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] darkness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "لِلظَّـٰلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "for the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تُظْلَمُونَ",
+      "translation_bh": "",
+      "translation_en": "be wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَظْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 15,
+      "part_of_speech": "V",
+      "text": "يُظْلَمُونَ",
+      "translation_bh": "",
+      "translation_en": "will be wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ظُلْمًۭا",
+      "translation_bh": "",
+      "translation_en": "injustice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ظَلَمَهُمُ",
+      "translation_bh": "",
+      "translation_en": "(has) wronged them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلّام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِظَلَّامٍۢ",
+      "translation_bh": "",
+      "translation_en": "unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُلْمًا",
+      "translation_bh": "",
+      "translation_en": "wrongfully"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَظُلْمًۭا",
+      "translation_bh": "",
+      "translation_en": "and injustice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَظْلِمُ",
+      "translation_bh": "",
+      "translation_en": "wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَّلَمُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّالِمِ",
+      "translation_bh": "",
+      "translation_en": "[the] oppressor(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِمِي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظَالِمِىٓ",
+      "translation_bh": "",
+      "translation_en": "(while) they (were) wronging"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَظْلِمْ",
+      "translation_bh": "",
+      "translation_en": "wrongs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظُلِمَ ۚ",
+      "translation_bh": "",
+      "translation_en": "has been wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِظُلْمِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "for their wrongdoing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَبِظُلْمٍۢ",
+      "translation_bh": "",
+      "translation_en": "Then for (the) wrongdoing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَظَلَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and did wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظُلْمِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his wrongdoing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "did wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ظُلُمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the darkness[es]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِظُلْمٍ",
+      "translation_bh": "",
+      "translation_en": "with wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِظُلْمٍۢ",
+      "translation_bh": "",
+      "translation_en": "for (their) wrongdoing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ظَـٰلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمْنَآ",
+      "translation_bh": "",
+      "translation_en": "we have wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَظَلَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "But they were unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلّام",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِظَلَّـٰمٍۢ",
+      "translation_bh": "",
+      "translation_en": "unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَظْلِمُوا۟",
+      "translation_bh": "",
+      "translation_en": "wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لِيَظْلِمَهُمْ",
+      "translation_bh": "",
+      "translation_en": "to wrong them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمُوا۟ ۙ",
+      "translation_bh": "",
+      "translation_en": "they wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُظْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُظْلِمًا ۚ",
+      "translation_bh": "",
+      "translation_en": "the darkness (of) night"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمَتْ",
+      "translation_bh": "",
+      "translation_en": "(that) wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمُوٓا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ظَلَمْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We wronged them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَـٰلِمَةٌ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) doing wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَّظَـٰلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "surely (would be) wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُلْمِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their wrongdoing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلظُّلُمَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "the darkness[es]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّـٰلِمِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلُوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَظَلُومٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّـٰلِمُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَظَـٰلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "surely wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظُلِمُوا۟",
+      "translation_bh": "",
+      "translation_en": "they were wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِظُلْمِهِم",
+      "translation_bh": "",
+      "translation_en": "for their wrongdoing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَظْلُوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَظْلُومًۭا",
+      "translation_bh": "",
+      "translation_en": "wrongfully"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَظْلِم",
+      "translation_bh": "",
+      "translation_en": "did wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظَالِمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(was) unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَالِمَةًۭ",
+      "translation_bh": "",
+      "translation_en": "unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُظْلَمُ",
+      "translation_bh": "",
+      "translation_en": "will be wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظُلِمُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "were wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظَالِمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "was doing wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمُوٓا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَظُلُمَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "(is) like (the) darkness[es]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلُمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُلُمَـٰتٌۢ",
+      "translation_bh": "",
+      "translation_en": "darkness[es]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَظْلِم",
+      "translation_bh": "",
+      "translation_en": "does wrong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّالِمُ",
+      "translation_bh": "",
+      "translation_en": "the wrongdoer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظُلِمُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "they were wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ظَلَمْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] have wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمُوٓا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "they wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَظُلْمٌ",
+      "translation_bh": "",
+      "translation_en": "(is) surely an injustice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلُوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَلُومًۭا",
+      "translation_bh": "",
+      "translation_en": "unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَظَلَمُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And they wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُظْلِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّظْلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) those in darkness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلظَّـٰلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "for the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَظَالِمٌۭ",
+      "translation_bh": "",
+      "translation_en": "and unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَلَمَكَ",
+      "translation_bh": "",
+      "translation_en": "he has wronged you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظُلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُلْمَ",
+      "translation_bh": "",
+      "translation_en": "injustice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلظَّـٰلِمُونَ",
+      "translation_bh": "",
+      "translation_en": "And the wrongdoers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَلَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَّلَمْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you have wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْلَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَظْلَمَ",
+      "translation_bh": "",
+      "translation_en": "more unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلظَّـٰلِمِينَ",
+      "translation_bh": "",
+      "translation_en": "but (for) the wrongdoers"
+    }
+  ]
+}

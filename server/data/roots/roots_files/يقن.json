@@ -1,0 +1,153 @@
+{
+  "description_bh": "",
+  "id": 316,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُوقِنُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوقِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَيْقَنَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَيْقِن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "يقن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُوقِنُ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "يُوقِنُونَ",
+      "translation_bh": "",
+      "translation_en": "firmly believe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَقِينًۢا",
+      "translation_bh": "",
+      "translation_en": "certainly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوقِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُوقِنِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones who are certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُوقِنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُوقِنُونَ",
+      "translation_bh": "",
+      "translation_en": "believe with certainty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْيَقِينُ",
+      "translation_bh": "",
+      "translation_en": "the certainty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوقِن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّوقِنِينَ",
+      "translation_bh": "",
+      "translation_en": "convinced"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَيْقَنَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَيْقَنَتْهَآ",
+      "translation_bh": "",
+      "translation_en": "though were convinced with them (signs)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَقِينٍ",
+      "translation_bh": "",
+      "translation_en": "certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوقِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُوقِنُونَ",
+      "translation_bh": "",
+      "translation_en": "(are now) certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَيْقِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُسْتَيْقِنِينَ",
+      "translation_bh": "",
+      "translation_en": "(are) convinced"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوقِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْمُوقِنِينَ",
+      "translation_bh": "",
+      "translation_en": "for those who are certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقِين",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْيَقِينِ",
+      "translation_bh": "",
+      "translation_en": "certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَيْقَنَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَسْتَيْقِنَ",
+      "translation_bh": "",
+      "translation_en": "that may be certain"
+    }
+  ]
+}

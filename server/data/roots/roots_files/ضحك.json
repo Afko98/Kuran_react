@@ -1,0 +1,103 @@
+{
+  "description_bh": "",
+  "id": 591,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ضَحِكَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاحِك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضْحَكَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاحِكَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ضحك",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ضَحِكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَضْحَكُوا۟",
+      "translation_bh": "",
+      "translation_en": "So let them laugh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَحِكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَضَحِكَتْ",
+      "translation_bh": "",
+      "translation_en": "and she laughed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَحِكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَضْحَكُونَ",
+      "translation_bh": "",
+      "translation_en": "laugh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاحِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَاحِكًۭا",
+      "translation_bh": "",
+      "translation_en": "laughing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَحِكَتْ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَضْحَكُونَ",
+      "translation_bh": "",
+      "translation_en": "laughed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضْحَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضْحَكَ",
+      "translation_bh": "",
+      "translation_en": "makes (one) laugh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَحِكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَضْحَكُونَ",
+      "translation_bh": "",
+      "translation_en": "And you laugh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاحِكَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَاحِكَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "Laughing"
+    }
+  ]
+}

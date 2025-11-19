@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 665,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَسَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَسْوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاسِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قسو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَسَتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قَسَتْ",
+      "translation_bh": "",
+      "translation_en": "hardened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَسْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَسْوَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) hardness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاسِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَـٰسِيَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "hard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاسِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقَاسِيَةِ",
+      "translation_bh": "",
+      "translation_en": "and (are) hardened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاسِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْقَـٰسِيَةِ",
+      "translation_bh": "",
+      "translation_en": "to (those are) hardened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَسَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَسَتْ",
+      "translation_bh": "",
+      "translation_en": "so hardened"
+    }
+  ]
+}

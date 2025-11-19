@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 848,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قِنطار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَنطَرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قنطر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قِنطار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقَنَـٰطِيرِ",
+      "translation_bh": "",
+      "translation_en": "and [the] heaps"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَنطَرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقَنطَرَةِ",
+      "translation_bh": "",
+      "translation_en": "[the] stored up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِنطار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقِنطَارٍۢ",
+      "translation_bh": "",
+      "translation_en": "with a great amount of wealth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِنطار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِنطَارًۭا",
+      "translation_bh": "",
+      "translation_en": "heap (of gold)"
+    }
+  ]
+}

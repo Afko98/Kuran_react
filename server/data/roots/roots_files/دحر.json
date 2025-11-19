@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 878,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَدْحُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُحُور",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دحر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَدْحُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّدْحُورًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "and expelled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدْحُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّدْحُورًۭا",
+      "translation_bh": "",
+      "translation_en": "rejected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدْحُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّدْحُورًا",
+      "translation_bh": "",
+      "translation_en": "abandoned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُحُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُحُورًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "Repelled"
+    }
+  ]
+}

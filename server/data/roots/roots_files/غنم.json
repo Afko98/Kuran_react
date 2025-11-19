@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 619,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَغانِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَنَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَنِمْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غنم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَغانِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَغَانِمُ",
+      "translation_bh": "",
+      "translation_en": "(are) booties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَنَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْغَنَمِ",
+      "translation_bh": "",
+      "translation_en": "and the sheep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَنِمْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "غَنِمْتُم",
+      "translation_bh": "",
+      "translation_en": "you obtain (as) spoils of war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَنِمْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "غَنِمْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you got as war booty "
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَنَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَنَمِى",
+      "translation_bh": "",
+      "translation_en": "my sheep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَنَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَنَمُ",
+      "translation_bh": "",
+      "translation_en": "sheep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغانِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَغَانِمَ",
+      "translation_bh": "",
+      "translation_en": "(the) spoils of war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغانِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَغَانِمَ",
+      "translation_bh": "",
+      "translation_en": "And spoils of war"
+    }
+  ]
+}

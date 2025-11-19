@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1231,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شُعُوب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُعَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شعب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شُعُوب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُعُوبًۭا",
+      "translation_bh": "",
+      "translation_en": "nations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُعَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُعَبٍۢ",
+      "translation_bh": "",
+      "translation_en": "columns"
+    }
+  ]
+}

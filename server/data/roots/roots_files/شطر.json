@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 759,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَطْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شطر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَطْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شَطْرَ",
+      "translation_bh": "",
+      "translation_en": "towards the direction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَطْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَطْرَهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "(in) its direction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَطْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَطْرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(in) its direction"
+    }
+  ]
+}

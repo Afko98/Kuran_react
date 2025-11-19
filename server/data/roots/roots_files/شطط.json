@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 1002,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَطَط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُشْطِطْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شطط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَطَط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَطَطًا",
+      "translation_bh": "",
+      "translation_en": "an enormity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُشْطِطْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُشْطِطْ",
+      "translation_bh": "",
+      "translation_en": "be unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَطَط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَطَطًۭا",
+      "translation_bh": "",
+      "translation_en": "an excessive transgression"
+    }
+  ]
+}

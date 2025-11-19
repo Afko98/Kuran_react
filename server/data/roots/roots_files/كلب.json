@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 721,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُكَلِّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلْب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كلب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُكَلِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُكَلِّبِينَ",
+      "translation_bh": "",
+      "translation_en": "ones who train animals to hunt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَلْبِ",
+      "translation_bh": "",
+      "translation_en": "(of) the dog"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكَلْبُهُم",
+      "translation_bh": "",
+      "translation_en": "while their dog"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَلْبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their dog"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلْبُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their dog"
+    }
+  ]
+}

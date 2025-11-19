@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1132,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَهِيق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شهق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَهِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشَهِيقٌ",
+      "translation_bh": "",
+      "translation_en": "and wailing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهِيقًۭا",
+      "translation_bh": "",
+      "translation_en": "an inhaling"
+    }
+  ]
+}

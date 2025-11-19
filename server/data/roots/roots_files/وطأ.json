@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 733,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُواطِئُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطَأُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْطِئ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَطْء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وطأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُواطِئُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيُوَاطِـُٔوا۟",
+      "translation_bh": "",
+      "translation_en": "to adjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطَأُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطَـُٔونَ",
+      "translation_bh": "",
+      "translation_en": "they step"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْطِئ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْطِئًۭا",
+      "translation_bh": "",
+      "translation_en": "any step"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطَأُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَطَـُٔوهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "you (had) trodden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطَأُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَطَـُٔوهُمْ",
+      "translation_bh": "",
+      "translation_en": "you may trample them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَطْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَطْـًۭٔا",
+      "translation_bh": "",
+      "translation_en": "and most potent"
+    }
+  ]
+}

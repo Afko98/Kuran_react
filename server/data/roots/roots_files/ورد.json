@@ -1,0 +1,145 @@
+{
+  "description_bh": "",
+  "id": 563,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَوْرَدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وِرْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْرُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وارِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرَدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرْدَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ورد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَوْرَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَوْرَدَهُمُ",
+      "translation_bh": "",
+      "translation_en": "and lead them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وِرْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوِرْدُ",
+      "translation_bh": "",
+      "translation_en": "(is) the place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْرُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْرُودُ",
+      "translation_bh": "",
+      "translation_en": "to which (they are) led"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وارِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَارِدَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their water drawer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وارِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَارِدُهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "(will be) passing over it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وِرْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وِرْدًۭا",
+      "translation_bh": "",
+      "translation_en": "thirsty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وارِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٰرِدُونَ",
+      "translation_bh": "",
+      "translation_en": "will come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَدُوهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "they (would) have come to it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَدَ",
+      "translation_bh": "",
+      "translation_en": "he came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوَرِيدِ",
+      "translation_bh": "",
+      "translation_en": "(his) jugular vein"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرْدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرْدَةًۭ",
+      "translation_bh": "",
+      "translation_en": "rose-colored"
+    }
+  ]
+}

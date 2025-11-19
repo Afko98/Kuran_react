@@ -1,0 +1,725 @@
+{
+  "description_bh": "",
+  "id": 90,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْخَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "داخِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدَّخَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دخل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "ٱدْخُلُوا۟",
+      "translation_bh": "",
+      "translation_en": "Enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَٱدْخُلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْخُلَ",
+      "translation_bh": "",
+      "translation_en": "will enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْخُلُوهَآ",
+      "translation_bh": "",
+      "translation_en": "they enter them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَدْخُلُوا۟",
+      "translation_bh": "",
+      "translation_en": "you will enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دَخَلَ",
+      "translation_bh": "",
+      "translation_en": "entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَخَلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "enters it "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأُدْخِلَ",
+      "translation_bh": "",
+      "translation_en": "and admitted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُدْخِلِ",
+      "translation_bh": "",
+      "translation_en": "You admit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَأُدْخِلَنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "and surely I will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُدْخِلْهُ",
+      "translation_bh": "",
+      "translation_en": "He will admit him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "دَخَلْتُم",
+      "translation_bh": "",
+      "translation_en": "you had relations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُدْخِلْكُم",
+      "translation_bh": "",
+      "translation_en": "and We will admit you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْخَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّدْخَلًۭا",
+      "translation_bh": "",
+      "translation_en": "(to) an entrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَنُدْخِلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "We will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُدْخِلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "and We will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَدْخُلُونَ",
+      "translation_bh": "",
+      "translation_en": "will enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَيُدْخِلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "then He will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَأُدْخِلَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "and I will surely admit you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّدْخُلَهَا",
+      "translation_bh": "",
+      "translation_en": "will enter it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داخِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَٰخِلُونَ",
+      "translation_bh": "",
+      "translation_en": "enter (it)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَخَلْتُمُوهُ",
+      "translation_bh": "",
+      "translation_en": "you have entered it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّدْخُلَهَآ",
+      "translation_bh": "",
+      "translation_en": "will enter it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَّخَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "they entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَأَدْخَلْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and surely We (would have) admitted them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُدْخِلَنَا",
+      "translation_bh": "",
+      "translation_en": "will admit us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَخَلَتْ",
+      "translation_bh": "",
+      "translation_en": "entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْخُلُوهَا",
+      "translation_bh": "",
+      "translation_en": "they have entered it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَدْخِلْنَا",
+      "translation_bh": "",
+      "translation_en": "and admit us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدَّخَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُدَّخَلًۭا",
+      "translation_bh": "",
+      "translation_en": "a place to enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيُدْخِلُهُمُ",
+      "translation_bh": "",
+      "translation_en": "Allah will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَدَخَلَ",
+      "translation_bh": "",
+      "translation_en": "And entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَدَخَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "دَخَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "they entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَدْخُلُونَهَا",
+      "translation_bh": "",
+      "translation_en": "they will enter them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱدْخُلُوهَا",
+      "translation_bh": "",
+      "translation_en": "Enter it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْخُلُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "So enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دَخَلًۢا",
+      "translation_bh": "",
+      "translation_en": "(as) a deception"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيَدْخُلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and to enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَخَلُوهُ",
+      "translation_bh": "",
+      "translation_en": "they (had) entered it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَدْخِلْنِى",
+      "translation_bh": "",
+      "translation_en": "Cause me to enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْخَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُدْخَلَ",
+      "translation_bh": "",
+      "translation_en": "an entrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَخَلْتَ",
+      "translation_bh": "",
+      "translation_en": "you entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَدْخَلْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And We admitted him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَدْخَلْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We admitted them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يُدْخِلُ",
+      "translation_bh": "",
+      "translation_en": "will admit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيُدْخِلَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "Surely, He will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدْخُلُوهَا",
+      "translation_bh": "",
+      "translation_en": "enter it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَدْخِلْ",
+      "translation_bh": "",
+      "translation_en": "And enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَدْخِلْنِى",
+      "translation_bh": "",
+      "translation_en": "And admit me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱدْخُلِى",
+      "translation_bh": "",
+      "translation_en": "Enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنُدْخِلَنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "We will surely admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دُخِلَتْ",
+      "translation_bh": "",
+      "translation_en": "had been entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْخُلُوا۟",
+      "translation_bh": "",
+      "translation_en": "then enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱدْخُلِ",
+      "translation_bh": "",
+      "translation_en": "Enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱدْخُلُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْخُلُوهَا",
+      "translation_bh": "",
+      "translation_en": "so enter it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَدْخِلْهُمْ",
+      "translation_bh": "",
+      "translation_en": "And admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَدْخِلُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Cause to enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيَدْخُلُونَ",
+      "translation_bh": "",
+      "translation_en": "will enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُدْخِلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُدْخِلُهُمُ",
+      "translation_bh": "",
+      "translation_en": "And admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِّيُدْخِلَ",
+      "translation_bh": "",
+      "translation_en": "That He may admit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَدْخُلُنَّ",
+      "translation_bh": "",
+      "translation_en": "Surely, you will enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْخُلِ",
+      "translation_bh": "",
+      "translation_en": "entered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُدْخِلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "And He will admit them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُدْخِلْكُمْ",
+      "translation_bh": "",
+      "translation_en": "and admit you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُدْخِلْهُ",
+      "translation_bh": "",
+      "translation_en": "and He will admit him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُدْخِلَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and admit you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱدْخُلَا",
+      "translation_bh": "",
+      "translation_en": "Enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داخِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدَّٰخِلِينَ",
+      "translation_bh": "",
+      "translation_en": "those who enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْخُلَنَّهَا",
+      "translation_bh": "",
+      "translation_en": "will enter it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُدْخَلَ",
+      "translation_bh": "",
+      "translation_en": "he enters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُدْخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأُدْخِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "then made to enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْخُلِى",
+      "translation_bh": "",
+      "translation_en": "So enter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَخَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱدْخُلِى",
+      "translation_bh": "",
+      "translation_en": "And enter"
+    }
+  ]
+}

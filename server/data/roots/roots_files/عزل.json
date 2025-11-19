@@ -1,0 +1,121 @@
+{
+  "description_bh": "",
+  "id": 576,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْزِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْزُول",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزَلْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عزل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْتَزِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "so keep away (from)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْتَزَلُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "they withdraw from you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْتَزِلُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "they withdraw from you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْزِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْزِلٍۢ",
+      "translation_bh": "",
+      "translation_en": "apart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْتَزَلْتُمُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "you withdraw from them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَعْتَزِلُكُمْ",
+      "translation_bh": "",
+      "translation_en": "And I will leave you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْتَزَلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "he left them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْزُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمَعْزُولُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) surely banished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَزَلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَزَلْتَ",
+      "translation_bh": "",
+      "translation_en": "you (had) set aside "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَزَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْتَزِلُونِ",
+      "translation_bh": "",
+      "translation_en": "then leave me alone"
+    }
+  ]
+}

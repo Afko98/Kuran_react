@@ -1,0 +1,122 @@
+{
+  "description_bh": "",
+  "id": 412,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ثَمَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثُمُن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثامِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ثمن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ثَمَن",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ثَمَنًۭا",
+      "translation_bh": "",
+      "translation_en": "a price"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثُمُن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلثُّمُنُ",
+      "translation_bh": "",
+      "translation_en": "(is) the eighth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ثَمَـٰنِيَةَ",
+      "translation_bh": "",
+      "translation_en": "Eight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِثَمَنٍۭ",
+      "translation_bh": "",
+      "translation_en": "for a price"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثامِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَثَامِنُهُمْ",
+      "translation_bh": "",
+      "translation_en": "and the eight of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ثَمَـٰنِينَ",
+      "translation_bh": "",
+      "translation_en": "(with) eighty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ثَمَـٰنِىَ",
+      "translation_bh": "",
+      "translation_en": "(for) eight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَثَمَـٰنِيَةَ",
+      "translation_bh": "",
+      "translation_en": "and eight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَمانِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ثَمَـٰنِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "eight"
+    }
+  ]
+}

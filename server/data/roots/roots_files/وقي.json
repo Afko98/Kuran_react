@@ -1,0 +1,681 @@
+{
+  "description_bh": "",
+  "id": 37,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقاة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "واق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْقَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وقي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "لِّلْمُتَّقِينَ",
+      "translation_bh": "",
+      "translation_en": "for the God-conscious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 19,
+      "part_of_speech": "V",
+      "text": "تَتَّقُونَ",
+      "translation_bh": "",
+      "translation_en": "become righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 17,
+      "part_of_speech": "V",
+      "text": "فَٱتَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "then fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَٱتَّقُونِ",
+      "translation_bh": "",
+      "translation_en": "fear [Me]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 38,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "And fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقَوْا۟",
+      "translation_bh": "",
+      "translation_en": "and feared (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَّقُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَّقِينَ",
+      "translation_bh": "",
+      "translation_en": "the righteous ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 15,
+      "part_of_speech": "V",
+      "text": "يَتَّقُونَ",
+      "translation_bh": "",
+      "translation_en": "(become) righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَىٰ ۗ",
+      "translation_bh": "",
+      "translation_en": "fears (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلتَّقْوَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) righteousness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقُونِ",
+      "translation_bh": "",
+      "translation_en": "And fear Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَقِنَا",
+      "translation_bh": "",
+      "translation_en": "and save us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱتَّقِ",
+      "translation_bh": "",
+      "translation_en": "Fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَوْا۟",
+      "translation_bh": "",
+      "translation_en": "fear (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "وَتَتَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "and be righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِلتَّقْوَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "to [the] righteousness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 14,
+      "part_of_speech": "V",
+      "text": "ٱتَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "Fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَلْيَتَّقِ",
+      "translation_bh": "",
+      "translation_en": "and let him fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَتَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "you fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقاة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تُقَىٰةًۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "(as) a precaution"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقَىٰ",
+      "translation_bh": "",
+      "translation_en": "and fears (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تُقَاتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "(that) He (should) be feared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْمُتَّقِينَ",
+      "translation_bh": "",
+      "translation_en": "of the God-fearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "لِلْمُتَّقِينَ",
+      "translation_bh": "",
+      "translation_en": "for the pious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقِنَا",
+      "translation_bh": "",
+      "translation_en": "so save us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَتَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "So let them fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَىٰ",
+      "translation_bh": "",
+      "translation_en": "fears (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلتَّقْوَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "and [the] piety"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلتَّقْوَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "to [the] piety"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَوا۟",
+      "translation_bh": "",
+      "translation_en": "they fear (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَّقُونَ ۗ",
+      "translation_bh": "",
+      "translation_en": "(are) God conscious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and fear Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلتَّقْوَىٰ",
+      "translation_bh": "",
+      "translation_en": "(of) [the] righteousness "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتَتَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "and that you may fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقْوَىٰ",
+      "translation_bh": "",
+      "translation_en": "righteousness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَّقُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "they should fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَتَّقِ",
+      "translation_bh": "",
+      "translation_en": "fears Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَوْا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "fear Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَاقٍۢ",
+      "translation_bh": "",
+      "translation_en": "defender"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَّقُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(to) the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقِيكُمُ",
+      "translation_bh": "",
+      "translation_en": "to protect you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقِيكُم",
+      "translation_bh": "",
+      "translation_en": "to protect you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "تَقِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلتَّقْوَىٰ",
+      "translation_bh": "",
+      "translation_en": "(is) for the righteous[ness]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقْوَى",
+      "translation_bh": "",
+      "translation_en": "(the) piety"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَّقْهِ",
+      "translation_bh": "",
+      "translation_en": "and (is) conscious of Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّقي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَّقُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(to) the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقُوهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "and fear Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقُوهُ",
+      "translation_bh": "",
+      "translation_en": "and fear Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَيْتُنَّ",
+      "translation_bh": "",
+      "translation_en": "you fear (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقِ",
+      "translation_bh": "",
+      "translation_en": "and fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّقِينَ",
+      "translation_bh": "",
+      "translation_en": "And fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَّقِى",
+      "translation_bh": "",
+      "translation_en": "will shield"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقِهِمْ",
+      "translation_bh": "",
+      "translation_en": "and save them (from)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقِهِمُ",
+      "translation_bh": "",
+      "translation_en": "And protect them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقِ",
+      "translation_bh": "",
+      "translation_en": "you protect"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَوَقَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "So Allah protected him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَوَقَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And He will protect them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقْوَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "their righteousness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْقَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَتْقَىٰكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is the) most righteous of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَوَقَىٰنَا",
+      "translation_bh": "",
+      "translation_en": "and protected us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّقَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "fears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُوقَ",
+      "translation_bh": "",
+      "translation_en": "is saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Protect"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَوَقَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "But will protect them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَقْوَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "and its righteousness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْقَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَتْقَى",
+      "translation_bh": "",
+      "translation_en": "the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلتَّقْوَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "[of the] righteousness"
+    }
+  ]
+}

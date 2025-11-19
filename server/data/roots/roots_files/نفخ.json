@@ -1,0 +1,111 @@
+{
+  "description_bh": "",
+  "id": 405,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفْخَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نفخ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنفُخُ",
+      "translation_bh": "",
+      "translation_en": "then I breath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَنفُخُ",
+      "translation_bh": "",
+      "translation_en": "then you breath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُنفَخُ",
+      "translation_bh": "",
+      "translation_en": "will be blown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَنَفَخْتُ",
+      "translation_bh": "",
+      "translation_en": "and [I] breathed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنفُخُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "Blow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَنُفِخَ",
+      "translation_bh": "",
+      "translation_en": "and (will be) blown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَنَفَخْنَا",
+      "translation_bh": "",
+      "translation_en": "so We breathed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نُفِخَ",
+      "translation_bh": "",
+      "translation_en": "is blown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَخَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَفَخَ",
+      "translation_bh": "",
+      "translation_en": "and breathed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفْخَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَفْخَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a blast"
+    }
+  ]
+}

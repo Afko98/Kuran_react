@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 550,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَغْو",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْغَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لاغِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لغو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَغْو",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱللَّغْوِ",
+      "translation_bh": "",
+      "translation_en": "for (what is) unintentional"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَغْو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَغْوًا",
+      "translation_bh": "",
+      "translation_en": "vain talk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَغْو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّغْوِ",
+      "translation_bh": "",
+      "translation_en": "the vain talk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَغْو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّغْوَ",
+      "translation_bh": "",
+      "translation_en": "vain talk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْغَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱلْغَوْا۟",
+      "translation_bh": "",
+      "translation_en": "and make noise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَغْو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَغْوٌۭ",
+      "translation_bh": "",
+      "translation_en": "ill speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَغْو",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَغْوًۭا",
+      "translation_bh": "",
+      "translation_en": "vain talk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لاغِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَـٰغِيَةًۭ",
+      "translation_bh": "",
+      "translation_en": "vain talk"
+    }
+  ]
+}

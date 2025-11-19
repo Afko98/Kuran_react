@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 955,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَتْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْتُرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُفَتَّرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فتر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَتْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَتْرَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(after) an interval (of cessation)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْتُرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتُرُونَ",
+      "translation_bh": "",
+      "translation_en": "they slacken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُفَتَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُفَتَّرُ",
+      "translation_bh": "",
+      "translation_en": "will it subside"
+    }
+  ]
+}

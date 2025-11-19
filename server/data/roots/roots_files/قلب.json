@@ -1,0 +1,776 @@
+{
+  "description_bh": "",
+  "id": 61,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَلُّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَّبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنقَلِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنقَلَب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَتَقَلَّبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقْلَبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَقَلَّب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قلب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "قُلُوبِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "قُلُوبِهِم",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قُلُوبُكُم",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "قُلُوبُنَا",
+      "translation_bh": "",
+      "translation_en": "Our hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قُلُوبِهِمُ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَلْبِكَ",
+      "translation_bh": "",
+      "translation_en": "your heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قُلُوبُهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنقَلِبُ",
+      "translation_bh": "",
+      "translation_en": "turns back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَلُّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقَلُّبَ",
+      "translation_bh": "",
+      "translation_en": "(the) turning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَلْبِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبُكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبِى ۖ",
+      "translation_bh": "",
+      "translation_en": "my heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبُهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "his heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبَنَا",
+      "translation_bh": "",
+      "translation_en": "our hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قُلُوبِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَنقَلِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "so (that) they turn back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱنقَلَبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "will you turn back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنقَلِبْ",
+      "translation_bh": "",
+      "translation_en": "turns back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَتَنقَلِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "then you will turn back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "قُلُوبِ",
+      "translation_bh": "",
+      "translation_en": "(the) hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبِكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قُلُوبِهِمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَلْبِ",
+      "translation_bh": "",
+      "translation_en": "(at) [the] heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنقَلَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "So they returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَلُّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقَلُّبُ",
+      "translation_bh": "",
+      "translation_en": "(the) movement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قُلُوبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبُهُمْ ۛ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قُلُوبَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "قُلُوبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبِكُم",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُقَلِّبُ",
+      "translation_bh": "",
+      "translation_en": "And We will turn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنقَلَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "and returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنقَلِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُنقَلِبُونَ",
+      "translation_bh": "",
+      "translation_en": "(will) return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قُلُوبٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قُلُوبُكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَقَلْبِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and his heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قُلُوبِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَلَّبُوا۟",
+      "translation_bh": "",
+      "translation_en": "and had upset"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قُلُوبُ",
+      "translation_bh": "",
+      "translation_en": "(the) hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبَهُم",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱنقَلَبُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they go back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قُلُوبُهُم",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْقُلُوبُ",
+      "translation_bh": "",
+      "translation_en": "the hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَلُّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقَلُّبِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their going to and fro"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَلْبُهُۥ",
+      "translation_bh": "",
+      "translation_en": "while his heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُقَلِّبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We turned them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنقَلَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنقَلَبًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَّبُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُقَلِّبُ",
+      "translation_bh": "",
+      "translation_en": "twisting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنقَلَبَ",
+      "translation_bh": "",
+      "translation_en": "he turns"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقُلُوبِ",
+      "translation_bh": "",
+      "translation_en": "(of) the hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَّقُلُوبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "while their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَتَقَلَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَقَلَّبُ",
+      "translation_bh": "",
+      "translation_en": "will turn about"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِقَلْبٍۢ",
+      "translation_bh": "",
+      "translation_en": "with a heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَلُّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَقَلُّبَكَ",
+      "translation_bh": "",
+      "translation_en": "And your movements"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنقَلَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنقَلَبٍۢ",
+      "translation_bh": "",
+      "translation_en": "return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنقَلِبُونَ",
+      "translation_bh": "",
+      "translation_en": "they will return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبِهَا",
+      "translation_bh": "",
+      "translation_en": "her heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقْلَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُقْلَبُونَ",
+      "translation_bh": "",
+      "translation_en": "you will be returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبَيْنِ",
+      "translation_bh": "",
+      "translation_en": "two hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبِكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِقُلُوبِكُمْ",
+      "translation_bh": "",
+      "translation_en": "for your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُلُوبِهِنَّ ۚ",
+      "translation_bh": "",
+      "translation_en": "and their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُقَلَّبُ",
+      "translation_bh": "",
+      "translation_en": "will be turned about"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَقُلُوبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَلُّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقَلُّبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their movement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبِ",
+      "translation_bh": "",
+      "translation_en": "heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبِكَ ۗ",
+      "translation_bh": "",
+      "translation_en": "your heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنقَلِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمُنقَلِبُونَ",
+      "translation_bh": "",
+      "translation_en": "will surely return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَقَلَّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَقَلَّبَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your movement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبٍ",
+      "translation_bh": "",
+      "translation_en": "(their) hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنقَلِبَ",
+      "translation_bh": "",
+      "translation_en": "return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبٌ",
+      "translation_bh": "",
+      "translation_en": "a heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبُهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبِنَا",
+      "translation_bh": "",
+      "translation_en": "our hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَلْبَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "his heart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُلُوبُكُمَا ۖ",
+      "translation_bh": "",
+      "translation_en": "your hearts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنقَلَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they would return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انقَلَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَنقَلِبُ",
+      "translation_bh": "",
+      "translation_en": "And he will return"
+    }
+  ]
+}

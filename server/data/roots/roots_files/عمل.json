@@ -1,0 +1,697 @@
+{
+  "description_bh": "",
+  "id": 19,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِلَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عمل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 53,
+      "part_of_speech": "V",
+      "text": "وَعَمِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "وَعَمِلَ",
+      "translation_bh": "",
+      "translation_en": "and did"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 82,
+      "part_of_speech": "V",
+      "text": "تَعْمَلُونَ",
+      "translation_bh": "",
+      "translation_en": "you do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 56,
+      "part_of_speech": "V",
+      "text": "يَعْمَلُونَ",
+      "translation_bh": "",
+      "translation_en": "they do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلُنَا",
+      "translation_bh": "",
+      "translation_en": "(are) our deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(are) your deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "عَمِلَتْ",
+      "translation_bh": "",
+      "translation_en": "it did"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْعَـٰمِلِينَ",
+      "translation_bh": "",
+      "translation_en": "(for) the (righteous) workers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَمَلَ",
+      "translation_bh": "",
+      "translation_en": "deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَـٰمِلٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of the) doer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يَعْمَلْ",
+      "translation_bh": "",
+      "translation_en": "does"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "his deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَمَلِ",
+      "translation_bh": "",
+      "translation_en": "(the) work"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "عَمِلَ",
+      "translation_bh": "",
+      "translation_en": "does"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَمِلُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they did"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "ٱعْمَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "Work"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَامِلٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a worker"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنَعْمَلَ",
+      "translation_bh": "",
+      "translation_en": "so (that) we do (deeds)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَعْمَلُ ۚ",
+      "translation_bh": "",
+      "translation_en": "do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) their deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 15,
+      "part_of_speech": "V",
+      "text": "عَمِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلِهِمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) their deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعَـٰمِلِينَ",
+      "translation_bh": "",
+      "translation_en": "and those who collect"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَمَلَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "عَمَلًۭا",
+      "translation_bh": "",
+      "translation_en": "a deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلٌۭ",
+      "translation_bh": "",
+      "translation_en": "(as) a deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلِى",
+      "translation_bh": "",
+      "translation_en": "(are) my deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) your deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَعْمَلُ",
+      "translation_bh": "",
+      "translation_en": "I do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلٍ",
+      "translation_bh": "",
+      "translation_en": "deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "(in) deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلٌ",
+      "translation_bh": "",
+      "translation_en": "(his) deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَـٰمِلٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "working"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَـٰمِلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are also) working"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَعْمَلُ",
+      "translation_bh": "",
+      "translation_en": "do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَعْمَلُ",
+      "translation_bh": "",
+      "translation_en": "doing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلًا",
+      "translation_bh": "",
+      "translation_en": "deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلًا",
+      "translation_bh": "",
+      "translation_en": "(as to their) deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَعْمَلْ",
+      "translation_bh": "",
+      "translation_en": "let him do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَّعْمَلُ",
+      "translation_bh": "",
+      "translation_en": "doing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَعْمَلُونَ",
+      "translation_bh": "",
+      "translation_en": "and would do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱعْمَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَمِلُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "they did"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) deed(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِعَمَلِكُم",
+      "translation_bh": "",
+      "translation_en": "(of) your deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَعْمَلَ",
+      "translation_bh": "",
+      "translation_en": "I may do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَمِلُوٓا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they did"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَعْمَلْ",
+      "translation_bh": "",
+      "translation_en": "we will do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَعْمَلْ",
+      "translation_bh": "",
+      "translation_en": "and does"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْمَلْ",
+      "translation_bh": "",
+      "translation_en": "make"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْمَلُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Work"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَمَلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "(of) his deed "
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعَمَلُ",
+      "translation_bh": "",
+      "translation_en": "and the deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَمِلَتْهُ",
+      "translation_bh": "",
+      "translation_en": "made it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَعْمَلِ",
+      "translation_bh": "",
+      "translation_en": "let work"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَـٰمِلُونَ",
+      "translation_bh": "",
+      "translation_en": "the workers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْمَلُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "do"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلُكَ",
+      "translation_bh": "",
+      "translation_en": "your deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْمَلْ",
+      "translation_bh": "",
+      "translation_en": "So work"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَمِلُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "they did"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْمَـٰلِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلِهِم",
+      "translation_bh": "",
+      "translation_en": "their deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَمِلْتُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "you did"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَعْمَلْ",
+      "translation_bh": "",
+      "translation_en": "and does"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَمَلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and his deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمَلًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عامِلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَامِلَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "Laboring"
+    }
+  ]
+}

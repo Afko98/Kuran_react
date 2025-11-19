@@ -1,0 +1,126 @@
+{
+  "description_bh": "",
+  "id": 581,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "طَوْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُول",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طالَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطاوَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طول",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "طَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَوْلًا",
+      "translation_bh": "",
+      "translation_en": "afford"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّوْلِ",
+      "translation_bh": "",
+      "translation_en": "(of) wealth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طُولًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) height"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَطَالَ",
+      "translation_bh": "",
+      "translation_en": "Then, did seem long"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طَالَ",
+      "translation_bh": "",
+      "translation_en": "grew long"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطاوَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَطَاوَلَ",
+      "translation_bh": "",
+      "translation_en": "and prolonged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّوْلِ ۖ",
+      "translation_bh": "",
+      "translation_en": "Owner (of) the abundance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَالَ",
+      "translation_bh": "",
+      "translation_en": "(and) was prolonged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَوِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "prolonged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَوِيلًا",
+      "translation_bh": "",
+      "translation_en": "long"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1152,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَحْظُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْتَظِر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حظر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَحْظُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَحْظُورًا",
+      "translation_bh": "",
+      "translation_en": "restricted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْتَظِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُحْتَظِرِ",
+      "translation_bh": "",
+      "translation_en": "(used by) a fence builder"
+    }
+  ]
+}

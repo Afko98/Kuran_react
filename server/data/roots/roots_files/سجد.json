@@ -1,0 +1,373 @@
+{
+  "description_bh": "",
+  "id": 122,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساجِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُجُود",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سجد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "ٱسْجُدُوا۟",
+      "translation_bh": "",
+      "translation_en": "Prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَسَجَدُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "[so] they prostrated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساجِد",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "سُجَّدًۭا",
+      "translation_bh": "",
+      "translation_en": "prostrating"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَسَـٰجِدَ",
+      "translation_bh": "",
+      "translation_en": "(the) masajid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُجُود",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلسُّجُودِ",
+      "translation_bh": "",
+      "translation_en": "and those who prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسْجِدِ",
+      "translation_bh": "",
+      "translation_en": "(of) Al-Masjid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسَـٰجِدِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the masajid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَسْجِدِ",
+      "translation_bh": "",
+      "translation_en": "and (preventing access to) Al-Masjid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْجُدِى",
+      "translation_bh": "",
+      "translation_en": "and prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْجُدُونَ",
+      "translation_bh": "",
+      "translation_en": "prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَجَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "they have prostrated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساجِد",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلسَّـٰجِدِينَ",
+      "translation_bh": "",
+      "translation_en": "those who prostrated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَسْجُدَ",
+      "translation_bh": "",
+      "translation_en": "you prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَسْجِدٍۢ",
+      "translation_bh": "",
+      "translation_en": "masjid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساجِد",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "سَـٰجِدِينَ",
+      "translation_bh": "",
+      "translation_en": "prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْجُدُونَ ۩",
+      "translation_bh": "",
+      "translation_en": "they prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسْجِدَ",
+      "translation_bh": "",
+      "translation_en": "Al-Masjid Al-Haraam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسْجِدًۭا",
+      "translation_bh": "",
+      "translation_en": "a masjid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَّمَسْجِدٌ",
+      "translation_bh": "",
+      "translation_en": "A masjid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّـٰجِدُونَ",
+      "translation_bh": "",
+      "translation_en": "those who prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُجَّدًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَسْجُدُ",
+      "translation_bh": "",
+      "translation_en": "prostrates"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَسَجَدَ",
+      "translation_bh": "",
+      "translation_en": "So prostrated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّأَسْجُدَ",
+      "translation_bh": "",
+      "translation_en": "(one) to prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَأَسْجُدُ",
+      "translation_bh": "",
+      "translation_en": "Shall I prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّسْجِدًۭا",
+      "translation_bh": "",
+      "translation_en": "a place of worship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَسَـٰجِدُ",
+      "translation_bh": "",
+      "translation_en": "and masajid "
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱسْجُدُوا۟",
+      "translation_bh": "",
+      "translation_en": "and prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنَسْجُدُ",
+      "translation_bh": "",
+      "translation_en": "Should we prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْجُدُوا۟",
+      "translation_bh": "",
+      "translation_en": "they prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَاجِدًۭا",
+      "translation_bh": "",
+      "translation_en": "prostrating"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْجُدُوا۟",
+      "translation_bh": "",
+      "translation_en": "prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُجُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّجُودِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the prostration"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْجُدُوا۟",
+      "translation_bh": "",
+      "translation_en": "So prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْجُدَانِ",
+      "translation_bh": "",
+      "translation_en": "both prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْجِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسَـٰجِدَ",
+      "translation_bh": "",
+      "translation_en": "the masjids"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْجُدْ",
+      "translation_bh": "",
+      "translation_en": "prostrate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَجَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْجُدْ",
+      "translation_bh": "",
+      "translation_en": "But prostrate"
+    }
+  ]
+}

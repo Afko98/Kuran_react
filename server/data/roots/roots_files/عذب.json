@@ -1,0 +1,801 @@
+{
+  "description_bh": "",
+  "id": 18,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذِّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذَّب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عذب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 48,
+      "part_of_speech": "N",
+      "text": "عَذَابٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 30,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابِ",
+      "translation_bh": "",
+      "translation_en": "torment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابِ ۗ",
+      "translation_bh": "",
+      "translation_en": "punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابُ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 29,
+      "part_of_speech": "N",
+      "text": "عَذَابٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "عَذَابِ",
+      "translation_bh": "",
+      "translation_en": "(the) punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 24,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابَ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعَذَابَ",
+      "translation_bh": "",
+      "translation_en": "and [the] punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 37,
+      "part_of_speech": "N",
+      "text": "عَذَابَ",
+      "translation_bh": "",
+      "translation_en": "(from the) punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَيُعَذِّبُ",
+      "translation_bh": "",
+      "translation_en": "and He will punish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "بِعَذَابٍ",
+      "translation_bh": "",
+      "translation_en": "of a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأُعَذِّبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "then I will punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "عَذَابًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "punishes them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "عَذَابًا",
+      "translation_bh": "",
+      "translation_en": "a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابَ ۗ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعَذَابِكُمْ",
+      "translation_bh": "",
+      "translation_en": "by punishing you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُعَذِّبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "then He will punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبُكُم",
+      "translation_bh": "",
+      "translation_en": "(does He) punish you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبُ",
+      "translation_bh": "",
+      "translation_en": "He punishes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُعَذِّبُهُۥ",
+      "translation_bh": "",
+      "translation_en": "[I] will punish him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُعَذِّبُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "I have punished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعَذِّبْهُمْ",
+      "translation_bh": "",
+      "translation_en": "You punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "عَذَابُ",
+      "translation_bh": "",
+      "translation_en": "punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَعَذَابٌ",
+      "translation_bh": "",
+      "translation_en": "and a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَذَابٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَذَابِىٓ",
+      "translation_bh": "",
+      "translation_en": "My punishment "
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعَذِّبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعَذَابٍۭ",
+      "translation_bh": "",
+      "translation_en": "with a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُعَذِّبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "that He punishes them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعَذِّبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "the One Who punishes them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبَهُمُ",
+      "translation_bh": "",
+      "translation_en": "(should) punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبْهُمُ",
+      "translation_bh": "",
+      "translation_en": "Allah will punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَذَّبَ",
+      "translation_bh": "",
+      "translation_en": "and He punished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبْكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will punish you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِعَذَابٍۢ",
+      "translation_bh": "",
+      "translation_en": "with a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُعَذِّبَهُم",
+      "translation_bh": "",
+      "translation_en": "to punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُعَذِّبْ",
+      "translation_bh": "",
+      "translation_en": "We will punish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبَهُم",
+      "translation_bh": "",
+      "translation_en": "punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنُعَذِّبُهُم",
+      "translation_bh": "",
+      "translation_en": "We will punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "عَذَابٍ",
+      "translation_bh": "",
+      "translation_en": "a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "He will punish them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَذَابُهُۥ",
+      "translation_bh": "",
+      "translation_en": "His punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَلَعَذَابُ",
+      "translation_bh": "",
+      "translation_en": "and surely the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "عَذَابٍۢ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "عَذَابِى",
+      "translation_bh": "",
+      "translation_en": "My punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعَذِّبِينَ",
+      "translation_bh": "",
+      "translation_en": "are to punish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبْكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "He will punish you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَذَابَهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "His punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعَذِّبُوهَا",
+      "translation_bh": "",
+      "translation_en": "punish it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعَذِّبَ",
+      "translation_bh": "",
+      "translation_en": "you punish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُعَذِّبُهُۥ",
+      "translation_bh": "",
+      "translation_en": "we will punish him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُعَذِّبُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and He will punish him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعَذِّبْهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "torment them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعَذَابٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "with a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابُ ۗ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلْعَذَابِ",
+      "translation_bh": "",
+      "translation_en": "the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَذَابَهُمَا",
+      "translation_bh": "",
+      "translation_en": "their punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَذْبٌۭ",
+      "translation_bh": "",
+      "translation_en": "palatable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَذَابَهَا",
+      "translation_bh": "",
+      "translation_en": "its punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذَّب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِمُعَذَّبِينَ",
+      "translation_bh": "",
+      "translation_en": "(are) the ones to be punished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَفَبِعَذَابِنَا",
+      "translation_bh": "",
+      "translation_en": "So is it for Our punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَذَّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُعَذَّبِينَ",
+      "translation_bh": "",
+      "translation_en": "those punished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأُعَذِّبَنَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "I will surely punish him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَعَذَابِ",
+      "translation_bh": "",
+      "translation_en": "as (the) punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعَذَابِ",
+      "translation_bh": "",
+      "translation_en": "(the) punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْعَذَابِ ۚ",
+      "translation_bh": "",
+      "translation_en": "[with] the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُعَذِّبَ",
+      "translation_bh": "",
+      "translation_en": "and punish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيُعَذِّبَ",
+      "translation_bh": "",
+      "translation_en": "So that Allah may punish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَذَابِهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "its torment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَذَابٍ",
+      "translation_bh": "",
+      "translation_en": "and suffering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبْهُ",
+      "translation_bh": "",
+      "translation_en": "He will punish him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَذَّبْنَا",
+      "translation_bh": "",
+      "translation_en": "surely, We would have punished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَذِّبُنَا",
+      "translation_bh": "",
+      "translation_en": "Allah punish us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَذَّبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "certainly He (would) have punished them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَذَّبْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "and We punished it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَذَابُ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) the punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَذَابًا",
+      "translation_bh": "",
+      "translation_en": "and a punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُعَذِّبُهُ",
+      "translation_bh": "",
+      "translation_en": "Then will punish him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَذاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَذَابَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "(as) His punishment"
+    }
+  ]
+}

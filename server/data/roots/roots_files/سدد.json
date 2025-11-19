@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 715,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَدِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَدّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سدد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَدِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَدِيدًا",
+      "translation_bh": "",
+      "translation_en": "appropriate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَدّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّدَّيْنِ",
+      "translation_bh": "",
+      "translation_en": "the two mountains"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَدّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَدًّۭا",
+      "translation_bh": "",
+      "translation_en": "a barrier"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَدِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَدِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "right"
+    }
+  ]
+}

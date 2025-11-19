@@ -1,0 +1,117 @@
+{
+  "description_bh": "",
+  "id": 579,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَفَّلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَكْفُلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِفْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفِيل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْفِلْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كفل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَفَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكَفَّلَهَا",
+      "translation_bh": "",
+      "translation_en": "and put her in (the) care"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَكْفُلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْفُلُ",
+      "translation_bh": "",
+      "translation_en": "takes charge (of)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِفْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِفْلٌۭ",
+      "translation_bh": "",
+      "translation_en": "a portion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَفِيلًا ۚ",
+      "translation_bh": "",
+      "translation_en": "a surety"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَكْفُلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْفُلُهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "will nurse and rear him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِفْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْكِفْلِ ۖ",
+      "translation_bh": "",
+      "translation_en": "and Dhul-Kifl"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَكْفُلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْفُلُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "who will rear him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْفِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَكْفِلْنِيهَا",
+      "translation_bh": "",
+      "translation_en": "Entrust her to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِفْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِفْلَيْنِ",
+      "translation_bh": "",
+      "translation_en": "double portion"
+    }
+  ]
+}

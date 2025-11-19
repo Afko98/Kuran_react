@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 812,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ذَرْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِراع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ذرع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ذَرْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ذَرْعًۭا",
+      "translation_bh": "",
+      "translation_en": "(and) uneasy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِراع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِرَاعَيْهِ",
+      "translation_bh": "",
+      "translation_en": "his two forelegs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَرْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذَرْعُهَا",
+      "translation_bh": "",
+      "translation_en": "its length"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِراع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِرَاعًۭا",
+      "translation_bh": "",
+      "translation_en": "cubits"
+    }
+  ]
+}

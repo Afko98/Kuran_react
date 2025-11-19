@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 881,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَنْحِتُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نحت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَنْحِتُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتَنْحِتُونَ",
+      "translation_bh": "",
+      "translation_en": "and you carve out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنْحِتُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنْحِتُونَ",
+      "translation_bh": "",
+      "translation_en": "carve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنْحِتُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنْحِتُونَ",
+      "translation_bh": "",
+      "translation_en": "you carve"
+    }
+  ]
+}

@@ -1,0 +1,366 @@
+{
+  "description_bh": "",
+  "id": 218,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْدِلْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَبَدَّلِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِبْدال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَدِّل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْدِيل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبْدِلَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بدل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَبَدَّلَ",
+      "translation_bh": "",
+      "translation_en": "But changed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْدِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَسْتَبْدِلُونَ",
+      "translation_bh": "",
+      "translation_en": "Would you exchange"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَبَدَّلِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَبَدَّلِ",
+      "translation_bh": "",
+      "translation_en": "exchanges"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَدَّلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "changes it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَدِّلُونَهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "alter it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَدِّلْ",
+      "translation_bh": "",
+      "translation_en": "changes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَبَدَّلِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَبَدَّلُوا۟",
+      "translation_bh": "",
+      "translation_en": "exchange"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِبْدال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱسْتِبْدَالَ",
+      "translation_bh": "",
+      "translation_en": "replacing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَدَّلْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We will change their"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَدِّل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُبَدِّلَ",
+      "translation_bh": "",
+      "translation_en": "one (can) alter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَدَّلْنَا",
+      "translation_bh": "",
+      "translation_en": "We changed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْدِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَبْدِلْ",
+      "translation_bh": "",
+      "translation_en": "and will replace you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَدِّلْهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "change it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُبَدِّلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "I change it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْدِيل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَبْدِيلَ",
+      "translation_bh": "",
+      "translation_en": "change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَدَّلُوا۟",
+      "translation_bh": "",
+      "translation_en": "(have) changed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُبَدَّلُ",
+      "translation_bh": "",
+      "translation_en": "will be changed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَدَّلْنَآ",
+      "translation_bh": "",
+      "translation_en": "We substitute"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَدَلًۭا",
+      "translation_bh": "",
+      "translation_en": "(is) the exchange"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبْدِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبْدِلَهُمَا",
+      "translation_bh": "",
+      "translation_en": "would change for them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَيُبَدِّلَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "and surely He will change for them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَدِّلُ",
+      "translation_bh": "",
+      "translation_en": "Allah will replace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَدَّلَ",
+      "translation_bh": "",
+      "translation_en": "substitutes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْدِيل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "تَبْدِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "(by) any alteration "
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَبَدَّلِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبَدَّلَ",
+      "translation_bh": "",
+      "translation_en": "exchange"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَدَّلْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "and We changed for them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْدِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبْدِيلًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "any change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَدِّلَ",
+      "translation_bh": "",
+      "translation_en": "he will change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْدِلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَبْدِلْ",
+      "translation_bh": "",
+      "translation_en": "He will replace you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَدِّلُوا۟",
+      "translation_bh": "",
+      "translation_en": "change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَدَّلُ",
+      "translation_bh": "",
+      "translation_en": "will be changed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَدَّلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُّبَدِّلَ",
+      "translation_bh": "",
+      "translation_en": "We (will) change"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبْدِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبْدِلَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "He will substitute for him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبْدِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبْدِلَنَا",
+      "translation_bh": "",
+      "translation_en": "will substitute for us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْدِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبْدِيلًا",
+      "translation_bh": "",
+      "translation_en": "(with) a change"
+    }
+  ]
+}

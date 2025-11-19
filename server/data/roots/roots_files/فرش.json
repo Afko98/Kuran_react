@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 697,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فِراش",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْش",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَشْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَراش",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرش",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فِراش",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِرَٰشًۭا",
+      "translation_bh": "",
+      "translation_en": "a resting place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْش",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفَرْشًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "and (some for) meat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَشْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَشْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "We have spread it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِراش",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرُشٍۭ",
+      "translation_bh": "",
+      "translation_en": "couches"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِراش",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفُرُشٍۢ",
+      "translation_bh": "",
+      "translation_en": "And (on) couches"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَراش",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلْفَرَاشِ",
+      "translation_bh": "",
+      "translation_en": "like moths"
+    }
+  ]
+}

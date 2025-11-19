@@ -1,0 +1,130 @@
+{
+  "description_bh": "",
+  "id": 510,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَشابِه",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشابَهَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُبِّهَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْتَبِه",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شبه",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَشابِه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَشَـٰبِهًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(things) in resemblance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشابَهَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَشَـٰبَهَ",
+      "translation_bh": "",
+      "translation_en": "look alike"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشابَهَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشَـٰبَهَتْ",
+      "translation_bh": "",
+      "translation_en": "Became alike"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَشابِه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَشَـٰبِهَـٰتٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) allegorical"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُبِّهَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "شُبِّهَ",
+      "translation_bh": "",
+      "translation_en": "it was made to appear (so)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْتَبِه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُشْتَبِهًۭا",
+      "translation_bh": "",
+      "translation_en": "resembling"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَشابِه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَشَـٰبِهٍ ۗ",
+      "translation_bh": "",
+      "translation_en": "resembling"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَشابِه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَشَـٰبِهًۭا",
+      "translation_bh": "",
+      "translation_en": "similar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَشابِه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَشَـٰبِهٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "similar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشابَهَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَشَـٰبَهَ",
+      "translation_bh": "",
+      "translation_en": "so that seemed alike"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَشابِه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّتَشَـٰبِهًۭا",
+      "translation_bh": "",
+      "translation_en": "(its parts) resembling each other"
+    }
+  ]
+}

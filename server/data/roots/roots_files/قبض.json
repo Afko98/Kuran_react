@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 605,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَبَضْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْبُوضَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْضَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْض",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قبض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَبَضْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقْبِضُ",
+      "translation_bh": "",
+      "translation_en": "withholds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْبُوضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقْبُوضَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "in hand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبَضْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَقْبِضُونَ",
+      "translation_bh": "",
+      "translation_en": "and they close"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبَضْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَبَضْتُ",
+      "translation_bh": "",
+      "translation_en": "so I took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْضَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a handful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبَضْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَبَضْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We withdraw it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْضًۭا",
+      "translation_bh": "",
+      "translation_en": "a withdrawal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْضَتُهُۥ",
+      "translation_bh": "",
+      "translation_en": "(will be) in His Grip"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبَضْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَقْبِضْنَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and folding"
+    }
+  ]
+}

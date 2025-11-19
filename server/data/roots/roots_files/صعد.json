@@ -1,0 +1,95 @@
+{
+  "description_bh": "",
+  "id": 618,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تُصْعِدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَعِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصَّعَّدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصْعَدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَعَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَعُود",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صعد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تُصْعِدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصْعِدُونَ",
+      "translation_bh": "",
+      "translation_en": "you were running uphill"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَعِيد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "صَعِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) earth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصَّعَّدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصَّعَّدُ",
+      "translation_bh": "",
+      "translation_en": "he (were) climbing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصْعَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصْعَدُ",
+      "translation_bh": "",
+      "translation_en": "ascends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَعَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَعَدًۭا",
+      "translation_bh": "",
+      "translation_en": "severe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَعُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَعُودًا",
+      "translation_bh": "",
+      "translation_en": "(with) a laborious punishment"
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "description_bh": "",
+  "id": 16,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْمِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سمو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِسْمِ",
+      "translation_bh": "",
+      "translation_en": "In (the) name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 75,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَآءِ",
+      "translation_bh": "",
+      "translation_en": "the sky"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّمَآءَ",
+      "translation_bh": "",
+      "translation_en": "and the sky"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمَـٰوَٰتٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْمَآءَ",
+      "translation_bh": "",
+      "translation_en": "the names "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَسْمَآءِ",
+      "translation_bh": "",
+      "translation_en": "of (the) names"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَسْمَآئِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "of their names"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَسْمَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "of their names"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 174,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَـٰوَٰتِ",
+      "translation_bh": "",
+      "translation_en": "(of) the heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱسْمُهُۥ",
+      "translation_bh": "",
+      "translation_en": "His name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَآءِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the heaven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "مُّسَمًّۭى",
+      "translation_bh": "",
+      "translation_en": "fixed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَمَّيْتُهَا",
+      "translation_bh": "",
+      "translation_en": "[I] (have) named her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱسْمُهُ",
+      "translation_bh": "",
+      "translation_en": "his name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَـٰوَٰتُ",
+      "translation_bh": "",
+      "translation_en": "(is like that of) the heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَآءِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the heaven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱسْمَ",
+      "translation_bh": "",
+      "translation_en": "(the) name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسَمًّى",
+      "translation_bh": "",
+      "translation_en": "specified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَآءَ",
+      "translation_bh": "",
+      "translation_en": "(rain from) the sky"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُّسَمًّۭى ۖ",
+      "translation_bh": "",
+      "translation_en": "specified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱسْمُ",
+      "translation_bh": "",
+      "translation_en": "(the) name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْمَآءٍۢ",
+      "translation_bh": "",
+      "translation_en": "names"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمَّى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "سَمَّيْتُمُوهَآ",
+      "translation_bh": "",
+      "translation_en": "you have named them "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْمَآءُ",
+      "translation_bh": "",
+      "translation_en": "(are) the names "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْمَـٰٓئِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "His names"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَيَـٰسَمَآءُ",
+      "translation_bh": "",
+      "translation_en": "and O sky"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْمَآءًۭ",
+      "translation_bh": "",
+      "translation_en": "names"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مُّسَمًّۭى ۚ",
+      "translation_bh": "",
+      "translation_en": "appointed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَمُّوهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "Name them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّمَـٰوَٰتُ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَمِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "(this) name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّمَـٰوَٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَمَّىٰكُمُ",
+      "translation_bh": "",
+      "translation_en": "named you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَآءُ",
+      "translation_bh": "",
+      "translation_en": "the heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسَمًّۭى ۗ",
+      "translation_bh": "",
+      "translation_en": "appointed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسَمًّى ۗ",
+      "translation_bh": "",
+      "translation_en": "specified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَمًّى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّسَمًّى ۚ",
+      "translation_bh": "",
+      "translation_en": "specified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّمَـٰوَٰتُ",
+      "translation_bh": "",
+      "translation_en": "and the heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمَـٰوَاتٍۢ",
+      "translation_bh": "",
+      "translation_en": "heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمَآءٍ",
+      "translation_bh": "",
+      "translation_en": "heaven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَـٰوَٰتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلِٱسْمُ",
+      "translation_bh": "",
+      "translation_en": "the name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّمَآءِ",
+      "translation_bh": "",
+      "translation_en": "By the heaven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْمَآءٌۭ",
+      "translation_bh": "",
+      "translation_en": "names"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيُسَمُّونَ",
+      "translation_bh": "",
+      "translation_en": "surely they name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْمِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَسْمِيَةَ",
+      "translation_bh": "",
+      "translation_en": "name(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِٱسْمِ",
+      "translation_bh": "",
+      "translation_en": "(the) name"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱسْمُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "whose name (will be)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَمَـٰوَٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "heavens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسَمَّىٰ",
+      "translation_bh": "",
+      "translation_en": "named"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَآءُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the heaven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمَآءُ",
+      "translation_bh": "",
+      "translation_en": "the sky"
+    }
+  ]
+}

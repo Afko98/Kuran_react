@@ -1,0 +1,1365 @@
+{
+  "description_bh": "",
+  "id": 23,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِئاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأْى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُراءُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراءَتِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُءْيا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِءْي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رأي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَرَى",
+      "translation_bh": "",
+      "translation_en": "we see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُرِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "and shows you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَرِنَا",
+      "translation_bh": "",
+      "translation_en": "And show us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "نَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "We see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَى",
+      "translation_bh": "",
+      "translation_en": "would see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَرَوْنَ",
+      "translation_bh": "",
+      "translation_en": "they will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَرَأَوُا۟",
+      "translation_bh": "",
+      "translation_en": "and they will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرِيهِمُ",
+      "translation_bh": "",
+      "translation_en": "will show them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 31,
+      "part_of_speech": "V",
+      "text": "تَرَ",
+      "translation_bh": "",
+      "translation_en": "you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرِنِى",
+      "translation_bh": "",
+      "translation_en": "show me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِئاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رِئَآءَ",
+      "translation_bh": "",
+      "translation_en": "(to) be seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَوْنَهُم",
+      "translation_bh": "",
+      "translation_en": "They were seeing them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأْى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَأْىَ",
+      "translation_bh": "",
+      "translation_en": "with the sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَيْتُمُوهُ",
+      "translation_bh": "",
+      "translation_en": "you have seen it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرَىٰكُم",
+      "translation_bh": "",
+      "translation_en": "He (had) shown you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "رَأَيْتَ",
+      "translation_bh": "",
+      "translation_en": "you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرَىٰكَ",
+      "translation_bh": "",
+      "translation_en": "has shown you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُراءُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُرَآءُونَ",
+      "translation_bh": "",
+      "translation_en": "showing off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرِنَا",
+      "translation_bh": "",
+      "translation_en": "Show us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُرِيَهُۥ",
+      "translation_bh": "",
+      "translation_en": "to show him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَتَرَى",
+      "translation_bh": "",
+      "translation_en": "And you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "And you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "You see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "تَرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 24,
+      "part_of_speech": "V",
+      "text": "يَرَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرَءَيْتَكُمْ",
+      "translation_bh": "",
+      "translation_en": "Have you seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 12,
+      "part_of_speech": "V",
+      "text": "أَرَءَيْتُمْ",
+      "translation_bh": "",
+      "translation_en": "Have you seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُرِىٓ",
+      "translation_bh": "",
+      "translation_en": "We show(ed)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "رَءَا",
+      "translation_bh": "",
+      "translation_en": "he saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُرِيَهُمَا",
+      "translation_bh": "",
+      "translation_en": "to show both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "sees you "
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَوْنَهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "you see them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لَنَرَىٰكَ",
+      "translation_bh": "",
+      "translation_en": "surely see you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرِنِىٓ",
+      "translation_bh": "",
+      "translation_en": "Show me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَىٰنِى",
+      "translation_bh": "",
+      "translation_en": "you (can) see Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَىٰنِى ۚ",
+      "translation_bh": "",
+      "translation_en": "you (will) see Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَأُو۟رِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "I will show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَأَوْا۟",
+      "translation_bh": "",
+      "translation_en": "and they saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتَرَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And you see them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرِيكَهُمُ",
+      "translation_bh": "",
+      "translation_en": "you (where) shown them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرَىٰكَهُمْ",
+      "translation_bh": "",
+      "translation_en": "He had shown them to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرِيكُمُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "He showed them to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِئاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِئَآءَ",
+      "translation_bh": "",
+      "translation_en": "and showing off"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراءَتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَآءَتِ",
+      "translation_bh": "",
+      "translation_en": "came in sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَرَوْنَ",
+      "translation_bh": "",
+      "translation_en": "you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَرَوْهَا",
+      "translation_bh": "",
+      "translation_en": "which you did not see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَيَرَى",
+      "translation_bh": "",
+      "translation_en": "and Allah will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَيَرَى",
+      "translation_bh": "",
+      "translation_en": "then Allah will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَىٰكُم",
+      "translation_bh": "",
+      "translation_en": "see you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "نُرِيَنَّكَ",
+      "translation_bh": "",
+      "translation_en": "We show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "رَأَوُا۟",
+      "translation_bh": "",
+      "translation_en": "they see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرَءَيْتُم",
+      "translation_bh": "",
+      "translation_en": "Have you seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَرَوُا۟",
+      "translation_bh": "",
+      "translation_en": "they see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "نَرَىٰكَ",
+      "translation_bh": "",
+      "translation_en": "we see you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأْى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّأْىِ",
+      "translation_bh": "",
+      "translation_en": "immature in opinion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "see you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَءَآ",
+      "translation_bh": "",
+      "translation_en": "he saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَيْتُ",
+      "translation_bh": "",
+      "translation_en": "I saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَيْتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "I saw them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُءْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُءْيَاكَ",
+      "translation_bh": "",
+      "translation_en": "your vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَّءَا",
+      "translation_bh": "",
+      "translation_en": "he saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَرَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "[we] surely see her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَيْنَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "they saw him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرَىٰنِىٓ",
+      "translation_bh": "",
+      "translation_en": "[I] see myself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُءْيا",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رُءْيَـٰىَ",
+      "translation_bh": "",
+      "translation_en": "my vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُءْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلرُّءْيَا",
+      "translation_bh": "",
+      "translation_en": "of visions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَرَوْنَهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "that you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُرِيكُمُ",
+      "translation_bh": "",
+      "translation_en": "shows you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "وَتَرَى",
+      "translation_bh": "",
+      "translation_en": "And you will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنُرِيَهُۥ",
+      "translation_bh": "",
+      "translation_en": "that We may show him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُءْيا",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلرُّءْيَا",
+      "translation_bh": "",
+      "translation_en": "the vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرَيْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "We showed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرَءَيْتَكَ",
+      "translation_bh": "",
+      "translation_en": "Do You see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَتَرَى",
+      "translation_bh": "",
+      "translation_en": "And you (might) have seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَنِ",
+      "translation_bh": "",
+      "translation_en": "you see me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَءَا",
+      "translation_bh": "",
+      "translation_en": "And will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "أَرَءَيْتَ",
+      "translation_bh": "",
+      "translation_en": "Did you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَيِنَّ",
+      "translation_bh": "",
+      "translation_en": "you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِءْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِءْيًۭا",
+      "translation_bh": "",
+      "translation_en": "and appearance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "رَأَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَفَرَءَيْتَ",
+      "translation_bh": "",
+      "translation_en": "Then, have you seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنُرِيَكَ",
+      "translation_bh": "",
+      "translation_en": "That We may show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "and I see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We showed him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "رَأَيْتَهُمْ",
+      "translation_bh": "",
+      "translation_en": "you saw them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَرَ",
+      "translation_bh": "",
+      "translation_en": "see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَءَاكَ",
+      "translation_bh": "",
+      "translation_en": "they see you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَوْنَهَا",
+      "translation_bh": "",
+      "translation_en": "you will see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُرِيَنِّى",
+      "translation_bh": "",
+      "translation_en": "You should show me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّرِيَكَ",
+      "translation_bh": "",
+      "translation_en": "We show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَىٰهَا ۗ",
+      "translation_bh": "",
+      "translation_en": "he (can) see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَتْهُم",
+      "translation_bh": "",
+      "translation_en": "it sees them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَوْنَهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَوْكَ",
+      "translation_bh": "",
+      "translation_en": "they see you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَراءَتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَٰٓءَا",
+      "translation_bh": "",
+      "translation_en": "saw each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَفَرَءَيْتُم",
+      "translation_bh": "",
+      "translation_en": "Do you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَىٰكَ",
+      "translation_bh": "",
+      "translation_en": "sees you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "رَءَاهَا",
+      "translation_bh": "",
+      "translation_en": "he saw it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرَى",
+      "translation_bh": "",
+      "translation_en": "I see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "رَءَاهُ",
+      "translation_bh": "",
+      "translation_en": "he saw it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَتْهُ",
+      "translation_bh": "",
+      "translation_en": "she saw it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيُرِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُرِىَ",
+      "translation_bh": "",
+      "translation_en": "and show"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَأَوْهُ",
+      "translation_bh": "",
+      "translation_en": "and they see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَرُونِى",
+      "translation_bh": "",
+      "translation_en": "So show Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَرَوْا۟",
+      "translation_bh": "",
+      "translation_en": "you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُرِيَكُم",
+      "translation_bh": "",
+      "translation_en": "that He may show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَوْهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "you (could) see them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَرَى",
+      "translation_bh": "",
+      "translation_en": "And see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرُونِىَ",
+      "translation_bh": "",
+      "translation_en": "Show me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَرَءَاهُ",
+      "translation_bh": "",
+      "translation_en": "so that he sees it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرُونِى",
+      "translation_bh": "",
+      "translation_en": "Show Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "you see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُءْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرُّءْيَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "the vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَتَرَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "and you see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تَرَى",
+      "translation_bh": "",
+      "translation_en": "it sees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "shows you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُرِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "I show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنُرِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "Soon We will show them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُرِيهِم",
+      "translation_bh": "",
+      "translation_en": "We showed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "رَأَوْهُ",
+      "translation_bh": "",
+      "translation_en": "they saw it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "is seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأَرَيْنَـٰكَهُمْ",
+      "translation_bh": "",
+      "translation_en": "surely, We could show them to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "You see them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "it saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "he saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَىٰ",
+      "translation_bh": "",
+      "translation_en": "he saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَفَرَءَيْتُمُ",
+      "translation_bh": "",
+      "translation_en": "So have you seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "sees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرَىٰ",
+      "translation_bh": "",
+      "translation_en": "be seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّرَأَيْتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "surely you (would) have seen it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَأَيْتَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and you see them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَوْهَا",
+      "translation_bh": "",
+      "translation_en": "they saw it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَوْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَرَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "But We see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَرَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "Then he showed him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَوْنَهَا",
+      "translation_bh": "",
+      "translation_en": "they see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَأَوْهُمْ",
+      "translation_bh": "",
+      "translation_en": "they saw them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "sees him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَّءَاهُ",
+      "translation_bh": "",
+      "translation_en": "he sees himself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيُرَوْا۟",
+      "translation_bh": "",
+      "translation_en": "to be shown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "will see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَرَوُنَّ",
+      "translation_bh": "",
+      "translation_en": "Surely you will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَرَوُنَّهَا",
+      "translation_bh": "",
+      "translation_en": "surely you will see it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَأَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَأَيْتَ",
+      "translation_bh": "",
+      "translation_en": "And you see"
+    }
+  ]
+}

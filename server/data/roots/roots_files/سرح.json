@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 670,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَسْرِيح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرِّحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْرَحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَراح",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سرح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَسْرِيح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَسْرِيحٌۢ",
+      "translation_bh": "",
+      "translation_en": "to release (her)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرِّحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَرِّحُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "release them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْرَحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْرَحُونَ",
+      "translation_bh": "",
+      "translation_en": "you take them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرِّحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُسَرِّحْكُنَّ",
+      "translation_bh": "",
+      "translation_en": "and release you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَراح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَرَاحًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) a release"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرِّحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَرِّحُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "and release them"
+    }
+  ]
+}

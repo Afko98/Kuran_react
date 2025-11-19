@@ -1,0 +1,333 @@
+{
+  "description_bh": "",
+  "id": 215,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنسَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسْي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنسِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نسي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتَنسَوْنَ",
+      "translation_bh": "",
+      "translation_en": "and you forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنسَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُنسِهَا",
+      "translation_bh": "",
+      "translation_en": "[We] cause it to be forgotten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنسَوُا۟",
+      "translation_bh": "",
+      "translation_en": "forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّسِينَآ",
+      "translation_bh": "",
+      "translation_en": "we forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَسُوا۟",
+      "translation_bh": "",
+      "translation_en": "and forgot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنَسُوا۟",
+      "translation_bh": "",
+      "translation_en": "but they forgot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "نَسُوا۟",
+      "translation_bh": "",
+      "translation_en": "they forgot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنسَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنسِيَنَّكَ",
+      "translation_bh": "",
+      "translation_en": "causes you to forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَنسَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We forget them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسُوهُ",
+      "translation_bh": "",
+      "translation_en": "had forgotten it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنَسِيَهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "so He has forgotten them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنسَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنسَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "But made him forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسِيتَ",
+      "translation_bh": "",
+      "translation_en": "you forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَنَسِىَ",
+      "translation_bh": "",
+      "translation_en": "and forgets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسِيَا",
+      "translation_bh": "",
+      "translation_en": "they forgot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَسِيتُ",
+      "translation_bh": "",
+      "translation_en": "[I] forgot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنسَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنسَىٰنِيهُ",
+      "translation_bh": "",
+      "translation_en": "made me forget it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَسْيًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) oblivion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنسِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّنسِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "forgotten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَسِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "forgetful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنسَى",
+      "translation_bh": "",
+      "translation_en": "forgets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَنَسِىَ",
+      "translation_bh": "",
+      "translation_en": "but he forgot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنَسِيتَهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "but you forgot them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُنسَىٰ",
+      "translation_bh": "",
+      "translation_en": "you will be forgotten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنسَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنسَوْكُمْ",
+      "translation_bh": "",
+      "translation_en": "they made you forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنسَ",
+      "translation_bh": "",
+      "translation_en": "forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَسِيتُمْ",
+      "translation_bh": "",
+      "translation_en": "you forgot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسِينَـٰكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "have forgotten you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسِىَ",
+      "translation_bh": "",
+      "translation_en": "he forgets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَنسَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "We forget you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَسُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "while they forgot it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنسَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَنسَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "so he made them forget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَسِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنسَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "you will forget"
+    }
+  ]
+}

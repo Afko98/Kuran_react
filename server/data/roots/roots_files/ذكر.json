@@ -1,0 +1,1161 @@
+{
+  "description_bh": "",
+  "id": 30,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذاكِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ادَّكَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذاكِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدَّكِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَذْكُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُذَكِّر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ذكر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "ٱذْكُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "Remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "وَٱذْكُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُذْكَرَ",
+      "translation_bh": "",
+      "translation_en": "be mentioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱذْكُرُونِىٓ",
+      "translation_bh": "",
+      "translation_en": "So remember Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَذْكُرْكُمْ",
+      "translation_bh": "",
+      "translation_en": "I will remember you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَٱذْكُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "then remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱذْكُرُوهُ",
+      "translation_bh": "",
+      "translation_en": "And remember Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَذِكْرِكُمْ",
+      "translation_bh": "",
+      "translation_en": "as you remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَٱذْكُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "And remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يَتَذَكَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "take heed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَتَذْكُرُونَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "will mention them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَذَّكَّرُ",
+      "translation_bh": "",
+      "translation_en": "remembers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتُذَكِّرَ",
+      "translation_bh": "",
+      "translation_en": "then will remind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلذَّكَرُ",
+      "translation_bh": "",
+      "translation_en": "the male"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَٱذْكُر",
+      "translation_bh": "",
+      "translation_en": "And remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلذِّكْرِ",
+      "translation_bh": "",
+      "translation_en": "and the Reminder "
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذَكَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَذْكُرُونَ",
+      "translation_bh": "",
+      "translation_en": "remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ذَكَرٍ",
+      "translation_bh": "",
+      "translation_en": "(whether) male"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلذَّكَرِ",
+      "translation_bh": "",
+      "translation_en": "for the male"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَلِلذَّكَرِ",
+      "translation_bh": "",
+      "translation_en": "then the male will have"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "ذُكِّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they were reminded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ذِكْرِ",
+      "translation_bh": "",
+      "translation_en": "(the) remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱذْكُرْ",
+      "translation_bh": "",
+      "translation_en": "Remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلذِّكْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "the reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ذِكْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(for) reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَذَكِّرْ",
+      "translation_bh": "",
+      "translation_en": "But remind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَتَذَكَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "you take heed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "ذُكِرَ",
+      "translation_bh": "",
+      "translation_en": "(is) mentioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُذْكَرِ",
+      "translation_bh": "",
+      "translation_en": "has been mentioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَذَّكَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "who take heed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّذُكُورِنَا",
+      "translation_bh": "",
+      "translation_en": "for our males"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَآلذَّكَرَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(Are) the two males"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 17,
+      "part_of_speech": "V",
+      "text": "تَذَكَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "وَذِكْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "and a reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ذِكْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "a reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱذْكُرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱذْكُرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "So remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذَكَّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they remember (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَذْكِيرِى",
+      "translation_bh": "",
+      "translation_en": "and my reminding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذاكِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلذَّٰكِرِينَ",
+      "translation_bh": "",
+      "translation_en": "for those who remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱذْكُرْنِى",
+      "translation_bh": "",
+      "translation_en": "Mention me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ذِكْرَ",
+      "translation_bh": "",
+      "translation_en": "(the) mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ادَّكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱدَّكَرَ",
+      "translation_bh": "",
+      "translation_en": "and remembered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذْكُرُ",
+      "translation_bh": "",
+      "translation_en": "remembering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يَتَذَكَّرُ",
+      "translation_bh": "",
+      "translation_en": "pay heed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِذِكْرِ",
+      "translation_bh": "",
+      "translation_en": "in the remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَذَكِّرْهُم",
+      "translation_bh": "",
+      "translation_en": "And remind them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيَذَّكَّرَ",
+      "translation_bh": "",
+      "translation_en": "and that may take heed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلذِّكْرُ",
+      "translation_bh": "",
+      "translation_en": "the Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلذِّكْرَ",
+      "translation_bh": "",
+      "translation_en": "the Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلذِّكْرِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِيَذَّكَّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they may take heed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذَكَرْتَ",
+      "translation_bh": "",
+      "translation_en": "you mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ذِكْرِنَا",
+      "translation_bh": "",
+      "translation_en": "Our remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ذُكِّرَ",
+      "translation_bh": "",
+      "translation_en": "is reminded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَذْكُرَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "I mention it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ذِكْرًۭا",
+      "translation_bh": "",
+      "translation_en": "a mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ذِكْرًا",
+      "translation_bh": "",
+      "translation_en": "a remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ذِكْرِى",
+      "translation_bh": "",
+      "translation_en": "My remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ذِكْرُ",
+      "translation_bh": "",
+      "translation_en": "(A) mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "وَٱذْكُرْ",
+      "translation_bh": "",
+      "translation_en": "And mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَذْكُرُ",
+      "translation_bh": "",
+      "translation_en": "remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِرَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "تَذْكِرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(as) a reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِذِكْرِىٓ",
+      "translation_bh": "",
+      "translation_en": "for My remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَذْكُرَكَ",
+      "translation_bh": "",
+      "translation_en": "And [we] remember You"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ذِكْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "a Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) your mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَذِكْرُ",
+      "translation_bh": "",
+      "translation_en": "and a Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَذِكْرًۭا",
+      "translation_bh": "",
+      "translation_en": "and a Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَذْكُرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "mention them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَذْكُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَذْكُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they may mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُذْكَرُ",
+      "translation_bh": "",
+      "translation_en": "is mentioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِذِكْرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرِهِم",
+      "translation_bh": "",
+      "translation_en": "their reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُذْكَرَ",
+      "translation_bh": "",
+      "translation_en": "and be mentioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَذَّكَّرَ",
+      "translation_bh": "",
+      "translation_en": "remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلذُّكْرَانَ",
+      "translation_bh": "",
+      "translation_en": "the males"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَذَكَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَذِكْرُ",
+      "translation_bh": "",
+      "translation_en": "and surely (the) remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَذَكَرَ",
+      "translation_bh": "",
+      "translation_en": "and remembers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱذْكُرْنَ",
+      "translation_bh": "",
+      "translation_en": "And remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذاكِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلذَّٰكِرِينَ",
+      "translation_bh": "",
+      "translation_en": "and the men who remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذاكِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلذَّٰكِرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the women who remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذَكَّرَ",
+      "translation_bh": "",
+      "translation_en": "receives admonition"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذُكِّرْتُم ۚ",
+      "translation_bh": "",
+      "translation_en": "you are admonished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرِى ۖ",
+      "translation_bh": "",
+      "translation_en": "My Message"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيَتَذَكَّرَ",
+      "translation_bh": "",
+      "translation_en": "and may be reminded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرَى",
+      "translation_bh": "",
+      "translation_en": "remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) a Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَذِكْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "surely, (is) a reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَتَذْكُرُونَ",
+      "translation_bh": "",
+      "translation_en": "And you will remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلذِّكْرِ",
+      "translation_bh": "",
+      "translation_en": "in the Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلذُّكُورَ",
+      "translation_bh": "",
+      "translation_en": "[the] males"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذُكْرَانًۭا",
+      "translation_bh": "",
+      "translation_en": "males"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذْكُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَذِكْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely, a Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَٱذْكُرْ",
+      "translation_bh": "",
+      "translation_en": "And mention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "their reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَذُكِرَ",
+      "translation_bh": "",
+      "translation_en": "and is mentioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذَكَرٍۢ",
+      "translation_bh": "",
+      "translation_en": "a male"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُكِّرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَذَكِّرْ",
+      "translation_bh": "",
+      "translation_en": "But remind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلذَّكَرَ",
+      "translation_bh": "",
+      "translation_en": "the male"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدَّكِر",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "مُّدَّكِرٍۢ",
+      "translation_bh": "",
+      "translation_en": "who will receive admonition"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "لِلذِّكْرِ",
+      "translation_bh": "",
+      "translation_en": "for remembrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِذِكْرِ",
+      "translation_bh": "",
+      "translation_en": "at (the) remembrance (of) Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَتَذْكِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely a reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱذْكُرِ",
+      "translation_bh": "",
+      "translation_en": "And remember"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَذْكِرَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) a Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلتَّذْكِرَةِ",
+      "translation_bh": "",
+      "translation_en": "the Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذْكِرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَذْكِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a Reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَكَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ذَكَرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(may) pay heed to it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَذْكُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّذْكُورًا",
+      "translation_bh": "",
+      "translation_en": "mentioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرَىٰهَآ",
+      "translation_bh": "",
+      "translation_en": "(to) mention it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلذِّكْرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَذَكَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيَذَّكَّرُ",
+      "translation_bh": "",
+      "translation_en": "He will pay heed "
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُذَكِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُذَكِّرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) a reminder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذِكْرَكَ",
+      "translation_bh": "",
+      "translation_en": "your reputation"
+    }
+  ]
+}

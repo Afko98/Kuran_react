@@ -1,0 +1,61 @@
+{
+  "description_bh": "",
+  "id": 635,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بُرْهان",
+      "translation_bh": ""
+    }
+  ],
+  "root": "برهن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بُرْهان",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بُرْهَـٰنَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your proof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرْهان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُرْهَـٰنٌۭ",
+      "translation_bh": "",
+      "translation_en": "a convincing proof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرْهان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بُرْهَـٰنَ",
+      "translation_bh": "",
+      "translation_en": "the proof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرْهان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُرْهَـٰنَكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your proof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرْهان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُرْهَـٰنَانِ",
+      "translation_bh": "",
+      "translation_en": "(are) two evidences"
+    }
+  ]
+}

@@ -1,0 +1,1155 @@
+{
+  "description_bh": "",
+  "id": 55,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرِج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْراج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خارِج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُرُوج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْرَجَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرَج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرْج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَراج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَخْرَج",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خرج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَأَخْرَجَ",
+      "translation_bh": "",
+      "translation_en": "then brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخْرَجَهُمَا",
+      "translation_bh": "",
+      "translation_en": "and he got [both of] them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجْ",
+      "translation_bh": "",
+      "translation_en": "to bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرِج",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُخْرِجٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) the One Who brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَخْرُجُ",
+      "translation_bh": "",
+      "translation_en": "so comes out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُخْرِجُونَ",
+      "translation_bh": "",
+      "translation_en": "(will) evict"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُخْرِجُونَ",
+      "translation_bh": "",
+      "translation_en": "and evict"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْراج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْرَاجُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their eviction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَرَجْتَ",
+      "translation_bh": "",
+      "translation_en": "you start forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خارِج",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِخَـٰرِجِينَ",
+      "translation_bh": "",
+      "translation_en": "will come out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخْرِجُوهُم",
+      "translation_bh": "",
+      "translation_en": "and drive them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرَجُوكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "they drove you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْراج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِخْرَاجُ",
+      "translation_bh": "",
+      "translation_en": "and driving out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْراج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْرَاجٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "driving (them) out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَرَجْنَ",
+      "translation_bh": "",
+      "translation_en": "they leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "خَرَجُوا۟",
+      "translation_bh": "",
+      "translation_en": "went out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخْرِجْنَا",
+      "translation_bh": "",
+      "translation_en": "we have been driven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجُهُم",
+      "translation_bh": "",
+      "translation_en": "He brings them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجُونَهُم",
+      "translation_bh": "",
+      "translation_en": "they bring them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَخْرَجْنَا",
+      "translation_bh": "",
+      "translation_en": "We brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "and You bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخْرِجَتْ",
+      "translation_bh": "",
+      "translation_en": "raised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُخْرِجُوا۟",
+      "translation_bh": "",
+      "translation_en": "and were driven out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱخْرُجُوا۟",
+      "translation_bh": "",
+      "translation_en": "Go forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَخْرِجْنَا",
+      "translation_bh": "",
+      "translation_en": "take us out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْرُجْ",
+      "translation_bh": "",
+      "translation_en": "leaves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُخْرِجُهُم",
+      "translation_bh": "",
+      "translation_en": "and brings them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَخْرُجُوا۟",
+      "translation_bh": "",
+      "translation_en": "they leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "you bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَخْرِجُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Discharge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "He brings forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرِج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "and brings forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَأَخْرَجْنَا",
+      "translation_bh": "",
+      "translation_en": "then We bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "We bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خارِج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِخَارِجٍۢ",
+      "translation_bh": "",
+      "translation_en": "he comes out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتُخْرِجُوهُ",
+      "translation_bh": "",
+      "translation_en": "then produce it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَٱخْرُجْ",
+      "translation_bh": "",
+      "translation_en": "So get out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱخْرُجْ",
+      "translation_bh": "",
+      "translation_en": "Get out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تُخْرَجُونَ",
+      "translation_bh": "",
+      "translation_en": "you will be brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "أَخْرَجَ",
+      "translation_bh": "",
+      "translation_en": "he drove out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "We will bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "يَخْرُجُ",
+      "translation_bh": "",
+      "translation_en": "comes forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرِجُوهُم",
+      "translation_bh": "",
+      "translation_en": "Drive them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنُخْرِجَنَّكَ",
+      "translation_bh": "",
+      "translation_en": "We will surely drive you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُخْرِجَكُم",
+      "translation_bh": "",
+      "translation_en": "drive you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُخْرِجُوا۟",
+      "translation_bh": "",
+      "translation_en": "so that you may drive out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرَجَكَ",
+      "translation_bh": "",
+      "translation_en": "brought you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجُوكَ ۚ",
+      "translation_bh": "",
+      "translation_en": "drive you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْراج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِإِخْرَاجِ",
+      "translation_bh": "",
+      "translation_en": "to drive out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرَجَهُ",
+      "translation_bh": "",
+      "translation_en": "drove him out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَخَرَجْنَا",
+      "translation_bh": "",
+      "translation_en": "certainly we (would) have come forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُرُوج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخُرُوجَ",
+      "translation_bh": "",
+      "translation_en": "(to) go forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُرُوج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْخُرُوجِ",
+      "translation_bh": "",
+      "translation_en": "to go out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخْرُجُوا۟",
+      "translation_bh": "",
+      "translation_en": "will you come out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "and brings forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَخْرَجَهَا",
+      "translation_bh": "",
+      "translation_en": "he brought it out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرَجَنِى",
+      "translation_bh": "",
+      "translation_en": "He took me out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُخْرِجَ",
+      "translation_bh": "",
+      "translation_en": "so that you may bring out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرِجْ",
+      "translation_bh": "",
+      "translation_en": "Bring out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنُخْرِجَنَّكُم",
+      "translation_bh": "",
+      "translation_en": "Surely we will drive you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرَج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُخْرَجِينَ",
+      "translation_bh": "",
+      "translation_en": "will be removed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَسْتَخْرِجُوا۟",
+      "translation_bh": "",
+      "translation_en": "and that you bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرَجَكُم",
+      "translation_bh": "",
+      "translation_en": "brought you forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "and We will bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُخْرِجُوكَ",
+      "translation_bh": "",
+      "translation_en": "that they evict you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخْرِجْنِى",
+      "translation_bh": "",
+      "translation_en": "and cause me to exit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرَج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُخْرَجَ",
+      "translation_bh": "",
+      "translation_en": "an exit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَخْرُجُ",
+      "translation_bh": "",
+      "translation_en": "(that) comes out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَخْرِجَا",
+      "translation_bh": "",
+      "translation_en": "and bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرْج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَرْجًا",
+      "translation_bh": "",
+      "translation_en": "an expenditure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَخَرَجَ",
+      "translation_bh": "",
+      "translation_en": "Then he came out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخْرَجُ",
+      "translation_bh": "",
+      "translation_en": "I be brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَخْرُجْ",
+      "translation_bh": "",
+      "translation_en": "it will come out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُخْرِجُكُمْ",
+      "translation_bh": "",
+      "translation_en": "We will bring you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُخْرِجَنَا",
+      "translation_bh": "",
+      "translation_en": "to drive us out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجَاكُم",
+      "translation_bh": "",
+      "translation_en": "they drive you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجَنَّكُمَا",
+      "translation_bh": "",
+      "translation_en": "(let) him drive you both"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أُخْرِجُوا۟",
+      "translation_bh": "",
+      "translation_en": "have been evicted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرَج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّخْرَجُونَ",
+      "translation_bh": "",
+      "translation_en": "(will be) brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرْج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَرْجًۭا",
+      "translation_bh": "",
+      "translation_en": "(for) a payment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَراج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَخَرَاجُ",
+      "translation_bh": "",
+      "translation_en": "But the payment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَخْرُجُنَّ ۖ",
+      "translation_bh": "",
+      "translation_en": "surely they (would) go forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخْرَجْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "So We expelled them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرَج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُخْرَجِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones driven out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَنُخْرِجَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "and surely, we will drive them out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْرَج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمُخْرَجُونَ",
+      "translation_bh": "",
+      "translation_en": "surely be brought out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخْرُجُونَ",
+      "translation_bh": "",
+      "translation_en": "will come forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنُخْرِجُ",
+      "translation_bh": "",
+      "translation_en": "then We bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُخْرِجَكُم",
+      "translation_bh": "",
+      "translation_en": "so that He may bring you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَسْتَخْرِجُونَ",
+      "translation_bh": "",
+      "translation_en": "and you extract"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخْرَجْنَا",
+      "translation_bh": "",
+      "translation_en": "and We bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُرُوج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خُرُوجٍۢ",
+      "translation_bh": "",
+      "translation_en": "get out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجُكُمْ",
+      "translation_bh": "",
+      "translation_en": "He brings you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرَجُونَ",
+      "translation_bh": "",
+      "translation_en": "they will be brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخْرَجَ",
+      "translation_bh": "",
+      "translation_en": "I will be brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْرَجَتْكَ",
+      "translation_bh": "",
+      "translation_en": "has driven you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجَ",
+      "translation_bh": "",
+      "translation_en": "will Allah bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُخْرِجْ",
+      "translation_bh": "",
+      "translation_en": "and He will bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخْرُجَ",
+      "translation_bh": "",
+      "translation_en": "you came out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُرُوج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخُرُوجُ",
+      "translation_bh": "",
+      "translation_en": "(will be) the coming forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُرُوج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخُرُوجِ",
+      "translation_bh": "",
+      "translation_en": "(of) coming forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَخْرُجُونَ",
+      "translation_bh": "",
+      "translation_en": "they will come forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيُخْرِجَكُم",
+      "translation_bh": "",
+      "translation_en": "that He may bring you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْرُجُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "they would leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخْرِجْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you are expelled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَخْرُجَنَّ",
+      "translation_bh": "",
+      "translation_en": "surely we will leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجُونَ",
+      "translation_bh": "",
+      "translation_en": "driving out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَرَجْتُمْ",
+      "translation_bh": "",
+      "translation_en": "come forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْرِجُوكُم",
+      "translation_bh": "",
+      "translation_en": "drive you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخْرَجُوكُم",
+      "translation_bh": "",
+      "translation_en": "and drive you out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْراج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْرَاجِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your expulsion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيُخْرِجَنَّ",
+      "translation_bh": "",
+      "translation_en": "surely, will expel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُخْرِجُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "expel them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْرُجْنَ",
+      "translation_bh": "",
+      "translation_en": "they should leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَخْرَج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَخْرَجًۭا",
+      "translation_bh": "",
+      "translation_en": "a way out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيُخْرِجَ",
+      "translation_bh": "",
+      "translation_en": "that he may bring out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُخْرِجُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and bring you forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْراج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْرَاجًۭا",
+      "translation_bh": "",
+      "translation_en": "(a new) bringing forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّنُخْرِجَ",
+      "translation_bh": "",
+      "translation_en": "That We may bring forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخْرَجَ",
+      "translation_bh": "",
+      "translation_en": "and brought out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْرَجَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخْرَجَتِ",
+      "translation_bh": "",
+      "translation_en": "And brings forth"
+    }
+  ]
+}

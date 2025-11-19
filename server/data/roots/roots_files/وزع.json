@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 834,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُوزَعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْزِعْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وزع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُوزَعُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُوزَعُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) set in rows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْزِعْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَوْزِعْنِىٓ",
+      "translation_bh": "",
+      "translation_en": "Grant me (the) power"
+    }
+  ]
+}

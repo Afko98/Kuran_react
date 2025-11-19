@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 609,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "احْتَرَقَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِّقُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حرق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "احْتَرَقَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱحْتَرَقَتْ ۗ",
+      "translation_bh": "",
+      "translation_en": "then it is burnt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِيق",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرِيقِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Burning Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِّقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّنُحَرِّقَنَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "Surely we will burn it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِّقُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "حَرِّقُوهُ",
+      "translation_bh": "",
+      "translation_en": "Burn him"
+    }
+  ]
+}

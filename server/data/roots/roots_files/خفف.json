@@ -1,0 +1,135 @@
+{
+  "description_bh": "",
+  "id": 436,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَفَّفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخْفِيف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفَّتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفِيف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخَفَّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خفف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَفَّفَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يُخَفَّفُ",
+      "translation_bh": "",
+      "translation_en": "will be lightened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخْفِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَخْفِيفٌۭ",
+      "translation_bh": "",
+      "translation_en": "a concession"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخَفِّفَ",
+      "translation_bh": "",
+      "translation_en": "lighten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفَّتْ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "خَفَّتْ",
+      "translation_bh": "",
+      "translation_en": "(will be) light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَفِيفًۭا",
+      "translation_bh": "",
+      "translation_en": "light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَفَّفَ",
+      "translation_bh": "",
+      "translation_en": "has (been) lightened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِفَافًۭا",
+      "translation_bh": "",
+      "translation_en": "light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخَفَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَخِفُّونَهَا",
+      "translation_bh": "",
+      "translation_en": "which you find light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخَفَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَخِفَّنَّكَ",
+      "translation_bh": "",
+      "translation_en": "take you in light estimation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَفَّفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخَفِّفْ",
+      "translation_bh": "",
+      "translation_en": "(to) lighten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَخَفَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَخَفَّ",
+      "translation_bh": "",
+      "translation_en": "So he bluffed"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "description_bh": "",
+  "id": 519,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْسُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْسِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَتَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِير",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حسر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَرَٰتٍ",
+      "translation_bh": "",
+      "translation_en": "(as) regrets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَسْرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a regret"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰحَسْرَتَنَا",
+      "translation_bh": "",
+      "translation_en": "Oh! Our regret"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْسُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّحْسُورًا",
+      "translation_bh": "",
+      "translation_en": "insolvent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَسْرَةِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Regret"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْسِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَحْسِرُونَ",
+      "translation_bh": "",
+      "translation_en": "they tire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَرَٰتٍ ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) regrets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰحَسْرَةً",
+      "translation_bh": "",
+      "translation_en": "Alas"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَتَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰحَسْرَتَىٰ",
+      "translation_bh": "",
+      "translation_en": "Oh! My regret"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) fatigued"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَحَسْرَةٌ",
+      "translation_bh": "",
+      "translation_en": "(is) surely a regret"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "description_bh": "",
+  "id": 459,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَمُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمَّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صمم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "صُمٌّۢ",
+      "translation_bh": "",
+      "translation_en": "Deaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَمُّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَصَمُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and they became deaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُمٌّۭ",
+      "translation_bh": "",
+      "translation_en": "(are) deaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلصُّمُّ",
+      "translation_bh": "",
+      "translation_en": "(are) the deaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلصُّمَّ",
+      "translation_bh": "",
+      "translation_en": "cause the deaf to hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَصَمِّ",
+      "translation_bh": "",
+      "translation_en": "and the deaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَصُمًّۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "and deaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُمًّۭا",
+      "translation_bh": "",
+      "translation_en": "deaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصَمَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَصَمَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "so He made them deaf"
+    }
+  ]
+}

@@ -1,0 +1,194 @@
+{
+  "description_bh": "",
+  "id": 388,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَذَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحَذِّرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِذْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْذُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاذِر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حذر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَذَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَذَرَ",
+      "translation_bh": "",
+      "translation_en": "(in) fear (of)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱحْذَرُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "so beware of Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحَذِّرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُحَذِّرُكُمُ",
+      "translation_bh": "",
+      "translation_en": "And warns you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِذْرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your precautions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِذْرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their precautions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِذْرَكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "your precautions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱحْذَرُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "then beware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱحْذَرْهُمْ",
+      "translation_bh": "",
+      "translation_en": "and beware of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱحْذَرُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "and beware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَحْذَرُ",
+      "translation_bh": "",
+      "translation_en": "Fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْذَرُونَ",
+      "translation_bh": "",
+      "translation_en": "you fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَحْذَرُونَ",
+      "translation_bh": "",
+      "translation_en": "beware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْذُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَحْذُورًۭا",
+      "translation_bh": "",
+      "translation_en": "(ever) feared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَحْذَرِ",
+      "translation_bh": "",
+      "translation_en": "So let beware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاذِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَـٰذِرُونَ",
+      "translation_bh": "",
+      "translation_en": "forewarned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱحْذَرْهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "so beware of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْذَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱحْذَرُوهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "so beware of them"
+    }
+  ]
+}

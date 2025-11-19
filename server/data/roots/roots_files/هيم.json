@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1199,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَهِيمُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هِيم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "هيم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَهِيمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهِيمُونَ",
+      "translation_bh": "",
+      "translation_en": "[they] roam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهِيمِ",
+      "translation_bh": "",
+      "translation_en": "(of) the thirsty camels"
+    }
+  ]
+}

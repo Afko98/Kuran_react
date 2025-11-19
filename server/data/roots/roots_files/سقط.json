@@ -1,0 +1,103 @@
+{
+  "description_bh": "",
+  "id": 648,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سُقِطَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُسْقِطَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُساقِطْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساقِط",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سقط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سُقِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْقُطُ",
+      "translation_bh": "",
+      "translation_en": "falls"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُقِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سُقِطَ",
+      "translation_bh": "",
+      "translation_en": "(it was made to) fall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُقِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَقَطُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "they have fallen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُسْقِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسْقِطَ",
+      "translation_bh": "",
+      "translation_en": "you cause to fall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُساقِطْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسَـٰقِطْ",
+      "translation_bh": "",
+      "translation_en": "it will drop"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُسْقِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَسْقِطْ",
+      "translation_bh": "",
+      "translation_en": "Then cause to fall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُسْقِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُسْقِطْ",
+      "translation_bh": "",
+      "translation_en": "cause to fall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساقِط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَاقِطًۭا",
+      "translation_bh": "",
+      "translation_en": "falling"
+    }
+  ]
+}

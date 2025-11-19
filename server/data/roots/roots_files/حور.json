@@ -1,0 +1,117 @@
+{
+  "description_bh": "",
+  "id": 495,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَوارِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحاوِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحاوُر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحُورَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَوارِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَوَارِيُّونَ",
+      "translation_bh": "",
+      "translation_en": "the disciples"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَوارِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَوَارِيِّـۧنَ",
+      "translation_bh": "",
+      "translation_en": "the disciples"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحاوِرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُحَاوِرُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "(was) talking with him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُور",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِحُورٍ",
+      "translation_bh": "",
+      "translation_en": "(to) companions with beautiful eyes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُورٌۭ",
+      "translation_bh": "",
+      "translation_en": "Fair ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحُورٌ",
+      "translation_bh": "",
+      "translation_en": "And fair ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحاوُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَحَاوُرَكُمَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "(the) dialogue of both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَوارِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْحَوَارِيِّـۧنَ",
+      "translation_bh": "",
+      "translation_en": "to the disciples"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحُورَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحُورَ",
+      "translation_bh": "",
+      "translation_en": "he would return"
+    }
+  ]
+}

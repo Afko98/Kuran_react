@@ -1,0 +1,189 @@
+{
+  "description_bh": "",
+  "id": 241,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِلْء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلِئَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مالِئ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "امْتَلَأْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ملأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَإِ",
+      "translation_bh": "",
+      "translation_en": "the chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِلْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّلْءُ",
+      "translation_bh": "",
+      "translation_en": "full"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلِئَتْ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "لَأَمْلَأَنَّ",
+      "translation_bh": "",
+      "translation_en": "surely, I will fill"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَأُ",
+      "translation_bh": "",
+      "translation_en": "the chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَمَلَإِي۟هِۦ",
+      "translation_bh": "",
+      "translation_en": "and his chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَلَإِي۟هِمْ",
+      "translation_bh": "",
+      "translation_en": "and their chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَلَأَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and his chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَأٌۭ",
+      "translation_bh": "",
+      "translation_en": "(the) chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلِئَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَمُلِئْتَ",
+      "translation_bh": "",
+      "translation_en": "and surely you would have been filled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَؤُا۟",
+      "translation_bh": "",
+      "translation_en": "the chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْمَلَإِ",
+      "translation_bh": "",
+      "translation_en": "to the chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَأَ",
+      "translation_bh": "",
+      "translation_en": "the chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَلَإِي۟هِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "and his chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مالِئ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَمَالِـُٔونَ",
+      "translation_bh": "",
+      "translation_en": "and fill"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْمَلَإِ",
+      "translation_bh": "",
+      "translation_en": "(of) the chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "امْتَلَأْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱمْتَلَأْتِ",
+      "translation_bh": "",
+      "translation_en": "you filled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلِئَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مُلِئَتْ",
+      "translation_bh": "",
+      "translation_en": "filled (with)"
+    }
+  ]
+}

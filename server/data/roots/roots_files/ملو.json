@@ -1,0 +1,84 @@
+{
+  "description_bh": "",
+  "id": 580,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَمْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِيّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ملو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَمْلَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُمْلِى",
+      "translation_bh": "",
+      "translation_en": "We give respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْلَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأُمْلِى",
+      "translation_bh": "",
+      "translation_en": "And I will give respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْلَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَمْلَيْتُ",
+      "translation_bh": "",
+      "translation_en": "but I granted respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "(for) a prolonged time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَمْلَيْتُ",
+      "translation_bh": "",
+      "translation_en": "I gave respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُمْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "are dictated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمْلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَمْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "and prolonged hope"
+    }
+  ]
+}

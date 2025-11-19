@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 454,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْتَدَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَتِيد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عتد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْتَدَتْ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "أَعْتَدْنَا",
+      "translation_bh": "",
+      "translation_en": "We have prepared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْتَدَتْ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "وَأَعْتَدْنَا",
+      "translation_bh": "",
+      "translation_en": "and We (have) prepared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْتَدَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَعْتَدَتْ",
+      "translation_bh": "",
+      "translation_en": "and she prepared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَتِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَتِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "ready"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَتِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَتِيدٌ",
+      "translation_bh": "",
+      "translation_en": "ready"
+    }
+  ]
+}

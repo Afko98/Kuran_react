@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 744,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَحْطِمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُطام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُطَمَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حطم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَحْطِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْطِمَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "lest not crush you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُطام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُطَـٰمًا ۚ",
+      "translation_bh": "",
+      "translation_en": "debris"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُطام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُطَـٰمًۭا",
+      "translation_bh": "",
+      "translation_en": "debris"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُطام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُطَـٰمًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "debris"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُطَمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُطَمَةِ",
+      "translation_bh": "",
+      "translation_en": "the Crusher"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُطَمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُطَمَةُ",
+      "translation_bh": "",
+      "translation_en": "the Crusher (is)"
+    }
+  ]
+}

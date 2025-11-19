@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 989,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُسِيغُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِغ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سوغ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُسِيغُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسِيغُهُۥ",
+      "translation_bh": "",
+      "translation_en": "(to) swallowing it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَآئِغًۭا",
+      "translation_bh": "",
+      "translation_en": "palatable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَآئِغٌۭ",
+      "translation_bh": "",
+      "translation_en": "pleasant"
+    }
+  ]
+}

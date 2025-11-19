@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 838,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَخْتَصُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاصَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَصاصَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خصص",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَخْتَصُّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَخْتَصُّ",
+      "translation_bh": "",
+      "translation_en": "chooses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاصَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَآصَّةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "exclusively"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَصاصَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَصَاصَةٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "poverty"
+    }
+  ]
+}

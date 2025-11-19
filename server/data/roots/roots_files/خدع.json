@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 747,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُخادِعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَخْدَعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خادِع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خدع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُخادِعُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُخَـٰدِعُونَ",
+      "translation_bh": "",
+      "translation_en": "They seek to deceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَخْدَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْدَعُونَ",
+      "translation_bh": "",
+      "translation_en": "they deceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خادِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَـٰدِعُهُمْ",
+      "translation_bh": "",
+      "translation_en": "who deceives them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَخْدَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْدَعُوكَ",
+      "translation_bh": "",
+      "translation_en": "deceive you"
+    }
+  ]
+}

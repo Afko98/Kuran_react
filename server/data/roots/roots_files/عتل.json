@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1226,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اعْتِلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُتُلّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عتل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اعْتِلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْتِلُوهُ",
+      "translation_bh": "",
+      "translation_en": "and drag him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُتُلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُتُلٍّۭ",
+      "translation_bh": "",
+      "translation_en": "Cruel"
+    }
+  ]
+}

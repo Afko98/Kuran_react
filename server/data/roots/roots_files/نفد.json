@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 822,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَفِدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفاد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نفد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَفِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنفَدُ ۖ",
+      "translation_bh": "",
+      "translation_en": "will be exhausted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَفِدَ",
+      "translation_bh": "",
+      "translation_en": "surely (would be) exhausted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنفَدَ",
+      "translation_bh": "",
+      "translation_en": "(were) exhausted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَفِدَتْ",
+      "translation_bh": "",
+      "translation_en": "would be exhausted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّفَادٍ",
+      "translation_bh": "",
+      "translation_en": "depletion"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 821,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَعْتِبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عتب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَعْتِبُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُسْتَعْتَبُونَ",
+      "translation_bh": "",
+      "translation_en": "will be asked to make amends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَعْتِبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَعْتِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they ask for favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُعْتَبِينَ",
+      "translation_bh": "",
+      "translation_en": "those who receive favor"
+    }
+  ]
+}

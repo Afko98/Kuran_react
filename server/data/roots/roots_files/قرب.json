@@ -1,0 +1,525 @@
+{
+  "description_bh": "",
+  "id": 117,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَقْرَبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَرَّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَّبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اقْتَرَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرُبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْرَبَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قرب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَقْرَبُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَقْرَبَا",
+      "translation_bh": "",
+      "translation_en": "[you two] approach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَى",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْبَىٰ",
+      "translation_bh": "",
+      "translation_en": "relatives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَقْرَبِينَ",
+      "translation_bh": "",
+      "translation_en": "and the near relatives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَرِيبٌ ۖ",
+      "translation_bh": "",
+      "translation_en": "near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْرَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقْرَبُوهَا ۗ",
+      "translation_bh": "",
+      "translation_en": "approach them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "قَرِيبٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْرَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقْرَبُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "approach them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "أَقْرَبُ",
+      "translation_bh": "",
+      "translation_en": "(is) nearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَرَّب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقَرَّبِينَ",
+      "translation_bh": "",
+      "translation_en": "those brought near (to Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقُرْبَانٍۢ",
+      "translation_bh": "",
+      "translation_en": "a sacrifice "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَقْرَبُونَ",
+      "translation_bh": "",
+      "translation_en": "and the near relatives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قَرِيبٍۢ",
+      "translation_bh": "",
+      "translation_en": "soon after"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَقْرَبُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the relatives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْرَبُ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تَقْرَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "go near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَرِيبٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَقْرَبِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the relatives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَرَّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقَرَّبُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the ones who are near (to Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَرَّبَا",
+      "translation_bh": "",
+      "translation_en": "both offered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْبَانًۭا",
+      "translation_bh": "",
+      "translation_en": "a sacrifice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقْرَبَهُم",
+      "translation_bh": "",
+      "translation_en": "nearest of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْبَىٰ ۙ",
+      "translation_bh": "",
+      "translation_en": "a near relative"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْبَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "a near relative"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اقْتَرَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱقْتَرَبَ",
+      "translation_bh": "",
+      "translation_en": "come near "
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْرَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقْرَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "so let them not come near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "قَرِيبًۭا",
+      "translation_bh": "",
+      "translation_en": "near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرُبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرُبَـٰتٍ",
+      "translation_bh": "",
+      "translation_en": "(as) means of nearness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْبَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a means of nearness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْبَىٰ",
+      "translation_bh": "",
+      "translation_en": "near of kin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقَرِيبٍۢ",
+      "translation_bh": "",
+      "translation_en": "near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْرَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقْرَبُونِ",
+      "translation_bh": "",
+      "translation_en": "you will come near me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقْرَبُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) nearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأَقْرَبَ",
+      "translation_bh": "",
+      "translation_en": "to a nearer (way)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَقْرَبَ",
+      "translation_bh": "",
+      "translation_en": "and nearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَرَّبْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "and brought him near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اقْتَرَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱقْتَرَبَ",
+      "translation_bh": "",
+      "translation_en": "And has approached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقَرِيبٌ",
+      "translation_bh": "",
+      "translation_en": "whether is near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَقْرَبِينَ",
+      "translation_bh": "",
+      "translation_en": "[the] closest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَرِيبًا",
+      "translation_bh": "",
+      "translation_en": "near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُقَرِّبُكُمْ",
+      "translation_bh": "",
+      "translation_en": "will bring you close"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْبَىٰٓ ۗ",
+      "translation_bh": "",
+      "translation_en": "near of kin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُقَرِّبُونَآ",
+      "translation_bh": "",
+      "translation_en": "that they may bring us near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْبَىٰ ۗ",
+      "translation_bh": "",
+      "translation_en": "the relatives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْبَانًا",
+      "translation_bh": "",
+      "translation_en": "gods as a way of approach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَرَّبَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "And he placed it near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اقْتَرَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱقْتَرَبَتِ",
+      "translation_bh": "",
+      "translation_en": "Has come near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَرَّب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقَرَّبُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the nearest ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَرِيبًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "shortly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَرِيبٌۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقَرِيبٌۭ",
+      "translation_bh": "",
+      "translation_en": "whether is near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْرَبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقْرَبَةٍ",
+      "translation_bh": "",
+      "translation_en": "near relationship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اقْتَرَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱقْتَرِب ۩",
+      "translation_bh": "",
+      "translation_en": "and draw near (to Allah)"
+    }
+  ]
+}

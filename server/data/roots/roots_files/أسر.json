@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 700,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَسِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْسِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أسر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَسِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُسَـٰرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(as) captives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "prisoners of war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the captives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْسِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَأْسِرُونَ",
+      "translation_bh": "",
+      "translation_en": "and you took captive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَسِيرًا",
+      "translation_bh": "",
+      "translation_en": "and (the) captive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْرَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their forms"
+    }
+  ]
+}

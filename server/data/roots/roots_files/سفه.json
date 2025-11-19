@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 542,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَفِيه",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفِهَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفَه",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفاهَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سفه",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَفِيه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّفَهَآءُ ۗ",
+      "translation_bh": "",
+      "translation_en": "the fools"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفِيه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلسُّفَهَآءُ",
+      "translation_bh": "",
+      "translation_en": "(are) the fools"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفِهَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَفِهَ",
+      "translation_bh": "",
+      "translation_en": "fooled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفِيه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَفِيهًا",
+      "translation_bh": "",
+      "translation_en": "(of) limited understanding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفِيه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّفَهَآءَ",
+      "translation_bh": "",
+      "translation_en": "the foolish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفَه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَفَهًۢا",
+      "translation_bh": "",
+      "translation_en": "(in) foolishness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفاهَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَفَاهَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "foolishness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفاهَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَفَاهَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "foolishness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفِيه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَفِيهُنَا",
+      "translation_bh": "",
+      "translation_en": "the foolish among us"
+    }
+  ]
+}

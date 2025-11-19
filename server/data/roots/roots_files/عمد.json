@@ -1,0 +1,67 @@
+{
+  "description_bh": "",
+  "id": 679,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَعَمِّد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعَمَّدَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِماد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عمد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَعَمِّد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّتَعَمِّدًۭا",
+      "translation_bh": "",
+      "translation_en": "intentionally"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمَد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَمَدٍۢ",
+      "translation_bh": "",
+      "translation_en": "pillars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعَمَّدَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعَمَّدَتْ",
+      "translation_bh": "",
+      "translation_en": "intended"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِماد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعِمَادِ",
+      "translation_bh": "",
+      "translation_en": "lofty pillars"
+    }
+  ]
+}

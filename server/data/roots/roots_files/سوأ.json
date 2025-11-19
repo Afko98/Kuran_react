@@ -1,0 +1,718 @@
+{
+  "description_bh": "",
+  "id": 64,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْءَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَساءَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوٓأَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْوَأ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسِيء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سوأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "سُوٓءَ",
+      "translation_bh": "",
+      "translation_en": "horrible"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَيِّئَةًۭ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِٱلسُّوٓءِ",
+      "translation_bh": "",
+      "translation_en": "to (do) the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتِكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "your evil deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سُوٓءٍۢ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسُؤْهُمْ",
+      "translation_bh": "",
+      "translation_en": "it grieves them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سَيِّئَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "misfortune"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوٓءٌۭ",
+      "translation_bh": "",
+      "translation_en": "any harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتِنَا",
+      "translation_bh": "",
+      "translation_en": "our evil deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their evil deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلسُّوٓءَ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّـَٔاتِ",
+      "translation_bh": "",
+      "translation_en": "the evil deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَسَآءَ",
+      "translation_bh": "",
+      "translation_en": "and (an) evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your evil deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَسَآءَ",
+      "translation_bh": "",
+      "translation_en": "then evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَيِّئَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَسَآءَتْ",
+      "translation_bh": "",
+      "translation_en": "and it is an evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سُوٓءًا",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سُوٓءًۭا",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْءَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَوْءَةَ",
+      "translation_bh": "",
+      "translation_en": "(the) dead body"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "سَآءَ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسُؤْكُمْ",
+      "translation_bh": "",
+      "translation_en": "it may distress you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوٓءًۢا",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلسَّيِّئَةِ",
+      "translation_bh": "",
+      "translation_en": "with an evil deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْءَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَوْءَٰتِهِمَا",
+      "translation_bh": "",
+      "translation_en": "their shame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْءَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَوْءَٰتُهُمَا",
+      "translation_bh": "",
+      "translation_en": "their shame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْءَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَوْءَٰتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your shame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْءَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَوْءَٰتِهِمَآ ۗ",
+      "translation_bh": "",
+      "translation_en": "their shame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِسُوٓءٍۢ",
+      "translation_bh": "",
+      "translation_en": "with harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّئَةِ",
+      "translation_bh": "",
+      "translation_en": "(of) the bad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّوٓءِ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّيِّـَٔاتِ",
+      "translation_bh": "",
+      "translation_en": "and the bad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّوٓءُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "سُوٓءُ",
+      "translation_bh": "",
+      "translation_en": "(the) evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسُؤْهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "it distresses them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّوْءِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّئًا",
+      "translation_bh": "",
+      "translation_en": "(that was) evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّئَةٍۭ",
+      "translation_bh": "",
+      "translation_en": "(of) an evil deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّـَٔاتُ",
+      "translation_bh": "",
+      "translation_en": "the evils"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسُوٓءٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "with evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سِىٓءَ",
+      "translation_bh": "",
+      "translation_en": "he was distressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّـَٔاتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the evil deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوٓءٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّئَةَ",
+      "translation_bh": "",
+      "translation_en": "the evil "
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسُّوٓءَ",
+      "translation_bh": "",
+      "translation_en": "and evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوٓءٍۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتُ",
+      "translation_bh": "",
+      "translation_en": "(the) evil (results)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سُوٓءِ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلسَّوْءِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَساءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسَأْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you do evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَسُـۥٓـُٔوا۟",
+      "translation_bh": "",
+      "translation_en": "to sadden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّئُهُۥ",
+      "translation_bh": "",
+      "translation_en": "[its] evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَوْءٍۢ",
+      "translation_bh": "",
+      "translation_en": "an evil man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوٓءٍ",
+      "translation_bh": "",
+      "translation_en": "disease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّئَةَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلسَّوْءِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَآءَتْ",
+      "translation_bh": "",
+      "translation_en": "(is) an evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوٓءٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَساءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَسَـٰٓـُٔوا۟",
+      "translation_bh": "",
+      "translation_en": "did evil "
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوٓأَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّوٓأَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَيِّئَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "an evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّئِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّئُ",
+      "translation_bh": "",
+      "translation_en": "(of) the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْوَأ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَسْوَأَ",
+      "translation_bh": "",
+      "translation_en": "(the) worst"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّوٓءُ",
+      "translation_bh": "",
+      "translation_en": "the evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتِ",
+      "translation_bh": "",
+      "translation_en": "(from the) evils"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسِيء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسِىٓءُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the evildoer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّيِّئَةُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the evil (deed)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَساءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَسَآءَ",
+      "translation_bh": "",
+      "translation_en": "does evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their misdeeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَوْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّوْءِ",
+      "translation_bh": "",
+      "translation_en": "evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّئَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَيِّـَٔاتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his evil deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سِيٓـَٔتْ",
+      "translation_bh": "",
+      "translation_en": "(will be) distressed"
+    }
+  ]
+}

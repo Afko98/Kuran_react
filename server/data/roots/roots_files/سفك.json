@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1054,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَسْفِكُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سفك",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَسْفِكُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْفِكُ",
+      "translation_bh": "",
+      "translation_en": "and will shed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْفِكُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْفِكُونَ",
+      "translation_bh": "",
+      "translation_en": "will you shed"
+    }
+  ]
+}

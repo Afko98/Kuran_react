@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 765,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْنَتَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَنِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَنَت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عنت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْنَتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأَعْنَتَكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "surely He (could have) put you in difficulties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَنِ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَنِتُّمْ",
+      "translation_bh": "",
+      "translation_en": "distresses you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَنَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَنَتَ",
+      "translation_bh": "",
+      "translation_en": "committing sin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَنِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَنِتُّمْ",
+      "translation_bh": "",
+      "translation_en": "surely you would be in difficulty"
+    }
+  ]
+}

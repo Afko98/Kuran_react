@@ -1,0 +1,140 @@
+{
+  "description_bh": "",
+  "id": 499,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجارَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجِيرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَجاوِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جائِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجاوِرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْجَارِ",
+      "translation_bh": "",
+      "translation_en": "and the neighbor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَارٌۭ",
+      "translation_bh": "",
+      "translation_en": "a neighbor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجارَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَجَارَكَ",
+      "translation_bh": "",
+      "translation_en": "seek your protection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجِيرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَجِرْهُ",
+      "translation_bh": "",
+      "translation_en": "then grant him protection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَجاوِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّتَجَـٰوِرَٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "neighboring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جائِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَآئِرٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) crooked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجِيرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُجِيرُ",
+      "translation_bh": "",
+      "translation_en": "protects"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجِيرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُجَارُ",
+      "translation_bh": "",
+      "translation_en": "(can) be protected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجاوِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُجَاوِرُونَكَ",
+      "translation_bh": "",
+      "translation_en": "they will remain your neighbors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجِيرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُجِرْكُم",
+      "translation_bh": "",
+      "translation_en": "and will protect you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجِيرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُجِيرَنِى",
+      "translation_bh": "",
+      "translation_en": "can protect me"
+    }
+  ]
+}

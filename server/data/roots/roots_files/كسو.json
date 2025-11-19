@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 766,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كِسْوَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَسَوْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كسو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كِسْوَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكِسْوَتُهُنَّ",
+      "translation_bh": "",
+      "translation_en": "and their clothing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَسَوْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَكْسُوهَا",
+      "translation_bh": "",
+      "translation_en": "We cover them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَسَوْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱكْسُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "and clothe them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِسْوَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِسْوَتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "clothing them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَسَوْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَكَسَوْنَا",
+      "translation_bh": "",
+      "translation_en": "then We clothed"
+    }
+  ]
+}

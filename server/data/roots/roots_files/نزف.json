@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1215,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُنزَفُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نزف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُنزَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنزَفُونَ",
+      "translation_bh": "",
+      "translation_en": "will be intoxicated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنزَفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنزِفُونَ",
+      "translation_bh": "",
+      "translation_en": "they will get intoxicated"
+    }
+  ]
+}

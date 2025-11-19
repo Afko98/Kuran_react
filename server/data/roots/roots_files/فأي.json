@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 552,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فِئَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِئَت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فأي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فِئَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "فِئَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a company"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِئَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فِئَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a company"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِئَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فِئَتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(the) two hosts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِئَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فِئَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "one group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِئَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِئَتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "your forces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِئَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفِئَتَانِ",
+      "translation_bh": "",
+      "translation_en": "the two forces"
+    }
+  ]
+}

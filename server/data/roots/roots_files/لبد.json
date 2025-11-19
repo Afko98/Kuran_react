@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1244,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لِبَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُبَد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لبد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لِبَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِبَدًۭا",
+      "translation_bh": "",
+      "translation_en": "a compacted mass"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُبَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لُّبَدًا",
+      "translation_bh": "",
+      "translation_en": "abundant"
+    }
+  ]
+}

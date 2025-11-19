@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 606,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَرَزَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِزَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرِّزَتِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِز",
+      "translation_bh": ""
+    }
+  ],
+  "root": "برز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَرَزَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَرَزُوا۟",
+      "translation_bh": "",
+      "translation_en": "they went forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرَزَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَبَرَزَ",
+      "translation_bh": "",
+      "translation_en": "surely (would have) come out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرَزَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَبَرَزُوا۟",
+      "translation_bh": "",
+      "translation_en": "And they will come forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِزَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَارِزَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(as) a leveled plain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرِّزَتِ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَبُرِّزَتِ",
+      "translation_bh": "",
+      "translation_en": "And (will be) made manifest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـٰرِزُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "come forth"
+    }
+  ]
+}

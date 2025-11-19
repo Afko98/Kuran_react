@@ -1,0 +1,242 @@
+{
+  "description_bh": "",
+  "id": 172,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تِلاوَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تالِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "تلو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتْلُونَ",
+      "translation_bh": "",
+      "translation_en": "[you] recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَتْلُوا۟",
+      "translation_bh": "",
+      "translation_en": "recite(d)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَتْلُونَ",
+      "translation_bh": "",
+      "translation_en": "recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتْلُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "recite it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تِلاوَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تِلَاوَتِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "(of) its recitation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يَتْلُوا۟",
+      "translation_bh": "",
+      "translation_en": "(who) will recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نَتْلُوهَا",
+      "translation_bh": "",
+      "translation_en": "We recite them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَتْلُوهُ",
+      "translation_bh": "",
+      "translation_en": "(is what) We recite [it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتْلُوهَآ",
+      "translation_bh": "",
+      "translation_en": "and recite it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 16,
+      "part_of_speech": "V",
+      "text": "تُتْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "is recited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يُتْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "is recited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "۞ وَٱتْلُ",
+      "translation_bh": "",
+      "translation_en": "And recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتْلُ",
+      "translation_bh": "",
+      "translation_en": "I will recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَٱتْلُ",
+      "translation_bh": "",
+      "translation_en": "And recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُلِيَتْ",
+      "translation_bh": "",
+      "translation_en": "are recited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَلَوْتُهُۥ",
+      "translation_bh": "",
+      "translation_en": "I (would) have recited it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتْلُوهُ",
+      "translation_bh": "",
+      "translation_en": "and recites it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّتَتْلُوَا۟",
+      "translation_bh": "",
+      "translation_en": "so that you might recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَتْلُوا۟",
+      "translation_bh": "",
+      "translation_en": "I will recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتْلُوَا۟",
+      "translation_bh": "",
+      "translation_en": "I recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَتْلُوا۟",
+      "translation_bh": "",
+      "translation_en": "We recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتْلُ",
+      "translation_bh": "",
+      "translation_en": "Recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تالِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلتَّـٰلِيَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those who recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَلَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "it follows it"
+    }
+  ]
+}

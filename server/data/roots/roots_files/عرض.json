@@ -1,0 +1,421 @@
+{
+  "description_bh": "",
+  "id": 137,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْرِض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُرْضَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَّضْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرْض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِعْراض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرِيض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عارِض",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عرض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَرَضَهُمْ",
+      "translation_bh": "",
+      "translation_en": "He displayed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْرِض",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "مُّعْرِضُونَ",
+      "translation_bh": "",
+      "translation_en": "refusing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُرْضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُرْضَةًۭ",
+      "translation_bh": "",
+      "translation_en": "an excuse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَّضْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَرَّضْتُم",
+      "translation_bh": "",
+      "translation_en": "you hint"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرْض",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَرْضُهَا",
+      "translation_bh": "",
+      "translation_en": "its width"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَعْرِضُوا۟",
+      "translation_bh": "",
+      "translation_en": "then turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَأَعْرِضْ",
+      "translation_bh": "",
+      "translation_en": "so turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَض",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "عَرَضَ",
+      "translation_bh": "",
+      "translation_en": "transitory gains"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِعْراض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِعْرَاضًۭا",
+      "translation_bh": "",
+      "translation_en": "desertion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعْرِضُوا۟",
+      "translation_bh": "",
+      "translation_en": "refrain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَعْرِضْ",
+      "translation_bh": "",
+      "translation_en": "turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعْرِضْ",
+      "translation_bh": "",
+      "translation_en": "you turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْرِض",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مُعْرِضِينَ",
+      "translation_bh": "",
+      "translation_en": "turning away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِعْراض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِعْرَاضُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their aversion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَأَعْرِضْ",
+      "translation_bh": "",
+      "translation_en": "and turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرَضٌۭ",
+      "translation_bh": "",
+      "translation_en": "goods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرَضًۭا",
+      "translation_bh": "",
+      "translation_en": "a gain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُعْرِضُوا۟",
+      "translation_bh": "",
+      "translation_en": "that you may turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُعْرَضُونَ",
+      "translation_bh": "",
+      "translation_en": "will be presented"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْرِض",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مُعْرِضُونَ",
+      "translation_bh": "",
+      "translation_en": "the ones who turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعْرِضَنَّ",
+      "translation_bh": "",
+      "translation_en": "you turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَعْرَضْتُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "you turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَعْرَضَ",
+      "translation_bh": "",
+      "translation_en": "he turns away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعُرِضُوا۟",
+      "translation_bh": "",
+      "translation_en": "And they will be presented"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَعْرَضَ",
+      "translation_bh": "",
+      "translation_en": "but turns away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَرَضْنَا",
+      "translation_bh": "",
+      "translation_en": "And We (will) present"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرْض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرْضًا",
+      "translation_bh": "",
+      "translation_en": "(on) display"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَعْرَضُوا۟",
+      "translation_bh": "",
+      "translation_en": "they turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَرَضْنَا",
+      "translation_bh": "",
+      "translation_en": "[We] offered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَعْرَضُوا۟",
+      "translation_bh": "",
+      "translation_en": "But they turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُرِضَ",
+      "translation_bh": "",
+      "translation_en": "were displayed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرِيض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرِيضٍۢ",
+      "translation_bh": "",
+      "translation_en": "lengthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُعْرَضُ",
+      "translation_bh": "",
+      "translation_en": "will be exposed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عارِض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَارِضًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a cloud"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عارِض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَارِضٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a cloud"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعْرِضُوا۟",
+      "translation_bh": "",
+      "translation_en": "they turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرْض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَعَرْضِ",
+      "translation_bh": "",
+      "translation_en": "(is) like (the) width"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَعْرَضَ",
+      "translation_bh": "",
+      "translation_en": "and avoided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعْرَضُونَ",
+      "translation_bh": "",
+      "translation_en": "you will be exhibited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَضَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعْرِضْ",
+      "translation_bh": "",
+      "translation_en": "turns away"
+    }
+  ]
+}

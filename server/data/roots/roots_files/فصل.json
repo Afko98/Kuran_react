@@ -1,0 +1,263 @@
+{
+  "description_bh": "",
+  "id": 227,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فِصال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاصِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفَصَّل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفْصِيل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفَصَّلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصِيلَت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فصل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فِصال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِصَالًا",
+      "translation_bh": "",
+      "translation_en": "weaning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَصَلَ",
+      "translation_bh": "",
+      "translation_en": "set out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "نُفَصِّلُ",
+      "translation_bh": "",
+      "translation_en": "We explain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاصِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَـٰصِلِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the Deciders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَصَّلْنَا",
+      "translation_bh": "",
+      "translation_en": "We have made clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفَصَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُفَصَّلًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "explained in detail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَصَّلَ",
+      "translation_bh": "",
+      "translation_en": "He (has) explained in detail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفْصِيل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَتَفْصِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "and an explanation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَصَّلْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "which We have explained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفَصَّلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّفَصَّلَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "manifest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُفَصِّلُ",
+      "translation_bh": "",
+      "translation_en": "And We explain in detail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُفَصِّلُ",
+      "translation_bh": "",
+      "translation_en": "He explains"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفْصِيل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَتَفْصِيلَ",
+      "translation_bh": "",
+      "translation_en": "and a detailed explanation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَّلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فُصِّلَتْ",
+      "translation_bh": "",
+      "translation_en": "explained in detail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَصَلَتِ",
+      "translation_bh": "",
+      "translation_en": "departed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفْصِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَفْصِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) detail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَفْصِلُ",
+      "translation_bh": "",
+      "translation_en": "will judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِصال",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَفِصَـٰلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and his weaning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصْل",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْفَصْلِ",
+      "translation_bh": "",
+      "translation_en": "(of) Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفَصْلَ",
+      "translation_bh": "",
+      "translation_en": "and decisive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصِيلَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفَصِيلَتِهِ",
+      "translation_bh": "",
+      "translation_en": "And his nearest kindred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَصْلِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَصْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَصْلٌۭ",
+      "translation_bh": "",
+      "translation_en": "decisive"
+    }
+  ]
+}

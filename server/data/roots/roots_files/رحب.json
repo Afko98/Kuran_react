@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 884,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَحُبَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْحَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رحب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَحُبَتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "رَحُبَتْ",
+      "translation_bh": "",
+      "translation_en": "(in spite) of its vastness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْحَب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَرْحَبًۢا",
+      "translation_bh": "",
+      "translation_en": "welcome"
+    }
+  ]
+}

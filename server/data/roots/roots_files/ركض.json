@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 1011,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْكُضُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ركض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْكُضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْكُضُونَ",
+      "translation_bh": "",
+      "translation_en": "were fleeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْكُضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْكُضُوا۟",
+      "translation_bh": "",
+      "translation_en": "Flee not"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْكُضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱرْكُضْ",
+      "translation_bh": "",
+      "translation_en": "Strike"
+    }
+  ]
+}

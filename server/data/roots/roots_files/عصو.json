@@ -1,0 +1,84 @@
+{
+  "description_bh": "",
+  "id": 513,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَصا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِصِيّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عصو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَصا",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِّعَصَاكَ",
+      "translation_bh": "",
+      "translation_en": "with your staff"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصا",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَصَاهُ",
+      "translation_bh": "",
+      "translation_en": "his staff"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصا",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَصَاكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "your staff"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَصَاىَ",
+      "translation_bh": "",
+      "translation_en": "(is) my staff"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِصِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعِصِيُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their staffs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِصِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعِصِيَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their staffs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَصَاكَ ۚ",
+      "translation_bh": "",
+      "translation_en": "your staff"
+    }
+  ]
+}

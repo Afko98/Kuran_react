@@ -1,0 +1,731 @@
+{
+  "description_bh": "",
+  "id": 32,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَذَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكَذِّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْذُوب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذّاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِذّاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَكْذِيب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كذب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَذَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَكْذِبُونَ",
+      "translation_bh": "",
+      "translation_en": "[they] lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "وَكَذَّبُوا۟",
+      "translation_bh": "",
+      "translation_en": "and deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "كَذَّبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 37,
+      "part_of_speech": "V",
+      "text": "كَذَّبُوا۟",
+      "translation_bh": "",
+      "translation_en": "They denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلْكَـٰذِبِينَ",
+      "translation_bh": "",
+      "translation_en": "the liars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلْكَذِبَ",
+      "translation_bh": "",
+      "translation_en": "the lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكَذِّب",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْمُكَذِّبِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the deniers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "كَذَّبُوكَ",
+      "translation_bh": "",
+      "translation_en": "they reject you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كُذِّبَ",
+      "translation_bh": "",
+      "translation_en": "were rejected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْكَذِبَ ۖ",
+      "translation_bh": "",
+      "translation_en": "[the] lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِلْكَذِبِ",
+      "translation_bh": "",
+      "translation_en": "to falsehood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "كَذِبًا",
+      "translation_bh": "",
+      "translation_en": "a lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 21,
+      "part_of_speech": "V",
+      "text": "كَذَّبَ",
+      "translation_bh": "",
+      "translation_en": "rejects"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "كَذَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they lied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُكَذِّبَ",
+      "translation_bh": "",
+      "translation_en": "we would deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "لَكَـٰذِبُونَ",
+      "translation_bh": "",
+      "translation_en": "certainly are liars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُكَذِّبُونَكَ",
+      "translation_bh": "",
+      "translation_en": "deny you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "كُذِّبَتْ",
+      "translation_bh": "",
+      "translation_en": "were rejected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كُذِّبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they were rejected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكَذَّبْتُم",
+      "translation_bh": "",
+      "translation_en": "while you deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَكَذَّبَ",
+      "translation_bh": "",
+      "translation_en": "But denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "كَذِبًۭا",
+      "translation_bh": "",
+      "translation_en": "a lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "فَكَذَّبُوهُ",
+      "translation_bh": "",
+      "translation_en": "But they denied him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَذِبًا ۚ",
+      "translation_bh": "",
+      "translation_en": "a lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كَـٰذِبِينَ",
+      "translation_bh": "",
+      "translation_en": "(are) liars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْذُوب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَكْذُوبٍۢ",
+      "translation_bh": "",
+      "translation_en": "(to) be belied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰذِبٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) a liar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَذِبٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "with false blood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَكَذَبَتْ",
+      "translation_bh": "",
+      "translation_en": "then she has lied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كُذِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "were denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْكَـٰذِبُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the liars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَذِبَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَكَذَّبَ",
+      "translation_bh": "",
+      "translation_en": "but he denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُكَذِّبُوكَ",
+      "translation_bh": "",
+      "translation_en": "they deny you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "كَذَّبَتْ",
+      "translation_bh": "",
+      "translation_en": "denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكُذِّبَ",
+      "translation_bh": "",
+      "translation_en": "And Musa was denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "كَذَّبُونِ",
+      "translation_bh": "",
+      "translation_en": "they deny me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَذَّبُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "they denied him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَكَذَّبُوهُمَا",
+      "translation_bh": "",
+      "translation_en": "So they denied them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "تُكَذِّبُونَ",
+      "translation_bh": "",
+      "translation_en": "deny them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَذَّبُوكُم",
+      "translation_bh": "",
+      "translation_en": "they deny you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُكَذِّبُونِ",
+      "translation_bh": "",
+      "translation_en": "they will deny me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰذِبُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) liars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُكَذِّبُ",
+      "translation_bh": "",
+      "translation_en": "deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَكَذَّبْتُم",
+      "translation_bh": "",
+      "translation_en": "Did you deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُكَذِّبُوا۟",
+      "translation_bh": "",
+      "translation_en": "you deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَكَذَّبُوا۟",
+      "translation_bh": "",
+      "translation_en": "But they denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَكْذِبُونَ",
+      "translation_bh": "",
+      "translation_en": "lying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذّاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَذَّابٌ",
+      "translation_bh": "",
+      "translation_en": "a liar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰذِبٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a liar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "كَذَبَ",
+      "translation_bh": "",
+      "translation_en": "lies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَكَذَّبْتَ",
+      "translation_bh": "",
+      "translation_en": "but you denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذّاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَذَّابٌۭ",
+      "translation_bh": "",
+      "translation_en": "a liar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰذِبًۭا",
+      "translation_bh": "",
+      "translation_en": "a liar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَذِبُهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) his lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰذِبًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(to be) a liar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَذِبًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "a lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكَذِّب",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "لِّلْمُكَذِّبِينَ",
+      "translation_bh": "",
+      "translation_en": "to the deniers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ كَذَّبَتْ",
+      "translation_bh": "",
+      "translation_en": "Denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذّاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَذَّابُ",
+      "translation_bh": "",
+      "translation_en": "(is) the liar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 31,
+      "part_of_speech": "V",
+      "text": "تُكَذِّبَانِ",
+      "translation_bh": "",
+      "translation_en": "will you both deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَاذِبَةٌ",
+      "translation_bh": "",
+      "translation_en": "a denial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكَذِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُكَذِّبُونَ",
+      "translation_bh": "",
+      "translation_en": "the deniers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَذِبِ",
+      "translation_bh": "",
+      "translation_en": "the lie"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَكَذَّبْنَا",
+      "translation_bh": "",
+      "translation_en": "but we denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكَذِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّكَذِّبِينَ",
+      "translation_bh": "",
+      "translation_en": "(are) deniers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُكَذِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُكَذِّبِينَ",
+      "translation_bh": "",
+      "translation_en": "and the deniers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُكَذِّبُ",
+      "translation_bh": "",
+      "translation_en": "deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِذّاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِذَّابًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) denial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِذّاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِذَّٰبًۭا",
+      "translation_bh": "",
+      "translation_en": "any falsehood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُكَذِّبُونَ",
+      "translation_bh": "",
+      "translation_en": "deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَكْذِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَكْذِيبٍۢ",
+      "translation_bh": "",
+      "translation_en": "denial"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُكَذِّبُكَ",
+      "translation_bh": "",
+      "translation_en": "causes you to deny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاذِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰذِبَةٍ",
+      "translation_bh": "",
+      "translation_en": "lying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَذَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُكَذِّبُ",
+      "translation_bh": "",
+      "translation_en": "denies"
+    }
+  ]
+}

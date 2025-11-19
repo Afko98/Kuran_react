@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 607,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَوْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نائِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنام",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نوم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَوْمٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "sleep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نائِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَآئِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) asleep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنَامِكَ",
+      "translation_bh": "",
+      "translation_en": "your dream"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّوْمَ",
+      "translation_bh": "",
+      "translation_en": "and the sleep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنَامُكُم",
+      "translation_bh": "",
+      "translation_en": "(is) your sleep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَنَامِ",
+      "translation_bh": "",
+      "translation_en": "the dream"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنَامِهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "their sleep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَوْمَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your sleep"
+    }
+  ]
+}

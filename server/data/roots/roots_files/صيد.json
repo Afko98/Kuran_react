@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 719,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صَيْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اصْطادُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صيد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صَيْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلصَّيْدِ",
+      "translation_bh": "",
+      "translation_en": "(to) hunt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اصْطادُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱصْطَادُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "then (you may) hunt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَيْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّيْدَ",
+      "translation_bh": "",
+      "translation_en": "the game"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَيْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "صَيْدُ",
+      "translation_bh": "",
+      "translation_en": "game"
+    }
+  ]
+}

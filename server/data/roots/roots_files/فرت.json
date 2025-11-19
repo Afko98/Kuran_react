@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1024,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فُرات",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فُرات",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فُرَاتٌۭ",
+      "translation_bh": "",
+      "translation_en": "and sweet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرَاتًۭا",
+      "translation_bh": "",
+      "translation_en": "sweet"
+    }
+  ]
+}

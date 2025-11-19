@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 682,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نادِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَدامَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ندم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نادِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّـٰدِمِينَ",
+      "translation_bh": "",
+      "translation_en": "the regretful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نادِم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "نَـٰدِمِينَ",
+      "translation_bh": "",
+      "translation_en": "regretful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَدامَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلنَّدَامَةَ",
+      "translation_bh": "",
+      "translation_en": "the regret"
+    }
+  ]
+}

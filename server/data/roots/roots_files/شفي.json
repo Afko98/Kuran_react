@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 732,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَشْفِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِفاء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شفي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَشْفِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَشْفِ",
+      "translation_bh": "",
+      "translation_en": "and will heal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِفاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشِفَآءٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a healing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِفاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شِفَآءٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a healing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَشْفِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَشْفِينِ",
+      "translation_bh": "",
+      "translation_en": "cures me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِفاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشِفَآءٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "and a healing"
+    }
+  ]
+}

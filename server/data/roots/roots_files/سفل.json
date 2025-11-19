@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 582,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَسْفَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُفْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سافِل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سفل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَسْفَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْفَلِ",
+      "translation_bh": "",
+      "translation_en": "the lowest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْفَل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَسْفَلَ",
+      "translation_bh": "",
+      "translation_en": "(was) lower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُفْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسُّفْلَىٰ ۗ",
+      "translation_bh": "",
+      "translation_en": "the lowest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سافِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَافِلَهَا",
+      "translation_bh": "",
+      "translation_en": "its downside"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْفَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْفَلِينَ",
+      "translation_bh": "",
+      "translation_en": "the lowest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سافِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَـٰفِلِينَ",
+      "translation_bh": "",
+      "translation_en": "(of the) low"
+    }
+  ]
+}

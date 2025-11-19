@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 701,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَرَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كرر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَرَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كَرَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "a return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَرَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَرَّةَ",
+      "translation_bh": "",
+      "translation_en": "the return victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَرَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَرَّتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "twice (again)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَرَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَرَّةٌ",
+      "translation_bh": "",
+      "translation_en": "(would be) a return"
+    }
+  ]
+}

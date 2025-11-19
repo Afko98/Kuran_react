@@ -1,0 +1,167 @@
+{
+  "description_bh": "",
+  "id": 410,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فاطِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِطْرَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُطُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنفَطِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَطَرَتْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فطر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فاطِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "فَاطِرِ",
+      "translation_bh": "",
+      "translation_en": "Creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَطَرَ",
+      "translation_bh": "",
+      "translation_en": "created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَرَنِىٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "created me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاطِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَاطِرَ",
+      "translation_bh": "",
+      "translation_en": "Creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَفَطَّرْنَ",
+      "translation_bh": "",
+      "translation_en": "get torn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَرَنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "created us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَرَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِطْرَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِطْرَتَ",
+      "translation_bh": "",
+      "translation_en": "Nature"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَطَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَطَرَنِى",
+      "translation_bh": "",
+      "translation_en": "created me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاطِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَاطِرُ",
+      "translation_bh": "",
+      "translation_en": "(The) Creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُطُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُطُورٍۢ",
+      "translation_bh": "",
+      "translation_en": "flaw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنفَطِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنفَطِرٌۢ",
+      "translation_bh": "",
+      "translation_en": "(will) break apart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَطَرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنفَطَرَتْ",
+      "translation_bh": "",
+      "translation_en": "(is) cleft asunder"
+    }
+  ]
+}

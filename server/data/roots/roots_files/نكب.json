@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1190,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ناكِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَناكِب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نكب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ناكِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَنَـٰكِبُونَ",
+      "translation_bh": "",
+      "translation_en": "surely (are) deviating"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَناكِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنَاكِبِهَا",
+      "translation_bh": "",
+      "translation_en": "(the) paths thereof"
+    }
+  ]
+}

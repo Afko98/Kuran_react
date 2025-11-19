@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1181,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَفَشَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنفُوش",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نفش",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَفَشَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَفَشَتْ",
+      "translation_bh": "",
+      "translation_en": "pastured"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنفُوش",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَنفُوشِ",
+      "translation_bh": "",
+      "translation_en": "fluffed up"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 863,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَلائِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقالِيد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قلد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَلائِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَلَـٰٓئِدَ",
+      "translation_bh": "",
+      "translation_en": "the garlanded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلائِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقَلَـٰٓئِدَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the garlands"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقالِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَقَالِيدُ",
+      "translation_bh": "",
+      "translation_en": "(are the) keys"
+    }
+  ]
+}

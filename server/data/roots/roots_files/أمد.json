@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 849,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَمَد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أمد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَمَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمَدًۢا",
+      "translation_bh": "",
+      "translation_en": "(was) a distance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمَدًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَمَدُ",
+      "translation_bh": "",
+      "translation_en": "the term"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمَدًا",
+      "translation_bh": "",
+      "translation_en": "a (distant) term"
+    }
+  ]
+}

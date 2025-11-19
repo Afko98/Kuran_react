@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 762,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خِنزِير",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خنزر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خِنزِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْخِنزِيرِ",
+      "translation_bh": "",
+      "translation_en": "(of) swine"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِنزِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْخَنَازِيرَ",
+      "translation_bh": "",
+      "translation_en": "and [the] swines"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِنزِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِنزِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) swine "
+    }
+  ]
+}

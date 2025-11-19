@@ -1,0 +1,180 @@
+{
+  "description_bh": "",
+  "id": 444,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سِيقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَساق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سوق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سِيقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سُقْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We drive them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسَاقُونَ",
+      "translation_bh": "",
+      "translation_en": "they were driven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَسُوقُ",
+      "translation_bh": "",
+      "translation_en": "And We will drive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْوَاقِ ۙ",
+      "translation_bh": "",
+      "translation_en": "the markets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْوَاقِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the markets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَاقَيْهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "her shins"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسُوقُ",
+      "translation_bh": "",
+      "translation_en": "drive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسُقْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "and We drive them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلسُّوقِ",
+      "translation_bh": "",
+      "translation_en": "over the legs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَسِيقَ",
+      "translation_bh": "",
+      "translation_en": "And (will) be driven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُوق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُوقِهِۦ",
+      "translation_bh": "",
+      "translation_en": "its stem"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَآئِقٌۭ",
+      "translation_bh": "",
+      "translation_en": "a driver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَاقٍۢ",
+      "translation_bh": "",
+      "translation_en": "the shin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّاقُ",
+      "translation_bh": "",
+      "translation_en": "the leg"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلسَّاقِ",
+      "translation_bh": "",
+      "translation_en": "about the leg"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَساق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسَاقُ",
+      "translation_bh": "",
+      "translation_en": "(will be) the driving"
+    }
+  ]
+}

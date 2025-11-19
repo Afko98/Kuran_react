@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 727,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَبَّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَّرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَتْبِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبار",
+      "translation_bh": ""
+    }
+  ],
+  "root": "تبر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَبَّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَبَّرٌۭ",
+      "translation_bh": "",
+      "translation_en": "destroyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيُتَبِّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and to destroy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَتْبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَتْبِيرًا",
+      "translation_bh": "",
+      "translation_en": "(with) destruction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبَّرْنَا",
+      "translation_bh": "",
+      "translation_en": "We destroyed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَتْبِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَتْبِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) destruction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبَارًۢا",
+      "translation_bh": "",
+      "translation_en": "(in) destruction"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 843,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَدْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلْو",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَدَلَّى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دلو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَدْلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُدْلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and present"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَدْلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَدْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "then he let down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلْو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَلْوَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "his bucket"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَدَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَدَلَّىٰ",
+      "translation_bh": "",
+      "translation_en": "and came down"
+    }
+  ]
+}

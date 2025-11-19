@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 688,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَكَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُكِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْكَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بكي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَبْكُوا۟",
+      "translation_bh": "",
+      "translation_en": "and let them weep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَكَتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَبْكُونَ",
+      "translation_bh": "",
+      "translation_en": "weeping"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُكِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبُكِيًّۭا ۩",
+      "translation_bh": "",
+      "translation_en": "and weeping"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَكَتْ",
+      "translation_bh": "",
+      "translation_en": "wept"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْكَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَبْكَىٰ",
+      "translation_bh": "",
+      "translation_en": "and makes (one) weep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْكُونَ",
+      "translation_bh": "",
+      "translation_en": "weep"
+    }
+  ]
+}

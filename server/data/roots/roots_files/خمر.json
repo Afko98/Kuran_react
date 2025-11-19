@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 667,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَمْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُمُر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خمر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَمْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَمْرِ",
+      "translation_bh": "",
+      "translation_en": "[the] intoxicants"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَمْرُ",
+      "translation_bh": "",
+      "translation_en": "the intoxicants"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَمْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَمْرًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "wine"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُمُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِخُمُرِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "their head covers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَمْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَمْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "wine"
+    }
+  ]
+}

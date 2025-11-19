@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 704,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أُحْصِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِرَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِير",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حصر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أُحْصِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُحْصِرْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you are held back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُحْصِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُحْصِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "are wrapped up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَصُورًۭا",
+      "translation_bh": "",
+      "translation_en": "and chaste"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَصِرَتْ",
+      "translation_bh": "",
+      "translation_en": "restraining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱحْصُرُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "and besiege them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَصِيرًا",
+      "translation_bh": "",
+      "translation_en": "a prison-bed"
+    }
+  ]
+}

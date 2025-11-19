@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 531,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خاضُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِض",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خوض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خاضُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَخُوضُوا۟",
+      "translation_bh": "",
+      "translation_en": "they engage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخُوضُونَ",
+      "translation_bh": "",
+      "translation_en": "engage (in vain talks)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَوْضِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their discourse "
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاضُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَخُوضُ",
+      "translation_bh": "",
+      "translation_en": "conversing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخُضْتُمْ",
+      "translation_bh": "",
+      "translation_en": "and you indulge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاضُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَاضُوٓا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "indulges (in idle talk)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَوْضٍۢ",
+      "translation_bh": "",
+      "translation_en": "(vain) discourse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَآئِضِينَ",
+      "translation_bh": "",
+      "translation_en": "the vain talkers"
+    }
+  ]
+}

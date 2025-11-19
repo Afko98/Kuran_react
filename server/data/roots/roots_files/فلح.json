@@ -1,0 +1,93 @@
+{
+  "description_bh": "",
+  "id": 239,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُفْلِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْلَحَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فلح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُفْلِح",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "ٱلْمُفْلِحُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the successful ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْلَحَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "تُفْلِحُونَ",
+      "translation_bh": "",
+      "translation_en": "(be) successful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْلَحَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "يُفْلِحُ",
+      "translation_bh": "",
+      "translation_en": "will be successful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْلَحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُفْلِحُونَ",
+      "translation_bh": "",
+      "translation_en": "they will not succeed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُفْلِحُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "will you succeed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْلَحَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَفْلَحَ",
+      "translation_bh": "",
+      "translation_en": "(will be) successful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُفْلِحُونَ ۩",
+      "translation_bh": "",
+      "translation_en": "be successful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْلِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُفْلِحِينَ",
+      "translation_bh": "",
+      "translation_en": "the successful ones"
+    }
+  ]
+}

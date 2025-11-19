@@ -1,0 +1,117 @@
+{
+  "description_bh": "",
+  "id": 521,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَفَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْفار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْفَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفَرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْفِرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سفر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَفَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَفَرٍۢ",
+      "translation_bh": "",
+      "translation_en": "a journey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَفَرٍ",
+      "translation_bh": "",
+      "translation_en": "a journey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَسَفَرًۭا",
+      "translation_bh": "",
+      "translation_en": "and a journey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَفَرِنَا",
+      "translation_bh": "",
+      "translation_en": "our journey"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْفار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْفَارِنَا",
+      "translation_bh": "",
+      "translation_en": "our journeys"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْفار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَسْفَارًۢا ۚ",
+      "translation_bh": "",
+      "translation_en": "books"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْفَرَ",
+      "translation_bh": "",
+      "translation_en": "it brightens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَفَرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَفَرَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) scribes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْفِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) bright"
+    }
+  ]
+}

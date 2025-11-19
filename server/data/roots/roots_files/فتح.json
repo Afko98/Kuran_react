@@ -1,0 +1,321 @@
+{
+  "description_bh": "",
+  "id": 248,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَفْتَحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفاتِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُفَتَّحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاتِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتّاح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفَتَّحَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فتح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَحَ",
+      "translation_bh": "",
+      "translation_en": "has"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَفْتَحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَفْتِحُونَ",
+      "translation_bh": "",
+      "translation_en": "(that), pray for victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَتْحٌۭ",
+      "translation_bh": "",
+      "translation_en": "a victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْفَتْحِ",
+      "translation_bh": "",
+      "translation_en": "the victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَتَحْنَا",
+      "translation_bh": "",
+      "translation_en": "We opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفاتِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَفَاتِحُ",
+      "translation_bh": "",
+      "translation_en": "(are the) keys"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُفَتَّحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُفَتَّحُ",
+      "translation_bh": "",
+      "translation_en": "be opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱفْتَحْ",
+      "translation_bh": "",
+      "translation_en": "Decide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاتِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَـٰتِحِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) those who Decide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَفَتَحْنَا",
+      "translation_bh": "",
+      "translation_en": "surely We (would have) opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَفْتَحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَفْتِحُوا۟",
+      "translation_bh": "",
+      "translation_en": "you ask for victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَتْحُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَحُوا۟",
+      "translation_bh": "",
+      "translation_en": "they opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَفْتَحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَفْتَحُوا۟",
+      "translation_bh": "",
+      "translation_en": "And they sought victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فُتِحَتْ",
+      "translation_bh": "",
+      "translation_en": "has been opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفاتِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّفَاتِحَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "its keys"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱفْتَحْ",
+      "translation_bh": "",
+      "translation_en": "So judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "فَتْحًۭا",
+      "translation_bh": "",
+      "translation_en": "(with decisive) judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفاتِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَفَاتِحَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(the) keys of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَتْحُ",
+      "translation_bh": "",
+      "translation_en": "decision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْفَتْحِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Decision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتَحُ",
+      "translation_bh": "",
+      "translation_en": "He will judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتّاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَتَّاحُ",
+      "translation_bh": "",
+      "translation_en": "(is) the Judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتَحِ",
+      "translation_bh": "",
+      "translation_en": "Allah grants"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفَتَّحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّفَتَّحَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَفُتِحَتْ",
+      "translation_bh": "",
+      "translation_en": "and (will) be opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَفَتَحْنَآ",
+      "translation_bh": "",
+      "translation_en": "So We opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفَتْحٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَفُتِحَتِ",
+      "translation_bh": "",
+      "translation_en": "And is opened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَتْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْفَتْحُ",
+      "translation_bh": "",
+      "translation_en": "and the Victory"
+    }
+  ]
+}

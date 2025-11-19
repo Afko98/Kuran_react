@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1251,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وَسَقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّسَقَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وسق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وَسَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَقَ",
+      "translation_bh": "",
+      "translation_en": "it envelops"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّسَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّسَقَ",
+      "translation_bh": "",
+      "translation_en": "it becomes full"
+    }
+  ]
+}

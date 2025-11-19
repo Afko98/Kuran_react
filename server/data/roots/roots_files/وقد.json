@@ -1,0 +1,121 @@
+{
+  "description_bh": "",
+  "id": 543,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اسْتَوْقَدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْقَدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوقَدَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وقد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اسْتَوْقَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَوْقَدَ",
+      "translation_bh": "",
+      "translation_en": "kindled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقُود",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَقُودُهَا",
+      "translation_bh": "",
+      "translation_en": "[its] fuel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُودُ",
+      "translation_bh": "",
+      "translation_en": "(the) fuel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْقَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَوْقَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "they kindled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْقَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوقِدُونَ",
+      "translation_bh": "",
+      "translation_en": "they heat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْقَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوقَدُ",
+      "translation_bh": "",
+      "translation_en": "(which) is lit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْقَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَوْقِدْ",
+      "translation_bh": "",
+      "translation_en": "So kindle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْقَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُوقِدُونَ",
+      "translation_bh": "",
+      "translation_en": "ignite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوَقُودِ",
+      "translation_bh": "",
+      "translation_en": "(of) the fuel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُوقَدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُوقَدَةُ",
+      "translation_bh": "",
+      "translation_en": "kindled"
+    }
+  ]
+}

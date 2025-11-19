@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 904,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زَوال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زالَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زول",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زَوال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَوَالٍۢ",
+      "translation_bh": "",
+      "translation_en": "end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَزُولَ",
+      "translation_bh": "",
+      "translation_en": "that should be moved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَزُولَا ۚ",
+      "translation_bh": "",
+      "translation_en": "they cease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "زَالَتَآ",
+      "translation_bh": "",
+      "translation_en": "they should cease"
+    }
+  ]
+}

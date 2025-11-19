@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 829,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَتَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْتات",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شتت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَتَّى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَتَّىٰ",
+      "translation_bh": "",
+      "translation_en": "diverse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْتات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَشْتَاتًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "separately"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَتَّى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَتَّىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) divided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَتَّى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَشَتَّىٰ",
+      "translation_bh": "",
+      "translation_en": "(are) surely diverse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْتات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَشْتَاتًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) scattered groups"
+    }
+  ]
+}

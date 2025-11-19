@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 996,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَسْتُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِتْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْتَتِرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ستر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَسْتُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّسْتُورًۭا",
+      "translation_bh": "",
+      "translation_en": "hidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِتْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِتْرًۭا",
+      "translation_bh": "",
+      "translation_en": "any shelter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْتَتِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَتِرُونَ",
+      "translation_bh": "",
+      "translation_en": "covering yourselves"
+    }
+  ]
+}

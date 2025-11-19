@@ -1,0 +1,288 @@
+{
+  "description_bh": "",
+  "id": 233,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صَدّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُدُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُدُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدِيد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صدد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صَدّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَصَدٌّ",
+      "translation_bh": "",
+      "translation_en": "but hindering (people)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَصُدُّونَ",
+      "translation_bh": "",
+      "translation_en": "(do) you hinder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَّ",
+      "translation_bh": "",
+      "translation_en": "turned away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَصُدُّونَ",
+      "translation_bh": "",
+      "translation_en": "turning away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُدُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُدُودًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) aversion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِصَدِّهِمْ",
+      "translation_bh": "",
+      "translation_en": "and for their hindering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَصَدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and hinder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدُّوكُمْ",
+      "translation_bh": "",
+      "translation_en": "they stopped you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَصُدَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "and hinders you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَصُدُّونَ",
+      "translation_bh": "",
+      "translation_en": "and hindering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَصُدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "to hinder (people)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَيَصُدُّونَ",
+      "translation_bh": "",
+      "translation_en": "and hinder (them)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَصَدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and they hinder (people)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُدُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَصُدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and they are hindered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَصُدُّونَا",
+      "translation_bh": "",
+      "translation_en": "hinder us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَدِيدٍۢ",
+      "translation_bh": "",
+      "translation_en": "purulent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَدتُّمْ",
+      "translation_bh": "",
+      "translation_en": "you hindered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصُدَّنَّكَ",
+      "translation_bh": "",
+      "translation_en": "(let) avert you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَصَدَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "and averted them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَصَدَّهَا",
+      "translation_bh": "",
+      "translation_en": "And has averted her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصُدُّنَّكَ",
+      "translation_bh": "",
+      "translation_en": "avert you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَدَدْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "avert you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصُدَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "hinder you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَصُدَّ",
+      "translation_bh": "",
+      "translation_en": "and he was averted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَصُدُّونَهُمْ",
+      "translation_bh": "",
+      "translation_en": "surely, turn them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصِدُّونَ",
+      "translation_bh": "",
+      "translation_en": "laughed aloud"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصُدَّنَّكُمُ",
+      "translation_bh": "",
+      "translation_en": "avert you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَصَدُّوكُمْ",
+      "translation_bh": "",
+      "translation_en": "and hindered you"
+    }
+  ]
+}

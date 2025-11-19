@@ -1,0 +1,681 @@
+{
+  "description_bh": "",
+  "id": 82,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذَرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُذُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُذْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نذر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَأَنذَرْتَهُمْ",
+      "translation_bh": "",
+      "translation_en": "whether you warn them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُنذِرْهُمْ",
+      "translation_bh": "",
+      "translation_en": "you warn them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَذِيرًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "and (as) a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمُنذِرِينَ",
+      "translation_bh": "",
+      "translation_en": "and (as) warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذَرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَذَرْتُم",
+      "translation_bh": "",
+      "translation_en": "you vow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّذْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "vow(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذَرْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَذَرْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] vowed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَذِيرٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَذِيرٌۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "and a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِأُنذِرَكُم",
+      "translation_bh": "",
+      "translation_en": "that I may warn you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُنذِرِينَ ۖ",
+      "translation_bh": "",
+      "translation_en": "and (as) warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَنذِرْ",
+      "translation_bh": "",
+      "translation_en": "And warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "so that you may warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُنذِرُونَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and warning you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "لِتُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "that you warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُنذِرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "that he may warn you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُنذِرَكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "that he may warn you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "نَذِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيُنذِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and that they may warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنذِرِ",
+      "translation_bh": "",
+      "translation_en": "Warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذَر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنذَرِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) those who were warned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنُّذُرُ",
+      "translation_bh": "",
+      "translation_en": "and the warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَذِيرٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُنذِرٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَنذِرِ",
+      "translation_bh": "",
+      "translation_en": "And warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيُنذَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they may be warned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّذِيرُ",
+      "translation_bh": "",
+      "translation_en": "a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنذِرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "وَنَذِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "and a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لِّيُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "to warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "And to warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُنذِرِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and (as) warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُنذِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they are warned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَنذِرْهُمْ",
+      "translation_bh": "",
+      "translation_en": "And warn them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "and warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُنذِرُكُم",
+      "translation_bh": "",
+      "translation_en": "I warn you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذَرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنذَرُونَ",
+      "translation_bh": "",
+      "translation_en": "they are warned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُذُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُذُورَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their vows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَذِيرًا",
+      "translation_bh": "",
+      "translation_en": "a warner "
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّذِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنذِرِينَ",
+      "translation_bh": "",
+      "translation_en": "the warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنذِرُونَ",
+      "translation_bh": "",
+      "translation_en": "warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَّذِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَّذِيرٍ",
+      "translation_bh": "",
+      "translation_en": "warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُنذِرُ",
+      "translation_bh": "",
+      "translation_en": "you can warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَذِيرٌ",
+      "translation_bh": "",
+      "translation_en": "a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَذِيرًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "and (as) a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّذِيرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "were warned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّنذِرِينَ",
+      "translation_bh": "",
+      "translation_en": "warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّنذِرٌۭ",
+      "translation_bh": "",
+      "translation_en": "a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "to warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنذَرْتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I have warned you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّتُنذِرَ",
+      "translation_bh": "",
+      "translation_en": "that you may warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنذِرِينَ",
+      "translation_bh": "",
+      "translation_en": "(ever) warning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنذَرَ",
+      "translation_bh": "",
+      "translation_en": "he warned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنُّذُرُ",
+      "translation_bh": "",
+      "translation_en": "[the] warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنُّذُرِ",
+      "translation_bh": "",
+      "translation_en": "the warners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "وَنُذُرِ",
+      "translation_bh": "",
+      "translation_en": "and My warnings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱلنُّذُرِ",
+      "translation_bh": "",
+      "translation_en": "the warnings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنذَرَهُم",
+      "translation_bh": "",
+      "translation_en": "he warned them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَذِيرِ",
+      "translation_bh": "",
+      "translation_en": "(was) My warning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنذِرْ",
+      "translation_bh": "",
+      "translation_en": "Warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنذِرْ",
+      "translation_bh": "",
+      "translation_en": "and warn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَذِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "A warning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلنَّذْرِ",
+      "translation_bh": "",
+      "translation_en": "the vows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُذْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُذْرًا",
+      "translation_bh": "",
+      "translation_en": "warning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنذَرْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "[We] have warned you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنذِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنذِرُ",
+      "translation_bh": "",
+      "translation_en": "(are) a warner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنذَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنذَرْتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "So I warn you"
+    }
+  ]
+}

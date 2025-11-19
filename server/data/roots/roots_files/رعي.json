@@ -1,0 +1,122 @@
+{
+  "description_bh": "",
+  "id": 571,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "راعِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "راعي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِعاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِعايَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْعَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رعي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "راعِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَٰعِنَا",
+      "translation_bh": "",
+      "translation_en": "Raina"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راعِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَٰعِنَا",
+      "translation_bh": "",
+      "translation_en": "and \"Raina"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱرْعَوْا۟",
+      "translation_bh": "",
+      "translation_en": "and pasture"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راعي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَٰعُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) observers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرِّعَآءُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the shepherds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَعَوْهَا",
+      "translation_bh": "",
+      "translation_en": "they observed it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِعايَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِعَايَتِهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "observance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْعَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَرْعَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "and its pasture"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْعَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَرْعَىٰ",
+      "translation_bh": "",
+      "translation_en": "the pasture"
+    }
+  ]
+}

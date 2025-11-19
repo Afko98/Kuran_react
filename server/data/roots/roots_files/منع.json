@@ -1,0 +1,153 @@
+{
+  "description_bh": "",
+  "id": 437,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنّاع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمْنُوعَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مانِعَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنُوع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "منع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مَّنَعَ",
+      "translation_bh": "",
+      "translation_en": "prevents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَمْنَعْكُم",
+      "translation_bh": "",
+      "translation_en": "and we protected you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "مَنَعَكَ",
+      "translation_bh": "",
+      "translation_en": "prevented you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مَنَعَهُمْ",
+      "translation_bh": "",
+      "translation_en": "prevents them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مُنِعَ",
+      "translation_bh": "",
+      "translation_en": "Has been denied"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مَنَعَنَآ",
+      "translation_bh": "",
+      "translation_en": "stopped Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "مَنَعَ",
+      "translation_bh": "",
+      "translation_en": "prevented"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمْنَعُهُم",
+      "translation_bh": "",
+      "translation_en": "(to) defend them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنّاع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّنَّاعٍۢ",
+      "translation_bh": "",
+      "translation_en": "Forbidder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمْنُوعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَمْنُوعَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مانِعَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّانِعَتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "would defend them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنُوع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنُوعًا",
+      "translation_bh": "",
+      "translation_en": "withholding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَمْنَعُونَ",
+      "translation_bh": "",
+      "translation_en": "And they deny"
+    }
+  ]
+}

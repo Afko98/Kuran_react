@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 749,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مِصْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مصر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مِصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِصْرًۭا",
+      "translation_bh": "",
+      "translation_en": "(to) a city"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمِصْرَ",
+      "translation_bh": "",
+      "translation_en": "in Egypt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّصْرَ",
+      "translation_bh": "",
+      "translation_en": "Egypt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِصْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مِصْرَ",
+      "translation_bh": "",
+      "translation_en": "Egypt"
+    }
+  ]
+}

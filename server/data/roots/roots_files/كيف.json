@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 133,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَيْف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كيف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَيْف",
+      "occurrences": 62,
+      "part_of_speech": "N",
+      "text": "كَيْفَ",
+      "translation_bh": "",
+      "translation_en": "How"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَيْف",
+      "occurrences": 16,
+      "part_of_speech": "N",
+      "text": "فَكَيْفَ",
+      "translation_bh": "",
+      "translation_en": "Then how (will it be)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَيْف",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَكَيْفَ",
+      "translation_bh": "",
+      "translation_en": "And how (could)"
+    }
+  ]
+}

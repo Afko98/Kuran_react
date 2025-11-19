@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 898,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُغاثُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْث",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غيث",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُغاثُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُغَاثُ",
+      "translation_bh": "",
+      "translation_en": "will be given abundant rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْث",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْغَيْثَ",
+      "translation_bh": "",
+      "translation_en": "the rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَيْث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَيْثٍ",
+      "translation_bh": "",
+      "translation_en": "(of) a rain"
+    }
+  ]
+}

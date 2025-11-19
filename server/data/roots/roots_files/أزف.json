@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 1034,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "آزِفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَزِفَتِ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أزف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "آزِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔازِفَةِ",
+      "translation_bh": "",
+      "translation_en": "the Approaching"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَزِفَتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَزِفَتِ",
+      "translation_bh": "",
+      "translation_en": "Has approached"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آزِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔازِفَةُ",
+      "translation_bh": "",
+      "translation_en": "the Approaching Day"
+    }
+  ]
+}

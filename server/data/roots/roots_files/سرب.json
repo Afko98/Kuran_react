@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 902,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سارِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرَب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَراب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سرب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سارِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَسَارِبٌۢ",
+      "translation_bh": "",
+      "translation_en": "or goes freely"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَرَبًۭا",
+      "translation_bh": "",
+      "translation_en": "slipping away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَراب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَسَرَابٍۭ",
+      "translation_bh": "",
+      "translation_en": "(are) like a mirage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَراب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَرَابًا",
+      "translation_bh": "",
+      "translation_en": "a mirage"
+    }
+  ]
+}

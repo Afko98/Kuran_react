@@ -1,0 +1,143 @@
+{
+  "description_bh": "",
+  "id": 267,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَهْزِء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتُهْزِئَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُزُو",
+      "translation_bh": ""
+    }
+  ],
+  "root": "هزأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَهْزِء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَهْزِءُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) mockers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتُهْزِئَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَهْزِئُ",
+      "translation_bh": "",
+      "translation_en": "mocks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُزُو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هُزُوًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(in) ridicule"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُزُو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هُزُوًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) jest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتُهْزِئَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُسْتَهْزَأُ",
+      "translation_bh": "",
+      "translation_en": "and ridiculed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُزُو",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "هُزُوًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) ridicule"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتُهْزِئَ",
+      "occurrences": 14,
+      "part_of_speech": "V",
+      "text": "يَسْتَهْزِءُونَ",
+      "translation_bh": "",
+      "translation_en": "mock"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتُهْزِئَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱسْتُهْزِئَ",
+      "translation_bh": "",
+      "translation_en": "were mocked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتُهْزِئَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَهْزِءُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Mock"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتُهْزِئَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَهْزِءُونَ",
+      "translation_bh": "",
+      "translation_en": "mocking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَهْزِء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَهْزِءِينَ",
+      "translation_bh": "",
+      "translation_en": "(against) the mockers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُزُو",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "هُزُوًا",
+      "translation_bh": "",
+      "translation_en": "(in) ridicule"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُزُو",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "هُزُوًا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) ridicule"
+    }
+  ]
+}

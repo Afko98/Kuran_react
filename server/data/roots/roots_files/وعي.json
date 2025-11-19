@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 692,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وِعاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعِيَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "واعِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْعَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وعي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وِعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَوْعِيَتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "with their bags"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وِعاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وِعَآءِ",
+      "translation_bh": "",
+      "translation_en": "(the) bag"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَعِيَهَآ",
+      "translation_bh": "",
+      "translation_en": "and would be conscious of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واعِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٰعِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "conscious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْعَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَوْعَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "and hoarded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْعَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوعُونَ",
+      "translation_bh": "",
+      "translation_en": "they keep within themselves"
+    }
+  ]
+}

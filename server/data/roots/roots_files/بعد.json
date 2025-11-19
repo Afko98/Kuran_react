@@ -1,0 +1,392 @@
+{
+  "description_bh": "",
+  "id": 40,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعُدَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُعْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْعَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "باعِدْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بعد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 82,
+      "part_of_speech": "N",
+      "text": "بَعْدِ",
+      "translation_bh": "",
+      "translation_en": "after"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِۦ",
+      "translation_bh": "",
+      "translation_en": "after him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 54,
+      "part_of_speech": "N",
+      "text": "بَعْدَ",
+      "translation_bh": "",
+      "translation_en": "after"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدِى",
+      "translation_bh": "",
+      "translation_en": "after me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "بَعِيدٍۢ",
+      "translation_bh": "",
+      "translation_en": "far"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَعْدَ مَا",
+      "translation_bh": "",
+      "translation_en": "after what"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "بَعْدُ",
+      "translation_bh": "",
+      "translation_en": "after (that)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِم",
+      "translation_bh": "",
+      "translation_en": "after them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَعِيدًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "great"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "after him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "after Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "far away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَعِيدًا",
+      "translation_bh": "",
+      "translation_en": "far away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "after him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِمْ",
+      "translation_bh": "",
+      "translation_en": "after them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَعْدِكُم",
+      "translation_bh": "",
+      "translation_en": "after you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدِىٓ ۖ",
+      "translation_bh": "",
+      "translation_en": "after me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بَعْدِهَا",
+      "translation_bh": "",
+      "translation_en": "after that"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "after them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدَهُۥ",
+      "translation_bh": "",
+      "translation_en": "after this"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعُدَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَعُدَتْ",
+      "translation_bh": "",
+      "translation_en": "was long"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُعْد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بُعْدًۭا",
+      "translation_bh": "",
+      "translation_en": "Away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِبَعِيدٍۢ",
+      "translation_bh": "",
+      "translation_en": "far"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعُدَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَعِدَتْ",
+      "translation_bh": "",
+      "translation_en": "was taken away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِمْ ۛ",
+      "translation_bh": "",
+      "translation_en": "(were) after them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "after them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَعِيدُ",
+      "translation_bh": "",
+      "translation_en": "far"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعْدَهَا",
+      "translation_bh": "",
+      "translation_en": "after it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَعْدِكَ",
+      "translation_bh": "",
+      "translation_en": "after you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْعَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُبْعَدُونَ",
+      "translation_bh": "",
+      "translation_en": "(will be) removed far"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "far"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَبُعْدًۭا",
+      "translation_bh": "",
+      "translation_en": "So away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَعْدَهُنَّ ۚ",
+      "translation_bh": "",
+      "translation_en": "after that"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَعْدُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and after"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَعْدِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "after him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَعِيدِ",
+      "translation_bh": "",
+      "translation_en": "far"
+    },
+    {
+      "description_bh": "",
+      "lemma": "باعِدْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَـٰعِدْ",
+      "translation_bh": "",
+      "translation_en": "lengthen (the distance)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَعِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَعِيدٍ",
+      "translation_bh": "",
+      "translation_en": "far"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُعْدَ",
+      "translation_bh": "",
+      "translation_en": "(were the) distance"
+    }
+  ]
+}

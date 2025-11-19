@@ -1,0 +1,107 @@
+{
+  "description_bh": "",
+  "id": 597,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُذَبِّحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُبِحَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِبْح",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ذبح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُذَبِّحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُذَبِّحُونَ",
+      "translation_bh": "",
+      "translation_en": "slaughtering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُبِحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذْبَحُوا۟",
+      "translation_bh": "",
+      "translation_en": "you slaughter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُبِحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَذَبَحُوهَا",
+      "translation_bh": "",
+      "translation_en": "So they slaughtered it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُبِحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذُبِحَ",
+      "translation_bh": "",
+      "translation_en": "is sacrificed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُذَبِّحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُذَبِّحُونَ",
+      "translation_bh": "",
+      "translation_en": "and were slaughtering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُبِحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأَا۟ذْبَحَنَّهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "I will surely slaughter him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُذَبِّحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُذَبِّحُ",
+      "translation_bh": "",
+      "translation_en": "slaughtering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذُبِحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَذْبَحُكَ",
+      "translation_bh": "",
+      "translation_en": "sacrificing you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذِبْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِذِبْحٍ",
+      "translation_bh": "",
+      "translation_en": "with a sacrifice"
+    }
+  ]
+}

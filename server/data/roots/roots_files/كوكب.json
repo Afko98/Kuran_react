@@ -1,0 +1,61 @@
+{
+  "description_bh": "",
+  "id": 795,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَوْكَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كوكب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَوْكَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَوْكَبًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "a star"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَوْكَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَوْكَبًۭا",
+      "translation_bh": "",
+      "translation_en": "stars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَوْكَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَوْكَبٌۭ",
+      "translation_bh": "",
+      "translation_en": "a star"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَوْكَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَوَاكِبِ",
+      "translation_bh": "",
+      "translation_en": "(of) the stars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَوْكَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَوَاكِبُ",
+      "translation_bh": "",
+      "translation_en": "the stars"
+    }
+  ]
+}

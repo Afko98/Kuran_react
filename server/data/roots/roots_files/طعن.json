@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1083,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "طَعْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعَنُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طعن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "طَعْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَطَعْنًۭا",
+      "translation_bh": "",
+      "translation_en": "and defaming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعَنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَطَعَنُوا۟",
+      "translation_bh": "",
+      "translation_en": "and defame"
+    }
+  ]
+}

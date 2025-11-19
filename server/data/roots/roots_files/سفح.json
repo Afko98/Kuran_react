@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 858,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُسافِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسافِحَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْفُوح",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سفح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُسافِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسَـٰفِحِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(to be) lustful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسافِحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسَـٰفِحَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "those who commit immorality"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسافِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسَـٰفِحِينَ",
+      "translation_bh": "",
+      "translation_en": "being lewd"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْفُوح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّسْفُوحًا",
+      "translation_bh": "",
+      "translation_en": "poured forth"
+    }
+  ]
+}

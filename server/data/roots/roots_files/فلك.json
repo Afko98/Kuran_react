@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 350,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فُلْك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَلَك",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فلك",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْفُلْكِ",
+      "translation_bh": "",
+      "translation_en": "and the ships"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُلْك",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْفُلْكِ",
+      "translation_bh": "",
+      "translation_en": "the ship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُلْك",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْفُلْكَ",
+      "translation_bh": "",
+      "translation_en": "the ship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَلَك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَلَكٍۢ",
+      "translation_bh": "",
+      "translation_en": "an orbit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْفُلْكَ",
+      "translation_bh": "",
+      "translation_en": "and the ships"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُلْك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْفُلْكُ",
+      "translation_bh": "",
+      "translation_en": "the ships"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "description_bh": "",
+  "id": 642,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "آناء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْنِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أني",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "آناء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَانَآءَ",
+      "translation_bh": "",
+      "translation_en": "(in the) hours"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آناء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَانَآئِ",
+      "translation_bh": "",
+      "translation_en": "(the) hours"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِنَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "its preparation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَانٍۢ",
+      "translation_bh": "",
+      "translation_en": "heated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَأْنِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْنِ",
+      "translation_bh": "",
+      "translation_en": "come (the) time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔانِيَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "vessels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَانِيَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "boiling"
+    }
+  ]
+}

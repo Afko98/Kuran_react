@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 856,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَمِيزَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "امْتازُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمَيَّزُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ميز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَمِيزَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَمِيزَ",
+      "translation_bh": "",
+      "translation_en": "He separates"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَمِيزَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَمِيزَ",
+      "translation_bh": "",
+      "translation_en": "That may distinguish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "امْتازُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱمْتَـٰزُوا۟",
+      "translation_bh": "",
+      "translation_en": "But stand apart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمَيَّزُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمَيَّزُ",
+      "translation_bh": "",
+      "translation_en": "bursts"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 738,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَهْف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كهف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَهْف",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْكَهْفِ",
+      "translation_bh": "",
+      "translation_en": "(of) the cave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَهْف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَهْفِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their cave"
+    }
+  ]
+}

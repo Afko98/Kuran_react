@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 524,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خِطْبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاطَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِطاب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خطب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خِطْبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِطْبَةِ",
+      "translation_bh": "",
+      "translation_en": "marriage proposal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاطَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُخَـٰطِبْنِى",
+      "translation_bh": "",
+      "translation_en": "address Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَطْبُكُنَّ",
+      "translation_bh": "",
+      "translation_en": "(was) your affair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطْب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَطْبُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) your business"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَطْبُكَ",
+      "translation_bh": "",
+      "translation_en": "(is) your case"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاطَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَاطَبَهُمُ",
+      "translation_bh": "",
+      "translation_en": "address them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَطْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَطْبُكُمَا ۖ",
+      "translation_bh": "",
+      "translation_en": "(is the) matter with both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِطاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخِطَابِ",
+      "translation_bh": "",
+      "translation_en": "speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِطاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِطَابًۭا",
+      "translation_bh": "",
+      "translation_en": "(to) address"
+    }
+  ]
+}

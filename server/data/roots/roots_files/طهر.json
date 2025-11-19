@@ -1,0 +1,318 @@
+{
+  "description_bh": "",
+  "id": 288,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُطَهَّرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطْهُرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطَهَّرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَطَهِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْهَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَهِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَّهِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطْهِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَهَّر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طهر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُطَهَّرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّطَهَّرَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "purified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طَهِّرَا",
+      "translation_bh": "",
+      "translation_en": "[You both] purify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَطْهُرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطْهُرْنَ ۖ",
+      "translation_bh": "",
+      "translation_en": "they are cleansed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطَهَّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَطَهَّرْنَ",
+      "translation_bh": "",
+      "translation_en": "they are purified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَطَهِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَطَهِّرِينَ",
+      "translation_bh": "",
+      "translation_en": "those who purify themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْهَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَطْهَرُ ۗ",
+      "translation_bh": "",
+      "translation_en": "and more purer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَهَّرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّطَهَّرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "pure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَطَهَّرَكِ",
+      "translation_bh": "",
+      "translation_en": "and purified you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَهِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُطَهِّرُكَ",
+      "translation_bh": "",
+      "translation_en": "and purify you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطَهَّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱطَّهَّرُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "then purify yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُطَهِّرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "to purify you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُطَهِّرَ",
+      "translation_bh": "",
+      "translation_en": "He purifies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطَهَّرْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَطَهَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "who keep themselves pure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيُطَهِّرَكُم",
+      "translation_bh": "",
+      "translation_en": "so that He may purify you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُطَهِّرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "purifying them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطَهَّرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَطَهَّرُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "purify themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَّهِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُطَّهِّرِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones who purify themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْهَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَطْهَرُ",
+      "translation_bh": "",
+      "translation_en": "(are) purer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَطَهِّرْ",
+      "translation_bh": "",
+      "translation_en": "and purify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَهُورًۭا",
+      "translation_bh": "",
+      "translation_en": "pure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُطَهِّرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "And to purify you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَطْهِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَطْهِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "(with thorough) purification"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَهَّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُطَهَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "the purified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْهَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَطْهَرُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and purer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَطَهِّرْ",
+      "translation_bh": "",
+      "translation_en": "purify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَهُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَهُورًا",
+      "translation_bh": "",
+      "translation_en": "pure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَهَّرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّطَهَّرَةٍۭ",
+      "translation_bh": "",
+      "translation_en": "purified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَهَّرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّطَهَّرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "purified"
+    }
+  ]
+}

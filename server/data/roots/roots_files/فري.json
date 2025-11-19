@@ -1,0 +1,276 @@
+{
+  "description_bh": "",
+  "id": 181,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتِراء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَري",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَرَيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَرًى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْتَرِي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فري",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 17,
+      "part_of_speech": "V",
+      "text": "يَفْتَرُونَ",
+      "translation_bh": "",
+      "translation_en": "inventing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "ٱفْتَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "fabricates"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱفْتَرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "he has fabricated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتِراء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱفْتِرَآءً",
+      "translation_bh": "",
+      "translation_en": "(as) an invention"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱفْتَرَيْنَا",
+      "translation_bh": "",
+      "translation_en": "we would have fabricated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَري",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُفْتَرِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones who invent (falsehood)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُفْتَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(it could be) produced"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱفْتَرَىٰهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "He has invented it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَفْتَرُونَ",
+      "translation_bh": "",
+      "translation_en": "you invent (lies)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "افْتَرَاهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "He has fabricated it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَرَيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُفْتَرَيَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "fabricated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱفْتَرَيْتُهُۥ",
+      "translation_bh": "",
+      "translation_en": "I have invented it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَري",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُفْتَرُونَ",
+      "translation_bh": "",
+      "translation_en": "inventors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُفْتَرٍۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) an inventor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتَرِى",
+      "translation_bh": "",
+      "translation_en": "they invent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّتَفْتَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "so that you invent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَفْتَرِىَ",
+      "translation_bh": "",
+      "translation_en": "that you invent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "an amazing thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفْتَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "invent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱفْتَرَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "he (has) invented it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَرًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّفْتَرًۭى",
+      "translation_bh": "",
+      "translation_en": "invented"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱفْتَرَىٰهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "He invented it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَرَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفْتَرَىٰ",
+      "translation_bh": "",
+      "translation_en": "Has he invented"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْتَرًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّفْتَرًۭى ۚ",
+      "translation_bh": "",
+      "translation_en": "invented"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَفْتَرِي",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتَرِينَهُۥ",
+      "translation_bh": "",
+      "translation_en": "they invent it"
+    }
+  ]
+}

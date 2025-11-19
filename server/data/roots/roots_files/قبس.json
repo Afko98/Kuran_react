@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 1009,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَبَس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَقْتَبِسْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قبس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَبَس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقَبَسٍ",
+      "translation_bh": "",
+      "translation_en": "a burning brand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبَس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبَسٍۢ",
+      "translation_bh": "",
+      "translation_en": "burning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَقْتَبِسْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَقْتَبِسْ",
+      "translation_bh": "",
+      "translation_en": "we may acquire"
+    }
+  ]
+}

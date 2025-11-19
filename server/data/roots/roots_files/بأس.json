@@ -1,0 +1,311 @@
+{
+  "description_bh": "",
+  "id": 147,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْساء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَئِيس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْتَئِسْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بائِس",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بأس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "بِئْسَمَا",
+      "translation_bh": "",
+      "translation_en": "Evil (is) that"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَلَبِئْسَ",
+      "translation_bh": "",
+      "translation_en": "And surely evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "occurrences": 15,
+      "part_of_speech": "V",
+      "text": "وَبِئْسَ",
+      "translation_bh": "",
+      "translation_en": "and evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْساء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَأْسَآءِ",
+      "translation_bh": "",
+      "translation_en": "[the] suffering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَأْسِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) [the] stress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْساء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَأْسَآءُ",
+      "translation_bh": "",
+      "translation_en": "[the] adversity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "فَبِئْسَ",
+      "translation_bh": "",
+      "translation_en": "And wretched"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَأْسَ",
+      "translation_bh": "",
+      "translation_en": "(the) might"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَأْسًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) Might"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "لَبِئْسَ",
+      "translation_bh": "",
+      "translation_en": "Surely evil"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْساء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْبَأْسَآءِ",
+      "translation_bh": "",
+      "translation_en": "with adversity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بَأْسُنَا",
+      "translation_bh": "",
+      "translation_en": "Our punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسُهُۥ",
+      "translation_bh": "",
+      "translation_en": "His wrath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسَنَا ۗ",
+      "translation_bh": "",
+      "translation_en": "Our wrath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسُنَآ",
+      "translation_bh": "",
+      "translation_en": "Our punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَئِيس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَـِٔيسٍۭ",
+      "translation_bh": "",
+      "translation_en": "wretched"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْتَئِسْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَبْتَئِسْ",
+      "translation_bh": "",
+      "translation_en": "(be) distressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "بِئْسَ",
+      "translation_bh": "",
+      "translation_en": "Wretched"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِئْسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَبِئْسَ",
+      "translation_bh": "",
+      "translation_en": "Surely, wretched"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسَكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "from your (mutual) violence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَأْسٍۢ",
+      "translation_bh": "",
+      "translation_en": "those of great military might"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسَنَآ",
+      "translation_bh": "",
+      "translation_en": "Our torment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your battle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بائِس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَآئِسَ",
+      "translation_bh": "",
+      "translation_en": "the miserable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَأْسَ",
+      "translation_bh": "",
+      "translation_en": "(to) the battle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسِ",
+      "translation_bh": "",
+      "translation_en": "(the) punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسَنَا",
+      "translation_bh": "",
+      "translation_en": "Our punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسَنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "Our punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَأْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَأْسُهُم",
+      "translation_bh": "",
+      "translation_en": "Their violence"
+    }
+  ]
+}

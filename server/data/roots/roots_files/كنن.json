@@ -1,0 +1,103 @@
+{
+  "description_bh": "",
+  "id": 525,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَكْنَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكِنَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْنان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْنُون",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كنن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَكْنَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَكْنَنتُمْ",
+      "translation_bh": "",
+      "translation_en": "you conceal it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكِنَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَكِنَّةً",
+      "translation_bh": "",
+      "translation_en": "coverings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْنان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَكْنَـٰنًۭا",
+      "translation_bh": "",
+      "translation_en": "shelters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكْنَن",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُكِنُّ",
+      "translation_bh": "",
+      "translation_en": "conceals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْنُون",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّكْنُونٌۭ",
+      "translation_bh": "",
+      "translation_en": "well protected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَكِنَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَكِنَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "coverings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْنُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَكْنُونِ",
+      "translation_bh": "",
+      "translation_en": "well-protected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْنُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّكْنُونٍۢ",
+      "translation_bh": "",
+      "translation_en": "well-guarded"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 706,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تُخالِطُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَطَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَطُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُلَطاء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خلط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تُخالِطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُخَالِطُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "you associate with them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱخْتَلَطَ",
+      "translation_bh": "",
+      "translation_en": "(is) joined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَطُوا۟",
+      "translation_bh": "",
+      "translation_en": "They had mixed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتَلَطَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱخْتَلَطَ",
+      "translation_bh": "",
+      "translation_en": "so absorbs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُلَطاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخُلَطَآءِ",
+      "translation_bh": "",
+      "translation_en": "the partners"
+    }
+  ]
+}

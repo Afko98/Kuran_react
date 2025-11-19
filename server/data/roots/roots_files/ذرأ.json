@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 725,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ذَرَأَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ذرأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ذَرَأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ذَرَأَ",
+      "translation_bh": "",
+      "translation_en": "He produced"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذَرَأْنَا",
+      "translation_bh": "",
+      "translation_en": "We have created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَرَأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ذَرَأَكُمْ",
+      "translation_bh": "",
+      "translation_en": "multiplied you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَذْرَؤُكُمْ",
+      "translation_bh": "",
+      "translation_en": "He multiplies you"
+    }
+  ]
+}

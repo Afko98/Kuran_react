@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 810,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زَهَقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَهُوق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زاهِق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زهق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زَهَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتَزْهَقَ",
+      "translation_bh": "",
+      "translation_en": "and should depart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَهَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَزَهَقَ",
+      "translation_bh": "",
+      "translation_en": "and perished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَهُوق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَهُوقًۭا",
+      "translation_bh": "",
+      "translation_en": "(bound) to perish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زاهِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَاهِقٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "vanishing"
+    }
+  ]
+}

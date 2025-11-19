@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 650,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَطِيف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَلَطَّفْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لطف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَطِيف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱللَّطِيفُ",
+      "translation_bh": "",
+      "translation_en": "the All-Subtle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَطِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَطِيفٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) Most Subtle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَلَطَّفْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَتَلَطَّفْ",
+      "translation_bh": "",
+      "translation_en": "and let him be cautious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَطِيف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَطِيفٌ",
+      "translation_bh": "",
+      "translation_en": "(is) surely Subtle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَطِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَطِيفًا",
+      "translation_bh": "",
+      "translation_en": "All-Subtle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَطِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَطِيفٌۢ",
+      "translation_bh": "",
+      "translation_en": "(is) Subtle"
+    }
+  ]
+}

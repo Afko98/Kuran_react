@@ -1,0 +1,924 @@
+{
+  "description_bh": "",
+  "id": 67,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَشْهِدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْهُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْهَد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شهد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهَدَآءَكُم",
+      "translation_bh": "",
+      "translation_en": "your witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَشْهَدُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) witnessing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "شُهَدَآءَ",
+      "translation_bh": "",
+      "translation_en": "witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَهَـٰدَةً",
+      "translation_bh": "",
+      "translation_en": "a testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهِيدًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "شَهِدَ",
+      "translation_bh": "",
+      "translation_en": "witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُشْهِدُ",
+      "translation_bh": "",
+      "translation_en": "and he calls to witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَشْهِدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَشْهِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "And call for evidence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهِيدَيْنِ",
+      "translation_bh": "",
+      "translation_en": "two witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشُّهَدَآءِ",
+      "translation_bh": "",
+      "translation_en": "[the] witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشُّهَدَآءُ",
+      "translation_bh": "",
+      "translation_en": "the witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلشَّهَـٰدَةِ",
+      "translation_bh": "",
+      "translation_en": "for evidence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَشْهِدُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And take witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهِيدٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(the) witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشَّهَـٰدَةَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the evidence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱشْهَدْ",
+      "translation_bh": "",
+      "translation_en": "and bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلشَّـٰهِدِينَ",
+      "translation_bh": "",
+      "translation_en": "the witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱشْهَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "Bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱشْهَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "Then bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَشَهِدُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and (had) witnessed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "شَهِيدٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a Witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهَدَآءُ ۗ",
+      "translation_bh": "",
+      "translation_en": "(are) witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهَدَآءَ ۗ",
+      "translation_bh": "",
+      "translation_en": "martyrs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَشْهِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "then take witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَشْهِدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَشْهِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "then call to witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "شَهِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "they testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "شَهِيدًا",
+      "translation_bh": "",
+      "translation_en": "a Witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِشَهِيدٍۢ",
+      "translation_bh": "",
+      "translation_en": "a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "شَهِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلشُّهَدَآءِ",
+      "translation_bh": "",
+      "translation_en": "and the martyrs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَشْهَدُ",
+      "translation_bh": "",
+      "translation_en": "bears witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَشْهَدُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شُهَدَآءَ ۚ",
+      "translation_bh": "",
+      "translation_en": "witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهَـٰدَةُ",
+      "translation_bh": "",
+      "translation_en": "(Take) testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهَـٰدَةَ",
+      "translation_bh": "",
+      "translation_en": "testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَشَهَـٰدَتُنَآ",
+      "translation_bh": "",
+      "translation_en": "Surely our testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهَـٰدَتِهِمَا",
+      "translation_bh": "",
+      "translation_en": "testimony of the other two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلشَّهَـٰدَةِ",
+      "translation_bh": "",
+      "translation_en": "the testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهَـٰدَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) a testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهِيدٌۢ",
+      "translation_bh": "",
+      "translation_en": "(is) Witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَشْهَدُونَ",
+      "translation_bh": "",
+      "translation_en": "testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْهَدُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(do) I testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلشَّهَـٰدَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "شَهِدْنَا",
+      "translation_bh": "",
+      "translation_en": "We bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَشَهِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they will bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهَدَآءَكُمُ",
+      "translation_bh": "",
+      "translation_en": "your witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَشْهَدُونَ",
+      "translation_bh": "",
+      "translation_en": "testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشْهَدْ",
+      "translation_bh": "",
+      "translation_en": "testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَشْهَدَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and made them testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "شَهِدْنَآ ۛ",
+      "translation_bh": "",
+      "translation_en": "we have testified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَـٰهِدِينَ",
+      "translation_bh": "",
+      "translation_en": "(while) witnessing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "وَٱلشَّهَـٰدَةِ",
+      "translation_bh": "",
+      "translation_en": "and the seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "شَهِيدًۢا",
+      "translation_bh": "",
+      "translation_en": "(as) a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهُودًا",
+      "translation_bh": "",
+      "translation_en": "witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شَاهِدٌۭ",
+      "translation_bh": "",
+      "translation_en": "a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَشْهَـٰدُ",
+      "translation_bh": "",
+      "translation_en": "the witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُشْهِدُ",
+      "translation_bh": "",
+      "translation_en": "[I] call Allah to witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱشْهَدُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and (you) bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْهُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّشْهُودٌۭ",
+      "translation_bh": "",
+      "translation_en": "witnessed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَشَهِدَ",
+      "translation_bh": "",
+      "translation_en": "And testified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "شَهِدْنَآ",
+      "translation_bh": "",
+      "translation_en": "we testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْهُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَشْهُودًۭا",
+      "translation_bh": "",
+      "translation_en": "ever witnessed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْهَدتُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "I made them witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْهَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّشْهَدِ",
+      "translation_bh": "",
+      "translation_en": "(the) witnessing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَشْهَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "That they may witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَشْهَدْ",
+      "translation_bh": "",
+      "translation_en": "And let witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهَدَآءُ",
+      "translation_bh": "",
+      "translation_en": "witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَشَهَـٰدَةُ",
+      "translation_bh": "",
+      "translation_en": "then (the) testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَهَـٰدَٰتٍۭ",
+      "translation_bh": "",
+      "translation_en": "testimonies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشْهَدَ",
+      "translation_bh": "",
+      "translation_en": "she bears witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلشُّهَدَآءِ",
+      "translation_bh": "",
+      "translation_en": "the witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشْهَدُ",
+      "translation_bh": "",
+      "translation_en": "will bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشْهَدُونِ",
+      "translation_bh": "",
+      "translation_en": "you are present with me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهِيدًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) a Witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَـٰهِدًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَهِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "a Witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَشْهَدُ",
+      "translation_bh": "",
+      "translation_en": "and will bear witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَـٰهِدُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "شَهِدتُّمْ",
+      "translation_bh": "",
+      "translation_en": "you testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَشْهَدَ",
+      "translation_bh": "",
+      "translation_en": "testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهِيدٍۢ",
+      "translation_bh": "",
+      "translation_en": "witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشَهِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "Did they witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَهَـٰدَتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشَهِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلشُّهَدَآءُ",
+      "translation_bh": "",
+      "translation_en": "and the martyrs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلشَّهَـٰدَةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the witnessed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَشْهَدُ",
+      "translation_bh": "",
+      "translation_en": "We testify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْهَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَشْهِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "And take witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشَّهَـٰدَةَ",
+      "translation_bh": "",
+      "translation_en": "the testimony"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهادَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِشَهَـٰدَٰتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "in their testimonies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَـٰهِدًا",
+      "translation_bh": "",
+      "translation_en": "(as) a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهُودًۭا",
+      "translation_bh": "",
+      "translation_en": "present"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَشْهَدُهُ",
+      "translation_bh": "",
+      "translation_en": "Witness it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشَاهِدٍۢ",
+      "translation_bh": "",
+      "translation_en": "And (the) witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْهُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَشْهُودٍۢ",
+      "translation_bh": "",
+      "translation_en": "and what is witnessed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاهِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُهُودٌۭ",
+      "translation_bh": "",
+      "translation_en": "witnesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَشَهِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "surely (is) a witness"
+    }
+  ]
+}

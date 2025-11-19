@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1149,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَبَن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لبن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَبَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَّبَنًا",
+      "translation_bh": "",
+      "translation_en": "milk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَبَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَّبَنٍۢ",
+      "translation_bh": "",
+      "translation_en": "milk"
+    }
+  ]
+}

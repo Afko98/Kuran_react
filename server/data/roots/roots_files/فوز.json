@@ -1,0 +1,117 @@
+{
+  "description_bh": "",
+  "id": 314,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فازَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفازَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَوْز",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فائِز",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفاز",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فوز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فازَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَازَ ۗ",
+      "translation_bh": "",
+      "translation_en": "he is successful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفازَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَفَازَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(will) escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَوْز",
+      "occurrences": 16,
+      "part_of_speech": "N",
+      "text": "ٱلْفَوْزُ",
+      "translation_bh": "",
+      "translation_en": "(is) the success"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فازَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَفُوزَ",
+      "translation_bh": "",
+      "translation_en": "then I would have attained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَوْز",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "فَوْزًا",
+      "translation_bh": "",
+      "translation_en": "a success"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فائِز",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْفَآئِزُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the successful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فازَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَازَ",
+      "translation_bh": "",
+      "translation_en": "has attained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفازَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَفَازَتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "to their place of salvation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفاز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَفَازًا",
+      "translation_bh": "",
+      "translation_en": "(is) success"
+    }
+  ]
+}

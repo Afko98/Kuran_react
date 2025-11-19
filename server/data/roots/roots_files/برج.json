@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 678,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بُرُوج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَبَرِّجَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرَّجْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرُّج",
+      "translation_bh": ""
+    }
+  ],
+  "root": "برج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بُرُوج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُرُوجٍۢ",
+      "translation_bh": "",
+      "translation_en": "towers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرُوج",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بُرُوجًۭا",
+      "translation_bh": "",
+      "translation_en": "constellations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَبَرِّجَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَبَرِّجَـٰتٍۭ",
+      "translation_bh": "",
+      "translation_en": "displaying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرَّجْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبَرَّجْنَ",
+      "translation_bh": "",
+      "translation_en": "display yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَرُّج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبَرُّجَ",
+      "translation_bh": "",
+      "translation_en": "(as was the) display"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُرُوج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبُرُوجِ",
+      "translation_bh": "",
+      "translation_en": "the constellations"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1172,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَنِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جني",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَنِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "ripe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجَنَى",
+      "translation_bh": "",
+      "translation_en": "and (the) fruit"
+    }
+  ]
+}

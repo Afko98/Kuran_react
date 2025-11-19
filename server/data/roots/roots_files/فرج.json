@@ -1,0 +1,84 @@
+{
+  "description_bh": "",
+  "id": 630,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَرْج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرِجَتْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَرْج",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَرْجَهَا",
+      "translation_bh": "",
+      "translation_en": "her chastity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْج",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِفُرُوجِهِمْ",
+      "translation_bh": "",
+      "translation_en": "of their modesty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرُوجَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their chastity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرُوجَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "their chastity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرُوجَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their chastity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرُوجٍۢ",
+      "translation_bh": "",
+      "translation_en": "rifts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرِجَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فُرِجَتْ",
+      "translation_bh": "",
+      "translation_en": "is cleft asunder"
+    }
+  ]
+}

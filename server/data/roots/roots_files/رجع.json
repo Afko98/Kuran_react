@@ -1,0 +1,428 @@
+{
+  "description_bh": "",
+  "id": 108,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "راجِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَراجَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُجْعَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رجع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 16,
+      "part_of_speech": "V",
+      "text": "يَرْجِعُونَ",
+      "translation_bh": "",
+      "translation_en": "[they] will not return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 19,
+      "part_of_speech": "V",
+      "text": "تُرْجَعُونَ",
+      "translation_bh": "",
+      "translation_en": "you will be returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راجِع",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَٰجِعُونَ",
+      "translation_bh": "",
+      "translation_en": "will return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَجَعْتُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "you return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تُرْجَعُ",
+      "translation_bh": "",
+      "translation_en": "return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَراجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَرَاجَعَآ",
+      "translation_bh": "",
+      "translation_en": "they return to each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجِع",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "مَرْجِعُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) your return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يُرْجَعُونَ",
+      "translation_bh": "",
+      "translation_en": "they will be returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّرْجِعُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) their return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجِع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّرْجِعُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) your return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَجَعَ",
+      "translation_bh": "",
+      "translation_en": "returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَّجَعَكَ",
+      "translation_bh": "",
+      "translation_en": "Allah returns you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَجَعْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you (have) returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "رَجَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجِع",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَرْجِعُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) their return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَرْجِعُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) your return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرْجَعُ",
+      "translation_bh": "",
+      "translation_en": "will be returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْجِعُ",
+      "translation_bh": "",
+      "translation_en": "return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱرْجِعْ",
+      "translation_bh": "",
+      "translation_en": "Return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱرْجِعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَجَعْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "So We returned you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَجَعَ",
+      "translation_bh": "",
+      "translation_en": "Then Musa returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَرْجِعُ",
+      "translation_bh": "",
+      "translation_en": "it (could) return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْجِعَ",
+      "translation_bh": "",
+      "translation_en": "returns"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱرْجِعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "but return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَجَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "So they returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱرْجِعُونِ",
+      "translation_bh": "",
+      "translation_en": "Send me back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱرْجِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "Go back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱرْجِعُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "then go back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱرْجِعْنَا",
+      "translation_bh": "",
+      "translation_en": "so return us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱرْجِعُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "so return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَرْجِعَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رُّجِعْتُ",
+      "translation_bh": "",
+      "translation_en": "I am returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَجْعٌۢ",
+      "translation_bh": "",
+      "translation_en": "(is) a return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْجِعُونَهَآ",
+      "translation_bh": "",
+      "translation_en": "Bring it back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْجِعُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "return them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَّجَعْنَآ",
+      "translation_bh": "",
+      "translation_en": "we return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱرْجِعِ",
+      "translation_bh": "",
+      "translation_en": "So return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱرْجِعِ",
+      "translation_bh": "",
+      "translation_en": "return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَجْعِهِۦ",
+      "translation_bh": "",
+      "translation_en": "return him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّجْعِ",
+      "translation_bh": "",
+      "translation_en": "returns"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَجَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱرْجِعِىٓ",
+      "translation_bh": "",
+      "translation_en": "Return"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُجْعَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرُّجْعَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "(is) the return"
+    }
+  ]
+}

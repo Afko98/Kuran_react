@@ -1,0 +1,71 @@
+{
+  "description_bh": "",
+  "id": 707,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَفْرِغْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارِغ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَغْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرغ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَفْرِغْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَفْرِغْ",
+      "translation_bh": "",
+      "translation_en": "Pour"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْرِغْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُفْرِغْ",
+      "translation_bh": "",
+      "translation_en": "I pour"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارِغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَـٰرِغًا ۖ",
+      "translation_bh": "",
+      "translation_en": "empty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَغْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنَفْرُغُ",
+      "translation_bh": "",
+      "translation_en": "Soon We will attend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَغْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَغْتَ",
+      "translation_bh": "",
+      "translation_en": "you have finished"
+    }
+  ]
+}

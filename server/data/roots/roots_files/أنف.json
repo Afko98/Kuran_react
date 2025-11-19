@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 956,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَنف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنِف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أنف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَنف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَنفَ",
+      "translation_bh": "",
+      "translation_en": "and the nose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْأَنفِ",
+      "translation_bh": "",
+      "translation_en": "for the nose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَانِفًا ۚ",
+      "translation_bh": "",
+      "translation_en": "just now"
+    }
+  ]
+}

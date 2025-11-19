@@ -1,0 +1,216 @@
+{
+  "description_bh": "",
+  "id": 271,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِيَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُمِّيَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمًى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عمي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عُمْىٌۭ",
+      "translation_bh": "",
+      "translation_en": "blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "so they became blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَمُوا۟",
+      "translation_bh": "",
+      "translation_en": "they became blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْمَىٰ",
+      "translation_bh": "",
+      "translation_en": "the blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَمِىَ",
+      "translation_bh": "",
+      "translation_en": "(is) blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمِينَ",
+      "translation_bh": "",
+      "translation_en": "blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعُمْىَ",
+      "translation_bh": "",
+      "translation_en": "the blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلْأَعْمَىٰ",
+      "translation_bh": "",
+      "translation_en": "(is) like the blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُمِّيَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعُمِّيَتْ",
+      "translation_bh": "",
+      "translation_en": "but (it) has been obscured"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْمَىٰٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَعْمَىٰ",
+      "translation_bh": "",
+      "translation_en": "blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُمْيًۭا",
+      "translation_bh": "",
+      "translation_en": "blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِيَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعْمَى",
+      "translation_bh": "",
+      "translation_en": "(are) blinded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعُمْيَانًۭا",
+      "translation_bh": "",
+      "translation_en": "and blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْمَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعُمْىِ",
+      "translation_bh": "",
+      "translation_en": "the blind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَمِيَتْ",
+      "translation_bh": "",
+      "translation_en": "But (will) be obscure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَمَىٰ",
+      "translation_bh": "",
+      "translation_en": "[the] blindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَمًى ۚ",
+      "translation_bh": "",
+      "translation_en": "blindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَمِيَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَعْمَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "and blinded"
+    }
+  ]
+}

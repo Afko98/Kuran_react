@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 949,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَرِّضِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَض",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حرض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَرِّضِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَرِّضِ",
+      "translation_bh": "",
+      "translation_en": "And encourage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِّضِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَرِّضِ",
+      "translation_bh": "",
+      "translation_en": "Urge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرَضًا",
+      "translation_bh": "",
+      "translation_en": "fatally ill"
+    }
+  ]
+}

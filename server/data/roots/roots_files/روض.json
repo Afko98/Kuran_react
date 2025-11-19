@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1206,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَوْضَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "روض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَوْضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَوْضَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a Garden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَوْضَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَوْضَاتِ",
+      "translation_bh": "",
+      "translation_en": "flowering meadows"
+    }
+  ]
+}

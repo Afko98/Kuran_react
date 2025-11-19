@@ -1,0 +1,298 @@
+{
+  "description_bh": "",
+  "id": 277,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُنُب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْنُبْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَجَنَّبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجَنَّبُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جنب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُنُوبِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their sides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَجْتَنِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "you avoid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُنُب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجُنُبِ",
+      "translation_bh": "",
+      "translation_en": "(who is) farther away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْجَنۢبِ",
+      "translation_bh": "",
+      "translation_en": "by your side"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُنُب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُنُبًا",
+      "translation_bh": "",
+      "translation_en": "(when you are) impure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُنُوبِكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your sides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُنُب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُنُبًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) a state of ceremonial impurity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱجْتَنِبُوهُ",
+      "translation_bh": "",
+      "translation_en": "so avoid it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجُنُوبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their flanks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِجَنۢبِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "(lying) on his side"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْنُبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱجْنُبْنِى",
+      "translation_bh": "",
+      "translation_en": "and keep me away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱجْتَنِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "and avoid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جَانِبَ",
+      "translation_bh": "",
+      "translation_en": "side"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِجَانِبِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "on his side"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "جَانِبِ",
+      "translation_bh": "",
+      "translation_en": "(the) side"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱجْتَنِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "So avoid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُنُوبُهَا",
+      "translation_bh": "",
+      "translation_en": "their sides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُنُب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُنُبٍۢ",
+      "translation_bh": "",
+      "translation_en": "a distance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِجَانِبِ",
+      "translation_bh": "",
+      "translation_en": "on (the) side"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُنُوبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their sides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَانِبٍۢ",
+      "translation_bh": "",
+      "translation_en": "side"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱجْتَنَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "avoid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَنب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَنۢبِ",
+      "translation_bh": "",
+      "translation_en": "regard (to)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جانِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِجَانِبِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and distances himself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَجْتَنِبُونَ",
+      "translation_bh": "",
+      "translation_en": "avoid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اجْتَنَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱجْتَنِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "Avoid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَجَنَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَجَنَّبُهَا",
+      "translation_bh": "",
+      "translation_en": "And will avoid it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُجَنَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَيُجَنَّبُهَا",
+      "translation_bh": "",
+      "translation_en": "But will be removed from it"
+    }
+  ]
+}

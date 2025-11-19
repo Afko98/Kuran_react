@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1207,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَدّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْدُود",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خدد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَدّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَدَّكَ",
+      "translation_bh": "",
+      "translation_en": "your cheek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْدُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُخْدُودِ",
+      "translation_bh": "",
+      "translation_en": "(of) the pit"
+    }
+  ]
+}

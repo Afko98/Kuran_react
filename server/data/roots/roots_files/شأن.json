@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 888,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَأْن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شأن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَأْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَأْنٍۢ",
+      "translation_bh": "",
+      "translation_en": "any situation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَأْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَأْنِهِمْ",
+      "translation_bh": "",
+      "translation_en": "affair of theirs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَأْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَأْنٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) a matter"
+    }
+  ]
+}

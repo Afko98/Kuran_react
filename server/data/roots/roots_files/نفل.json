@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 883,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَنفال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نافِلَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نفل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَنفال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنفَالِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the spoils of war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنفَالُ",
+      "translation_bh": "",
+      "translation_en": "The spoils of war"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نافِلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَافِلَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(as) additional"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نافِلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَافِلَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(in) addition"
+    }
+  ]
+}

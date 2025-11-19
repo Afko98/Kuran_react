@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 677,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سُكارَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُكِّرَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سكر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سُكارَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سُكَـٰرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(are) intoxicated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُكِّرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سُكِّرَتْ",
+      "translation_bh": "",
+      "translation_en": "have been dazzled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَكْرَتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their intoxication"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَكَرًۭا",
+      "translation_bh": "",
+      "translation_en": "intoxicant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُكارَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسُكَـٰرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(are) intoxicated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَكْرَةُ",
+      "translation_bh": "",
+      "translation_en": "(the) stupor"
+    }
+  ]
+}

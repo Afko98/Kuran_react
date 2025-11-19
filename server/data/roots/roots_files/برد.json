@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 831,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَرْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "برد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَرْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَرْدًۭا",
+      "translation_bh": "",
+      "translation_en": "cool[ness]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَرَدٍۢ",
+      "translation_bh": "",
+      "translation_en": "(is) hail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَارِدٌۭ",
+      "translation_bh": "",
+      "translation_en": "cool"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بارِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَارِدٍۢ",
+      "translation_bh": "",
+      "translation_en": "cool"
+    }
+  ]
+}

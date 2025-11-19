@@ -1,0 +1,1827 @@
+{
+  "description_bh": "",
+  "id": 6,
+  "lemmas": [
+    {
+      "description_bh": "Od ovog korijena nastaju glagoli i imenice koje se odnose na znanje i svijest\nعَلِمَ (ʿalima) = “znati” (glagol)\nعَالِم (ʿālim) = “znalac, onaj koji zna” (imenica)\nعِلْم (ʿilm) = “znanje” (imenica)\nPlural عَالَمِينَ = “svjetovi / sva stvorenja”.",
+      "lemma": "عالَم",
+      "translation_bh": "znati, biti svjestan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "translation_bh": "on je znao"
+    },
+    {
+      "description_bh": "opisuje Allahovo svojstvo",
+      "lemma": "عَلِيم",
+      "translation_bh": "Sveznajući, Onaj koji zna"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "translation_bh": "On je poučio / On je naučio"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "translation_bh": "znanje, spoznaja"
+    },
+    {
+      "description_bh": "يـ\tprefiks - 3. lice, jednina, muški rod, sadašnje vrijeme (prezent)\nتَعَلَّم\tform II (فَعَّلَ) refleksivni / intenzivni oblik\toznačava učenje ili sticanje znanja\nـُ\tsufiks - 3. lice, jednina, muški rod, indikativ",
+      "lemma": "يَتَعَلَّمُ",
+      "translation_bh": "on uči / on se uči / on stiče znanje"
+    },
+    {
+      "description_bh": "أَ prefiks čini komparativ / superlativ u formi af‘al (forma IV) “više / najviše”",
+      "lemma": "أَعْلَم",
+      "translation_bh": "znati više / najviše / nadmoćno znati"
+    },
+    {
+      "description_bh": "مَـ prefiks čini pasivni oblik (forma I pasiv)\nة - ženski rod",
+      "lemma": "مَعْلُومَة",
+      "translation_bh": "ono što je poznato / informacija / činjenica"
+    },
+    {
+      "description_bh": "عَلّ pojačani oblik korijena intenzivira značenje",
+      "lemma": "عَلّام",
+      "translation_bh": "veoma učen / sveznajući / učitelj"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِم",
+      "translation_bh": "učen / znalac / onaj koji zna"
+    },
+    {
+      "description_bh": "مَـ prefiks čini pasivni oblik (forma I pasiv)",
+      "lemma": "مَعْلُوم",
+      "translation_bh": "poznat / ono što je poznato / poznata stvar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلامَة",
+      "translation_bh": "znak / oznaka / simbol"
+    },
+    {
+      "description_bh": "أَ prefiks često koristi u komparativima ili u oblikovanju množine (forma IV ili af‘āl)",
+      "lemma": "أَعْلام",
+      "translation_bh": "znakovi / oznake / simboli"
+    },
+    {
+      "description_bh": "مَـ prefiks čini pasivni oblik (forma I pasiv)",
+      "lemma": "مُعَلَّم",
+      "translation_bh": "naučen / poučen / ono što je poučeno"
+    }
+  ],
+  "root": "علم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "عَالَمِينَ označava cijelu tvorevinu, sve svjetove i stvorenja",
+      "lemma": "عالَم",
+      "occurrences": 61,
+      "part_of_speech": "N",
+      "text": "ٱلْعَـٰلَمِينَ",
+      "translation_bh": "svjetovima",
+      "translation_en": "of the universe"
+    },
+    {
+      "description_bh": "يـ - označava 3. lice muškog roda, množina, prezent / sadašnje vrijeme\nعْلَم - korijen glagola \"znati”\nونَ - sufiks - 3. lice muškog roda, množina, indikativ (present tense)",
+      "lemma": "عَلِمَ",
+      "occurrences": 80,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُونَ",
+      "translation_bh": "oni znaju",
+      "translation_en": "they know"
+    },
+    {
+      "description_bh": "تـ - prefiks - 2. lice, muški rod, množina\nونَ - sufiks - 2. lice, muški rod, množina",
+      "lemma": "عَلِمَ",
+      "occurrences": 53,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُونَ",
+      "translation_bh": "vi znate",
+      "translation_en": "[you] know"
+    },
+    {
+      "description_bh": "يـ - označava 3. lice muškog roda, množina, prezent / sadašnje vrijeme\nعْلَم - korijen glagola \"znati”\nونَ - sufiks - 3. lice muškog roda, množina, indikativ (present tense)",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَعْلَمُونَ",
+      "translation_bh": "pa oni znaju",
+      "translation_en": "[thus] they will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 40,
+      "part_of_speech": "N",
+      "text": "عَلِيمٌۭ",
+      "translation_bh": "Sveznajući / sve dobro zna",
+      "translation_en": "(is) All-Knowing"
+    },
+    {
+      "description_bh": "أَ prefiks koristi se za formiranje komparativa / superlativa (forma IV af‘al)\nOvo je forma IV komparativ / superlativ, često se koristi za opisivanje Allahovog savršenog znanja.",
+      "lemma": "عَلِمَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "أَعْلَمُ",
+      "translation_bh": "Ja znam",
+      "translation_en": "[I] know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَلَّمَ",
+      "translation_bh": "I pouči / I poučo",
+      "translation_en": "And He taught"
+    },
+    {
+      "description_bh": "akuzativ (mansub) → “znanje” (direktni objekt)",
+      "lemma": "عِلْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عِلْمَ",
+      "translation_bh": "znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "تَ\tsufiks ličnog glagola, 2. lice, muški rod, jednina\t“ti si”\nنَا\tsufiks zamjenice, 1. lice množina\t“nas”",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَّمْتَنَآ ۖ",
+      "translation_bh": "Ti si nas poučio",
+      "translation_en": "You have taught us"
+    },
+    {
+      "description_bh": "ٱلْ → određeni član",
+      "lemma": "عَلِيم",
+      "occurrences": 28,
+      "part_of_speech": "N",
+      "text": "ٱلْعَلِيمُ",
+      "translation_bh": "Sveznajući / Onaj koji sve zna",
+      "translation_en": "(are) the All-Knowing"
+    },
+    {
+      "description_bh": "أَ prefiks forme أَفْعَلَ ili oznaka 1. lica u perfektnom glagolu",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَأَعْلَمُ",
+      "translation_bh": "i (samo) Ja znam",
+      "translation_en": "and I know"
+    },
+    {
+      "description_bh": "Glagol عَلِمَ u prošlom vremenu znači “on je znao”, ali:\nKada se koristi za Allaha, često se prevodi u sadašnje vrijeme (npr. “Allah zna”), iako je oblik prošli (perfekt).",
+      "lemma": "عَلِمَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "عَلِمَ",
+      "translation_bh": "on je znao / On zna",
+      "translation_en": "knew"
+    },
+    {
+      "description_bh": "تُمُ nastavak za 2. lice množine, muški rod \"vi ste\"",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَلِمْتُمُ",
+      "translation_bh": "vi ste znali / vama je poznato",
+      "translation_en": "you knew"
+    },
+    {
+      "description_bh": "يَـ prefiks koji označava 3. lice, muški rod u sadašnjem vremenu (on / oni) „on…“",
+      "lemma": "عَلِمَ",
+      "occurrences": 62,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُ",
+      "translation_bh": "zna / on zna",
+      "translation_en": "knows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 27,
+      "part_of_speech": "N",
+      "text": "عَلِيمٌۢ",
+      "translation_bh": "Sveznajući / sve dobro zna",
+      "translation_en": "(is) All-Knower"
+    },
+    {
+      "description_bh": "يُـ prefiks za 3. lice, množina, muški rod (sadašnje vrijeme) “oni…”\nونَ nastavak za množinu (oni)“oni”",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَلِّمُونَ",
+      "translation_bh": "oni uče / poučavaju (druge)",
+      "translation_en": "they teach"
+    },
+    {
+      "description_bh": "يُـ prefiks sadašnjeg vremena, 3. lice “on/on/oni”\nاَنِ sufiks za dvojinu (muški ili mješoviti rod) “dvojica”",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَلِّمَانِ",
+      "translation_bh": "njih dvojica uče / poučavaju",
+      "translation_en": "they both teach"
+    },
+    {
+      "description_bh": "فَ veznik “pa / zatim / tada”\nيَـ prefiks sadašnjeg vremena “oni…”\nتَعَلَّم glagolska osnova, oblik V (ta‘allama) “uče, stječu znanje”\nونَ sufiks množine, 3. lice muški rod “oni”",
+      "lemma": "يَتَعَلَّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَتَعَلَّمُونَ",
+      "translation_bh": "pa oni uče",
+      "translation_en": "But they learn"
+    },
+    {
+      "description_bh": "وَ veznik “i”\nيَـ prefiks sadašnjeg vremena “oni…”\nتَعَلَّم glagolska osnova, oblik V (ta‘allama) “uče, stječu znanje”\nونَ sufiks množine, 3. lice muški rod “oni”",
+      "lemma": "يَتَعَلَّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَعَلَّمُونَ",
+      "translation_bh": "i oni uče",
+      "translation_en": "And they learn"
+    },
+    {
+      "description_bh": "وا sufiks 3. lice množina muški rod “oni su”",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلِمُوا۟",
+      "translation_bh": "oni su znali",
+      "translation_en": "they knew"
+    },
+    {
+      "description_bh": "تَـ prefiks sadašnjeg vremena 2. lice, jednina, muški rod\nعَلِمْتَ = ti si znao\nسَتَعْلَمُ = ti ćeš znati",
+      "lemma": "عَلِمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَعْلَمْ",
+      "translation_bh": "ti znaš",
+      "translation_en": "you know"
+    },
+    {
+      "description_bh": "ٱلْعِلْمِ → “znanje” ali specifično znanje, često u Kur’anu se misli na znanje o vjeri, pravdi, uputi.",
+      "lemma": "عِلْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعِلْمِ ۙ",
+      "translation_bh": "znanja (genitiv)",
+      "translation_en": "the knowledge"
+    },
+    {
+      "description_bh": "Glagol je u sadašnjem vremenu, ali u Kur’anu se često prevodi i kao “On ih poučio” kada je kontekst učenja završen ili uopćeno znanje koje Allah daje.\nوَ veznik “i”\nيُـ prefiks sadašnjeg vremena 3. lice jednina muški rod → “on…”\nهُمُ sufiks zamjenice za objekt, množina “njih / ih”",
+      "lemma": "عَلَّمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيُعَلِّمُهُمُ",
+      "translation_bh": "i on ih poučava",
+      "translation_en": "and will teach them"
+    },
+    {
+      "description_bh": "أَ prefiks koristi se za formiranje komparativa / superlativa (forma IV af‘al)\nOvo je forma IV komparativ / superlativ, često se koristi za opisivanje Allahovog savršenog znanja.",
+      "lemma": "أَعْلَم",
+      "occurrences": 47,
+      "part_of_speech": "N",
+      "text": "أَعْلَمُ",
+      "translation_bh": "Ja znam",
+      "translation_en": "better knowing"
+    },
+    {
+      "description_bh": "لِـ\t“da / kako bismo / radi toga da”\tlam at-ta‘līl (لَامُ التَّعْلِيل) → označava svrhu, cilj\nنَـ\t“Mi”\tprefiks za 1. lice množine (mi)\nعْلَمَ\tglagol “znati” (perfektivni korijen, ali ovdje u subjunktivnom obliku)",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لِنَعْلَمَ",
+      "translation_bh": "da bi Mi znali / kako Bismo znali",
+      "translation_en": "that We make evident"
+    },
+    {
+      "description_bh": "لَـ\tčestica naglašavanja (lam at-tawkīd)\t“zaista / sigurno / doista”\nيَـ\tprefiks za 3. lice množine (oni) u sadašnjem vremenu\t“oni ...”\nعْلَمُ\tkorijen od ع ل م\tznačenje “znati”\nونَ\tnastavak za množinu (muški rod)\t“...oni”",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَعْلَمُونَ",
+      "translation_bh": "zaista oni znaju / sigurno će znati",
+      "translation_en": "surely know"
+    },
+    {
+      "description_bh": "وَ\tveznik\t“i”\nيُـ\tprefiks za 3. lice jednina muški rod (on) u sadašnjem vremenu\t“on ...”\nعَلِّم\tosnova glagola (obrazac II – عَلَّمَ)\t“poučiti / učiti nekoga”\nكُمُ\tsufiks (objektna zamjenica, 2. lice množine)\t“vas”\n\nglagol je u sadašnjem vremenu\nPrevodilac: koristi prošlo vrijeme da izrazi da se to već dešava / desilo (jer u trenutku objave to već jeste počelo).",
+      "lemma": "عَلَّمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُعَلِّمُكُمُ",
+      "translation_bh": "i on vas poučava",
+      "translation_en": "and teaches you"
+    },
+    {
+      "description_bh": "وَ\tveznik\t“i”\nيُعَلِّمُ\tsadašnje vrijeme, 3. lice jednina muški rod\t“On uči / poučava”\nكُمُ\tsufiks, 2. lice množina\t“vas”",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُعَلِّمُكُم",
+      "translation_bh": "i On vas uči / poučava vas",
+      "translation_en": "and teaches you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 33,
+      "part_of_speech": "N",
+      "text": "عَلِيمٌ",
+      "translation_bh": "Sveznajući / sve dobro zna",
+      "translation_en": "All-Knowing"
+    },
+    {
+      "description_bh": "فَ\tveznik\t“pa / onda”\nٱعْلَمُوا۟\tglagol\timperativ, 2. lice množina muški rod → “znajte / saznajte”",
+      "lemma": "عَلِمَ",
+      "occurrences": 17,
+      "part_of_speech": "V",
+      "text": "وَٱعْلَمُوٓا۟",
+      "translation_bh": "i znajte / pa znajte",
+      "translation_en": "and know"
+    },
+    {
+      "description_bh": "مَـ\tprefiks obrazca\tčini imenicu pasivnom\nعْلُومَ\tkorijen glagola u obliku pasiva\t“poznato / saznato”\n-ات\tsufiks množine\t“stvari / činjenice”\nٌ\ttanvin nominativa\toznačava množinu u nominativu (ako je u rečenici subjekat)",
+      "lemma": "مَعْلُومَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْلُومَـٰتٌۭ ۚ",
+      "translation_bh": "poznatim / stvari koje su poznate",
+      "translation_en": "well known"
+    },
+    {
+      "description_bh": "يَـ\tprefiks\toznačava 3. lice, muški rod, jednina u sadašnjem / budućem vremenu\nعْلَمْ\tkorijen (ع ل م)\tzna, poznavati\nـهُ\tsufiks\tobjekat “njega / to”",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَعْلَمْهُ",
+      "translation_bh": "zna / on zna to / on zna za njega",
+      "translation_en": "knows it"
+    },
+    {
+      "description_bh": "فَ\tčestica\t“pa / zatim / stoga” → povezuje sa prethodnim dijelom rečenice\nٱ\thamza (prikaz u Kur’anu)\tdio arapskog pravopisa, ne mijenja značenje\nاعْلَمُ\tkorijen u imperativu\t“znaj / saznaj”\nوٓا\tsufiks množine\toznačava 2. lice množina → “vi”",
+      "lemma": "عَلِمَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَٱعْلَمُوٓا۟",
+      "translation_bh": "onda znajte (vi)",
+      "translation_en": "then know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَّمَكُم",
+      "translation_bh": "On vas je poučio",
+      "translation_en": "He (has) taught you"
+    },
+    {
+      "description_bh": "ٱلْعِلْمِ → “znanje” ali specifično znanje, često u Kur’anu se misli na znanje o vjeri, pravdi, uputi.",
+      "lemma": "عِلْم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْعِلْمِ",
+      "translation_bh": "znanja (genitiv)",
+      "translation_en": "[the] knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَلَّمَهُۥ",
+      "translation_bh": "i nauči ga / njega",
+      "translation_en": "and taught him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمِهِۦٓ",
+      "translation_bh": "Njegovog znanja",
+      "translation_en": "His Knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱعْلَمْ",
+      "translation_bh": "I znaj",
+      "translation_en": "And know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُهُۥ ۗ",
+      "translation_bh": "on zna to (njega)",
+      "translation_en": "knows it"
+    },
+    {
+      "description_bh": "U Kur’anu, perfekt (prošlo vrijeme) ponekad se prevodi u sadašnjosti zbog specifičnog značenja konteksta:\n1. Opća ili univerzalna istina\n2. Naglašavanje učinjenog djela s trajnim efektom",
+      "lemma": "عَلَّمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَلَّمَهُ",
+      "translation_bh": "on ga je poučio / učio ga",
+      "translation_en": "(has) taught him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْعِلْمُ",
+      "translation_bh": "(to) znanje",
+      "translation_en": "[the] knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "وَيَعْلَمُ",
+      "translation_bh": "i On zna",
+      "translation_en": "And He knows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُعَلِّمُهُ",
+      "translation_bh": "I on ga poučava / on ga uči",
+      "translation_en": "And He will teach him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "عِلْمٌۭ",
+      "translation_bh": "(neko) znanje",
+      "translation_en": "(have some) knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٌۭ ۚ",
+      "translation_bh": "(neko) znanje",
+      "translation_en": "(any) knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعَلِّمُونَ",
+      "translation_bh": "vi poučavate",
+      "translation_en": "teaching"
+    },
+    {
+      "description_bh": "عِلْم → “znanje / saznanje”\nNema oblik množine عَالَمِينَ, množina za “znanje” je مَعْلُومَات ili ostaje kao nebrojivo عِلْم\nDakle, kada vidimo oblik عَالَمِينَ, gramatički to može biti samo množina imenice عَالَم, a ne od عِلْم.\nKontekst + množinski oblik + prijedlog li- → jasno ukazuje da se radi o svjetovima, ne o znanju",
+      "lemma": "عالَم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "لِّلْعَـٰلَمِينَ",
+      "translation_bh": "svjetovima / za svjetove",
+      "translation_en": "for the worlds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَلِيَعْلَمَ",
+      "translation_bh": "i da bi znao / kako bi znao",
+      "translation_en": "[and] so that makes evident"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَعْلَمِ",
+      "translation_bh": "(On) zna",
+      "translation_en": "made evident"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَعْلَمَ",
+      "translation_bh": "i zna (On)",
+      "translation_en": "and made evident"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "نَعْلَمُ",
+      "translation_bh": "mi znamo",
+      "translation_en": "we knew"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "عَلِيمًا",
+      "translation_bh": "Onaj koji sve zna / Sveznajući",
+      "translation_en": "All-Knowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "عَلِيمًۭا",
+      "translation_bh": "Onaj koji sve zna / Sveznajući",
+      "translation_en": "All-Knower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُوا۟",
+      "translation_bh": "vi znate",
+      "translation_en": "you know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَلِمَهُ",
+      "translation_bh": "da ga sazna / da bi znao / da bi bio obaviješten",
+      "translation_en": "surely would have known it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَلَّمَكَ",
+      "translation_bh": "i pučava te (On)",
+      "translation_en": "and taught you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُ ۚ",
+      "translation_bh": "(ti) znaš",
+      "translation_en": "know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "عِلْمٍ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "(any) knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعِلْمِهِۦ ۖ",
+      "translation_bh": "(sa) Svojim znanjem",
+      "translation_en": "with His Knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَّمْتُم",
+      "translation_bh": "vi ste poučili",
+      "translation_en": "you have taught"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعَلِّمُونَهُنَّ",
+      "translation_bh": "On vas naučio / (Vi poučavate ih)",
+      "translation_en": "you teach them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "عَلَّمَكُمُ",
+      "translation_bh": "(On) vas je naučio",
+      "translation_en": "has taught you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَٱعْلَمْ",
+      "translation_bh": "onda / pa znaj",
+      "translation_en": "then know that"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِيَعْلَمَ",
+      "translation_bh": "da zna / da bi (On) znao",
+      "translation_en": "that may make evident"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِتَعْلَمُوٓا۟",
+      "translation_bh": "da znate / kako biste saznali (vi)",
+      "translation_en": "so that you may know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱعْلَمُوٓا۟",
+      "translation_bh": "Znajte!",
+      "translation_en": "Know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلّام",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "عَلَّـٰمُ",
+      "translation_bh": "dobro znaš (onaj koji dobro zna sve)",
+      "translation_en": "(are the) Knower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَّمْتُكَ",
+      "translation_bh": "Ja sam te poučio",
+      "translation_en": "I taught you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَعْلَمَ",
+      "translation_bh": "I mi znamo",
+      "translation_en": "and we know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلِمْتَهُۥ ۚ",
+      "translation_bh": "Ti si ga znao / Ti si znao njega",
+      "translation_en": "You would have known it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُ",
+      "translation_bh": "(ti) znaš",
+      "translation_en": "You know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِأَعْلَمَ",
+      "translation_bh": "On najbolje poznaje",
+      "translation_en": "most knowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُهَآ",
+      "translation_bh": "on zna nju / to",
+      "translation_en": "knows them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُهَا",
+      "translation_bh": "On zna nju / to",
+      "translation_en": "He knows it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِم",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "عَـٰلِمُ",
+      "translation_bh": "Onaj koji sve u potpunosti zna",
+      "translation_en": "(He is) All-Knower"
+    },
+    {
+      "description_bh": "Tanvin (ً) označava neodređenu imenicu u akuzativu\nAko bi se koristio u nominativu: عِلْمٌ → znanje (subjekt)\nAko bi se koristio u genitivu: عِلْمٍ → znanja (posvojno / objekat prijedloga)",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمًا ۗ",
+      "translation_bh": "znanje",
+      "translation_en": "(in) knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالَم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِلْعَـٰلَمِينَ",
+      "translation_bh": "svjetovima / za svjetove",
+      "translation_en": "for the worlds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعُلِّمْتُم",
+      "translation_bh": "i poučeni ste (vi)",
+      "translation_en": "And you were taught"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُوٓا۟",
+      "translation_bh": "vi znate / vi ćete znati",
+      "translation_en": "knew"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْعَلِيمِ",
+      "translation_bh": "Sveznajućeg",
+      "translation_en": "the All-Knowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٍۢ ۚ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٍۢ ۗ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عِلْمٍ ۗ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "عِلْمٍۢ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعِلْمٍ",
+      "translation_bh": "sa znanjem",
+      "translation_en": "with knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعِلْمٍۢ ۖ",
+      "translation_bh": "sa znanjem",
+      "translation_en": "with knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَعْلَمُونَ",
+      "translation_bh": "da li znate (vi)",
+      "translation_en": "Do you know"
+    },
+    {
+      "description_bh": "Tanvin (ً) označava neodređenu imenicu u akuzativu\nAko bi se koristio u nominativu: عِلْمٌ → znanje (subjekt)\nAko bi se koristio u genitivu: عِلْمٍ → znanja (posvojno / objekat prijedloga)",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمًا ۚ",
+      "translation_bh": "znanje",
+      "translation_en": "(in) knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "عَلِيمٍۢ",
+      "translation_bh": "znan / učen",
+      "translation_en": "learned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "عِلْمُهَا",
+      "translation_bh": "njeno / to znanje",
+      "translation_en": "its knowledge"
+    },
+    {
+      "description_bh": "فَ\tveznik\t“pa / onda”\nٱعْلَمُوا۟\tglagol\timperativ, 2. lice množina muški rod → “znajte / saznajte”",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَٱعْلَمُوٓا۟",
+      "translation_bh": "i znajte / pa znajte",
+      "translation_en": "And know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُونَهُمُ",
+      "translation_bh": "vi ih poznajete / znate",
+      "translation_en": "(do) you know them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُهُمْ ۚ",
+      "translation_bh": "on ih zna (njih)",
+      "translation_en": "knows them"
+    },
+    {
+      "description_bh": "U Kur’anu se perfekt (fa‘ala) ponekad prevodi u sadašnjem ili opštem vremenu, zbog konteksta i značenja univerzalne istine.",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَلِمَ",
+      "translation_bh": "i On je znao",
+      "translation_en": "and He knows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَعْلَمَ",
+      "translation_bh": "a/i (ti) znaš",
+      "translation_en": "and you knew"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُوٓا۟",
+      "translation_bh": "oni znaju",
+      "translation_en": "they know"
+    },
+    {
+      "description_bh": "Rijec je u genitivu",
+      "lemma": "عالِم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "عَـٰلِمِ",
+      "translation_bh": "Onom Kome je poznato / Znalac",
+      "translation_en": "(the) Knower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُوا۟",
+      "translation_bh": "oni znaju",
+      "translation_en": "they know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُهُمْ ۖ",
+      "translation_bh": "ti znaš njih / ti ih poznaješ",
+      "translation_en": "you know them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَعْلَمُهُمْ ۚ",
+      "translation_bh": "(Mi) znamo njih / (Mi) poznajemo ih",
+      "translation_en": "[We] know them"
+    },
+    {
+      "description_bh": "لِ čestica koja označava “da bi / radi”",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَعْلَمُوا۟",
+      "translation_bh": "da biste znali (vi)",
+      "translation_en": "that you may know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعِلْمِهِۦ",
+      "translation_bh": "(sa) Svojim znanjem",
+      "translation_en": "(of) its knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعِلْمُ ۚ",
+      "translation_bh": "(to) znanje",
+      "translation_en": "the knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعِلْمِ",
+      "translation_bh": "sa znanjem",
+      "translation_en": "with the knowledge of Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٌ ۖ",
+      "translation_bh": "(neko) znanje",
+      "translation_en": "any knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٌۭ ۖ",
+      "translation_bh": "(neko) znanje",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُهَآ",
+      "translation_bh": "ti poznaješ to / nju",
+      "translation_en": "knowing it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "عَلِمْتَ",
+      "translation_bh": "ti si znao",
+      "translation_en": "you know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَعْلَمُ",
+      "translation_bh": "tebi je sigurno poznato",
+      "translation_en": "surely know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُعَلِّمُكَ",
+      "translation_bh": "i naučit će te (On)",
+      "translation_en": "and will teach you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِنُعَلِّمَهُۥ",
+      "translation_bh": "i kao bi ga poučili / i da ga poučimo (Mi)",
+      "translation_en": "that We might teach him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَعِلْمًۭا ۚ",
+      "translation_bh": "i znanje",
+      "translation_en": "and knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَّمَنِى",
+      "translation_bh": "(On) me naučio",
+      "translation_en": "has taught me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعَـٰلِمِينَ",
+      "translation_bh": "sa učenima / sa znalcima",
+      "translation_en": "learned"
+    },
+    {
+      "description_bh": "نَا\tsufiks 1. lice množina\tmi …\n\nPrevodi se cesto u sadašnjem vremenu \"Mi znamo\", da izrazimo:\n  1. Opću istinu ili stalnu činjenicu\n  2. Naglašavanje učinjenog djela koje ima efekt sada",
+      "lemma": "عَلِمَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "عَلِمْنَا",
+      "translation_bh": "Mi smo znali",
+      "translation_en": "we know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَلَّمْنَـٰهُ",
+      "translation_bh": "Mi smo ga podučili",
+      "translation_en": "We had taught him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَلِمْتُم",
+      "translation_bh": "vi ste znali",
+      "translation_en": "you know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَلَّمْتَنِى",
+      "translation_bh": "i naučio si me (Ti)",
+      "translation_en": "and taught me"
+    },
+    {
+      "description_bh": "وَ\tveznik\ti / a\nسَ\tprefiks budućeg vremena\t“će” → označava blisku buduću radnju\nيَ\tprefiks 3. lice jednina\ton …\nعَلْم\tkorijen glagola\tznati / saznati",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَسَيَعْلَمُ",
+      "translation_bh": "i znati će on / i saznat će",
+      "translation_en": "and will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "عِلْمُ",
+      "translation_bh": "znanje",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُهُمْ",
+      "translation_bh": "on ih zna (njih)",
+      "translation_en": "knows them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيَعْلَمُوٓا۟",
+      "translation_bh": "i da bi oni znali",
+      "translation_en": "and that they may know"
+    },
+    {
+      "description_bh": "مَ\tčini glagol pasivnim (oblik مَفْعُول)\nعْلُوم\tpoznato / saznato\nٌ\tnominativ (subjekt ili predikat)",
+      "lemma": "مَعْلُوم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مَّعْلُومٌۭ",
+      "translation_bh": "poznatu / ponzat / određenu",
+      "translation_en": "known"
+    },
+    {
+      "description_bh": "مَ\tprefiks obrasca مَفْعُول\tčini glagol pasivnim / imenica od glagola\nعْلُوم\tkorijen u pasivnom obrascu\tsaznato / poznato\nٍ\ttanvin genitiva\toznačava genitiv (posvojno / prijedložno)",
+      "lemma": "مَعْلُوم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مَّعْلُومٍۢ",
+      "translation_bh": "poznatog / ponzat / određenog",
+      "translation_en": "known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْلُوم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَعْلُومِ",
+      "translation_bh": "već određenog / poznatog",
+      "translation_en": "well-known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلامَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَلَـٰمَـٰتٍۢ ۚ",
+      "translation_bh": "a / i putokaze / znakove",
+      "translation_en": "And landmarks"
+    },
+    {
+      "description_bh": "ال\todređeni član\t“to / određeno”\nعِلْم\tkorijen imenice\tznanje / saznanje\nَ\tfatha / akuzativ\toznačava da je imenica u akuzativu (objekat)",
+      "lemma": "عِلْم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْعِلْمَ",
+      "translation_bh": "znanje (kao objekt radnje, akuzativ)",
+      "translation_en": "the knowledge"
+    },
+    {
+      "description_bh": "يَ\tprefiks sadašnjeg vremena\t3. lice jednina muški rod → “on …”\n(nema sufiksa)\t–\t3. lice jednina muški rod",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَعْلَمَ",
+      "translation_bh": "on zna / on će znati",
+      "translation_en": "he will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعَلِّمُهُۥ",
+      "translation_bh": "(on) poučava ga /  (on) njega uči",
+      "translation_en": "teaches him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتَعْلَمُوا۟",
+      "translation_bh": "i da bi ste znali (vi)",
+      "translation_en": "and that you may know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٌ ۚ",
+      "translation_bh": "(neko) znanje",
+      "translation_en": "any knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَعْلَمُوٓا۟",
+      "translation_bh": "da oni saznali",
+      "translation_en": "that they might know"
+    },
+    {
+      "description_bh": "وَ\tveznik\ti\nعَلَّمْ\tkorijen u obrascu II + perfekt\tučio / poučio\nنَـ\tsufiks 1. lice množina\tmi …\nهُ\tzamjenica 3. lice jednina muški rod\tnjega",
+      "lemma": "عَلَّمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَعَلَّمْنَـٰهُ",
+      "translation_bh": "i Mi ga naučismo / i poučili smo ga Mi",
+      "translation_en": "and We had taught him"
+    },
+    {
+      "description_bh": "Tanvin (ً) označava neodređenu imenicu u akuzativu\nAko bi se koristio u nominativu: عِلْمٌ → znanje (subjekt)\nAko bi se koristio u genitivu: عِلْمٍ → znanja (posvojno / objekat prijedloga)",
+      "lemma": "عِلْم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "عِلْمًۭا",
+      "translation_bh": "znanje",
+      "translation_en": "a knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُعَلِّمَنِ",
+      "translation_bh": "ti mene podučiš",
+      "translation_en": "you teach me"
+    },
+    {
+      "description_bh": "عُ → damma (u pasivnom perfektu)\nOvdje glagol عَلَّمَ stavljen u pasivni oblik perfekta → početni samoglasnik postaje u (damma)\nŠtaviše, šadda na ل → intenziv pasiva",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُلِّمْتَ",
+      "translation_bh": "ti (si) bio poučen",
+      "translation_en": "you have been taught"
+    },
+    {
+      "description_bh": "فَ\tveznik\t–\tuvodi slijed / posljedicu\nسَ\tčestica budućnosti\t–\toznačava buduću radnju\nيَ\tprefiks muḍāri‘\t3. lice\tsubjekat glagola = oni\nعْلَمُ\tkorijen glagola\t–\tradnja = znati / saznati\nونَ\tsufiks\t3. lice množina\tsubjekat množina = oni",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَسَيَعْلَمُونَ",
+      "translation_bh": "sigurno će (oni) saznati",
+      "translation_en": "then they will know"
+    },
+    {
+      "description_bh": "سَ\tjednostavno buduće\tسَيَعْلَمُونَ\t“oni će znati”\nلَ\tnaglašena budućnost / odlučnost\tلَتَعْلَمُنَّ\t“vi ćete sigurno znati / neizbježno ćete znati”\n\nلَ već označava buduće vrijeme i naglašava odlučnost.\n\nAko bismo dodali i سَ, bilo bi redundantno: سَلَتَعْلَمُنَّ – gramatički neispravno.",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَلَتَعْلَمُنَّ",
+      "translation_bh": "i vi ćete sigurno znati",
+      "translation_en": "and surely you will know"
+    },
+    {
+      "description_bh": "فَ\tveznik\t“pa / onda / zato” – povezuje rečenicu i pokazuje slijed događaja\nسَ\tprefiks budućeg vremena\t“će” – označava blisku buduću radnju\nتَ\tprefiks 2. lice množina muški rod (sadašnje vrijeme)\t“vi …” (subjekt glagola)\nعَلْم\tkorijen glagola (ع-ل-م)\t“znati / saznati”\nونَ\tsufiks 3. lice množina muški rod\t“oni” (u ovom slučaju spaja se s تَ da označi 2. lice množina)",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَسَتَعْلَمُونَ",
+      "translation_bh": "pa vi ćete saznati / uskoro ćete znati",
+      "translation_en": "Then you will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَـٰلِمِينَ",
+      "translation_bh": "Oni koji poznaju dobro",
+      "translation_en": "Well-Knowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَعِلْمًۭا",
+      "translation_bh": "i znanje",
+      "translation_en": "and knowledge"
+    },
+    {
+      "description_bh": "مَـ\tprefiks\tčini imenicu od korijena (forma ma- = predmet ili apstraktna imenica)\nمَـ\tnastavak / oblik\tdio tvorbe imenice, zajedno sa prefiksom daje „ma‘lūmāt“ = „informacije“\nـَٰتٍ\tsufiks\tmnožinski oblik imenice (feminin, množina) + kasus genitiv / indefinit → „informacije“ ili „podaci“",
+      "lemma": "مَعْلُومَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْلُومَـٰتٍ",
+      "translation_bh": "poznatim / poznate stvari",
+      "translation_en": "known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعَلِيمٌ",
+      "translation_bh": "Onaj koji sve zaista zna",
+      "translation_en": "surely, (is) All-Knowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٌۭ ۗ",
+      "translation_bh": "(neko) znanje",
+      "translation_en": "any knowledge"
+    },
+    {
+      "description_bh": "وَ\tveznik\ti\nيَ\tprefiks sadašnjeg vremena\t3. lice jednina muški rod (osnova za množinu)\nعَلْم\tkorijen glagola\tznati / saznati\nونَ\tsufiks 3. lice množina muški rod\toni",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَعْلَمُونَ",
+      "translation_bh": "i oni znaju / i oni će znati",
+      "translation_en": "and they will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُعْلَمَ",
+      "translation_bh": "kako bi se znalo / da bi se znalo",
+      "translation_en": "to make known"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلِمْتُمْ",
+      "translation_bh": "vi ste znali",
+      "translation_en": "you know"
+    },
+    {
+      "description_bh": "تـ - prefiks - 2. lice, muški rod, množina\nونَ - sufiks - 2. lice, muški rod, množina",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُونَ ۚ",
+      "translation_bh": "vi znate",
+      "translation_en": "you will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمِى",
+      "translation_bh": "znam ja / moje znanje",
+      "translation_en": "(do) I know"
+    },
+    {
+      "description_bh": "Iako gramatički oblik glagola lično može biti treće lice jednine, u kontekstu ajeta subjekt je množina: „oni“.",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَمَهُۥ",
+      "translation_bh": "on (oni) ga zna",
+      "translation_en": "know it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُلَمَـٰٓؤُا۟",
+      "translation_bh": "učeni",
+      "translation_en": "(the) scholars"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَلِيمٍ",
+      "translation_bh": "znan / učen",
+      "translation_en": "the All-Knower"
+    },
+    {
+      "description_bh": "Tanvin (ً) označava neodređenu imenicu u akuzativu\nAko bi se koristio u nominativu: عِلْمٌ → znanje (subjekt)\nAko bi se koristio u genitivu: عِلْمٍ → znanja (posvojno / objekat prijedloga)",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمًۭا ۖ",
+      "translation_bh": "znanje",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُلِّمْنَا",
+      "translation_bh": "mii smo poučeni",
+      "translation_en": "We have been taught"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمُهُمْ",
+      "translation_bh": "njihovo znanje",
+      "translation_en": "their knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَعْلَمُ",
+      "translation_bh": "dobro (sigurno) zna (On)",
+      "translation_en": "surely knows"
+    },
+    {
+      "description_bh": "Tanvin (ً) označava neodređenu imenicu u akuzativu\nAko bi se koristio u nominativu: عِلْمٌ → znanje (subjekt)\nAko bi se koristio u genitivu: عِلْمٍ → znanja (posvojno / objekat prijedloga)",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمًا",
+      "translation_bh": "znanje",
+      "translation_en": "(in) knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتَعْلَمَ",
+      "translation_bh": "i da bi ti znao",
+      "translation_en": "and that she would know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلِمْتُ",
+      "translation_bh": "ja znam",
+      "translation_en": "I know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَلِمُوٓا۟",
+      "translation_bh": "i / pa oni će saznati",
+      "translation_en": "Then they will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَعْلَمْ",
+      "translation_bh": "on zna",
+      "translation_en": "he know"
+    },
+    {
+      "description_bh": "يَ\tprefiks glagola\ttreće lice jednine muškog roda, sadašnje / buduće vrijeme → „On…“",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَيَعْلَمَنَّ",
+      "translation_bh": "zato / pa On sigurno zna",
+      "translation_en": "And Allah will surely make evident"
+    },
+    {
+      "description_bh": "وَ\tveznik\ti / a\nلَ\tnaglasna čestica\t“sigurno / zaista”\nيَ\tprefiks sadašnjeg vremena\t3. lice muški rod\nعَلْم\tkorijen glagola\tznati / saznati\nنَّ\tnaglasna čestica za potvrdu\t“zaista / sigurno”",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَلَيَعْلَمَنَّ",
+      "translation_bh": "a sigurno će znati / i zaista će saznati",
+      "translation_en": "and He will surely make evident"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَـٰلِمُونَ",
+      "translation_bh": "Oni koji znaju",
+      "translation_en": "those of knowledge"
+    },
+    {
+      "description_bh": "ال\todređeni član\t“to / određeno”\nعِلْم\tkorijen imenice\tznanje / saznanje\nَ\tfatha / akuzativ\toznačava da je imenica u akuzativu (objekat)",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعِلْمَ ۚ",
+      "translation_bh": "znanje (kao objekt radnje, akuzativ)",
+      "translation_en": "the knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْعَـٰلِمِينَ",
+      "translation_bh": "za one koji znaju",
+      "translation_en": "for those of knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عِلْمٍۢ ۖ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِعِلْمِهِۦ ۚ",
+      "translation_bh": "(sa) Svojim znanjem",
+      "translation_en": "with His knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعُلَمَـٰٓؤُا۟ ۗ",
+      "translation_bh": "oni koji znaju / učeni",
+      "translation_en": "those who have knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلِمَتِ",
+      "translation_bh": "ti si znala",
+      "translation_en": "know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٍۭ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "يـ - označava 3. lice muškog roda, množina, prezent / sadašnje vrijeme\nعْلَم - korijen glagola \"znati”\nونَ - sufiks - 3. lice muškog roda, množina, indikativ (present tense)",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَمُونَ ۗ",
+      "translation_bh": "oni znaju",
+      "translation_en": "know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَـٰلِمَ",
+      "translation_bh": "onaj koji zna",
+      "translation_en": "Knower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمٍۭ ۚ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "Riječ „كَٱلْأَعْلَـٰمِ“ možete prevesti kao „kao brda / kao veliki stupovi / kao znaci“ — dakle metafora za velike brodove na moru koje Bog stvara i pokreće.",
+      "lemma": "أَعْلام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَٱلْأَعْلَـٰمِ",
+      "translation_bh": "kao brda / veliki stupovi / pokazatelj",
+      "translation_en": "like [the] mountains"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عِلْمٍ ۖ",
+      "translation_bh": "(bilo kakvo) znanje / znanja",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعِلْمٌۭ",
+      "translation_bh": "zaista je on znak",
+      "translation_en": "surely (is) a knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَلَّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعَلَّمٌۭ",
+      "translation_bh": "poučen",
+      "translation_en": "One taught"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَعْلَمَ",
+      "translation_bh": "mi znamo / mi bismo znali",
+      "translation_en": "We make evident"
+    },
+    {
+      "description_bh": "فَ\tveznik\tpa / zatim\nعَلِمَ\tglagol, perfekt, 3. lice jednina muški rod\tznao je / saznao je",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَعَلِمَ",
+      "translation_bh": "pa On je znao",
+      "translation_en": "and He knew"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْلَمُوهُمْ",
+      "translation_bh": "vi ih znate / poznajete",
+      "translation_en": "you knew them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتُعَلِّمُونَ",
+      "translation_bh": "zar da vi učite / obavještavate",
+      "translation_en": "Will you acquaint"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَعْلَمُ",
+      "translation_bh": "i mi znamo",
+      "translation_en": "and We know"
+    },
+    {
+      "description_bh": "U Kur’anu, perfekt (prošlo vrijeme) ponekad se prevodi u sadašnjosti zbog specifičnog značenja konteksta:\n1. Opća ili univerzalna istina\n2. Naglašavanje učinjenog djela s trajnim efektom",
+      "lemma": "عَلَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَّمَهُۥ",
+      "translation_bh": "on ga je poučio / učio ga",
+      "translation_en": "Has taught him"
+    },
+    {
+      "description_bh": "ٱلْعِلْمِ → “znanje” ali specifično znanje, često u Kur’anu se misli na znanje o vjeri, pravdi, uputi.",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعِلْمِ ۚ",
+      "translation_bh": "znanja (genitiv)",
+      "translation_en": "knowledge"
+    },
+    {
+      "description_bh": "سَـ\tprefiks budućeg vremena\t“će” / označava buduću radnju\nيَ\tprefiks 3. lice jednina muški rod za sadašnje vrijeme\t“oni …” (u množini se spaja sa sufiksom)\nعَلْم\tkorijen glagola\t“znati / saznati”\nونَ\tsufiks 3. lice množina muški rod\t“oni”",
+      "lemma": "عَلِمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "سَيَعْلَمُونَ",
+      "translation_bh": "oni će znati / saznati",
+      "translation_en": "They will know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلَّمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "عَلَّمَ",
+      "translation_bh": "on poučava",
+      "translation_en": "He taught"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلِمْتُمُوهُنَّ",
+      "translation_bh": "vi ste ih poznavali",
+      "translation_en": "you know them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَّعْلَمُونَ",
+      "translation_bh": "dobro znate (vi)",
+      "translation_en": "you know"
+    },
+    {
+      "description_bh": "Tanvin (ً) označava neodređenu imenicu u akuzativu\nAko bi se koristio u nominativu: عِلْمٌ → znanje (subjekt)\nAko bi se koristio u genitivu: عِلْمٍ → znanja (posvojno / objekat prijedloga)",
+      "lemma": "عِلْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلْمًۢا",
+      "translation_bh": "znanje",
+      "translation_en": "(in) knowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَعْلَمُ",
+      "translation_bh": "Mi sigurno znamo",
+      "translation_en": "surely know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَعْلَمَ",
+      "translation_bh": "da bi znao (on)",
+      "translation_en": "That He may make evident"
+    },
+    {
+      "description_bh": "عَلِمَ\tkorijen glagola (ع-ل-م) u perfektu\t“znala / saznala”\nتْ\tsufiks 3. lice jednina ženski rod\tsubjekt je jednina ženski rod (نَفْسٌ)",
+      "lemma": "عَلِمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عَلِمَتْ",
+      "translation_bh": "(ona) zna / saznala je",
+      "translation_en": "Will know"
+    },
+    {
+      "description_bh": "يَ\tprefiks 3. lice jednina muški rod\t“on …”\nعَلَم\tkorijen glagola\t“zna / saznaje”",
+      "lemma": "عَلِمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْلَم",
+      "translation_bh": "On zna / On će znati",
+      "translation_en": "he know"
+    }
+  ]
+}

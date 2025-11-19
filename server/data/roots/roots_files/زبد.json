@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 987,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زَبَد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زبد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زَبَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَبَدًۭا",
+      "translation_bh": "",
+      "translation_en": "a foam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَبَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَبَدٌۭ",
+      "translation_bh": "",
+      "translation_en": "a foam"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَبَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلزَّبَدُ",
+      "translation_bh": "",
+      "translation_en": "the foam"
+    }
+  ]
+}

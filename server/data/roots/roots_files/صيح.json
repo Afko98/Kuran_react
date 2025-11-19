@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 508,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صَيْحَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صيح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صَيْحَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلصَّيْحَةُ",
+      "translation_bh": "",
+      "translation_en": "the thunderous blast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَيْحَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "صَيْحَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a shout"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَيْحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّيْحَةَ",
+      "translation_bh": "",
+      "translation_en": "the Blast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَيْحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَيْحَةٍ",
+      "translation_bh": "",
+      "translation_en": "shout"
+    }
+  ]
+}

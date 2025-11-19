@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1197,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خاضِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخْضَعْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خضع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خاضِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَـٰضِعِينَ",
+      "translation_bh": "",
+      "translation_en": "(in) humility"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخْضَعْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخْضَعْنَ",
+      "translation_bh": "",
+      "translation_en": "be soft"
+    }
+  ]
+}

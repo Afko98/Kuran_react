@@ -1,0 +1,486 @@
+{
+  "description_bh": "",
+  "id": 152,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَرَقْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرْقان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّقُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفْرِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِرْقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَفَرِّق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَفَرِّقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِراق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِرْق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارِقُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارِقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَرَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَقْنَا",
+      "translation_bh": "",
+      "translation_en": "We parted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرْقان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْفُرْقَانَ",
+      "translation_bh": "",
+      "translation_en": "and the Criterion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "فَرِيقٌۭ",
+      "translation_bh": "",
+      "translation_en": "a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "فَرِيقًۭا",
+      "translation_bh": "",
+      "translation_en": "a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَفَرِيقًۭا",
+      "translation_bh": "",
+      "translation_en": "So a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَفَرِيقًۭا",
+      "translation_bh": "",
+      "translation_en": "and a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُفَرِّقُونَ",
+      "translation_bh": "",
+      "translation_en": "[they] causes separation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّقُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نُفَرِّقُ",
+      "translation_bh": "",
+      "translation_en": "we make distinction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرْقان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْفُرْقَانِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the Criterion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرْقان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفُرْقَانَ ۗ",
+      "translation_bh": "",
+      "translation_en": "the Criterion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَفَرِيقًۭا",
+      "translation_bh": "",
+      "translation_en": "surely (is) a group "
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفَرَّقُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "be divided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفَرَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "became divided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَفَرَّقَا",
+      "translation_bh": "",
+      "translation_en": "they separate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّقُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُفَرِّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "they differentiate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱفْرُقْ",
+      "translation_bh": "",
+      "translation_en": "so (make a) separation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْفَرِيقَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(of) the two parties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَفَرَّقَ",
+      "translation_bh": "",
+      "translation_en": "then they will separate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّقُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَرَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "divide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرِيقًا",
+      "translation_bh": "",
+      "translation_en": "A group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفَرِيقًا",
+      "translation_bh": "",
+      "translation_en": "and a group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرْقان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرْقَانًۭا",
+      "translation_bh": "",
+      "translation_en": "a criterion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرْقان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفُرْقَانِ",
+      "translation_bh": "",
+      "translation_en": "(of) the criterion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْرَقُونَ",
+      "translation_bh": "",
+      "translation_en": "(who) are afraid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفْرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَفْرِيقًۢا",
+      "translation_bh": "",
+      "translation_en": "and (for) division"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرِيقٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِرْقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِرْقَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَفَرِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّتَفَرِّقُونَ",
+      "translation_bh": "",
+      "translation_en": "separate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَفَرِّقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّتَفَرِّقَةٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "different"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَقْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We have divided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِراق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِرَاقُ",
+      "translation_bh": "",
+      "translation_en": "(is) parting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَّقْتَ",
+      "translation_bh": "",
+      "translation_en": "You caused division"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرْقان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْفُرْقَانَ",
+      "translation_bh": "",
+      "translation_en": "the Criterion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِرْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِرْقٍۢ",
+      "translation_bh": "",
+      "translation_en": "part"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرِيقَانِ",
+      "translation_bh": "",
+      "translation_en": "(became) two parties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَفَرَّقُونَ",
+      "translation_bh": "",
+      "translation_en": "they will become separated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفَرِيقٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَفَرَّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "be divided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفَرَّقُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they became divided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُفْرَقُ",
+      "translation_bh": "",
+      "translation_en": "is made distinct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارِقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَارِقُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "part with them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِراق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفِرَاقُ",
+      "translation_bh": "",
+      "translation_en": "(is) the parting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فارِقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْفَـٰرِقَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those who separate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرْقًۭا",
+      "translation_bh": "",
+      "translation_en": "(by the) Criterion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفَرَّقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفَرَّقَ",
+      "translation_bh": "",
+      "translation_en": "became divided"
+    }
+  ]
+}

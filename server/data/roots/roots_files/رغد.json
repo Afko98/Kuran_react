@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 930,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَغَد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رغد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَغَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَغَدًا",
+      "translation_bh": "",
+      "translation_en": "freely"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَغَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَغَدًۭا",
+      "translation_bh": "",
+      "translation_en": "abundantly"
+    }
+  ]
+}

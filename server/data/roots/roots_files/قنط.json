@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 737,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قانِط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَنَطُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَنُوط",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قنط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قانِط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَـٰنِطِينَ",
+      "translation_bh": "",
+      "translation_en": "the despairing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَنَطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقْنَطُ",
+      "translation_bh": "",
+      "translation_en": "despairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَنَطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقْنَطُونَ",
+      "translation_bh": "",
+      "translation_en": "despair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَنَطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقْنَطُوا۟",
+      "translation_bh": "",
+      "translation_en": "despair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَنُوط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَنُوطٌۭ",
+      "translation_bh": "",
+      "translation_en": "(and) despairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَنَطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَنَطُوا۟",
+      "translation_bh": "",
+      "translation_en": "they have despaired"
+    }
+  ]
+}

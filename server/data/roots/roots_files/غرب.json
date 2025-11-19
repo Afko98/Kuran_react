@@ -1,0 +1,190 @@
+{
+  "description_bh": "",
+  "id": 413,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُراب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرَبَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرُوب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرْبِيَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرْبِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرابِيب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غرب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَغْرِبُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the west"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَغْرِبِ",
+      "translation_bh": "",
+      "translation_en": "and the west"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَغْرِبِ",
+      "translation_bh": "",
+      "translation_en": "the west"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُراب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غُرَابًۭا",
+      "translation_bh": "",
+      "translation_en": "a crow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُراب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغُرَابِ",
+      "translation_bh": "",
+      "translation_en": "[the] crow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَغَـٰرِبَهَا",
+      "translation_bh": "",
+      "translation_en": "and the western (parts) of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرَبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "غَرَبَت",
+      "translation_bh": "",
+      "translation_en": "it set"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَغْرِبَ",
+      "translation_bh": "",
+      "translation_en": "(the) setting place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرَبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَغْرُبُ",
+      "translation_bh": "",
+      "translation_en": "setting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرُوب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غُرُوبِهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "its setting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرْبِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَرْبِيَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of the) west"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرْبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَرْبِىِّ",
+      "translation_bh": "",
+      "translation_en": "western"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَرابِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَغَرَابِيبُ",
+      "translation_bh": "",
+      "translation_en": "and intensely black"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرُوب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغُرُوبِ",
+      "translation_bh": "",
+      "translation_en": "the setting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَغْرِبَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(of) the two Wests"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْرِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَغَـٰرِبِ",
+      "translation_bh": "",
+      "translation_en": "and the settings"
+    }
+  ]
+}

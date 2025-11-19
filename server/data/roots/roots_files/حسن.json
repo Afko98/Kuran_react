@@ -1,0 +1,777 @@
+{
+  "description_bh": "",
+  "id": 50,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسُنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَيَيْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِنَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حسن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِن",
+      "occurrences": 30,
+      "part_of_speech": "N",
+      "text": "ٱلْمُحْسِنِينَ",
+      "translation_bh": "",
+      "translation_en": "the good-doers (in reward)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِحْسَانًۭا",
+      "translation_bh": "",
+      "translation_en": "(be) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حُسْنًۭا",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِن",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مُحْسِنٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a good-doer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "أَحْسَنُ",
+      "translation_bh": "",
+      "translation_en": "(is) better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِإِحْسَـٰنٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "with kindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَحْسِنُوٓا۟ ۛ",
+      "translation_bh": "",
+      "translation_en": "And do good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "حَسَنَةًۭ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "حَسَنًۭا",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حُسْنُ",
+      "translation_bh": "",
+      "translation_en": "(is an) excellent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَنٍۢ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "حَسَنَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَحُسْنَ",
+      "translation_bh": "",
+      "translation_en": "and good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَحْسَنُوا۟",
+      "translation_bh": "",
+      "translation_en": "did good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "إِحْسَـٰنًۭا",
+      "translation_bh": "",
+      "translation_en": "(do) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَأَحْسَنُ",
+      "translation_bh": "",
+      "translation_en": "and more suitable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسُنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَسُنَ",
+      "translation_bh": "",
+      "translation_en": "And excellent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَنَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَحْسَنَ",
+      "translation_bh": "",
+      "translation_en": "with better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْحُسْنَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "the best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحْسِنُوا۟",
+      "translation_bh": "",
+      "translation_en": "you do good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَّأَحْسَنُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "and do good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِحْسَـٰنًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(be) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "أَحْسَنَ",
+      "translation_bh": "",
+      "translation_en": "did good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلْحَسَنَةِ",
+      "translation_bh": "",
+      "translation_en": "with a good deed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَسَنَةَ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحَسَنَةُ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْحُسْنَىٰ",
+      "translation_bh": "",
+      "translation_en": "the best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَحْسَنِهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "(the) best of it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْحَسَنَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "with the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَسَنًا ۚ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَيَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُسْنَيَيْنِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the two best (things)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِإِحْسَـٰنٍۢ",
+      "translation_bh": "",
+      "translation_en": "in righteousness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحُسْنَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "أَحْسَنَ",
+      "translation_bh": "",
+      "translation_en": "the best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَنًا",
+      "translation_bh": "",
+      "translation_en": "a good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَسَنًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "a good provision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَسَنَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the good deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَسَنَةِ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحُسْنُ",
+      "translation_bh": "",
+      "translation_en": "and a beautiful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَنَةٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) a good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَسَنَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَنًا ۗ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْإِحْسَـٰنِ",
+      "translation_bh": "",
+      "translation_en": "and the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِأَحْسَنِ",
+      "translation_bh": "",
+      "translation_en": "to (the) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحَسَنَةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَحْسَنُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّحْسِنُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) good-doers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَحْسَنتُمْ",
+      "translation_bh": "",
+      "translation_en": "you do good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِحْسَـٰنًا ۚ",
+      "translation_bh": "",
+      "translation_en": "(be) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسُنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَسُنَتْ",
+      "translation_bh": "",
+      "translation_en": "and good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْسِنُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) acquiring good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُسْنَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَحْسَنَ",
+      "translation_bh": "",
+      "translation_en": "and (the) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَنَـٰتٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "(with) good ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسُنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَسُنَتْ",
+      "translation_bh": "",
+      "translation_en": "Good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُسْنًۢا",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَحْسِن",
+      "translation_bh": "",
+      "translation_en": "And do good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُسْنًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "goodness to his parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْمُحْسِنِينَ",
+      "translation_bh": "",
+      "translation_en": "for the good-doers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْمُحْسِنَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "for the good-doers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُسْنُهُنَّ",
+      "translation_bh": "",
+      "translation_en": "their beauty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَسَنًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَحُسْنَ",
+      "translation_bh": "",
+      "translation_en": "surely, is a good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَسَنَةٌۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْسَنَهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "the best thereof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَحْسَنَ",
+      "translation_bh": "",
+      "translation_en": "and perfected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَلْحُسْنَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "(will be) the best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُسْنًا ۚ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْمُحْسِنِينَ",
+      "translation_bh": "",
+      "translation_en": "for the good-doers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِحْسَـٰنًا ۖ",
+      "translation_bh": "",
+      "translation_en": "kindness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْسِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُحْسِنِينَ",
+      "translation_bh": "",
+      "translation_en": "good-doers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْحُسْنَى",
+      "translation_bh": "",
+      "translation_en": "with the best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِحْسَـٰنِ",
+      "translation_bh": "",
+      "translation_en": "for the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِحْسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِحْسَـٰنُ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِسَانٌۭ",
+      "translation_bh": "",
+      "translation_en": "and beautiful ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِسَانٍۢ",
+      "translation_bh": "",
+      "translation_en": "beautiful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُسْنَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْحُسْنَىٰ",
+      "translation_bh": "",
+      "translation_en": "in the best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْسَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْسَنِ",
+      "translation_bh": "",
+      "translation_en": "(the) best"
+    }
+  ]
+}

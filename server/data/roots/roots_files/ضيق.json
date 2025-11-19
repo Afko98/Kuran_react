@@ -1,0 +1,126 @@
+{
+  "description_bh": "",
+  "id": 506,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ضَيِّق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضائِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَيْق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُضَيِّقُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ضيق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ضَيِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَيِّقًا",
+      "translation_bh": "",
+      "translation_en": "tight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَضَاقَتْ",
+      "translation_bh": "",
+      "translation_en": "and (was) straitened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ضَاقَتْ",
+      "translation_bh": "",
+      "translation_en": "(was) straitened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضائِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَضَآئِقٌۢ",
+      "translation_bh": "",
+      "translation_en": "and straitened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَضَاقَ",
+      "translation_bh": "",
+      "translation_en": "and felt straitened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضِيقُ",
+      "translation_bh": "",
+      "translation_en": "(is) straitened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَيْق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضَيْقٍۢ",
+      "translation_bh": "",
+      "translation_en": "distress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَيِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَيِّقًۭا",
+      "translation_bh": "",
+      "translation_en": "narrow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضاقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَضِيقُ",
+      "translation_bh": "",
+      "translation_en": "And straitens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُضَيِّقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُضَيِّقُوا۟",
+      "translation_bh": "",
+      "translation_en": "to distress"
+    }
+  ]
+}

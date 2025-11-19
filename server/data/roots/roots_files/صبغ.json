@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 934,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صِبْغَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِبْغ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صبغ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صِبْغَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِبْغَةَ",
+      "translation_bh": "",
+      "translation_en": "(The) color (religion)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِبْغَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِبْغَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "at coloring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِبْغ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَصِبْغٍۢ",
+      "translation_bh": "",
+      "translation_en": "and a relish"
+    }
+  ]
+}

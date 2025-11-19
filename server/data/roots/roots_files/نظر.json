@@ -1,0 +1,538 @@
+{
+  "description_bh": "",
+  "id": 84,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناظِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنظَرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنتَظِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَظِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنظَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناظِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نظر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَنظُرُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) looking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناظِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّـٰظِرِينَ",
+      "translation_bh": "",
+      "translation_en": "(to) those who see (it).'"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنظُرْنَا",
+      "translation_bh": "",
+      "translation_en": "Unzurna"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنظَرُ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يُنظَرُونَ",
+      "translation_bh": "",
+      "translation_en": "will be reprieved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 19,
+      "part_of_speech": "V",
+      "text": "يَنظُرُونَ",
+      "translation_bh": "",
+      "translation_en": "they waiting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "فَٱنظُرْ",
+      "translation_bh": "",
+      "translation_en": "Then look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَٱنظُرْ",
+      "translation_bh": "",
+      "translation_en": "and look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَنَظِرَةٌ",
+      "translation_bh": "",
+      "translation_en": "then postponement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَنظُرُ",
+      "translation_bh": "",
+      "translation_en": "look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَٱنظُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنظُرْنَا",
+      "translation_bh": "",
+      "translation_en": "and look (at) us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "ٱنظُرْ",
+      "translation_bh": "",
+      "translation_en": "See"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱنظُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنظُرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنتَظِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنتَظِرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَظِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُنتَظِرُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) those who wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنظَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنظِرْنِىٓ",
+      "translation_bh": "",
+      "translation_en": "Give me respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنظَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنظَرِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones given respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنتَظِرُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَٱنتَظِرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Then wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَظِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنتَظِرِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones who wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنظُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "And see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناظِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِلنَّـٰظِرِينَ",
+      "translation_bh": "",
+      "translation_en": "for the observers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَنظُرَ",
+      "translation_bh": "",
+      "translation_en": "then see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنظُرْ",
+      "translation_bh": "",
+      "translation_en": "(that) I may look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنظُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنظَرُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تُنظِرُونِ",
+      "translation_bh": "",
+      "translation_en": "give me respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّظَرَ",
+      "translation_bh": "",
+      "translation_en": "look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنَنظُرَ",
+      "translation_bh": "",
+      "translation_en": "so that We may see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنتَظِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنتَظِرُونَ",
+      "translation_bh": "",
+      "translation_en": "they wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنتَظِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنتَظِرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَيَنظُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنظَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّنظَرِينَ",
+      "translation_bh": "",
+      "translation_en": "given respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنظَرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَنظِرْنِىٓ",
+      "translation_bh": "",
+      "translation_en": "Then give me respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَلْيَنظُرْ",
+      "translation_bh": "",
+      "translation_en": "and let him see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنظَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنظَرُونَ",
+      "translation_bh": "",
+      "translation_en": "(to be) reprieved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنَنظُرُ",
+      "translation_bh": "",
+      "translation_en": "We will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنظُرِى",
+      "translation_bh": "",
+      "translation_en": "so look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناظِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَنَاظِرَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "and see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَنظُرْ",
+      "translation_bh": "",
+      "translation_en": "we will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنتَظِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنتَظِرْ",
+      "translation_bh": "",
+      "translation_en": "and wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَظِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّنتَظِرُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) waiting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنتَظِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنتَظِرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "awaits"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناظِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَـٰظِرِينَ",
+      "translation_bh": "",
+      "translation_en": "awaiting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنَظَرَ",
+      "translation_bh": "",
+      "translation_en": "Then he glanced"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَظْرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a glance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنظَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنظَرِينَ",
+      "translation_bh": "",
+      "translation_en": "given respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَظَرَ",
+      "translation_bh": "",
+      "translation_en": "a look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنظُرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنظُرُونَا",
+      "translation_bh": "",
+      "translation_en": "Wait for us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْتَنظُرْ",
+      "translation_bh": "",
+      "translation_en": "and let look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَظَرَ",
+      "translation_bh": "",
+      "translation_en": "he looked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناظِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَاظِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "looking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَظَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَلْيَنظُرِ",
+      "translation_bh": "",
+      "translation_en": "Then let look"
+    }
+  ]
+}

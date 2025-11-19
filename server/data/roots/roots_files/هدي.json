@@ -1,0 +1,1218 @@
+{
+  "description_bh": "",
+  "id": 25,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدْي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَهْدَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هادِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدِيَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "هدي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱهْدِنَا",
+      "translation_bh": "",
+      "translation_en": "Guide us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 24,
+      "part_of_speech": "N",
+      "text": "هُدًۭى",
+      "translation_bh": "",
+      "translation_en": "a Guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "بِٱلْهُدَىٰ",
+      "translation_bh": "",
+      "translation_en": "for [the] guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدي",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُهْتَدِينَ",
+      "translation_bh": "",
+      "translation_en": "guided-ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَيَهْدِى",
+      "translation_bh": "",
+      "translation_en": "and He guides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "هُدَاىَ",
+      "translation_bh": "",
+      "translation_en": "My Guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَهْتَدُونَ",
+      "translation_bh": "",
+      "translation_en": "(would be) guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَمُهْتَدُونَ",
+      "translation_bh": "",
+      "translation_en": "(will) surely be those who are guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "وَهُدًۭى",
+      "translation_bh": "",
+      "translation_en": "and a guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "هُدَى",
+      "translation_bh": "",
+      "translation_en": "(the) Guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهُدَىٰ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) the Guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَهْتَدُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "(then) you will be guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱهْتَدَوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "they are (rightly) guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 38,
+      "part_of_speech": "V",
+      "text": "يَهْدِى",
+      "translation_bh": "",
+      "translation_en": "He guides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "هَدَى",
+      "translation_bh": "",
+      "translation_en": "guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُهْتَدُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the guided ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْهُدَىٰ",
+      "translation_bh": "",
+      "translation_en": "and the Guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يَهْتَدُونَ",
+      "translation_bh": "",
+      "translation_en": "were they guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "ٱلْهُدَىٰ",
+      "translation_bh": "",
+      "translation_en": "[the] Guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "هَدَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "He guided you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهَدْىِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the sacrificial animal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهَدْىُ",
+      "translation_bh": "",
+      "translation_en": "the sacrificial animal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهَدْىِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the sacrificial animal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَهَدَى",
+      "translation_bh": "",
+      "translation_en": "And guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "هُدَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) their guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هَدَيْتَنَا",
+      "translation_bh": "",
+      "translation_en": "You (have) guided us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هُدِىَ",
+      "translation_bh": "",
+      "translation_en": "he is guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَهْدِيَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and to guide you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَهْدَى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "أَهْدَىٰ",
+      "translation_bh": "",
+      "translation_en": "(are) better guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَهَدَيْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We would have guided them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَهْدُوا۟",
+      "translation_bh": "",
+      "translation_en": "you guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِيَهْدِيَهُمْ",
+      "translation_bh": "",
+      "translation_en": "will guide them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَهْدِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "and will guide them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهَدْىَ",
+      "translation_bh": "",
+      "translation_en": "the sacrificial animals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هَدْيًۢا",
+      "translation_bh": "",
+      "translation_en": "(as) an offering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدْي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْهَدْىَ",
+      "translation_bh": "",
+      "translation_en": "and the (animals) for offering"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱهْتَدَيْتُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "you have been guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهُدَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "the guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُهْتَدِينَ",
+      "translation_bh": "",
+      "translation_en": "the guided-ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "هَدَىٰنَا",
+      "translation_bh": "",
+      "translation_en": "(has) guided us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهُدَى",
+      "translation_bh": "",
+      "translation_en": "the guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهُدَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) the Guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِنِى",
+      "translation_bh": "",
+      "translation_en": "guide me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هَدَىٰنِ ۚ",
+      "translation_bh": "",
+      "translation_en": "He has guided me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدي",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مُّهْتَدُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) rightly guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هَدَيْنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "We guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "هَدَيْنَا",
+      "translation_bh": "",
+      "translation_en": "We guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَهَدَيْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and We guided them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَبِهُدَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "so of their guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَهْتَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "that you may guide yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدي",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِٱلْمُهْتَدِينَ",
+      "translation_bh": "",
+      "translation_en": "of the guided-ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِيَهُۥ",
+      "translation_bh": "",
+      "translation_en": "He guides him "
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَهَدَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "surely He (would) have guided you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "هَدَىٰنِى",
+      "translation_bh": "",
+      "translation_en": "has guided me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "هَدَىٰ",
+      "translation_bh": "",
+      "translation_en": "He guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنَهْتَدِىَ",
+      "translation_bh": "",
+      "translation_en": "to receive guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَهْدِ",
+      "translation_bh": "",
+      "translation_en": "guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَهْدِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "guide them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَهْدِى",
+      "translation_bh": "",
+      "translation_en": "and You guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَهْدُونَ",
+      "translation_bh": "",
+      "translation_en": "(which) guides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَدِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُهْتَدِى ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) the guided one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هادِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هَادِىَ",
+      "translation_bh": "",
+      "translation_en": "guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هَدَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "He has guided them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَهْدِىٓ",
+      "translation_bh": "",
+      "translation_en": "guides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهِدِّىٓ",
+      "translation_bh": "",
+      "translation_en": "guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُهْدَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "he is guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَهْدِى",
+      "translation_bh": "",
+      "translation_en": "guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "ٱهْتَدَىٰ",
+      "translation_bh": "",
+      "translation_en": "(is) guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَهْتَدِى",
+      "translation_bh": "",
+      "translation_en": "(he is) guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هاد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "هَادٍ",
+      "translation_bh": "",
+      "translation_en": "(is) a guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَهْدِىٓ",
+      "translation_bh": "",
+      "translation_en": "and guides"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَهَدَى",
+      "translation_bh": "",
+      "translation_en": "surely, He would have guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هاد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "هَادٍۢ",
+      "translation_bh": "",
+      "translation_en": "guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَهَدَيْنَـٰكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "surely we would have guided you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِيهِمُ",
+      "translation_bh": "",
+      "translation_en": "Allah will guide them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَهَدَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "and guided him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْهُدَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُهْتَدِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the guided one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِيَنِ",
+      "translation_bh": "",
+      "translation_en": "will guide me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْتَدُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they will be guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَهْدِكَ",
+      "translation_bh": "",
+      "translation_en": "I will guide you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱهْتَدَوْا۟",
+      "translation_bh": "",
+      "translation_en": "accept guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هُدًۭى ۗ",
+      "translation_bh": "",
+      "translation_en": "(in) guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَهَدَىٰ",
+      "translation_bh": "",
+      "translation_en": "and guided (him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَهْدِيهِ",
+      "translation_bh": "",
+      "translation_en": "and will guide him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَهُدُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And they were guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هَدَىٰكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "He has guided you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَهَادِ",
+      "translation_bh": "",
+      "translation_en": "(is) surely (the) Guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَهْتَدُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "you will be guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هادِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هَادِيًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a Guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "سَيَهْدِينِ",
+      "translation_bh": "",
+      "translation_en": "He will guide me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِينِ",
+      "translation_bh": "",
+      "translation_en": "guides me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِهَدِيَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a gift"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِهَدِيَّتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "in your gift"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَهْتَدِىٓ",
+      "translation_bh": "",
+      "translation_en": "whether she will be guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "guides you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَهُدًۭى",
+      "translation_bh": "",
+      "translation_en": "(is) surely a guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هادِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِهَـٰدِى",
+      "translation_bh": "",
+      "translation_en": "guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِيَنِى",
+      "translation_bh": "",
+      "translation_en": "will guide me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَهْدِيَنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "We will surely, guide them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِهَـٰدِ",
+      "translation_bh": "",
+      "translation_en": "can guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هُدَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "its guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هُدًى",
+      "translation_bh": "",
+      "translation_en": "guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱهْتَدَيْتُ",
+      "translation_bh": "",
+      "translation_en": "I am guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱهْدُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "then lead them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَهَدَيْنَـٰهُمَا",
+      "translation_bh": "",
+      "translation_en": "And We guided both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱهْدِنَآ",
+      "translation_bh": "",
+      "translation_en": "and guide us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هَدَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "Allah has guided them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَهْدِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "I guide you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَهْدِكُمْ",
+      "translation_bh": "",
+      "translation_en": "I will guide you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَهَدَيْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We guided them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّهْدِى",
+      "translation_bh": "",
+      "translation_en": "We guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَهْدِىٓ",
+      "translation_bh": "",
+      "translation_en": "surely guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَهْدَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَهْدَىٰ",
+      "translation_bh": "",
+      "translation_en": "better guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هُدًۭى ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدِيهِ",
+      "translation_bh": "",
+      "translation_en": "will guide him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْتَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "they (are) guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيَهْدِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "He will guide them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْهُدَى ۙ",
+      "translation_bh": "",
+      "translation_en": "(of) the guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَهْدِيَكَ",
+      "translation_bh": "",
+      "translation_en": "and guide you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُهْتَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّهْتَدٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) a guided one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَهْدُونَنَا",
+      "translation_bh": "",
+      "translation_en": "guide us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَهْدَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَهْدَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "better guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "هَدَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "guided him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَهْدِيَكَ",
+      "translation_bh": "",
+      "translation_en": "And I will guide you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَهَدَىٰ",
+      "translation_bh": "",
+      "translation_en": "then guided"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَهَدَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And shown him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُدًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَلْهُدَىٰ",
+      "translation_bh": "",
+      "translation_en": "(is) the guidance"
+    }
+  ]
+}

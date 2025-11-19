@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 845,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَحِيض",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحِضْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حيض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَحِيض",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَحِيضِ ۖ",
+      "translation_bh": "",
+      "translation_en": "[the] menstruation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحِيض",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَحِيضِ",
+      "translation_bh": "",
+      "translation_en": "the menstruation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحِضْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحِضْنَ ۚ",
+      "translation_bh": "",
+      "translation_en": "[they] menstruated"
+    }
+  ]
+}

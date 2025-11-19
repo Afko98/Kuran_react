@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1099,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَطْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُطَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رطب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَطْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَطْبٍۢ",
+      "translation_bh": "",
+      "translation_en": "moist"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُطَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُطَبًۭا",
+      "translation_bh": "",
+      "translation_en": "fresh dates"
+    }
+  ]
+}

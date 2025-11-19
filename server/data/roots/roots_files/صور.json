@@ -1,0 +1,126 @@
+{
+  "description_bh": "",
+  "id": 416,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صُرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَوَّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُورَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَوِّر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صُرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَصُرْهُنَّ",
+      "translation_bh": "",
+      "translation_en": "and incline them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَوَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصَوِّرُكُمْ",
+      "translation_bh": "",
+      "translation_en": "shapes you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُور",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلصُّورِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the trumpet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَوَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَوَّرْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "We fashioned you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُور",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلصُّورِ",
+      "translation_bh": "",
+      "translation_en": "the trumpet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَوَّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَصَوَّرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and He formed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُورَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُوَرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your forms"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَوِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُصَوِّرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Fashioner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُورَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُوَرَكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your forms"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُورَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُورَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "form"
+    }
+  ]
+}

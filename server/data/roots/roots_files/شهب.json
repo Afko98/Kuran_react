@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 819,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شِهاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُهُب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شهب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شِهاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شِهَابٌۭ",
+      "translation_bh": "",
+      "translation_en": "a burning flame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِهاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِشِهَابٍۢ",
+      "translation_bh": "",
+      "translation_en": "a torch"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُهُب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشُهُبًۭا",
+      "translation_bh": "",
+      "translation_en": "and flaming fires"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِهاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شِهَابًۭا",
+      "translation_bh": "",
+      "translation_en": "a flaming fire"
+    }
+  ]
+}

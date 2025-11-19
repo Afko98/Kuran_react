@@ -1,0 +1,310 @@
+{
+  "description_bh": "",
+  "id": 201,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طابَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُوبَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طيب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "طَيِّبَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "(the) good things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "طَيِّبًۭا",
+      "translation_bh": "",
+      "translation_en": "(and) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَةً ۖ",
+      "translation_bh": "",
+      "translation_en": "pure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّيِّبِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلطَّيِّبِ ۖ",
+      "translation_bh": "",
+      "translation_en": "with the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طَابَ",
+      "translation_bh": "",
+      "translation_en": "seems suitable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طِبْنَ",
+      "translation_bh": "",
+      "translation_en": "they remit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَـٰتٍ",
+      "translation_bh": "",
+      "translation_en": "good things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّيِّبَـٰتُ ۙ",
+      "translation_bh": "",
+      "translation_en": "the good things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّيِّبَـٰتُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the good things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طَيِّبًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلطَّيِّبُ",
+      "translation_bh": "",
+      "translation_en": "and the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلطَّيِّبَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the pure things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلطَّيِّبُ",
+      "translation_bh": "",
+      "translation_en": "[the] pure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلطَّيِّبَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the pure things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلطَّيِّبِ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "طَيِّبَةًۭ",
+      "translation_bh": "",
+      "translation_en": "blessed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُوبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طُوبَىٰ",
+      "translation_bh": "",
+      "translation_en": "blessedness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَةٍ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبِينَ ۙ",
+      "translation_bh": "",
+      "translation_en": "(when they are) pure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلطَّيِّبَـٰتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the good things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلطَّيِّبَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "And good women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلطَّيِّبِينَ",
+      "translation_bh": "",
+      "translation_en": "(are) for good men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلطَّيِّبُونَ",
+      "translation_bh": "",
+      "translation_en": "and good men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلطَّيِّبَـٰتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) for good women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(and) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طِبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you have done well"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَيِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَيِّبَـٰتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your good things"
+    }
+  ]
+}

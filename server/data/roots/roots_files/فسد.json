@@ -1,0 +1,265 @@
+{
+  "description_bh": "",
+  "id": 200,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَسَدَتِ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فسد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تُفْسِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "spread corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُفْسِدُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the ones who spread corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُفْسِدُونَ",
+      "translation_bh": "",
+      "translation_en": "and [they] spread corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُفْسِدُ",
+      "translation_bh": "",
+      "translation_en": "will spread corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مُفْسِدِينَ",
+      "translation_bh": "",
+      "translation_en": "spreading corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُفْسِدَ",
+      "translation_bh": "",
+      "translation_en": "to spread corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْفَسَادَ",
+      "translation_bh": "",
+      "translation_en": "[the] corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُفْسِدَ",
+      "translation_bh": "",
+      "translation_en": "the corrupter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَسَدَتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّفَسَدَتِ",
+      "translation_bh": "",
+      "translation_en": "certainly (would have) corrupted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْمُفْسِدِينَ",
+      "translation_bh": "",
+      "translation_en": "of the corrupters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَسَادٍۢ",
+      "translation_bh": "",
+      "translation_en": "(for) spreading corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَسَادًا",
+      "translation_bh": "",
+      "translation_en": "spreading corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَسَادًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "spreading corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلْمُفْسِدِينَ",
+      "translation_bh": "",
+      "translation_en": "the corrupters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُفْسِدُوا۟",
+      "translation_bh": "",
+      "translation_en": "so that they cause corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفَسَادٌۭ",
+      "translation_bh": "",
+      "translation_en": "and corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَسَادِ",
+      "translation_bh": "",
+      "translation_en": "the corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنُفْسِدَ",
+      "translation_bh": "",
+      "translation_en": "that we cause corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُفْسِدُونَ",
+      "translation_bh": "",
+      "translation_en": "spread corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتُفْسِدُنَّ",
+      "translation_bh": "",
+      "translation_en": "Surely you will cause corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُفْسِدُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) corrupters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَسَدَتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَفَسَدَتَا ۚ",
+      "translation_bh": "",
+      "translation_en": "surely they (would) have been ruined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَسَدَتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَفَسَدَتِ",
+      "translation_bh": "",
+      "translation_en": "surely (would) have been corrupted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَفْسَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفْسَدُوهَا",
+      "translation_bh": "",
+      "translation_en": "they ruin it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَساد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَسَادُ",
+      "translation_bh": "",
+      "translation_en": "the corruption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُفْسِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلْمُفْسِدِينَ",
+      "translation_bh": "",
+      "translation_en": "like those who spread corruption"
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 911,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غَسَق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَسّاق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غاسِق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غسق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غَسَق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَسَقِ",
+      "translation_bh": "",
+      "translation_en": "(the) darkness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَسّاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَغَسَّاقٌۭ",
+      "translation_bh": "",
+      "translation_en": "and purulence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَسّاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَغَسَّاقًۭا",
+      "translation_bh": "",
+      "translation_en": "and purulence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غاسِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَاسِقٍ",
+      "translation_bh": "",
+      "translation_en": "(of) darkness"
+    }
+  ]
+}

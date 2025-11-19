@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 1041,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَدُعُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دعع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَدُعُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُدَعُّونَ",
+      "translation_bh": "",
+      "translation_en": "they will be thrust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَعًّا",
+      "translation_bh": "",
+      "translation_en": "(with) a thrust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدُعُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدُعُّ",
+      "translation_bh": "",
+      "translation_en": "repulses"
+    }
+  ]
+}

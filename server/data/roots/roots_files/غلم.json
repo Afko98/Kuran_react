@@ -1,0 +1,79 @@
+{
+  "description_bh": "",
+  "id": 494,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غلم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "غُلَـٰمٌۭ",
+      "translation_bh": "",
+      "translation_en": "a son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غُلَـٰمٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) a boy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِغُلَـٰمٍ",
+      "translation_bh": "",
+      "translation_en": "of a boy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "غُلَـٰمًۭا",
+      "translation_bh": "",
+      "translation_en": "a boy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغُلَـٰمُ",
+      "translation_bh": "",
+      "translation_en": "the boy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِغُلَـٰمَيْنِ",
+      "translation_bh": "",
+      "translation_en": "for two orphan boys"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُلام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غِلْمَانٌۭ",
+      "translation_bh": "",
+      "translation_en": "boys"
+    }
+  ]
+}

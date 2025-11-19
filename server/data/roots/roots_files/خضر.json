@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 649,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَضِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُضْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْضَرَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْضَر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خضر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَضِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَضِرًۭا",
+      "translation_bh": "",
+      "translation_en": "green plant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُضْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "خُضْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "green"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُضْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خُضْرًۭا",
+      "translation_bh": "",
+      "translation_en": "green"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخْضَرَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُخْضَرَّةً ۗ",
+      "translation_bh": "",
+      "translation_en": "green"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْضَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَخْضَرِ",
+      "translation_bh": "",
+      "translation_en": "[the] green "
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُضْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خُضْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "green"
+    }
+  ]
+}

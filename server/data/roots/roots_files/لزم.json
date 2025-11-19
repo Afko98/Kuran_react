@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 811,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَلْزَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِزام",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لزم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَلْزَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنُلْزِمُكُمُوهَا",
+      "translation_bh": "",
+      "translation_en": "should We compel you (to accept) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْزَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْزَمْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We have fastened to him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِزام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِزَامًۭا",
+      "translation_bh": "",
+      "translation_en": "an obligation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِزام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِزَامًۢا",
+      "translation_bh": "",
+      "translation_en": "the inevitable (punishment)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْزَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَلْزَمَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and made them adhere"
+    }
+  ]
+}

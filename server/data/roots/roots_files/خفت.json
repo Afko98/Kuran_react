@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1000,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تُخافِتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخافَتُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خفت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تُخافِتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُخَافِتْ",
+      "translation_bh": "",
+      "translation_en": "be silent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخافَتُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَخَـٰفَتُونَ",
+      "translation_bh": "",
+      "translation_en": "They are murmuring"
+    }
+  ]
+}

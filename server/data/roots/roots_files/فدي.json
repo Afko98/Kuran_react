@@ -1,0 +1,135 @@
+{
+  "description_bh": "",
+  "id": 485,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تُفادُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِدْيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَدَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَدَيْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِداء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فدي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تُفادُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُفَـٰدُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "you ransom them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِدْيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فِدْيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a ransom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِدْيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَفِدْيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "then a ransom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱفْتَدَتْ",
+      "translation_bh": "",
+      "translation_en": "she ransoms"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱفْتَدَىٰ",
+      "translation_bh": "",
+      "translation_en": "he offered as ransom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَفْتَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "to ransom themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَٱفْتَدَتْ",
+      "translation_bh": "",
+      "translation_en": "it (would) seek to ransom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَٱفْتَدَوْا۟",
+      "translation_bh": "",
+      "translation_en": "surely they would offer ransom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَدَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَفَدَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And We ransomed him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِداء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فِدَآءً",
+      "translation_bh": "",
+      "translation_en": "ransom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "افْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفْتَدِى",
+      "translation_bh": "",
+      "translation_en": "he (could be) ransomed"
+    }
+  ]
+}

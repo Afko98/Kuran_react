@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 1019,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "هَمَزَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَمّاز",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُمَزَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "همز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "هَمَزَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هَمَزَٰتِ",
+      "translation_bh": "",
+      "translation_en": "(the) suggestions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هَمّاز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هَمَّازٍۢ",
+      "translation_bh": "",
+      "translation_en": "Defamer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "هُمَزَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هُمَزَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "slanderer"
+    }
+  ]
+}

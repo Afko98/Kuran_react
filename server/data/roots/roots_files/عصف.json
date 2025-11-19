@@ -1,0 +1,89 @@
+{
+  "description_bh": "",
+  "id": 689,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عاصِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاصِفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصْف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عصف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عاصِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَاصِفٌۭ",
+      "translation_bh": "",
+      "translation_en": "stormy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاصِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَاصِفٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "stormy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاصِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَاصِفَةًۭ",
+      "translation_bh": "",
+      "translation_en": "forcefully"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَصْفِ",
+      "translation_bh": "",
+      "translation_en": "husk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاصِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْعَـٰصِفَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "And the winds that blow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَصْفًۭا",
+      "translation_bh": "",
+      "translation_en": "violently"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَعَصْفٍۢ",
+      "translation_bh": "",
+      "translation_en": "like straw"
+    }
+  ]
+}

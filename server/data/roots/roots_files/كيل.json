@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 458,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَيْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِكْيال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اكْتالُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كالُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كيل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَيْل",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْكَيْلَ",
+      "translation_bh": "",
+      "translation_en": "[the] measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِكْيال",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمِكْيَالَ",
+      "translation_bh": "",
+      "translation_en": "(from) the measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَيْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كَيْلَ",
+      "translation_bh": "",
+      "translation_en": "measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَيْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكَيْلُ",
+      "translation_bh": "",
+      "translation_en": "the measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اكْتالُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَكْتَلْ",
+      "translation_bh": "",
+      "translation_en": "(that) we will get measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَيْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَيْلٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a measurement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كالُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كِلْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اكْتالُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱكْتَالُوا۟",
+      "translation_bh": "",
+      "translation_en": "they take a measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كالُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَالُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "they give by measure (to) them"
+    }
+  ]
+}

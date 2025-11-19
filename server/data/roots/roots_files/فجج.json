@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1012,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَجّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فجج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَجّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فِجَاجًۭا",
+      "translation_bh": "",
+      "translation_en": "broad passes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَجّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَجٍّ",
+      "translation_bh": "",
+      "translation_en": "mountain highway"
+    }
+  ]
+}

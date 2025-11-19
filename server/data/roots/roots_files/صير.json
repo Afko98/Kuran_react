@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 310,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَصِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصِيرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صير",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَصِير",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "ٱلْمَصِيرُ",
+      "translation_bh": "",
+      "translation_en": "(is) the destination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَصِيرًا",
+      "translation_bh": "",
+      "translation_en": "destination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَصِيرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your destination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَصِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "and destination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَصِيرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَصِيرُ",
+      "translation_bh": "",
+      "translation_en": "reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَصِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "(is the) destination"
+    }
+  ]
+}

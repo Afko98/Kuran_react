@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 778,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فاتَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَوْت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفاوُت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فوت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فاتَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَاتَكُمْ",
+      "translation_bh": "",
+      "translation_en": "escaped you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَوْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَوْتَ",
+      "translation_bh": "",
+      "translation_en": "escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَفاوُت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَفَـٰوُتٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "fault"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "description_bh": "",
+  "id": 24,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْتُوب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اكْتَتَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتابِي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كتب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبُ",
+      "translation_bh": "",
+      "translation_en": "(is) the book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 74,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبَ",
+      "translation_bh": "",
+      "translation_en": "the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَكْتُبُونَ",
+      "translation_bh": "",
+      "translation_en": "write"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَتَبَتْ",
+      "translation_bh": "",
+      "translation_en": "have written"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 73,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبِ",
+      "translation_bh": "",
+      "translation_en": "the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبٌۭ",
+      "translation_bh": "",
+      "translation_en": "a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبَ",
+      "translation_bh": "",
+      "translation_en": "(the) Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبَ ۗ",
+      "translation_bh": "",
+      "translation_en": "the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبِ ۙ",
+      "translation_bh": "",
+      "translation_en": "the Book "
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "وَٱلْكِتَـٰبِ",
+      "translation_bh": "",
+      "translation_en": "and the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "كُتِبَ",
+      "translation_bh": "",
+      "translation_en": "Prescribed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "كَتَبَ",
+      "translation_bh": "",
+      "translation_en": "has ordained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱكْتُبُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "then write it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَكْتُب",
+      "translation_bh": "",
+      "translation_en": "And let write"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَاتِبٌۢ",
+      "translation_bh": "",
+      "translation_en": "a scribe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَاتِبٌ",
+      "translation_bh": "",
+      "translation_en": "a scribe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْتُبَ",
+      "translation_bh": "",
+      "translation_en": "he writes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَكْتُبْ",
+      "translation_bh": "",
+      "translation_en": "So let him write"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَكْتُبُوهُ",
+      "translation_bh": "",
+      "translation_en": "you write it "
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَكْتُبُوهَا ۗ",
+      "translation_bh": "",
+      "translation_en": "you write it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَاتِبٌۭ",
+      "translation_bh": "",
+      "translation_en": "(the) scribe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَاتِبًۭا",
+      "translation_bh": "",
+      "translation_en": "a scribe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَكُتُبِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and His Books"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبِ",
+      "translation_bh": "",
+      "translation_en": "(the) Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱكْتُبْنَا",
+      "translation_bh": "",
+      "translation_en": "then write us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِٱلْكِتَـٰبِ",
+      "translation_bh": "",
+      "translation_en": "in (reciting) the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبًۭا",
+      "translation_bh": "",
+      "translation_en": "(at a) decree"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَنَكْتُبُ",
+      "translation_bh": "",
+      "translation_en": "We will record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "كَتَبْنَا",
+      "translation_bh": "",
+      "translation_en": "(had) decreed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَتَبْتَ",
+      "translation_bh": "",
+      "translation_en": "have You ordained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْتُبُ",
+      "translation_bh": "",
+      "translation_en": "records"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكِتَـٰبٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَكَتَبْنَا",
+      "translation_bh": "",
+      "translation_en": "And We ordained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِكِتَـٰبٍۢ",
+      "translation_bh": "",
+      "translation_en": "a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَٱكْتُبْ",
+      "translation_bh": "",
+      "translation_en": "And ordain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَأَكْتُبُهَا",
+      "translation_bh": "",
+      "translation_en": "So I will ordain it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَكْتُوب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَكْتُوبًا",
+      "translation_bh": "",
+      "translation_en": "written"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْكِتَـٰبَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبُ",
+      "translation_bh": "",
+      "translation_en": "(was) a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كِتَابٌۭ",
+      "translation_bh": "",
+      "translation_en": "prescribed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبَكَ",
+      "translation_bh": "",
+      "translation_en": "your record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their records"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِتَابِ",
+      "translation_bh": "",
+      "translation_en": "the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "a Record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰتِبُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) Recorders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْكُتُبِ ۚ",
+      "translation_bh": "",
+      "translation_en": "for records"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبٍ ۚ",
+      "translation_bh": "",
+      "translation_en": "a Record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَكَاتِبُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "then give them (the) writing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اكْتَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱكْتَتَبَهَا",
+      "translation_bh": "",
+      "translation_en": "which he has had written"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكِتَابٍۢ",
+      "translation_bh": "",
+      "translation_en": "and a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتابِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِّكِتَـٰبِى",
+      "translation_bh": "",
+      "translation_en": "with my letter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْكِتَـٰبَ",
+      "translation_bh": "",
+      "translation_en": "and the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُتُبٍۢ",
+      "translation_bh": "",
+      "translation_en": "Scriptures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِٱلْكِتَـٰبِ",
+      "translation_bh": "",
+      "translation_en": "and with the Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَكْتُبُ",
+      "translation_bh": "",
+      "translation_en": "and We record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكِتَـٰبِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَكِتَـٰبٌ",
+      "translation_bh": "",
+      "translation_en": "(is) surely a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَتُكْتَبُ",
+      "translation_bh": "",
+      "translation_en": "Will be recorded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبِهَا",
+      "translation_bh": "",
+      "translation_en": "its record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبُنَا",
+      "translation_bh": "",
+      "translation_en": "Our Record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبًا",
+      "translation_bh": "",
+      "translation_en": "a Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَكِتَـٰبٍۢ",
+      "translation_bh": "",
+      "translation_en": "And by (the) Book"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْكِتَـٰبَ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the Scripture"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَتَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَتَبْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "We prescribed it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "كِتَـٰبِيَهْ",
+      "translation_bh": "",
+      "translation_en": "my record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاتِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَـٰتِبِينَ",
+      "translation_bh": "",
+      "translation_en": "recording"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِتاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كُتُبٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) writings"
+    }
+  ]
+}

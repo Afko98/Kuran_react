@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 998,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَفِيف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَفَّتِ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْفاف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لفف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَفِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَفِيفًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a mixed crowd"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَفَّتِ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱلْتَفَّتِ",
+      "translation_bh": "",
+      "translation_en": "And is wound"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْفاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَلْفَافًا",
+      "translation_bh": "",
+      "translation_en": "(of) thick foliage"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "description_bh": "",
+  "id": 337,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَدْيَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدائِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدِينَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مدن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَدْيَن",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "مَدْيَنَ",
+      "translation_bh": "",
+      "translation_en": "Madyan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدائِن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمَدَآئِنِ",
+      "translation_bh": "",
+      "translation_en": "the cities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدِينَة",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "ٱلْمَدِينَةِ",
+      "translation_bh": "",
+      "translation_en": "the city"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدِينَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَدِينَةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the Madinah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدْيَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّمَدْيَنَ",
+      "translation_bh": "",
+      "translation_en": "with Madyan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدْيَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَدْيَنَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) Madyan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدِينَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَدِينَةَ",
+      "translation_bh": "",
+      "translation_en": "the city"
+    }
+  ]
+}

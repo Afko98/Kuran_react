@@ -1,0 +1,396 @@
+{
+  "description_bh": "",
+  "id": 190,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذاهِب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ذهب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "ذَهَبَ",
+      "translation_bh": "",
+      "translation_en": "took away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَذَهَبَ",
+      "translation_bh": "",
+      "translation_en": "He would certainly have taken away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلذَّهَبِ",
+      "translation_bh": "",
+      "translation_en": "[the] gold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذَهَبًۭا",
+      "translation_bh": "",
+      "translation_en": "(of) gold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَذْهَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "so that you may take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُذْهِبْكُمْ",
+      "translation_bh": "",
+      "translation_en": "He can take you away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱذْهَبْ",
+      "translation_bh": "",
+      "translation_en": "So go"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُذْهِبَ",
+      "translation_bh": "",
+      "translation_en": "and take away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَذْهَبَ",
+      "translation_bh": "",
+      "translation_en": "and (would) depart"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُذْهِبْ",
+      "translation_bh": "",
+      "translation_en": "And remove"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلذَّهَبَ",
+      "translation_bh": "",
+      "translation_en": "the gold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُذْهِبْنَ",
+      "translation_bh": "",
+      "translation_en": "remove"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذْهَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "you should take him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذَهَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they took him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذَهَبْنَا",
+      "translation_bh": "",
+      "translation_en": "[we] went"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱذْهَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "Go"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَذْهَبُ",
+      "translation_bh": "",
+      "translation_en": "it passes away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱذْهَبْ",
+      "translation_bh": "",
+      "translation_en": "Go"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَذْهَبَنَّ",
+      "translation_bh": "",
+      "translation_en": "We (would) have surely taken away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ذَهَبٍۢ",
+      "translation_bh": "",
+      "translation_en": "gold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱذْهَبَآ",
+      "translation_bh": "",
+      "translation_en": "Go, both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَذْهَبَا",
+      "translation_bh": "",
+      "translation_en": "and do away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذَّهَبَ",
+      "translation_bh": "",
+      "translation_en": "he went"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُذْهِبَنَّ",
+      "translation_bh": "",
+      "translation_en": "will remove"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذَهَابٍۭ",
+      "translation_bh": "",
+      "translation_en": "taking it away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّذَهَبَ",
+      "translation_bh": "",
+      "translation_en": "surely (would have) taken away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَذْهَبُ",
+      "translation_bh": "",
+      "translation_en": "takes away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَذْهَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they go"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱذْهَبَا",
+      "translation_bh": "",
+      "translation_en": "go both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱذْهَب",
+      "translation_bh": "",
+      "translation_en": "Go"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَذْهَبُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "withdrawn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُذْهِبَ",
+      "translation_bh": "",
+      "translation_en": "to remove"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذْهَبْ",
+      "translation_bh": "",
+      "translation_en": "go out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَذْهَبَ",
+      "translation_bh": "",
+      "translation_en": "(has) removed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذاهِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذَاهِبٌ",
+      "translation_bh": "",
+      "translation_en": "going"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَذْهَبَنَّ",
+      "translation_bh": "",
+      "translation_en": "We take you away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ذَهَبٍ",
+      "translation_bh": "",
+      "translation_en": "gold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَذْهَبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "You exhausted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ذَهَبَتْ",
+      "translation_bh": "",
+      "translation_en": "have gone"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ذَهَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَذْهَبُونَ",
+      "translation_bh": "",
+      "translation_en": "are you going"
+    }
+  ]
+}

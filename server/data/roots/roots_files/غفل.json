@@ -1,0 +1,144 @@
+{
+  "description_bh": "",
+  "id": 263,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَغْفُلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَغْفَلْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفْلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِلَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غفل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "بِغَـٰفِلٍ",
+      "translation_bh": "",
+      "translation_en": "unaware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَغْفُلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَغْفُلُونَ",
+      "translation_bh": "",
+      "translation_en": "you neglect"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "غَـٰفِلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) unaware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَغَـٰفِلِينَ",
+      "translation_bh": "",
+      "translation_en": "certainly unaware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "غَـٰفِلِينَ",
+      "translation_bh": "",
+      "translation_en": "heedless"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْغَـٰفِلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the heedless"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْغَـٰفِلِينَ",
+      "translation_bh": "",
+      "translation_en": "the heedless"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَغَـٰفِلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) surely heedless"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَـٰفِلًا",
+      "translation_bh": "",
+      "translation_en": "(is) unaware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَغْفَلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَغْفَلْنَا",
+      "translation_bh": "",
+      "translation_en": "We have made heedless"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفْلَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "غَفْلَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "heedlessness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَـٰفِلَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the unaware women"
+    }
+  ]
+}

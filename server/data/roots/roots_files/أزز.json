@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1173,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَؤُزُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَزّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أزز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَؤُزُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَؤُزُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "inciting them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَزّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَزًّۭا",
+      "translation_bh": "",
+      "translation_en": "(with) incitement"
+    }
+  ]
+}

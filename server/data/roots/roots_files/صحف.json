@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 629,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صُحُف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِحاف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صحف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صُحُف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلصُّحُفِ",
+      "translation_bh": "",
+      "translation_en": "the Scriptures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِحاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِصِحَافٍۢ",
+      "translation_bh": "",
+      "translation_en": "plates"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُحُف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "صُحُفِ",
+      "translation_bh": "",
+      "translation_en": "(the) Scriptures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُحُف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "صُحُفًۭا",
+      "translation_bh": "",
+      "translation_en": "pages"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُحُف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُحُفٍۢ",
+      "translation_bh": "",
+      "translation_en": "sheets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُحُف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصُّحُفُ",
+      "translation_bh": "",
+      "translation_en": "the pages"
+    }
+  ]
+}

@@ -1,0 +1,532 @@
+{
+  "description_bh": "",
+  "id": 56,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُصْلِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِحَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُلْح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَلَحَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صلح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُصْلِح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُصْلِحُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) reformers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِحَة",
+      "occurrences": 56,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "[the] righteous deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 29,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحًۭا",
+      "translation_bh": "",
+      "translation_en": "righteous deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحِينَ",
+      "translation_bh": "",
+      "translation_en": "the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَأَصْلَحُوا۟",
+      "translation_bh": "",
+      "translation_en": "and reform[ed]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَصْلَحَ",
+      "translation_bh": "",
+      "translation_en": "then reconciles"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِصْلَاحٌۭ",
+      "translation_bh": "",
+      "translation_en": "Setting right (their affairs)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصْلِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُصْلِحِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the amender"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُصْلِحُوا۟",
+      "translation_bh": "",
+      "translation_en": "and make peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِصْلَـٰحًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(for) reconciliation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَصْلَحَا",
+      "translation_bh": "",
+      "translation_en": "and correct themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلصَّـٰلِحَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "So the righteous women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِصْلَـٰحًۭا",
+      "translation_bh": "",
+      "translation_en": "reconciliation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلصَّـٰلِحِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِصْلَـٰحٍۭ",
+      "translation_bh": "",
+      "translation_en": "conciliation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصْلِحَا",
+      "translation_bh": "",
+      "translation_en": "they make terms of peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُلْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صُلْحًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "a reconciliation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُلْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلصُّلْحُ",
+      "translation_bh": "",
+      "translation_en": "and [the] reconciliation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصْلِحُوا۟",
+      "translation_bh": "",
+      "translation_en": "you reconcile"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحَـٰتِ ۙ",
+      "translation_bh": "",
+      "translation_en": "the righteous deeds "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَأَصْلَحَ",
+      "translation_bh": "",
+      "translation_en": "and reforms"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِصْلَـٰحِهَا",
+      "translation_bh": "",
+      "translation_en": "its reformation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "Salih"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "يَـٰصَـٰلِحُ",
+      "translation_bh": "",
+      "translation_en": "O Salih"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِصْلَـٰحِهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "its reformation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَصْلِحْ",
+      "translation_bh": "",
+      "translation_en": "and do right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصْلِح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُصْلِحِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the reformers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَصْلِحُوا۟",
+      "translation_bh": "",
+      "translation_en": "and set right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحٌ ۚ",
+      "translation_bh": "",
+      "translation_en": "righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصْلِحُ",
+      "translation_bh": "",
+      "translation_en": "amend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "Salih"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِصْلاح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِصْلَـٰحَ",
+      "translation_bh": "",
+      "translation_en": "the reform"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "people of Salih"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحِينَ",
+      "translation_bh": "",
+      "translation_en": "righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلصَّـٰلِحِينَ",
+      "translation_bh": "",
+      "translation_en": "with the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَلَحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "صَلَحَ",
+      "translation_bh": "",
+      "translation_en": "(were) righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَصْلَحُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and corrected themselves "
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِحَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "good deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَصْلَحْنَا",
+      "translation_bh": "",
+      "translation_en": "and We cured"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحًا ۖ",
+      "translation_bh": "",
+      "translation_en": "righteous (deeds)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلصَّـٰلِحِينَ",
+      "translation_bh": "",
+      "translation_en": "and the righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحٌ",
+      "translation_bh": "",
+      "translation_en": "Salih"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُصْلِحُونَ",
+      "translation_bh": "",
+      "translation_en": "reform"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحًا",
+      "translation_bh": "",
+      "translation_en": "Salih"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصْلِحْ",
+      "translation_bh": "",
+      "translation_en": "He will amend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحَـٰتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "righteous deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحُ",
+      "translation_bh": "",
+      "translation_en": "righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصَّـٰلِحَـٰتِ ۗ",
+      "translation_bh": "",
+      "translation_en": "righteous deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُصْلِحُ",
+      "translation_bh": "",
+      "translation_en": "and improve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصْلَحَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَأَصْلِحُوا۟",
+      "translation_bh": "",
+      "translation_en": "then make peace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَصَـٰلِحُ",
+      "translation_bh": "",
+      "translation_en": "and (the) righteous"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صالِح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰلِحَيْنِ",
+      "translation_bh": "",
+      "translation_en": "righteous"
+    }
+  ]
+}

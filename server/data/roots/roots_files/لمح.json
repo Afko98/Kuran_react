@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1150,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَمْح",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لمح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَمْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلَمْحِ",
+      "translation_bh": "",
+      "translation_en": "as a twinkling"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَمْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَلَمْحٍۭ",
+      "translation_bh": "",
+      "translation_en": "like the twinkling"
+    }
+  ]
+}

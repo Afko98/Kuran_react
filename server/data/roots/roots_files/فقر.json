@@ -1,0 +1,116 @@
+{
+  "description_bh": "",
+  "id": 472,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فَقْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاقِرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فقر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فَقْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَقْرَ",
+      "translation_bh": "",
+      "translation_en": "[the] poverty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفُقَرَآءَ",
+      "translation_bh": "",
+      "translation_en": "(to) the poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِلْفُقَرَآءِ",
+      "translation_bh": "",
+      "translation_en": "For the poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَقِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَقِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَقِيرَ",
+      "translation_bh": "",
+      "translation_en": "the poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُقَرَآءَ",
+      "translation_bh": "",
+      "translation_en": "poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفُقَرَآءُ",
+      "translation_bh": "",
+      "translation_en": "(are) those in need"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَقِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفُقَرَآءُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) the needy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فاقِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَاقِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "backbreaking"
+    }
+  ]
+}

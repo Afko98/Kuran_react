@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 975,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَنضُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَضِيد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نضد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَنضُود",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّنضُودٍۢ",
+      "translation_bh": "",
+      "translation_en": "(in) layers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَضِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّضِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "arranged"
+    }
+  ]
+}

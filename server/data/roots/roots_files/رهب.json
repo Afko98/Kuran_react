@@ -1,0 +1,150 @@
+{
+  "description_bh": "",
+  "id": 512,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْهَبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُهْبان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَرْهَبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُرْهِبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهَب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهْبانِيَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهْبَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رهب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْهَبُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱرْهَبُونِ",
+      "translation_bh": "",
+      "translation_en": "fear [Me]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُهْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُهْبَانًۭا",
+      "translation_bh": "",
+      "translation_en": "and monks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَرْهَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَرْهَبُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "and terrified them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْهَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْهَبُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) fearful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُرْهِبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُرْهِبُونَ",
+      "translation_bh": "",
+      "translation_en": "(to) terrify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُهْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُهْبَـٰنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their monks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُهْبان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلرُّهْبَانِ",
+      "translation_bh": "",
+      "translation_en": "and the monks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَهَبًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "and fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّهْبِ ۖ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهْبانِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَهْبَانِيَّةً",
+      "translation_bh": "",
+      "translation_en": "But monasticism"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَهْبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَهْبَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(in) fear"
+    }
+  ]
+}

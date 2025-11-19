@@ -1,0 +1,130 @@
+{
+  "description_bh": "",
+  "id": 479,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَزْرَعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زُرّاع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زارِع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زرع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلزَّرْعَ",
+      "translation_bh": "",
+      "translation_en": "and the crops"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَزْرَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَزْرَعُونَ",
+      "translation_bh": "",
+      "translation_en": "You will sow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَزَرْعٌۭ",
+      "translation_bh": "",
+      "translation_en": "and crops"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَرْعٍ",
+      "translation_bh": "",
+      "translation_en": "cultivation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلزَّرْعَ",
+      "translation_bh": "",
+      "translation_en": "the crops"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "زَرْعًۭا",
+      "translation_bh": "",
+      "translation_en": "crops"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَزُرُوعٍۢ",
+      "translation_bh": "",
+      "translation_en": "And cornfields"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَرْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَزَرْعٍ",
+      "translation_bh": "",
+      "translation_en": "(is) like a seed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زُرّاع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلزُّرَّاعَ",
+      "translation_bh": "",
+      "translation_en": "the sowers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَزْرَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَزْرَعُونَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "cause it to grow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زارِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلزَّٰرِعُونَ",
+      "translation_bh": "",
+      "translation_en": "the Ones Who grow"
+    }
+  ]
+}

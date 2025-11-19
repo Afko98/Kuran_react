@@ -1,0 +1,135 @@
+{
+  "description_bh": "",
+  "id": 471,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صِيام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصُمْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَوْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صائِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صائِمَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صوم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صِيام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصِّيَامُ",
+      "translation_bh": "",
+      "translation_en": "[the] fasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصُمْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَصُومُوا۟",
+      "translation_bh": "",
+      "translation_en": "fast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصُمْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَصُمْهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "then he should fast in it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِيام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصِّيَامِ",
+      "translation_bh": "",
+      "translation_en": "(of) fasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِيام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصِّيَامَ",
+      "translation_bh": "",
+      "translation_en": "the fast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِيام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِيَامٍ",
+      "translation_bh": "",
+      "translation_en": "fasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِيام",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "فَصِيَامُ",
+      "translation_bh": "",
+      "translation_en": "then a fast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِيام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صِيَامًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) fasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَوْمًۭا",
+      "translation_bh": "",
+      "translation_en": "a fast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلصَّـٰٓئِمِينَ",
+      "translation_bh": "",
+      "translation_en": "and the men who fast"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صائِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلصَّـٰٓئِمَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the women who fast"
+    }
+  ]
+}

@@ -1,0 +1,1786 @@
+{
+  "description_bh": "",
+  "id": 7,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيامَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيُّوم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْوَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوّام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِقامَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِقام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقامَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّمَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قوم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَقِيمَ",
+      "translation_bh": "",
+      "translation_en": "the straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُقِيمُونَ",
+      "translation_bh": "",
+      "translation_en": "and establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَامُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they stand (still)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "وَأَقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "And establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "لِقَوْمِهِۦ",
+      "translation_bh": "",
+      "translation_en": "to his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 38,
+      "part_of_speech": "N",
+      "text": "يَـٰقَوْمِ",
+      "translation_bh": "",
+      "translation_en": "O my people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "لِقَوْمِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "to his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيامَة",
+      "occurrences": 48,
+      "part_of_speech": "N",
+      "text": "ٱلْقِيَـٰمَةِ",
+      "translation_bh": "",
+      "translation_en": "of [the] Resurrection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "لِقَوْمٍۢ",
+      "translation_bh": "",
+      "translation_en": "for people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقَامِ",
+      "translation_bh": "",
+      "translation_en": "(the) standing place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "مُّسْتَقِيمٍۢ",
+      "translation_bh": "",
+      "translation_en": "straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 35,
+      "part_of_speech": "N",
+      "text": "لِّقَوْمٍۢ",
+      "translation_bh": "",
+      "translation_en": "for a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَقَامَ",
+      "translation_bh": "",
+      "translation_en": "and (who) establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيامَة",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْقِيَـٰمَةِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) Resurrection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْتَقِيمٍ",
+      "translation_bh": "",
+      "translation_en": "straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُقِيمَا",
+      "translation_bh": "",
+      "translation_en": "they both (can) keep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقُومُوا۟",
+      "translation_bh": "",
+      "translation_en": "and stand up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 30,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْمِ",
+      "translation_bh": "",
+      "translation_en": "the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيُّوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَيُّومُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Sustainer of all that exists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 26,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْمَ",
+      "translation_bh": "",
+      "translation_en": "the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقُومُونَ",
+      "translation_bh": "",
+      "translation_en": "they can stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَقُومُ",
+      "translation_bh": "",
+      "translation_en": "stands"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "وَأَقَامُوا۟",
+      "translation_bh": "",
+      "translation_en": "and established"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْوَم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَأَقْوَمُ",
+      "translation_bh": "",
+      "translation_en": "and more upright"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيُّوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَيُّومُ",
+      "translation_bh": "",
+      "translation_en": "the Sustainer of all that exists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِمًۢا",
+      "translation_bh": "",
+      "translation_en": "standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَآئِمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(was) standing "
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مُّسْتَقِيمٌۭ",
+      "translation_bh": "",
+      "translation_en": "straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيامَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْقِيَـٰمَةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) [the] Resurrection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِمًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 24,
+      "part_of_speech": "N",
+      "text": "قَوْمًۭا",
+      "translation_bh": "",
+      "translation_en": "a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقَامُ",
+      "translation_bh": "",
+      "translation_en": "standing place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَآئِمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "قَوْمٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيامَة",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْقِيَـٰمَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) Resurrection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "قِيَـٰمًۭا",
+      "translation_bh": "",
+      "translation_en": "standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوّام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوَّٰمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) protectors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْوَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَقْوَمَ",
+      "translation_bh": "",
+      "translation_en": "and more suitable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مُّسْتَقِيمًۭا",
+      "translation_bh": "",
+      "translation_en": "(the) straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قَوْمٍۭ",
+      "translation_bh": "",
+      "translation_en": "a group"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قَوْمَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "قَوْمٍ",
+      "translation_bh": "",
+      "translation_en": "a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَقَمْتَ",
+      "translation_bh": "",
+      "translation_en": "and you lead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْتَقُمْ",
+      "translation_bh": "",
+      "translation_en": "then let stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَأَقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "then establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْمِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَقُومُوا۟",
+      "translation_bh": "",
+      "translation_en": "stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوّام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَوَّٰمِينَ",
+      "translation_bh": "",
+      "translation_en": "custodians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَامُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قَامُوا۟",
+      "translation_bh": "",
+      "translation_en": "they stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُقِيمِينَ",
+      "translation_bh": "",
+      "translation_en": "And the ones who establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُمْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you stand up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "قَوْمٌ",
+      "translation_bh": "",
+      "translation_en": "a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَقَمْتُمُ",
+      "translation_bh": "",
+      "translation_en": "you establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّقِيمٌۭ",
+      "translation_bh": "",
+      "translation_en": "lasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِقَوْمٍ",
+      "translation_bh": "",
+      "translation_en": "for people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِقَوْمٍۢ",
+      "translation_bh": "",
+      "translation_en": "a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُقِيمُونَ",
+      "translation_bh": "",
+      "translation_en": "establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 22,
+      "part_of_speech": "N",
+      "text": "قَوْمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَقَامُوا۟",
+      "translation_bh": "",
+      "translation_en": "had stood firmly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "you stand firmly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقُومَانِ",
+      "translation_bh": "",
+      "translation_en": "stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقَامَهُمَا",
+      "translation_bh": "",
+      "translation_en": "(in) their place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْمُ",
+      "translation_bh": "",
+      "translation_en": "the people "
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قَوْمُكَ",
+      "translation_bh": "",
+      "translation_en": "your people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمَكَ",
+      "translation_bh": "",
+      "translation_en": "and your people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَقِيمًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَقِيمًۭا",
+      "translation_bh": "",
+      "translation_en": "straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِيَمًۭا",
+      "translation_bh": "",
+      "translation_en": "right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 17,
+      "part_of_speech": "N",
+      "text": "قَوْمِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "قَوْمِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "قَوْمًا",
+      "translation_bh": "",
+      "translation_en": "a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "قَوْمِ",
+      "translation_bh": "",
+      "translation_en": "(the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمِنَا",
+      "translation_bh": "",
+      "translation_en": "our people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِقَوْمِهِ",
+      "translation_bh": "",
+      "translation_en": "to his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قَوْمِى",
+      "translation_bh": "",
+      "translation_en": "my people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "قَوْمَكَ",
+      "translation_bh": "",
+      "translation_en": "your people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "قَوْمُ",
+      "translation_bh": "",
+      "translation_en": "(the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قَوْمَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(from) his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمًا ۙ",
+      "translation_bh": "",
+      "translation_en": "a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱسْتَقَـٰمُوا۟",
+      "translation_bh": "",
+      "translation_en": "they are upright"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "then you be upright"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُّقِيمٌ",
+      "translation_bh": "",
+      "translation_en": "enduring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَيِّمُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the upright"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمِ",
+      "translation_bh": "",
+      "translation_en": "and (the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَقُمْ",
+      "translation_bh": "",
+      "translation_en": "you stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَقُومَ",
+      "translation_bh": "",
+      "translation_en": "you stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قَوْمًۢا",
+      "translation_bh": "",
+      "translation_en": "a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِمًۭا",
+      "translation_bh": "",
+      "translation_en": "standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقَامِى",
+      "translation_bh": "",
+      "translation_en": "my stay"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَوْمِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِّلْقَوْمِ",
+      "translation_bh": "",
+      "translation_en": "for the people "
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِقَوْمِكُمَا",
+      "translation_bh": "",
+      "translation_en": "your people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَقِيمَا",
+      "translation_bh": "",
+      "translation_en": "So you two (keep to the) straight way"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "قَوْمَ",
+      "translation_bh": "",
+      "translation_en": "the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَقِمْ",
+      "translation_bh": "",
+      "translation_en": "Direct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "وَيَـٰقَوْمِ",
+      "translation_bh": "",
+      "translation_en": "And O my people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَوْمِكَ",
+      "translation_bh": "",
+      "translation_en": "your people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَوْمُهُۥ",
+      "translation_bh": "",
+      "translation_en": "his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَقِمْ",
+      "translation_bh": "",
+      "translation_en": "So stand firm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَأَقِمِ",
+      "translation_bh": "",
+      "translation_en": "And establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْقَيِّمُ",
+      "translation_bh": "",
+      "translation_en": "the right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقَوْمٍ",
+      "translation_bh": "",
+      "translation_en": "of a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِمٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a Maintainer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقَامِى",
+      "translation_bh": "",
+      "translation_en": "standing before Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "(to) establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "That they may establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُقِيمَ",
+      "translation_bh": "",
+      "translation_en": "an establisher"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَقِيمٌ",
+      "translation_bh": "",
+      "translation_en": "straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقِيمٍ",
+      "translation_bh": "",
+      "translation_en": "established"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيامَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْقِيَـٰمَةِ ۙ",
+      "translation_bh": "",
+      "translation_en": "(of) the Resurrection"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِقامَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِقَامَتِكُمْ ۙ",
+      "translation_bh": "",
+      "translation_en": "(of) your encampment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْوَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقْوَمُ",
+      "translation_bh": "",
+      "translation_en": "(is) most straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَقِيمِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَقِمِ",
+      "translation_bh": "",
+      "translation_en": "Establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقَامًۭا",
+      "translation_bh": "",
+      "translation_en": "(to) a station"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَيِّمًۭا",
+      "translation_bh": "",
+      "translation_en": "Straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمُنَا",
+      "translation_bh": "",
+      "translation_en": "our people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَآئِمَةًۭ",
+      "translation_bh": "",
+      "translation_en": "will occur"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَقَامَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "so he set it straight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "a community"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُقِيمُ",
+      "translation_bh": "",
+      "translation_en": "We will assign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمَهَا",
+      "translation_bh": "",
+      "translation_en": "(to) her people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقَامًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) position"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيُّوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَيُّومِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Self-Subsisting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَقَوْمِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِقَامَ",
+      "translation_bh": "",
+      "translation_en": "and establishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّقَوْمٍ",
+      "translation_bh": "",
+      "translation_en": "for a people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقَآئِمِينَ",
+      "translation_bh": "",
+      "translation_en": "and those who stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُقِيمِى",
+      "translation_bh": "",
+      "translation_en": "and those who establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَقَوْمُ",
+      "translation_bh": "",
+      "translation_en": "And (the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمِهِ",
+      "translation_bh": "",
+      "translation_en": "his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمُهُمَا",
+      "translation_bh": "",
+      "translation_en": "while their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِقَامِ",
+      "translation_bh": "",
+      "translation_en": "and (from) establishing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَقَوْمَ",
+      "translation_bh": "",
+      "translation_en": "And (the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقِيَـٰمًۭا",
+      "translation_bh": "",
+      "translation_en": "and standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمُقَامًۭا",
+      "translation_bh": "",
+      "translation_en": "and resting place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوَامًۭا",
+      "translation_bh": "",
+      "translation_en": "moderate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمَقَامٍۢ",
+      "translation_bh": "",
+      "translation_en": "and a place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَقِيمِ",
+      "translation_bh": "",
+      "translation_en": "[the] even"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "تَقُومُ",
+      "translation_bh": "",
+      "translation_en": "you stand up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "and his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمَهَا",
+      "translation_bh": "",
+      "translation_en": "and her people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقَامِكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "your place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَقِمْ",
+      "translation_bh": "",
+      "translation_en": "So set"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَيِّمِ",
+      "translation_bh": "",
+      "translation_en": "right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُقَامَ",
+      "translation_bh": "",
+      "translation_en": "stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَقِمْنَ",
+      "translation_bh": "",
+      "translation_en": "And establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقامَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقَامَةِ",
+      "translation_bh": "",
+      "translation_en": "(of) Eternity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمَهُمَا",
+      "translation_bh": "",
+      "translation_en": "and their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقَامٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a position"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَآئِمًۭا",
+      "translation_bh": "",
+      "translation_en": "and standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِيَامٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ وَيَـٰقَوْمِ",
+      "translation_bh": "",
+      "translation_en": "And O my people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَقِيمُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "so take a Straight Path"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَقِمْ",
+      "translation_bh": "",
+      "translation_en": "and stand firm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقِيمٍۢ",
+      "translation_bh": "",
+      "translation_en": "lasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْمِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "and his people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِقَوْمِكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "and your people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَقَامٍ",
+      "translation_bh": "",
+      "translation_en": "a place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْمِهِم",
+      "translation_bh": "",
+      "translation_en": "their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "يَـٰقَوْمَنَآ",
+      "translation_bh": "",
+      "translation_en": "O our people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِيَامٍۢ",
+      "translation_bh": "",
+      "translation_en": "stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَقَامَ",
+      "translation_bh": "",
+      "translation_en": "(the) standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَقُومَ",
+      "translation_bh": "",
+      "translation_en": "that may establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِمَةً",
+      "translation_bh": "",
+      "translation_en": "standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِقَوْمِهِمْ",
+      "translation_bh": "",
+      "translation_en": "to their people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِمًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "standing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِمُونَ",
+      "translation_bh": "",
+      "translation_en": "stand firm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَامَ",
+      "translation_bh": "",
+      "translation_en": "stood up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُمِ",
+      "translation_bh": "",
+      "translation_en": "Stand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُمْ",
+      "translation_bh": "",
+      "translation_en": "Stand up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَقامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَقِيمَ",
+      "translation_bh": "",
+      "translation_en": "take a straight way"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْوِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَقْوِيمٍۢ",
+      "translation_bh": "",
+      "translation_en": "mould"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَيِّمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "correct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقامَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُقِيمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and to establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَيِّمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَيِّمَةِ",
+      "translation_bh": "",
+      "translation_en": "the correct"
+    }
+  ]
+}

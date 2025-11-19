@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 805,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وَجِلَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجِلَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وجل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وَجِلَتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَجِلَتْ",
+      "translation_bh": "",
+      "translation_en": "feel fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجِلُونَ",
+      "translation_bh": "",
+      "translation_en": "afraid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجِلَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوْجَلْ",
+      "translation_bh": "",
+      "translation_en": "be afraid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجِلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجِلَةٌ",
+      "translation_bh": "",
+      "translation_en": "(are) fearful"
+    }
+  ]
+}

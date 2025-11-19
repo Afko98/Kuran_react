@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 915,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سامِرِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سامِر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سمر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سامِرِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلسَّامِرِىُّ",
+      "translation_bh": "",
+      "translation_en": "the Samiri"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سامِرِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰسَـٰمِرِىُّ",
+      "translation_bh": "",
+      "translation_en": "O Samiri"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سامِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَـٰمِرًۭا",
+      "translation_bh": "",
+      "translation_en": "conversing by night"
+    }
+  ]
+}

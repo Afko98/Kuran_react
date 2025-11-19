@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 726,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَصاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصَد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حصد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَصاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَصَادِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) its harvest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَصِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "a harvest clean-mown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَصِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "and (some) mown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصَد",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَصَدتُّمْ",
+      "translation_bh": "",
+      "translation_en": "you reap"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَصِيدًا",
+      "translation_bh": "",
+      "translation_en": "reaped"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَصِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَصِيدِ",
+      "translation_bh": "",
+      "translation_en": "(for) the harvest"
+    }
+  ]
+}

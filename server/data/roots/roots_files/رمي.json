@@ -1,0 +1,70 @@
+{
+  "description_bh": "",
+  "id": 620,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَمَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رمي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَمَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْمِ",
+      "translation_bh": "",
+      "translation_en": "throws"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَمَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "رَمَيْتَ",
+      "translation_bh": "",
+      "translation_en": "you threw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَمَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَمَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "threw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَمَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَرْمُونَ",
+      "translation_bh": "",
+      "translation_en": "accuse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَمَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْمِى",
+      "translation_bh": "",
+      "translation_en": "throws up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَمَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْمِيهِم",
+      "translation_bh": "",
+      "translation_en": "Striking them"
+    }
+  ]
+}

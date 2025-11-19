@@ -1,0 +1,1606 @@
+{
+  "description_bh": "Iz tog korijena dolazi: رَبّ (rabb) = “Gospodar”, “Upravitelj”, “Zaštitnik”",
+  "id": 4,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "translation_bh": "posjedovati / brinuti / voditi / biti Gospodar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّانِيِّن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِبِّيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبائِب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ربب",
+  "translation_bh": "uzgajati, brinuti, biti gospodar, upravljati.",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 80,
+      "part_of_speech": "N",
+      "text": "رَبِّ",
+      "translation_bh": "Gospodara",
+      "translation_en": "the Lord"
+    },
+    {
+      "description_bh": "Gospodara svoga (misli se na njihovog Gospodara) \nهِمْ → “njihov(i/e)”.",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِمْ ۖ",
+      "translation_bh": "njihovog Gospodara",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "كُمُ → “vaš” (2. lice množine)",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَبَّكُمُ",
+      "translation_bh": "vaš Gospodar / vašeg Gospodara",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 38,
+      "part_of_speech": "N",
+      "text": "رَبُّكَ",
+      "translation_bh": "tvoj Gospodar",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "هِ - njegov",
+      "lemma": "رَبّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِۦ",
+      "translation_bh": "njegovog Gospodara",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "هِمْ - njigovo",
+      "lemma": "رَبّ",
+      "occurrences": 47,
+      "part_of_speech": "N",
+      "text": "رَبِّهِمْ",
+      "translation_bh": "njihovog Gospodara",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "كُمْ - vaše",
+      "lemma": "رَبّ",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "رَّبِّكُمْ",
+      "translation_bh": "vašeg Gospodara",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "كَ - tvoje",
+      "lemma": "رَبّ",
+      "occurrences": 52,
+      "part_of_speech": "N",
+      "text": "رَبَّكَ",
+      "translation_bh": "Gospodar tvoj",
+      "translation_en": "(to) your Lord"
+    },
+    {
+      "description_bh": "كُمْ - vaše",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّكُمْ ۚ",
+      "translation_bh": "Gospodara vašeg",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "كُمْ - vaše",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَّبِّكُمْ ۗ",
+      "translation_bh": "Gospodara vašeg",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "هِ - njegov",
+      "lemma": "رَبّ",
+      "occurrences": 16,
+      "part_of_speech": "N",
+      "text": "رَبِّهِۦ",
+      "translation_bh": "njegovog Gospodara",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "هِ - njegov",
+      "lemma": "رَبّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "رَبُّهُۥ",
+      "translation_bh": "Gospodar njegov",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "نَا - naš / našeg / naše",
+      "lemma": "رَبّ",
+      "occurrences": 40,
+      "part_of_speech": "N",
+      "text": "رَبَّنَا",
+      "translation_bh": "Gospodaru naš",
+      "translation_en": "(saying), \"Our Lord"
+    },
+    {
+      "description_bh": "هِ - njegov",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبُّهُۥٓ",
+      "translation_bh": "Gospodar njegov",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "لِـ → prijedlog - za / pripadno / radi",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "لِرَبِّ",
+      "translation_bh": "(pripada / za) Gospodaru",
+      "translation_en": "to (the) Lord"
+    },
+    {
+      "description_bh": "هِمْ - njihov / njihovo / njihovog",
+      "lemma": "رَبّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِمْ",
+      "translation_bh": "Gospodara njihova",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "نَا - naš / našeg / naše",
+      "lemma": "رَبّ",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "رَبُّنَا",
+      "translation_bh": "Gospodar naš",
+      "translation_en": "(is) our Lord"
+    },
+    {
+      "description_bh": "وَ - i \nكُمْ - vaš",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَرَبُّكُمْ",
+      "translation_bh": "i vaš Gospodar",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "هِمْ - njihov",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِمْ ۗ",
+      "translation_bh": "Gospodara njihova",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "كَ - tvoj",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَّبِّكَ ۖ",
+      "translation_bh": "Gospodara tvoga",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "كَ - tvoj",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّكَ ۗ",
+      "translation_bh": "Gospodara tvoga",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "كُمْ - vaš",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّكُمْ ۚ",
+      "translation_bh": "vašeg Gospodara",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "نَآ - naš\nU Kur'anu se najčešće koristi oblik akuzativa/genitiva za fraze poput „رَبَّنَا“ (npr. „Gospodaru naš“) jer je u kontekstu poziva, molitve ili vapaja, što gramatički stavlja riječ u akuzativ (kao direktni objekat poziva).",
+      "lemma": "رَبّ",
+      "occurrences": 26,
+      "part_of_speech": "N",
+      "text": "رَبَّنَآ",
+      "translation_bh": "Gospodaru naš",
+      "translation_en": "Our Lord"
+    },
+    {
+      "description_bh": "Gospodaru njegovom / Gospodara svoga... zavisno od recenice\nرَبِّهِ - nastavak genitiva/akuzativa",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَبِّهِۦٓ",
+      "translation_bh": "Gospodara njegova",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبِّىَ",
+      "translation_bh": "Gospodar moj",
+      "translation_en": "My Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "رَبَّهُۥ",
+      "translation_bh": "gospodara njegova / njegovog gospodara",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّهُۥ ۗ",
+      "translation_bh": "gospodara njegova / njegovog gospodara",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "rijec je u akuzativu / genitivu\nرَبُّنَا → genitiv → naš Gospodar",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّنَا ۗ",
+      "translation_bh": "Gospodara našeg",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّهَا",
+      "translation_bh": "njen Gospodar",
+      "translation_en": "her Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّهُۥ ۖ",
+      "translation_bh": "gospodara njegova / njegovog gospodara",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "Akuzativ",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَّبَّكَ",
+      "translation_bh": "Gospodara tvoga / svoga",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "لِـ = „kod / za / prema“ (prijedlog)\nرَبِّ = Gospodar (u genitivu jer poslije prijedloga ide genitiv)\nكِ = tvoja (ženski rod)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِرَبِّكِ",
+      "translation_bh": "(pripada/za) Gospodaru tvome (z.r.)",
+      "translation_en": "to your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "رَّبِّكُمْ ۖ",
+      "translation_bh": "Gospodara vašeg",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "genitivu / akuzativu",
+      "lemma": "رَبّ",
+      "occurrences": 61,
+      "part_of_speech": "N",
+      "text": "رَبِّى",
+      "translation_bh": "Gospodaru svome / Gospodara moga",
+      "translation_en": "(is) my Lord"
+    },
+    {
+      "description_bh": "Genitiv",
+      "lemma": "رَبّ",
+      "occurrences": 24,
+      "part_of_speech": "N",
+      "text": "رَّبِّكَ",
+      "translation_bh": "Gospodara tvoga / Gospodaru tvom",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "akuzativ (kao objekat)",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَرْبَابًۭا",
+      "translation_bh": "bogovima",
+      "translation_en": "(as) lords"
+    },
+    {
+      "description_bh": "Genitiv",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّكُمْ ۗ",
+      "translation_bh": "Gospodaru vašem / Gospodara vašeg",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "ـينَ- množina, akuzativ ili genitiv - označava mušku množinu",
+      "lemma": "رَبّانِيِّن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّـٰنِيِّـۧنَ",
+      "translation_bh": "učeni i pobožni",
+      "translation_en": "worshippers of the Lord"
+    },
+    {
+      "description_bh": "akuzativ (kao objekat)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَرْبَابًا ۗ",
+      "translation_bh": "bogovima",
+      "translation_en": "(as) lords"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَبُّكُم",
+      "translation_bh": "vaš Gospodar",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "ـونَ - nastavak množine, nominativ - označava mušku množinu (subjekat)",
+      "lemma": "رِبِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِبِّيُّونَ",
+      "translation_bh": "pobožni",
+      "translation_en": "(were) religious scholars"
+    },
+    {
+      "description_bh": "U Kur'anu se najčešće koristi oblik akuzativa/genitiva za fraze poput „رَبَّنَا“ (npr. „Gospodaru naš“) jer je u kontekstu poziva, molitve ili vapaja, što gramatički stavlja riječ u akuzativ (kao direktni objekat poziva).",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَّبَّنَآ",
+      "translation_bh": "Gospodaru naš",
+      "translation_en": "Our Lord"
+    },
+    {
+      "description_bh": "nakon prijedloga, imenica mora biti u genitivu (بِ)",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِرَبِّكُمْ",
+      "translation_bh": "u Gospodara vašeg",
+      "translation_en": "in your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "رَبُّهُمْ",
+      "translation_bh": "njihov Gospodar",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "ili Gospodara njihova (akuzativ)",
+      "lemma": "رَبّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "رَبَّهُمْ",
+      "translation_bh": "njigovog Gospodara",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "ili njihovog Gospodara (genitiv)",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبِّهِمْ ۗ",
+      "translation_bh": "Gospodaru njihovom",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبائِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبَـٰٓئِبُكُمُ",
+      "translation_bh": "i kćerke po mlijeku vaše",
+      "translation_en": "and your step daughters"
+    },
+    {
+      "description_bh": "u ovom kontekstu je zakletva",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبِّكَ",
+      "translation_bh": "tako Mi Gospodara tvoga",
+      "translation_en": "by your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "وَرَبُّكَ",
+      "translation_bh": "i tvoj Gospodar",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَبَّ",
+      "translation_bh": "Gospodara",
+      "translation_en": "(the) Lord"
+    },
+    {
+      "description_bh": "ـونَ ' množina, nominativ ' označava mušku množinu subjekta",
+      "lemma": "رَبّانِيِّن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلرَّبَّـٰنِيُّونَ",
+      "translation_bh": "i pobožni",
+      "translation_en": "and the Rabbis"
+    },
+    {
+      "description_bh": "ـونَ ' množina, nominativ ' označava mušku množinu subjekta",
+      "lemma": "رَبّانِيِّن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّبَّـٰنِيُّونَ",
+      "translation_bh": "pobožni",
+      "translation_en": "the Rabbis"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبَّكُمْ ۖ",
+      "translation_bh": "i vašem Gospodaru",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبَّكُمْ ۚ",
+      "translation_bh": "i vašem Gospodaru",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "بِـ\ts, pomoću, po, u\tprijedlog (ḥarf džarr) — uzrokuje genitiv (majrūr) na sljedećoj riječi\nرَبِّ\tgospodar\timenica (ism) u genitivu (majrūr) zbog prijedloga بِـ\nهِمْ\tnjihov\tzavisna zamjenica (dameer) u 3. licu množine muškog roda",
+      "lemma": "رَبّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "بِرَبِّهِمْ",
+      "translation_bh": "sa Gospodarom svojim / njihovim",
+      "translation_en": "in their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "رَبِّنَا",
+      "translation_bh": "našeg Gospodara",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَبِّهِمْ ۚ",
+      "translation_bh": "njihovog Gospodara",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرَبِّنَا ۚ",
+      "translation_bh": "tako nam Gospodara našeg!",
+      "translation_en": "by our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِۦ ۚ",
+      "translation_bh": "Gospodara njegova",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّهِمْ ۙ",
+      "translation_bh": "Gospodara njihova / njihovog",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "رَبَّهُم",
+      "translation_bh": "Gospodara njihovog / svog",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "رَبُّكُمْ",
+      "translation_bh": "vaš Gospodar",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَّبِّى",
+      "translation_bh": "Gospodara moga",
+      "translation_en": "my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَبِّى ۖ",
+      "translation_bh": "Gospodara moga",
+      "translation_en": "(is) my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبُّكُمْ ۖ",
+      "translation_bh": "vaš Gospodar",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَبِّهِم",
+      "translation_bh": "svoga / njihovog Gospodara",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "رَبِّ - gospodara - imenica u genitivu  – završava na ـِ (i)\nكَ - tvoj - zavisna zamjenica  u 2. licu jednine muškog roda (“tvoj”)\n\nNominativ - رَبُّكَ - tvoj Gospodar (kao subjekt)\nAkuzativ - رَبَّكَ - tvog Gospodara (kao objekat)\nGenitiv - رَبِّكَ - tvog Gospodara (poslije prijedloga)\n\nبِرَبِّكَ → “po tvom Gospodaru”\nلِرَبِّكَ → “za tvog Gospodara”\nإِلَى رَبِّكَ → “ka tvom Gospodaru”",
+      "lemma": "رَبّ",
+      "occurrences": 70,
+      "part_of_speech": "N",
+      "text": "رَبِّكَ",
+      "translation_bh": "Gospodara tvoga",
+      "translation_en": "(of) your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَبِّهِمْ ۖ",
+      "translation_bh": "Gospodara njihova / njihovog Gospodara",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبُّكَ",
+      "translation_bh": "tvoj Gospodar",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَّبُّكُمْ",
+      "translation_bh": "vaš Gospodar",
+      "translation_en": "Your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّكَ ۗ",
+      "translation_bh": "tvog Gospodara",
+      "translation_en": "(of) your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "رَبِّىٓ",
+      "translation_bh": "mog Gospodara",
+      "translation_en": "my Lord"
+    },
+    {
+      "description_bh": "رَبّ → osnova imenice “Gospodar”\nً → tanwin fatḥa (ً) označava akuzativ i nedodređenost → “Gospodara”",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبًّۭا",
+      "translation_bh": "Gospodara",
+      "translation_en": "(as) a Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "رَبُّ",
+      "translation_bh": "Gospodar",
+      "translation_en": "(is) the Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبِّكُم",
+      "translation_bh": "Gospodaru svome / vašem",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "كُمَا → zamjenica za 2. lice dvojine (“vaš dvoje”).",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّكُمَا",
+      "translation_bh": "Gospodar vaš",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "هُمَا → zamjenica za 3. lice dvojine (“njih dvoje”)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّهُمَآ",
+      "translation_bh": "Gospodar njihov",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "كُمْ → zamjenica -kum = “vaš” (2. lice množine)",
+      "lemma": "رَبّ",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "رَبَّكُمْ",
+      "translation_bh": "Gospodara vašeg",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "Gospodaru njegovom / Gospodara svoga... zavisno od recenice\nرَبِّهِ - nastavak genitiva/akuzativa",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبِّهِۦ ۖ",
+      "translation_bh": "Gospodara njihova",
+      "translation_en": "(of) its Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "رَّبِّ",
+      "translation_bh": "Gospodara",
+      "translation_en": "(the) Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّنَا ۚ",
+      "translation_bh": "Gospodar naš",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "بِرَبِّ",
+      "translation_bh": "u Gospodara",
+      "translation_en": "in (the) Lord"
+    },
+    {
+      "description_bh": "كُمْ → zamjenica -kum = “vaš” (2. lice množine)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّكُمْ ۖ",
+      "translation_bh": "Gospodara vašeg",
+      "translation_en": "(of) your Lord"
+    },
+    {
+      "description_bh": "لِـ → prijedlog li, znači “za”, “pripadno”, “radi”",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "لِرَبِّهِمْ",
+      "translation_bh": "Gospodaru svome",
+      "translation_en": "of their Lord"
+    },
+    {
+      "description_bh": "كُمْ → zamjenica -kum = “vaš” (2. lice množine)",
+      "lemma": "رَبّ",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "رَبِّكُمْ",
+      "translation_bh": "Gospodara vašeg",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "بِـ → prijedlog “s, po, u”\nرَبِّ → imenica “Gospodar” u genitivu (majrūr)\nكُمْ → zamjenica “vaš” (2. lice množine)\n\nZašto Kur’an ponekad koristi بِرَبِّكُمْ:\nKada se želi naglasiti pokornost, pripadnost ili posvećenost Allahu.\nKada je riječ nakon glagola ili izraza koji zahtijeva prijedlog bi.",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَبِّكُمْ ۖ",
+      "translation_bh": "(u) Gospodar vaš",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "رَبَّ → imenica “Gospodar” u akuzativu (mansūb)\nZavršava na ـَ (a) zbog akuzativa\nهُمَا → zamjenica -humā = “njih dvoje” (3. lice dvojine)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّهُمَا",
+      "translation_bh": "Gospodara svoga / njihova",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّى ۚ",
+      "translation_bh": "Gospodar moj",
+      "translation_en": "my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبُّهُم",
+      "translation_bh": "Gospodar njihov",
+      "translation_en": "Their Lord gives them glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِۦ ۖ",
+      "translation_bh": "njegovog Gospodara",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبُّكُمُ",
+      "translation_bh": "vaš Gospodar",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبِّىٓ",
+      "translation_bh": "Gospodara mi moga",
+      "translation_en": "by my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبَّهُۥ",
+      "translation_bh": "Gospodara njegova",
+      "translation_en": "(to) his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبِّكُم ۚ",
+      "translation_bh": "i vaš Gospodar",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبَّهُمْ ۗ",
+      "translation_bh": "Gospodara njihovog / njihova",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "رَبِّكَ ۖ",
+      "translation_bh": "Gospodara tvoga",
+      "translation_en": "(of) your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبُّكَ ۚ",
+      "translation_bh": "Gospodar tvoj",
+      "translation_en": "what your Lord wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبُّكَ ۖ",
+      "translation_bh": "Gospodar tvoj",
+      "translation_en": "what your Lord wills "
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبِّهِۦ ۚ",
+      "translation_bh": "Gospodara svoga / njegova",
+      "translation_en": "(of) his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبِّىٓ ۚ",
+      "translation_bh": "Gospodar moj",
+      "translation_en": "my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَأَرْبَابٌۭ",
+      "translation_bh": "da li su božanstva",
+      "translation_en": "Are lords"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبِّىٓ ۖ",
+      "translation_bh": "Gospodara svoga",
+      "translation_en": "(from) my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ رَبِّ",
+      "translation_bh": "Gospodaru moj",
+      "translation_en": "My Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِرَبِّهِمْ ۖ",
+      "translation_bh": "u Gospodara svoga / njihova",
+      "translation_en": "in their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِۦٓ ۗ",
+      "translation_bh": "Gospodar njegov",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَّبُّ",
+      "translation_bh": "Gospodar",
+      "translation_en": "(is) the Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِرَبِّهِمُ",
+      "translation_bh": "(pripadnost) Gospodaru svome / njihovom",
+      "translation_en": "to their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِۦ ۗ",
+      "translation_bh": "Gospodar njegov",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّهَا ۗ",
+      "translation_bh": "njenog Gospodara",
+      "translation_en": "of its Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَوَرَبِّكَ",
+      "translation_bh": "I/pa tako Mi Gospodara tvoga",
+      "translation_en": "So by your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّكُمْ ۙ",
+      "translation_bh": "Gospodar vaš",
+      "translation_en": "has your Lord sent down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّكُمْ ۚ",
+      "translation_bh": "Gospodar vaš",
+      "translation_en": "has your Lord sent down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبِّكَ ۚ",
+      "translation_bh": "Gospodara tvoga",
+      "translation_en": "(of) your Lord"
+    },
+    {
+      "description_bh": "رَبِّ → imenica “Gospodar” u genitivu\nZavršava na ـِ (i) zbog genitiva\nكِ → zamjenica = “tvoj” (2. lice jednine, ženski rod)",
+      "lemma": "رَبّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَبِّكِ",
+      "translation_bh": "Gospodara tvoga (ž.r)",
+      "translation_en": "(of) your Lord"
+    },
+    {
+      "description_bh": "بِـ → prijedlog, znači “po, s, kod”\nPrijedlog uvijek traži genitiv (majrūr)\nرَبِّ → imenica “Gospodar” u genitivu zbog prijedloga\nكَ → zamjenica = “tvoj” (2. lice jednine muškog roda)",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِرَبِّكَ",
+      "translation_bh": "(sa/kod) Gospodar tvoj",
+      "translation_en": "(is) your Lord"
+    },
+    {
+      "description_bh": "لِـ ovdje pokazuje odnos ili pripadnost:\n17:27 - Šejtan je nezahvalan prema svom Gospodaru, tj. njegovo stanje (kafūr) se odnosi na Gospodara.\nGramatički, prijedlog l i genitiv označava da radnja ili svojstvo ide u pravcu ili je vezano za nekoga.\nBez li, imenica bi stajala u nominativu ili akuzativu i izgubila bi precizno značenje pripadnosti ili “usmjerenosti prema”.\nSlično i kod ajeta 100:6 (samo se odnosi za čovjeka)",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِرَبِّهِۦ",
+      "translation_bh": "(prema) Gospodaru svome / njegovom",
+      "translation_en": "to his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّهِمُ",
+      "translation_bh": "Gospodaru svome / njihovom",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبُّكُمُ",
+      "translation_bh": "Gospodar vaš",
+      "translation_en": "Your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرَبُّكُمْ",
+      "translation_bh": "a/pa Gospodar vaš",
+      "translation_en": "but your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَّبِّكَ ۚ",
+      "translation_bh": "Gospodara tvoga",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبِّنَآ",
+      "translation_bh": "Gospodara našeg",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبُّهُمْ",
+      "translation_bh": "Gospodar njihov",
+      "translation_en": "Their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَّبِّىٓ",
+      "translation_bh": "Gospodar moj",
+      "translation_en": "My Lord"
+    },
+    {
+      "description_bh": "بِـ “sa, u, prema, kod, u vezi s” (dolazi jer se prepisuje neko nečemu)\n",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِرَبِّىٓ",
+      "translation_bh": "Gospodaru svome",
+      "translation_en": "with my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّهِۦٓ ۗ",
+      "translation_bh": "Gospodara njegova / svoga",
+      "translation_en": "(of) his Lord"
+    },
+    {
+      "description_bh": "هُمَا → zamjenica za 3. lice dvojine (“njih dvoje”)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّهُمَا",
+      "translation_bh": "Gospodar njihov (dvoje)",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّى ۖ",
+      "translation_bh": "Gospodar moj",
+      "translation_en": "my Lord"
+    },
+    {
+      "description_bh": "كِ → zamjenica = “tvoj” (2. lice jednine, ženski rod)",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبُّكِ",
+      "translation_bh": "Gospodar tvoj (ž.r)",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "كُمَا → zamjenica za 2. lice dvojine (“vaš dvoje”).",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبُّكُمَا",
+      "translation_bh": "Gospodar vaš",
+      "translation_en": "(is) your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَبِّنَا",
+      "translation_bh": "Gospodara našeg",
+      "translation_en": "in our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِۦٓ ۚ",
+      "translation_bh": "Gospodara njegova",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِم",
+      "translation_bh": "Gospodara njihova",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَبَّهُۥٓ",
+      "translation_bh": "Gospodaru njegovom",
+      "translation_en": "(to) his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبُّنَا",
+      "translation_bh": "i/a Gospodar naš",
+      "translation_en": "And our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبَّكُمْ ۚ",
+      "translation_bh": "vašeg Gospodara",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبِّهِۦ ۗ",
+      "translation_bh": "Gospodara njegova",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَرَبُّ",
+      "translation_bh": "i Gospodar",
+      "translation_en": "and (the) Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّهِۦٓ ۚ",
+      "translation_bh": "Gospodara njegova",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّنَا ۗ",
+      "translation_bh": "Gospodara svoga",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "يَـٰ - dozivanje",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "يَـٰرَبِّ",
+      "translation_bh": "O Gospodaru moj",
+      "translation_en": "O my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّنَآ",
+      "translation_bh": "Gospodara svoga",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرَبِّى",
+      "translation_bh": "tako mi Gospodara moga",
+      "translation_en": "by my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبٌّ",
+      "translation_bh": "i Gospodar",
+      "translation_en": "and a Lord"
+    },
+    {
+      "description_bh": "رَبٍّ\ngenitiv (majrūr)\nposle prijedloga\n“Gospodara / Gospodaru”",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبٍّۢ",
+      "translation_bh": "Gospodara",
+      "translation_en": "a Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبِّنَآ ۖ",
+      "translation_bh": "Gospodara svoga",
+      "translation_en": "(of) our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبَّ",
+      "translation_bh": "i Gospodara",
+      "translation_en": "and (the) Lord"
+    },
+    {
+      "description_bh": "أَ - upitna čestica “zar”, “da li” - koristi se na početku pitanja\nلِـ - prijedlog “za”, “radi”, “od strane” - traži genitiv oblik iza sebe\nرَبِّكَ\tرَبّ + كَ - “tvoj Gospodar” - imenica u genitivu + zamjenica “tvoj”",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَلِرَبِّكَ",
+      "translation_bh": "zar su za Gospodara tvoga",
+      "translation_en": "Does your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّكُم",
+      "translation_bh": "Gospodar vaš",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "هَا “njezino / njezin” - zamjenica za 3. lice, ženski rod, jednina (ona / njezina)",
+      "lemma": "رَبّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَبِّهَا",
+      "translation_bh": "Gospodara svoga / njenog",
+      "translation_en": "(of) its Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّهُۥٓ ۖ",
+      "translation_bh": "Gospodara njegova",
+      "translation_en": "his Lord"
+    },
+    {
+      "description_bh": "بِـ\nprijedlog bi\nznači “s”, “u”, “kod”, “pomoću”",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِرَبِّى",
+      "translation_bh": "kod Gospodara svoga",
+      "translation_en": "in my Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبِّكُم",
+      "translation_bh": "i vašem Gospodaru",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبُّكُمْ ۖ",
+      "translation_bh": "i vašeg Gospodara",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "لِـ prijedlog znači “za”, “ka”, “prema”, “svome”",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِرَبِّكُم",
+      "translation_bh": "(prema/ka) Gospodaru svome",
+      "translation_en": "to your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَّبَّنَا",
+      "translation_bh": "Gospodaru naš",
+      "translation_en": "Our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبِّكُمْ",
+      "translation_bh": "i vašem Gospodaru",
+      "translation_en": "and your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبِّ",
+      "translation_bh": "Gospodaru",
+      "translation_en": "and (the) Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِمْ ۙ",
+      "translation_bh": "Gospodara njihova",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِمْ ۚ",
+      "translation_bh": "Gospodara njihova",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّهُمْ ۚ",
+      "translation_bh": "Gospodar njihov",
+      "translation_en": "their Lord has given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَوَرَبِّ",
+      "translation_bh": "i tako Mi Gospodara",
+      "translation_en": "Then by (the) Lord"
+    },
+    {
+      "description_bh": "كِ → zamjenica = “tvoj” (2. lice jednine, ženski rod)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّكِ ۖ",
+      "translation_bh": "tvoj Gospodar (ž.r)",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَبِّهِ",
+      "translation_bh": "Gospodara svoga / njegova",
+      "translation_en": "(of) his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّهِمُ",
+      "translation_bh": "Gospodara/u njihova/og",
+      "translation_en": "their Lord"
+    },
+    {
+      "description_bh": "كُمَا - zamjenica za “vas dvoje” (2. lice dvojina, muški ili ženski) - “vaša” / “vašeg” / “vašem”",
+      "lemma": "رَبّ",
+      "occurrences": 31,
+      "part_of_speech": "N",
+      "text": "رَبِّكُمَا",
+      "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+      "translation_en": "(of) your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّنَآ ۖ",
+      "translation_bh": "Gospodara našeg",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبَّكُمْ ۖ",
+      "translation_bh": "Gospodara vašeg",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَبُّنَآ",
+      "translation_bh": "Gospodar naš",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "بِـ “sa, u, prema, kod, u vezi s” (dolazi jer se prepisuje neko nečemu)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَبِّنَآ",
+      "translation_bh": "Gospodaru našem",
+      "translation_en": "with our Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَبِّهِۦ",
+      "translation_bh": "u svoga/njegova Gospodara",
+      "translation_en": "in his Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَبَّكَ",
+      "translation_bh": "i tvog Gospodara",
+      "translation_en": "And your Lord"
+    },
+    {
+      "description_bh": "بِـ “sa, u, prema, kod, u vezi s” (dolazi jer se prepisuje neko nečemu)",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِرَبِّكَ",
+      "translation_bh": "radi/za Gospodara svoga",
+      "translation_en": "And for your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّبِّنَا",
+      "translation_bh": "Gospodara našeg",
+      "translation_en": "our Lord"
+    },
+    {
+      "description_bh": "لِ - pripadnost / pokornost / poslušnost",
+      "lemma": "رَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِرَبِّهَا",
+      "translation_bh": "(pokorila se) Gospodara svoga",
+      "translation_en": "to its Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِرَبِّكَ",
+      "translation_bh": "(pripadnost) Gospodaru svome",
+      "translation_en": "to your Lord"
+    }
+  ]
+}

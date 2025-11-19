@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 791,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُبْلِس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبْلِسُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بلس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُبْلِس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّبْلِسُونَ",
+      "translation_bh": "",
+      "translation_en": "(were) dumbfounded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْلِس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُبْلِسُونَ",
+      "translation_bh": "",
+      "translation_en": "(will be in) despair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبْلِسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبْلِسُ",
+      "translation_bh": "",
+      "translation_en": "will (be in) despair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْلِس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمُبْلِسِينَ",
+      "translation_bh": "",
+      "translation_en": "surely in despair"
+    }
+  ]
+}

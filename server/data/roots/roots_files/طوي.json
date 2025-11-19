@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 828,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "طُوًى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَطْوِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَىّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْوِيَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طوي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "طُوًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طُوًۭى",
+      "translation_bh": "",
+      "translation_en": "(of) Tuwa"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَطْوِي",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَطْوِى",
+      "translation_bh": "",
+      "translation_en": "We will fold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَطَىِّ",
+      "translation_bh": "",
+      "translation_en": "like (the) folding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْوِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَطْوِيَّـٰتٌۢ",
+      "translation_bh": "",
+      "translation_en": "(will be) folded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُوًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طُوًى",
+      "translation_bh": "",
+      "translation_en": "(of) Tuwa"
+    }
+  ]
+}

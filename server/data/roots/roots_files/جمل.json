@@ -1,0 +1,117 @@
+{
+  "description_bh": "",
+  "id": 562,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَمَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُمْلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِمالَت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جمل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَمَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَمَلُ",
+      "translation_bh": "",
+      "translation_en": "the camel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمِيلٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) beautiful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمِيلٌ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) beautiful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَمِيلَ",
+      "translation_bh": "",
+      "translation_en": "gracious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمَالٌ",
+      "translation_bh": "",
+      "translation_en": "(is) beauty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جُمْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جُمْلَةًۭ",
+      "translation_bh": "",
+      "translation_en": "all at once"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "جَمِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَمِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَمِيلًا",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِمالَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جِمَـٰلَتٌۭ",
+      "translation_bh": "",
+      "translation_en": "camels"
+    }
+  ]
+}

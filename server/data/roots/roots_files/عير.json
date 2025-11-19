@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 982,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عِير",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عير",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعِيرُ",
+      "translation_bh": "",
+      "translation_en": "(in) the caravan"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعِيرَ",
+      "translation_bh": "",
+      "translation_en": "and the caravan"
+    }
+  ]
+}

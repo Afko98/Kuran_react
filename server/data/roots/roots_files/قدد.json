@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 814,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قُدَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِدَد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قدد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قُدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَدَّتْ",
+      "translation_bh": "",
+      "translation_en": "and she tore"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "قُدَّ",
+      "translation_bh": "",
+      "translation_en": "(is) torn"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِدَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِدَدًۭا",
+      "translation_bh": "",
+      "translation_en": "different"
+    }
+  ]
+}

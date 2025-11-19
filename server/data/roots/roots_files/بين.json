@@ -1,0 +1,1124 @@
+{
+  "description_bh": "",
+  "id": 11,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَيِّنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْتَبِينَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تِبْيان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَبِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبِينُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بين",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 70,
+      "part_of_speech": "N",
+      "text": "بَيْنَ",
+      "translation_bh": "",
+      "translation_en": "(in) front"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُبَيِّن",
+      "translation_bh": "",
+      "translation_en": "to make clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْبَيِّنَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "[the] clear signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 21,
+      "part_of_speech": "N",
+      "text": "بِٱلْبَيِّنَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "with [the] clear signs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيِّنَـٰتٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "تَبَيَّنَ",
+      "translation_bh": "",
+      "translation_en": "became clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 25,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "بَيَّنَّا",
+      "translation_bh": "",
+      "translation_en": "We have made clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَيَّنَّـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We made clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَيَّنُوا۟",
+      "translation_bh": "",
+      "translation_en": "and openly declar[ed]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "مُّبِينٌ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيِّنَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "and clear proofs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَتَبَيَّنَ",
+      "translation_bh": "",
+      "translation_en": "becomes distinct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 12,
+      "part_of_speech": "V",
+      "text": "يُبَيِّنُ",
+      "translation_bh": "",
+      "translation_en": "makes clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بَيْنَكُم",
+      "translation_bh": "",
+      "translation_en": "among yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 32,
+      "part_of_speech": "N",
+      "text": "مُّبِينٌۭ",
+      "translation_bh": "",
+      "translation_en": "open"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْبَيِّنَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "(from) the clear proofs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيِّنَةٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "among themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُبَيِّنُ",
+      "translation_bh": "",
+      "translation_en": "And He makes clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَيِّنُهَا",
+      "translation_bh": "",
+      "translation_en": "He makes them clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُم",
+      "translation_bh": "",
+      "translation_en": "between themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَيْنَكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "among you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَّبَيَّنَ",
+      "translation_bh": "",
+      "translation_en": "has become distinct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَّيْنَكُمْ",
+      "translation_bh": "",
+      "translation_en": "between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "بَيْنَكُمْ",
+      "translation_bh": "",
+      "translation_en": "among you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "among them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنَهَا",
+      "translation_bh": "",
+      "translation_en": "between itself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and between it (evil)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "بَيْنَنَا",
+      "translation_bh": "",
+      "translation_en": "between us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and between you "
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَيِّنَـٰتُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the clear proofs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيِّنَـٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيَانٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a declaration"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "مُّبِينٍ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتُبَيِّنُنَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "You certainly make it clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَيِّنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّبَيِّنَةٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "open"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "مُّبِينًۭا",
+      "translation_bh": "",
+      "translation_en": "open"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لِيُبَيِّنَ",
+      "translation_bh": "",
+      "translation_en": "to make clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنِهِمَا",
+      "translation_bh": "",
+      "translation_en": "between (the) two of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمَآ ۗ",
+      "translation_bh": "",
+      "translation_en": "between both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّبِينًا",
+      "translation_bh": "",
+      "translation_en": "manifest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and between him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَهُم",
+      "translation_bh": "",
+      "translation_en": "and between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَبَيَّنُوا۟",
+      "translation_bh": "",
+      "translation_en": "then investigate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَبَيَّنُوٓا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "so investigate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمَا",
+      "translation_bh": "",
+      "translation_en": "between themselves "
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمُ",
+      "translation_bh": "",
+      "translation_en": "between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمَا ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) between both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمَا ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَ",
+      "translation_bh": "",
+      "translation_en": "and between"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُبَيِّنُ",
+      "translation_bh": "",
+      "translation_en": "We make clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنَكُمُ",
+      "translation_bh": "",
+      "translation_en": "between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ٱلْمُبِينُ",
+      "translation_bh": "",
+      "translation_en": "clearly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنِكُمْ",
+      "translation_bh": "",
+      "translation_en": "among you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "بَيْنِى",
+      "translation_bh": "",
+      "translation_en": "between me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنِنَآ ۗ",
+      "translation_bh": "",
+      "translation_en": "among us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْتَبِينَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتَسْتَبِينَ",
+      "translation_bh": "",
+      "translation_en": "so that becomes manifest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "بَيِّنَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "clear proof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 25,
+      "part_of_speech": "N",
+      "text": "مُّبِينٍۢ",
+      "translation_bh": "",
+      "translation_en": "Clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِنُبَيِّنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and that We (may) make it clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَيِّنَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "clear proofs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "بَيْنِ",
+      "translation_bh": "",
+      "translation_en": "before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَهُمَا",
+      "translation_bh": "",
+      "translation_en": "And between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنَنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "between us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِبَيِّنَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "with a clear Sign"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(which is) between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱلْبَيِّنَـٰتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "with clear proofs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَيِّنَ",
+      "translation_bh": "",
+      "translation_en": "He makes clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيِّنَـٰتٍۢ ۙ",
+      "translation_bh": "",
+      "translation_en": "(as) clear proofs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْمُبِينِ",
+      "translation_bh": "",
+      "translation_en": "[the] clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَبَيَّنَ",
+      "translation_bh": "",
+      "translation_en": "and it had become clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمَآ",
+      "translation_bh": "",
+      "translation_en": "(is) between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِتُبَيِّنَ",
+      "translation_bh": "",
+      "translation_en": "that you may make clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تِبْيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تِبْيَـٰنًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a clarification"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَيُبَيِّنَنَّ",
+      "translation_bh": "",
+      "translation_en": "And He will make clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنَكَ",
+      "translation_bh": "",
+      "translation_en": "between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيِّنٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنِكَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "from among them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "بَيِّنَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكَ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيِّنَةُ",
+      "translation_bh": "",
+      "translation_en": "evidence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّنُبَيِّنَ",
+      "translation_bh": "",
+      "translation_en": "that We may make clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّبَيِّنَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّبَيِّنَـٰتٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُمَآ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيِّنَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(as) evidence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّبَيِّنَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبَيَّنَتِ",
+      "translation_bh": "",
+      "translation_en": "became clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيِّنَتٍۢ",
+      "translation_bh": "",
+      "translation_en": "a clear proof"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُبِينٌۭ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَبِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَبِينَ",
+      "translation_bh": "",
+      "translation_en": "the clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنِنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "among us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَيْنِنَا",
+      "translation_bh": "",
+      "translation_en": "and between us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنِكَ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنَكُمُ ۖ",
+      "translation_bh": "",
+      "translation_en": "between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكُمُ ۖ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنَنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "[between] us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُبِينٍۢ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبِينُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبِينُ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيَّنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِأُبَيِّنَ",
+      "translation_bh": "",
+      "translation_en": "and that I make clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَيَّنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَبَيَّنُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "investigate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَيَانَ",
+      "translation_bh": "",
+      "translation_en": "[the] speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيِّنَـٰتٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَيْنَكُمُ",
+      "translation_bh": "",
+      "translation_en": "and between you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَيِّنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُبَيِّنَـٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "clear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيْنَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "between them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَيَانَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(is) its explanation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَيِّنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَيِّنَةُ",
+      "translation_bh": "",
+      "translation_en": "the clear evidence"
+    }
+  ]
+}

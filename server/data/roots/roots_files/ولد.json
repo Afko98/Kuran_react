@@ -1,0 +1,631 @@
+{
+  "description_bh": "",
+  "id": 113,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ولد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَبِٱلْوَٰلِدَيْنِ",
+      "translation_bh": "",
+      "translation_en": "and with [the] parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَلَدًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "a son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْوَٰلِدَيْنِ",
+      "translation_bh": "",
+      "translation_en": "for the parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَلِلْوَٰلِدَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(is) for parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ وَٱلْوَٰلِدَٰتُ",
+      "translation_bh": "",
+      "translation_en": "And the mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "their children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْلُودِ",
+      "translation_bh": "",
+      "translation_en": "the father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٰلِدَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "(the) mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِوَلَدِهَا",
+      "translation_bh": "",
+      "translation_en": "because of her child"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلُودٌۭ",
+      "translation_bh": "",
+      "translation_en": "(the) father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِوَلَدِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "because of his child"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your child"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدُهُم",
+      "translation_bh": "",
+      "translation_en": "their children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "وَلَدٌۭ",
+      "translation_bh": "",
+      "translation_en": "a boy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْوَٰلِدَانِ",
+      "translation_bh": "",
+      "translation_en": "(by) the parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your children "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَلَدٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "a child"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْوِلْدَٰنِ",
+      "translation_bh": "",
+      "translation_en": "and the children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوِلْدَٰنِ",
+      "translation_bh": "",
+      "translation_en": "the children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوَٰلِدَيْنِ",
+      "translation_bh": "",
+      "translation_en": "the parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَدٌۭ ۘ",
+      "translation_bh": "",
+      "translation_en": "a son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٰلِدَتِكَ",
+      "translation_bh": "",
+      "translation_en": "your mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدِهِمْ",
+      "translation_bh": "",
+      "translation_en": "(of) their children "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدَكُم",
+      "translation_bh": "",
+      "translation_en": "your children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَأَوْلَـٰدُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَأَوْلَـٰدًۭا",
+      "translation_bh": "",
+      "translation_en": "and children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَوْلَـٰدُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and their children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَأَلِدُ",
+      "translation_bh": "",
+      "translation_en": "Shall I bear a child"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَدًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) a son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَلِوَٰلِدَىَّ",
+      "translation_bh": "",
+      "translation_en": "and my parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَوْلَـٰدِ",
+      "translation_bh": "",
+      "translation_en": "and the children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "وَلَدًۭا",
+      "translation_bh": "",
+      "translation_en": "a son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَوَلَدًۭا",
+      "translation_bh": "",
+      "translation_en": "and children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَي",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِوَٰلِدَيْهِ",
+      "translation_bh": "",
+      "translation_en": "to his parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وُلِدَ",
+      "translation_bh": "",
+      "translation_en": "he was born"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِوَٰلِدَتِى",
+      "translation_bh": "",
+      "translation_en": "to my mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وُلِدتُّ",
+      "translation_bh": "",
+      "translation_en": "I was born"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَدٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "any son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَوَلَدًا",
+      "translation_bh": "",
+      "translation_en": "and children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَدًا",
+      "translation_bh": "",
+      "translation_en": "a son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَدٍۢ",
+      "translation_bh": "",
+      "translation_en": "son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a child"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٰلِدَىَّ",
+      "translation_bh": "",
+      "translation_en": "my parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِوَٰلِدَيْكَ",
+      "translation_bh": "",
+      "translation_en": "and to your parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَالِدٌ",
+      "translation_bh": "",
+      "translation_en": "a father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَدِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْلُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْلُودٌ",
+      "translation_bh": "",
+      "translation_en": "a son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَالِدِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his father"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدُكُم",
+      "translation_bh": "",
+      "translation_en": "your children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَلَدَ",
+      "translation_bh": "",
+      "translation_en": "Allah has begotten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِدَي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِوَٰلِدَيْهِ",
+      "translation_bh": "",
+      "translation_en": "to his parents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وِلْدَٰنٌۭ",
+      "translation_bh": "",
+      "translation_en": "boys"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَوْلَـٰدِ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَدْنَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "gave them birth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدُكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْلَـٰدُكُمْ",
+      "translation_bh": "",
+      "translation_en": "your children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَوْلَـٰدِكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَوَلَدُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and his children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلِدُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they will beget"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوِلْدَٰنَ",
+      "translation_bh": "",
+      "translation_en": "the children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "والِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَوَالِدٍۢ",
+      "translation_bh": "",
+      "translation_en": "And the begetter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلِدْ",
+      "translation_bh": "",
+      "translation_en": "He begets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَلَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُولَدْ",
+      "translation_bh": "",
+      "translation_en": "He is begotten"
+    }
+  ]
+}

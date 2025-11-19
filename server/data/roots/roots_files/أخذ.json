@@ -1,0 +1,1360 @@
+{
+  "description_bh": "",
+  "id": 35,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتِّخاذ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤاخِذُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِذ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّخِذ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْذ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أخذ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤْخَذُ",
+      "translation_bh": "",
+      "translation_en": "will be taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذْتُمُ",
+      "translation_bh": "",
+      "translation_en": "you took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتِّخاذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱتِّخَاذِكُمُ",
+      "translation_bh": "",
+      "translation_en": "by your taking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخَذَتْكُمُ",
+      "translation_bh": "",
+      "translation_en": "So seized you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "أَخَذْنَا",
+      "translation_bh": "",
+      "translation_en": "We took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "خُذُوا۟",
+      "translation_bh": "",
+      "translation_en": "Hold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَتَّخِذُنَا",
+      "translation_bh": "",
+      "translation_en": "Do you take us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَّخَذْتُمْ",
+      "translation_bh": "",
+      "translation_en": "Have you taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 15,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذَ",
+      "translation_bh": "",
+      "translation_en": "has taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّخِذُوا۟",
+      "translation_bh": "",
+      "translation_en": "and (said), \"Take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذُ",
+      "translation_bh": "",
+      "translation_en": "takes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَخَذَتْهُ",
+      "translation_bh": "",
+      "translation_en": "takes him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤاخِذُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤَاخِذُكُمُ",
+      "translation_bh": "",
+      "translation_en": "will take you to task"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤاخِذُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤَاخِذُكُم",
+      "translation_bh": "",
+      "translation_en": "He takes you to task"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْخُذُوا۟",
+      "translation_bh": "",
+      "translation_en": "you take (back)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَتَّخِذُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْخُذُهُۥ",
+      "translation_bh": "",
+      "translation_en": "overtakes Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَخُذْ",
+      "translation_bh": "",
+      "translation_en": "Then take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔاخِذِيهِ",
+      "translation_bh": "",
+      "translation_en": "take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤاخِذُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤَاخِذْنَآ",
+      "translation_bh": "",
+      "translation_en": "take us to task"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "فَأَخَذَهُمُ",
+      "translation_bh": "",
+      "translation_en": "so seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذِ",
+      "translation_bh": "",
+      "translation_en": "take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذَ",
+      "translation_bh": "",
+      "translation_en": "take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "تَتَّخِذُوا۟",
+      "translation_bh": "",
+      "translation_en": "you take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "أَخَذَ",
+      "translation_bh": "",
+      "translation_en": "took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخَذْتُمْ",
+      "translation_bh": "",
+      "translation_en": "and take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَّخِذَ",
+      "translation_bh": "",
+      "translation_en": "and take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَأْخُذُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "Would you take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْخُذُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "could you take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخَذْنَ",
+      "translation_bh": "",
+      "translation_en": "and they have taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّخِذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَّخِذَٰتِ",
+      "translation_bh": "",
+      "translation_en": "those who take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَخُذُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "seize them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَأْخُذُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and let them take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَأْخُذُوا۟",
+      "translation_bh": "",
+      "translation_en": "and let them take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخُذُوا۟",
+      "translation_bh": "",
+      "translation_en": "but take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأَتَّخِذَنَّ",
+      "translation_bh": "",
+      "translation_en": "I will surely take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱتَّخَذَ",
+      "translation_bh": "",
+      "translation_en": "And was taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذُونَ",
+      "translation_bh": "",
+      "translation_en": "take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذُوا۟",
+      "translation_bh": "",
+      "translation_en": "they take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "فَأَخَذَتْهُمُ",
+      "translation_bh": "",
+      "translation_en": "so struck them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 17,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذُوا۟",
+      "translation_bh": "",
+      "translation_en": "they took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَأَخَذْنَا",
+      "translation_bh": "",
+      "translation_en": "And We took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَخْذِهِمُ",
+      "translation_bh": "",
+      "translation_en": "And for their taking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّخِذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَّخِذِىٓ",
+      "translation_bh": "",
+      "translation_en": "ones (who are) taking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَخُذُوهُ",
+      "translation_bh": "",
+      "translation_en": "[so] take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذُوهَا",
+      "translation_bh": "",
+      "translation_en": "they take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "they (would have) taken them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخِذُونِى",
+      "translation_bh": "",
+      "translation_en": "Take me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَّخِذُ",
+      "translation_bh": "",
+      "translation_en": "I (should) take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَأَخَذْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "then We seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَخَذْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "We seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤْخَذْ",
+      "translation_bh": "",
+      "translation_en": "will it be taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَتَّخِذُ",
+      "translation_bh": "",
+      "translation_en": "Do you take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَيَأْخُذَكُمْ",
+      "translation_bh": "",
+      "translation_en": "lest seizes you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَتَّخِذُونَ",
+      "translation_bh": "",
+      "translation_en": "You take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَخَذْنَآ",
+      "translation_bh": "",
+      "translation_en": "We seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَخُذْهَا",
+      "translation_bh": "",
+      "translation_en": "So take them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْخُذُوا۟",
+      "translation_bh": "",
+      "translation_en": "(to) take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذُوهُ",
+      "translation_bh": "",
+      "translation_en": "(will) they take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذُوهُ",
+      "translation_bh": "",
+      "translation_en": "They took it (for worship)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَخَذَ",
+      "translation_bh": "",
+      "translation_en": "and seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَذَتْهُمُ",
+      "translation_bh": "",
+      "translation_en": "seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْخُذُونَ",
+      "translation_bh": "",
+      "translation_en": "taking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْخُذُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "they will take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خُذِ",
+      "translation_bh": "",
+      "translation_en": "Hold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَذْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you took "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخِذَ",
+      "translation_bh": "",
+      "translation_en": "was taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخُذُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "and seize them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "They have taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَّخِذُ",
+      "translation_bh": "",
+      "translation_en": "and takes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خُذْ",
+      "translation_bh": "",
+      "translation_en": "Take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَأْخُذُ",
+      "translation_bh": "",
+      "translation_en": "and takes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَذَتِ",
+      "translation_bh": "",
+      "translation_en": "takes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاخِذٌۢ",
+      "translation_bh": "",
+      "translation_en": "has grasp"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّخَذْتُمُوهُ",
+      "translation_bh": "",
+      "translation_en": "And you have taken Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخَذَتِ",
+      "translation_bh": "",
+      "translation_en": "And seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخْذُ",
+      "translation_bh": "",
+      "translation_en": "(is) the seizure (of) your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخْذَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "His seizure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَتَّخِذَهُۥ",
+      "translation_bh": "",
+      "translation_en": "we will take him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَأْخُذَ",
+      "translation_bh": "",
+      "translation_en": "take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّأْخُذَ",
+      "translation_bh": "",
+      "translation_en": "we take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَٱتَّخَذْتُم",
+      "translation_bh": "",
+      "translation_en": "Have you then taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَخَذْتُهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "I seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْخُذَهُمْ",
+      "translation_bh": "",
+      "translation_en": "that He may seize them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤاخِذُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤَاخِذُ",
+      "translation_bh": "",
+      "translation_en": "Allah were to seize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخِذِى",
+      "translation_bh": "",
+      "translation_en": "Take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّٱتَّخَذُوكَ",
+      "translation_bh": "",
+      "translation_en": "surely they would take you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذْ",
+      "translation_bh": "",
+      "translation_en": "has not taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَتَّخِذَنَّ",
+      "translation_bh": "",
+      "translation_en": "Surely we will take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَتَتَّخِذُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "Will you then take him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّخِذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَّخِذَ",
+      "translation_bh": "",
+      "translation_en": "the One to take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱتَّخَذُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And they take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤاخِذُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤَاخِذُهُم",
+      "translation_bh": "",
+      "translation_en": "He were to seize them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّخَذَ",
+      "translation_bh": "",
+      "translation_en": "and it took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُؤاخِذُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤَاخِذْنِى",
+      "translation_bh": "",
+      "translation_en": "blame me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَّخَذْتَ",
+      "translation_bh": "",
+      "translation_en": "surely you (could) have taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْخُذُ",
+      "translation_bh": "",
+      "translation_en": "who seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَّخِذَ",
+      "translation_bh": "",
+      "translation_en": "you take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّخَذَتْ",
+      "translation_bh": "",
+      "translation_en": "Then she took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَٱتَّخَذُوا۟",
+      "translation_bh": "",
+      "translation_en": "And they have taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خُذْهَا",
+      "translation_bh": "",
+      "translation_en": "Seize it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْخُذْهُ",
+      "translation_bh": "",
+      "translation_en": "will take him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْخُذْ",
+      "translation_bh": "",
+      "translation_en": "seize (me)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَّتَّخِذَ",
+      "translation_bh": "",
+      "translation_en": "We take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّٱتَّخَذْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "surely We (could have) taken it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَّخِذُونَكَ",
+      "translation_bh": "",
+      "translation_en": "they take you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَذْتُهَا",
+      "translation_bh": "",
+      "translation_en": "I seized it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّخَذْتُمُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "But you took them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْخُذْكُم",
+      "translation_bh": "",
+      "translation_en": "withhold you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذْتُ",
+      "translation_bh": "",
+      "translation_en": "I had taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَّخِذْ",
+      "translation_bh": "",
+      "translation_en": "I had taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذْتَ",
+      "translation_bh": "",
+      "translation_en": "you take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَتَّخِذُونَ",
+      "translation_bh": "",
+      "translation_en": "And take for yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَخَذَهُمْ",
+      "translation_bh": "",
+      "translation_en": "so seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَأَخَذْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "So We seized him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذْتُم",
+      "translation_bh": "",
+      "translation_en": "you have taken"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذَتْ",
+      "translation_bh": "",
+      "translation_en": "who takes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَّخِذَهَا",
+      "translation_bh": "",
+      "translation_en": "and takes it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُخِذُوا۟",
+      "translation_bh": "",
+      "translation_en": "they are seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُخِذُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they will be seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّخِذُوهُ",
+      "translation_bh": "",
+      "translation_en": "so take him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَذْتُ",
+      "translation_bh": "",
+      "translation_en": "I seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَأَتَّخِذُ",
+      "translation_bh": "",
+      "translation_en": "Should I take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْخُذُهُمْ",
+      "translation_bh": "",
+      "translation_en": "it will seize them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخُذْ",
+      "translation_bh": "",
+      "translation_en": "And take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَّخَذْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "Did we take them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَأْخُذُوهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "to seize him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخَذْتُهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "So I seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخَذَتْهُمْ",
+      "translation_bh": "",
+      "translation_en": "so seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَتَّخِذَ",
+      "translation_bh": "",
+      "translation_en": "so that may take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخَذْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "and We seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خُذُوهُ",
+      "translation_bh": "",
+      "translation_en": "Seize him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذَهَا",
+      "translation_bh": "",
+      "translation_en": "he takes them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّخَذْتُمْ",
+      "translation_bh": "",
+      "translation_en": "took"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَأْخُذُوهَا",
+      "translation_bh": "",
+      "translation_en": "to take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْخُذُونَهَا ۗ",
+      "translation_bh": "",
+      "translation_en": "that they will take"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْخُذُونَهَا",
+      "translation_bh": "",
+      "translation_en": "that you will take it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاخِذِينَ",
+      "translation_bh": "",
+      "translation_en": "Taking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخَذْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "so We seized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخْذَ",
+      "translation_bh": "",
+      "translation_en": "(with) a seizure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُؤْخَذُ",
+      "translation_bh": "",
+      "translation_en": "and will be seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخْذَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(with) a seizure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأَخَذْنَا",
+      "translation_bh": "",
+      "translation_en": "Certainly We (would) have seized"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّخِذْهُ",
+      "translation_bh": "",
+      "translation_en": "so take Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخْذ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخْذًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) a seizure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَذَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَخَذَهُ",
+      "translation_bh": "",
+      "translation_en": "So seized him"
+    }
+  ]
+}

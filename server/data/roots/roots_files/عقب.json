@@ -1,0 +1,345 @@
+{
+  "description_bh": "",
+  "id": 136,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَقِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِقاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقِبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْقَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَقِّبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْبَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَقِّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقَبَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُعَقِّبْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَبَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عقب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَقِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَقِبَيْهِ ۚ",
+      "translation_bh": "",
+      "translation_en": "his heels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِقاب",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ٱلْعِقَابِ",
+      "translation_bh": "",
+      "translation_en": "(in) retribution"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقِبَة",
+      "occurrences": 26,
+      "part_of_speech": "N",
+      "text": "عَـٰقِبَةُ",
+      "translation_bh": "",
+      "translation_en": "(the) end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْقَـٰبِكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your heels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَقِبَيْهِ",
+      "translation_bh": "",
+      "translation_en": "his heels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَعْقَـٰبِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your heels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْقَابِنَا",
+      "translation_bh": "",
+      "translation_en": "our heels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقِبَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْعَـٰقِبَةُ",
+      "translation_bh": "",
+      "translation_en": "And the end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِقاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعِقَابِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(in) the retribution"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْقَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَعْقَبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "So He penalized them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقِبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَـٰقِبَةَ",
+      "translation_bh": "",
+      "translation_en": "the end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَقِّبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعَقِّبَـٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) successive (Angels)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْبَى",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "عُقْبَى",
+      "translation_bh": "",
+      "translation_en": "(is) the final attainment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِقاب",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عِقَابِ",
+      "translation_bh": "",
+      "translation_en": "My penalty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَّعُقْبَى",
+      "translation_bh": "",
+      "translation_en": "and (the) end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعَقِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعَقِّبَ",
+      "translation_bh": "",
+      "translation_en": "adjuster"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَاقَبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you retaliate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَاقِبُوا۟",
+      "translation_bh": "",
+      "translation_en": "then retaliate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُوقِبْتُم",
+      "translation_bh": "",
+      "translation_en": "you were afflicted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُقْبًۭا",
+      "translation_bh": "",
+      "translation_en": "(for) the final end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَاقَبَ",
+      "translation_bh": "",
+      "translation_en": "has retaliated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُوقِبَ",
+      "translation_bh": "",
+      "translation_en": "he was made to suffer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُعَقِّبْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُعَقِّبْ ۚ",
+      "translation_bh": "",
+      "translation_en": "look back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقِبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَـٰقِبَةَ",
+      "translation_bh": "",
+      "translation_en": "(the) end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِقاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِقَابٍ",
+      "translation_bh": "",
+      "translation_en": "(of) penalty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَقِبِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his descendents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقِبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَـٰقِبَتَهُمَآ",
+      "translation_bh": "",
+      "translation_en": "(the) end of both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقَبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَاقَبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "then your turn comes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَقَبَةَ",
+      "translation_bh": "",
+      "translation_en": "the steep path"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَقَبَةُ",
+      "translation_bh": "",
+      "translation_en": "the steep path (is)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْبَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُقْبَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "its consequences"
+    }
+  ]
+}

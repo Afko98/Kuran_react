@@ -1,0 +1,531 @@
+{
+  "description_bh": "",
+  "id": 140,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صَيِّب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيبَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَواب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صوب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صَيِّب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَصَيِّبٍۢ",
+      "translation_bh": "",
+      "translation_en": "like a rainstorm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَصَـٰبَتْهُم",
+      "translation_bh": "",
+      "translation_en": "strikes them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيبَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُّصِيبَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a misfortune"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَصَابَهُۥ",
+      "translation_bh": "",
+      "translation_en": "then fell on it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَابَهَا",
+      "translation_bh": "",
+      "translation_en": "fell on it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِبْهَا",
+      "translation_bh": "",
+      "translation_en": "fall (on) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَصَابَهُ",
+      "translation_bh": "",
+      "translation_en": "and strikes him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَصَابَهَآ",
+      "translation_bh": "",
+      "translation_en": "then falls on it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَابَتْ",
+      "translation_bh": "",
+      "translation_en": "it struck"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصِبْكُمْ",
+      "translation_bh": "",
+      "translation_en": "strikes you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَصَابَهُمْ",
+      "translation_bh": "",
+      "translation_en": "befell them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَـٰبَكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "(had) befallen you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَصَـٰبَتْكُم",
+      "translation_bh": "",
+      "translation_en": "struck you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَبْتُم",
+      "translation_bh": "",
+      "translation_en": "you (had) struck (them)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَصَـٰبَكُمْ",
+      "translation_bh": "",
+      "translation_en": "struck you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَصَابَهُمُ",
+      "translation_bh": "",
+      "translation_en": "befell them "
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيبَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّصِيبَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "disaster"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تُصِبْهُمْ",
+      "translation_bh": "",
+      "translation_en": "befalls them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَصَابَكَ",
+      "translation_bh": "",
+      "translation_en": "befalls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِيبَهُم",
+      "translation_bh": "",
+      "translation_en": "afflict them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصِيبَنَا",
+      "translation_bh": "",
+      "translation_en": "(may) strike us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَصَـٰبَتْكُم",
+      "translation_bh": "",
+      "translation_en": "then befalls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّصِيبَةُ",
+      "translation_bh": "",
+      "translation_en": "calamity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَيُصِيبُ",
+      "translation_bh": "",
+      "translation_en": "Will afflict"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَبْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "We (could) afflict them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُصِيبُ",
+      "translation_bh": "",
+      "translation_en": "I afflict"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصِيبَنَّ",
+      "translation_bh": "",
+      "translation_en": "which will afflict"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُصِبْكَ",
+      "translation_bh": "",
+      "translation_en": "befalls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُصِيبَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a calamity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِيبَنَآ",
+      "translation_bh": "",
+      "translation_en": "will befall us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِيبَكُمُ",
+      "translation_bh": "",
+      "translation_en": "Allah will afflict you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِيبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "afflict them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِيبُ",
+      "translation_bh": "",
+      "translation_en": "He causes it to reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُصِيبُهَا",
+      "translation_bh": "",
+      "translation_en": "will strike her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَابَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "will strike them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِيبَكُم",
+      "translation_bh": "",
+      "translation_en": "befalls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَصَابَ",
+      "translation_bh": "",
+      "translation_en": "befell"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُصِيبُ",
+      "translation_bh": "",
+      "translation_en": "We bestow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَيُصِيبُ",
+      "translation_bh": "",
+      "translation_en": "and strikes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصِيبُهُم",
+      "translation_bh": "",
+      "translation_en": "to strike them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَصَابَهُمْ",
+      "translation_bh": "",
+      "translation_en": "Then struck them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَابَهُۥ",
+      "translation_bh": "",
+      "translation_en": "befalls him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَابَتْهُ",
+      "translation_bh": "",
+      "translation_en": "befalls him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصِيبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "befalls them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِيبَهُمْ",
+      "translation_bh": "",
+      "translation_en": "befalls them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصِيبَهُم",
+      "translation_bh": "",
+      "translation_en": "struck them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَابَكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "befalls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيُصِيبُهُمْ",
+      "translation_bh": "",
+      "translation_en": "will strike them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصِبْكُم",
+      "translation_bh": "",
+      "translation_en": "(there) will strike you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصَـٰبَكُم",
+      "translation_bh": "",
+      "translation_en": "befalls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيبَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّصِيبَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) misfortune"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتُصِيبَكُم",
+      "translation_bh": "",
+      "translation_en": "and would befall you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَصابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُصِيبُوا۟",
+      "translation_bh": "",
+      "translation_en": "you harm"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصِيبَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّصِيبَةٍ",
+      "translation_bh": "",
+      "translation_en": "disaster"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَواب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَوَابًۭا",
+      "translation_bh": "",
+      "translation_en": "(what is) correct"
+    }
+  ]
+}

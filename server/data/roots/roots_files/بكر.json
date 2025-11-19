@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 514,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بِكْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِبْكار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُكْرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بكر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكْرٌ",
+      "translation_bh": "",
+      "translation_en": "young"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِبْكار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْإِبْكَـٰرِ",
+      "translation_bh": "",
+      "translation_en": "and (in) the morning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُكْرَة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "بُكْرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(in) the morning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُكْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُكْرَةً",
+      "translation_bh": "",
+      "translation_en": "early"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْكَارًا",
+      "translation_bh": "",
+      "translation_en": "virgins"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِكْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْكَارًۭا",
+      "translation_bh": "",
+      "translation_en": "and virgins"
+    }
+  ]
+}

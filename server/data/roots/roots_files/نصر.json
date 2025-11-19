@@ -1,0 +1,934 @@
+{
+  "description_bh": "",
+  "id": 70,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناصِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَنصَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنصُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَصِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَصَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَناصَرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نصر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "يُنصَرُونَ",
+      "translation_bh": "",
+      "translation_en": "will be helped"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّصَـٰرَىٰ",
+      "translation_bh": "",
+      "translation_en": "and the Christians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَصِيرٍ",
+      "translation_bh": "",
+      "translation_en": "any helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَصَـٰرَىٰ ۗ",
+      "translation_bh": "",
+      "translation_en": "(a) Christian[s]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنَّصَـٰرَىٰ",
+      "translation_bh": "",
+      "translation_en": "the Christians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصَـٰرَىٰ",
+      "translation_bh": "",
+      "translation_en": "Christians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَصْرُ",
+      "translation_bh": "",
+      "translation_en": "[will] (the) help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَصْرَ",
+      "translation_bh": "",
+      "translation_en": "help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱنصُرْنَا",
+      "translation_bh": "",
+      "translation_en": "and help us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنصَارٍ",
+      "translation_bh": "",
+      "translation_en": "helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنصُرْنَا",
+      "translation_bh": "",
+      "translation_en": "so help us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِنَصْرِهِۦ",
+      "translation_bh": "",
+      "translation_en": "with His help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناصِر",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "نَّـٰصِرِينَ",
+      "translation_bh": "",
+      "translation_en": "helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَنصَارِىٓ",
+      "translation_bh": "",
+      "translation_en": "(will be) my helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَنصَارُ",
+      "translation_bh": "",
+      "translation_en": "(will be the) helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرَانِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "a Christian"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَتَنصُرُنَّهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "and you must help him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَصَرَكُمُ",
+      "translation_bh": "",
+      "translation_en": "helped you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنَّصْرُ",
+      "translation_bh": "",
+      "translation_en": "[the] victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّـٰصِرِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the Helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرْكُمُ",
+      "translation_bh": "",
+      "translation_en": "helps you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنصُرُكُم",
+      "translation_bh": "",
+      "translation_en": "can help you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَنصَارٍۢ",
+      "translation_bh": "",
+      "translation_en": "helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "نَصِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a Helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "نَصِيرًا",
+      "translation_bh": "",
+      "translation_en": "(any) helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصَـٰرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "(are) Christians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّصَـٰرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "and the Christians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصَـٰرَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) Christians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرُنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "Our help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَصَرُوهُ",
+      "translation_bh": "",
+      "translation_en": "and help him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرًۭا",
+      "translation_bh": "",
+      "translation_en": "any help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنصُرُونَ",
+      "translation_bh": "",
+      "translation_en": "can they help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "(to) help you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلنَّصِيرُ",
+      "translation_bh": "",
+      "translation_en": "(is) the Helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَّنَصَرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and helped"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَنصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَنصَرُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "they seek your help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَنصُرْكُمْ",
+      "translation_bh": "",
+      "translation_en": "and give you victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْرانِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّصَـٰرَى",
+      "translation_bh": "",
+      "translation_en": "the Christians"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنصُرُوهُ",
+      "translation_bh": "",
+      "translation_en": "you help him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَصَرَهُ",
+      "translation_bh": "",
+      "translation_en": "Allah helped him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "نَصِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "a helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَنصَارِ",
+      "translation_bh": "",
+      "translation_en": "and the helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنصُرُنِى",
+      "translation_bh": "",
+      "translation_en": "would help me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تُنصَرُونَ",
+      "translation_bh": "",
+      "translation_en": "you will be helped"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرُنَا",
+      "translation_bh": "",
+      "translation_en": "Our help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنصُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنصُورًۭا",
+      "translation_bh": "",
+      "translation_en": "helped"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّصِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "helping"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنصُرُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(to) help him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنتَصِرًا",
+      "translation_bh": "",
+      "translation_en": "(he) supported"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنصُرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and support"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَصَرْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And We helped him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرَهُ",
+      "translation_bh": "",
+      "translation_en": "Allah will help him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَيَنصُرَنَّ",
+      "translation_bh": "",
+      "translation_en": "And surely Allah will help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرُهُۥٓ ۗ",
+      "translation_bh": "",
+      "translation_en": "help Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَنصُرَنَّهُ",
+      "translation_bh": "",
+      "translation_en": "Allah will surely help him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّصِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱنصُرْنِى",
+      "translation_bh": "",
+      "translation_en": "Help me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(to) help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَصِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "and a Helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرُونَكُمْ",
+      "translation_bh": "",
+      "translation_en": "they help you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنتَصِرُونَ",
+      "translation_bh": "",
+      "translation_en": "help themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنتَصَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and defend themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَنصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَنصَرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "sought his help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنتَصِرِينَ",
+      "translation_bh": "",
+      "translation_en": "those who (could) defend themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَصْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "victory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِنَصْرِ",
+      "translation_bh": "",
+      "translation_en": "With (the) help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرُ",
+      "translation_bh": "",
+      "translation_en": "He helps"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّصِيرٍ",
+      "translation_bh": "",
+      "translation_en": "helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "to help them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَناصَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنَاصَرُونَ",
+      "translation_bh": "",
+      "translation_en": "you help one another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَصَرْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We helped them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنصُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَنصُورُونَ",
+      "translation_bh": "",
+      "translation_en": "(would be) the victorious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرُنَا",
+      "translation_bh": "",
+      "translation_en": "will help us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَنصُرُ",
+      "translation_bh": "",
+      "translation_en": "We will surely help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنتَصَرَ",
+      "translation_bh": "",
+      "translation_en": "defends himself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرُونَهُم",
+      "translation_bh": "",
+      "translation_en": "(who) will help them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَصَرَهُمُ",
+      "translation_bh": "",
+      "translation_en": "help them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَٱنتَصَرَ",
+      "translation_bh": "",
+      "translation_en": "surely, He could have taken retribution"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنصُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "you help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرْكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will help you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَاصِرَ",
+      "translation_bh": "",
+      "translation_en": "helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَنصُرَكَ",
+      "translation_bh": "",
+      "translation_en": "And Allah may help you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَصْرًا",
+      "translation_bh": "",
+      "translation_en": "(with) a help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنتَصِرِينَ",
+      "translation_bh": "",
+      "translation_en": "help themselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنتَصِرْ",
+      "translation_bh": "",
+      "translation_en": "so help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّنتَصِرٌۭ",
+      "translation_bh": "",
+      "translation_en": "helping (each other)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنتَصِرَانِ",
+      "translation_bh": "",
+      "translation_en": "you will (be able to) defend yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرُهُۥ",
+      "translation_bh": "",
+      "translation_en": "helps Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَنصُرُونَ",
+      "translation_bh": "",
+      "translation_en": "and helping"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَنصُرَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "certainly we will help you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنصُرُونَهُمْ",
+      "translation_bh": "",
+      "translation_en": "they will help them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّصَرُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "they help them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنصَارَ",
+      "translation_bh": "",
+      "translation_en": "helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنصَارًۭا",
+      "translation_bh": "",
+      "translation_en": "any helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَاصِرًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) helpers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَاصِرٍۢ",
+      "translation_bh": "",
+      "translation_en": "any helper"
+    }
+  ]
+}

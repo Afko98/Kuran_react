@@ -1,0 +1,107 @@
+{
+  "description_bh": "",
+  "id": 443,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زَعَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعِيم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زعم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زَعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَزْعُمُونَ",
+      "translation_bh": "",
+      "translation_en": "claim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَزْعُمُونَ",
+      "translation_bh": "",
+      "translation_en": "claim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "زَعَمْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you claimed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِزَعْمِهِمْ",
+      "translation_bh": "",
+      "translation_en": "by their claim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَعِيمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) responsible"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "زَعَمْتُم",
+      "translation_bh": "",
+      "translation_en": "you claimed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "زَعَمْتَ",
+      "translation_bh": "",
+      "translation_en": "you have claimed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "زَعَمَ",
+      "translation_bh": "",
+      "translation_en": "Claim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَعِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَعِيمٌ",
+      "translation_bh": "",
+      "translation_en": "(is) responsible"
+    }
+  ]
+}

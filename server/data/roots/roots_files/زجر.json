@@ -1,0 +1,81 @@
+{
+  "description_bh": "",
+  "id": 745,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زاجِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَجْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَجْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُزْدَجَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ازْدُجِرَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زجر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زاجِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلزَّٰجِرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those who drive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَجْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَجْرًۭا",
+      "translation_bh": "",
+      "translation_en": "strongly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَجْرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "زَجْرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) a cry"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُزْدَجَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُزْدَجَرٌ",
+      "translation_bh": "",
+      "translation_en": "(is) deterrence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ازْدُجِرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱزْدُجِرَ",
+      "translation_bh": "",
+      "translation_en": "and he was repelled"
+    }
+  ]
+}

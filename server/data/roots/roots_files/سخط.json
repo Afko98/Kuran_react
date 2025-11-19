@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 855,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَخَط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَخِطَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْخَطَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سخط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَخَط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسَخَطٍۢ",
+      "translation_bh": "",
+      "translation_en": "on (himself) wrath"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَخِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَخِطَ",
+      "translation_bh": "",
+      "translation_en": "became angry"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَخِطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْخَطُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) enraged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْخَطَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْخَطَ",
+      "translation_bh": "",
+      "translation_en": "angered"
+    }
+  ]
+}

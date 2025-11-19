@@ -1,0 +1,154 @@
+{
+  "description_bh": "",
+  "id": 415,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْشُدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُشْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْشِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "راشِد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رشد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْشُدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْشُدُونَ",
+      "translation_bh": "",
+      "translation_en": "(be) led aright"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُشْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرُّشْدُ",
+      "translation_bh": "",
+      "translation_en": "the right (path)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُشْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رُشْدًۭا",
+      "translation_bh": "",
+      "translation_en": "sound judgement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُشْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلرُّشْدِ",
+      "translation_bh": "",
+      "translation_en": "(of) the righteousness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّشِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "right-minded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّشِيدُ",
+      "translation_bh": "",
+      "translation_en": "the right-minded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَشِيدٍۢ",
+      "translation_bh": "",
+      "translation_en": "was right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشَد",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَشَدًۭا",
+      "translation_bh": "",
+      "translation_en": "(in the) right way"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْشِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّرْشِدًۭا",
+      "translation_bh": "",
+      "translation_en": "a guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رُشْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُشْدَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his guidance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَشاد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلرَّشَادِ",
+      "translation_bh": "",
+      "translation_en": "the right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راشِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّٰشِدُونَ",
+      "translation_bh": "",
+      "translation_en": "the guided ones"
+    }
+  ]
+}

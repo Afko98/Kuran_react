@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 465,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَسِيح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "امْسَحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْح",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مسح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَسِيح",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسِيحُ",
+      "translation_bh": "",
+      "translation_en": "(is) the Messiah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "امْسَحُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱمْسَحُوا۟",
+      "translation_bh": "",
+      "translation_en": "and wipe (with it)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسِيح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسِيحَ",
+      "translation_bh": "",
+      "translation_en": "the Messiah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "امْسَحُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱمْسَحُوا۟",
+      "translation_bh": "",
+      "translation_en": "and wipe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسِيح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَسِيحَ",
+      "translation_bh": "",
+      "translation_en": "and the Messiah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسْحًۢا",
+      "translation_bh": "",
+      "translation_en": "(to) pass (his hand)"
+    }
+  ]
+}

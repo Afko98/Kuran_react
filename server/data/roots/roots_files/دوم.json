@@ -1,0 +1,84 @@
+{
+  "description_bh": "",
+  "id": 614,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دامُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دوم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دُمْتَ",
+      "translation_bh": "",
+      "translation_en": "you keep constantly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَامُوا۟",
+      "translation_bh": "",
+      "translation_en": "as long as they are"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دامُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دُمْتُمْ",
+      "translation_bh": "",
+      "translation_en": "long as you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دامُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دُمْتُ",
+      "translation_bh": "",
+      "translation_en": "as long as I"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دامُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دَامَتِ",
+      "translation_bh": "",
+      "translation_en": "as long as remain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَآئِمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) everlasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَآئِمُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) constant"
+    }
+  ]
+}

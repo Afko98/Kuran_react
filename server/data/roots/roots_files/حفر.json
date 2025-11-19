@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1073,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حُفْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حافِرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حفر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حُفْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُفْرَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) pit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حافِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَافِرَةِ",
+      "translation_bh": "",
+      "translation_en": "the former state"
+    }
+  ]
+}

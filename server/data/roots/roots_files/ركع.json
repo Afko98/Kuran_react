@@ -1,0 +1,111 @@
+{
+  "description_bh": "",
+  "id": 484,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْكَعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "راكِع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ركع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْكَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱرْكَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "and bow down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راكِع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلرَّٰكِعِينَ",
+      "translation_bh": "",
+      "translation_en": "those who bow down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راكِع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلرُّكَّعِ",
+      "translation_bh": "",
+      "translation_en": "and those who bow down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْكَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱرْكَعِى",
+      "translation_bh": "",
+      "translation_en": "and bow down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راكِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَٰكِعُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) those who bow down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راكِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّٰكِعُونَ",
+      "translation_bh": "",
+      "translation_en": "those who bow down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْكَعُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱرْكَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "Bow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راكِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَاكِعًۭا",
+      "translation_bh": "",
+      "translation_en": "bowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راكِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُكَّعًۭا",
+      "translation_bh": "",
+      "translation_en": "bowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْكَعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْكَعُونَ",
+      "translation_bh": "",
+      "translation_en": "they bow"
+    }
+  ]
+}

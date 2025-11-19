@@ -1,0 +1,149 @@
+{
+  "description_bh": "",
+  "id": 461,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حُرّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحْرِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرُور",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حرر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُرُّ",
+      "translation_bh": "",
+      "translation_en": "the freeman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْحُرِّ",
+      "translation_bh": "",
+      "translation_en": "for the freeman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَرَّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُحَرَّرًۭا",
+      "translation_bh": "",
+      "translation_en": "dedicated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحْرِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "فَتَحْرِيرُ",
+      "translation_bh": "",
+      "translation_en": "then freeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحْرِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَحْرِيرُ",
+      "translation_bh": "",
+      "translation_en": "and freeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحْرِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَحْرِيرُ",
+      "translation_bh": "",
+      "translation_en": "freeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرِّ ۗ",
+      "translation_bh": "",
+      "translation_en": "the heat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرًّۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) heat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرَّ",
+      "translation_bh": "",
+      "translation_en": "(from) the heat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَرِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be of) silk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَرُورُ",
+      "translation_bh": "",
+      "translation_en": "the heat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَرِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "and silk"
+    }
+  ]
+}

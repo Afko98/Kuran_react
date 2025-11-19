@@ -1,0 +1,94 @@
+{
+  "description_bh": "",
+  "id": 631,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَتَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاتَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَخْتُوم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِتام",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ختم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَتَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَتَمَ",
+      "translation_bh": "",
+      "translation_en": "Has set a seal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَتَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَخَتَمَ",
+      "translation_bh": "",
+      "translation_en": "and sealed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خاتَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَخَاتَمَ",
+      "translation_bh": "",
+      "translation_en": "and Seal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَتَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَخْتِمُ",
+      "translation_bh": "",
+      "translation_en": "We will seal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَتَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْتِمْ",
+      "translation_bh": "",
+      "translation_en": "He would seal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَخْتُوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّخْتُومٍ",
+      "translation_bh": "",
+      "translation_en": "sealed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِتام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِتَـٰمُهُۥ",
+      "translation_bh": "",
+      "translation_en": "Its seal"
+    }
+  ]
+}

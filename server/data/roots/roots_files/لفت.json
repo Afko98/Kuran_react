@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 972,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَلْفِتَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَلْتَفِتْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لفت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَلْفِتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَلْفِتَنَا",
+      "translation_bh": "",
+      "translation_en": "to turn us away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَلْتَفِتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَلْتَفِتْ",
+      "translation_bh": "",
+      "translation_en": "look back"
+    }
+  ]
+}

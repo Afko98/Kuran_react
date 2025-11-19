@@ -1,0 +1,67 @@
+{
+  "description_bh": "",
+  "id": 743,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَرَجَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرِيج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مارِج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجان",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مرج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَرَجَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "مَرَجَ",
+      "translation_bh": "",
+      "translation_en": "(has) released"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرِيج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّرِيجٍ",
+      "translation_bh": "",
+      "translation_en": "confused"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مارِج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّارِجٍۢ",
+      "translation_bh": "",
+      "translation_en": "a smokeless flame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْجان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَرْجَانُ",
+      "translation_bh": "",
+      "translation_en": "and the coral"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1097,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عُثِرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْثَرْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عثر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عُثِرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عُثِرَ",
+      "translation_bh": "",
+      "translation_en": "it is discovered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْثَرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَعْثَرْنَا",
+      "translation_bh": "",
+      "translation_en": "We made known"
+    }
+  ]
+}

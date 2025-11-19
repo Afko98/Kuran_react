@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 979,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَصْبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَبِيّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صبو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَصْبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَصْبُ",
+      "translation_bh": "",
+      "translation_en": "I might incline"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "صَبِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "(when he was) a child"
+    }
+  ]
+}

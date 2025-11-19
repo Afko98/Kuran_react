@@ -1,0 +1,125 @@
+{
+  "description_bh": "",
+  "id": 502,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَئِسَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئُوس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَيْأَسَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "يأس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَئِسَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَئِسَ",
+      "translation_bh": "",
+      "translation_en": "(have) despaired"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئُوس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَيَـُٔوسٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) despairing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَيْأَسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَيْـَٔسُوا۟",
+      "translation_bh": "",
+      "translation_en": "they despaired"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئِسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَا۟يْـَٔسُوا۟",
+      "translation_bh": "",
+      "translation_en": "despair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئِسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَا۟يْـَٔسُ",
+      "translation_bh": "",
+      "translation_en": "despairs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَيْأَسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَيْـَٔسَ",
+      "translation_bh": "",
+      "translation_en": "gave up hope"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئِسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَا۟يْـَٔسِ",
+      "translation_bh": "",
+      "translation_en": "know"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئُوس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـُٔوسًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) despair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئِسَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَئِسُوا۟",
+      "translation_bh": "",
+      "translation_en": "(have) despaired"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئُوس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَيَـُٔوسٌۭ",
+      "translation_bh": "",
+      "translation_en": "then he gives up hope"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَئِسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَئِسْنَ",
+      "translation_bh": "",
+      "translation_en": "have despaired"
+    }
+  ]
+}

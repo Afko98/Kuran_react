@@ -1,0 +1,99 @@
+{
+  "description_bh": "",
+  "id": 455,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَساطِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْطُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَيْطِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَطَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْطُرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سطر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَساطِير",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "أَسَـٰطِيرُ",
+      "translation_bh": "",
+      "translation_en": "(the) tales"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْطُور",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَسْطُورًۭا",
+      "translation_bh": "",
+      "translation_en": "written"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْطُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّسْطُورٍۢ",
+      "translation_bh": "",
+      "translation_en": "written"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَيْطِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُصَۣيْطِرُونَ",
+      "translation_bh": "",
+      "translation_en": "the controllers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَطَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْتَطَرٌ",
+      "translation_bh": "",
+      "translation_en": "(is) written down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْطُرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْطُرُونَ",
+      "translation_bh": "",
+      "translation_en": "they write"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصَيْطِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُصَيْطِرٍ",
+      "translation_bh": "",
+      "translation_en": "a controller"
+    }
+  ]
+}

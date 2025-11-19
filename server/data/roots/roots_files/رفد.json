@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1130,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رِفْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُود",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رفد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رِفْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرِّفْدُ",
+      "translation_bh": "",
+      "translation_en": "(is) the gift"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَرْفُودُ",
+      "translation_bh": "",
+      "translation_en": "which (will) be given"
+    }
+  ]
+}

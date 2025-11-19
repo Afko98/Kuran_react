@@ -1,0 +1,832 @@
+{
+  "description_bh": "",
+  "id": 52,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْيَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحِيَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْيا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَىَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِحْياء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَوان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حيي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَحْىِۦٓ",
+      "translation_bh": "",
+      "translation_en": "ashamed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَحْيَـٰكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "then He gave you life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُحْيِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will give you life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَحْيُونَ",
+      "translation_bh": "",
+      "translation_en": "and letting live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يُحْىِ",
+      "translation_bh": "",
+      "translation_en": "revives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 37,
+      "part_of_speech": "N",
+      "text": "ٱلْحَيَوٰةِ",
+      "translation_bh": "",
+      "translation_en": "the life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْحَيَوٰةَ",
+      "translation_bh": "",
+      "translation_en": "the life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَيَوٰةٍۢ",
+      "translation_bh": "",
+      "translation_en": "life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْيَآءٌۭ",
+      "translation_bh": "",
+      "translation_en": "(they are) alive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَأَحْيَا",
+      "translation_bh": "",
+      "translation_en": "giving life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَيَوٰةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ٱلْحَيَوٰةُ",
+      "translation_bh": "",
+      "translation_en": "(is) the life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحْيَـٰهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "He restored them to life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَىُّ",
+      "translation_bh": "",
+      "translation_en": "the Ever-Living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يُحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "grants life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحْىِ",
+      "translation_bh": "",
+      "translation_en": "You give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْحَىَّ",
+      "translation_bh": "",
+      "translation_en": "the living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَىِّ ۖ",
+      "translation_bh": "",
+      "translation_en": "the living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْيَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِيَحْيَىٰ",
+      "translation_bh": "",
+      "translation_en": "of Yahya"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُحْىِ",
+      "translation_bh": "",
+      "translation_en": "and I give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْيَآءٌ",
+      "translation_bh": "",
+      "translation_en": "They are alive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حُيِّيتُم",
+      "translation_bh": "",
+      "translation_en": "you are greeted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِتَحِيَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "with a greeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَحَيُّوا۟",
+      "translation_bh": "",
+      "translation_en": "then greet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَحْيَاهَا",
+      "translation_bh": "",
+      "translation_en": "saves it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحْيَا",
+      "translation_bh": "",
+      "translation_en": "he has saved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَيَاتُنَا",
+      "translation_bh": "",
+      "translation_en": "our life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْيَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَيَحْيَىٰ",
+      "translation_bh": "",
+      "translation_en": "and Yahya"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَىِّ ۚ",
+      "translation_bh": "",
+      "translation_en": "the living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَحْيَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "and We gave him life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَحْيَاىَ",
+      "translation_bh": "",
+      "translation_en": "and my living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَىَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْيَوْنَ",
+      "translation_bh": "",
+      "translation_en": "you will live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَسْتَحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "and we will let live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُحْيِيكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "gives you life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَىَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَحْيَىٰ",
+      "translation_bh": "",
+      "translation_en": "and (might) live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَىَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَىَّ",
+      "translation_bh": "",
+      "translation_en": "(were to) live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱلْحَيَوٰةِ",
+      "translation_bh": "",
+      "translation_en": "with the life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَحِيَّتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "And their greeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَىِّ",
+      "translation_bh": "",
+      "translation_en": "the living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحِيَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَحِيَّتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their greetings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "We give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْيَآءٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "not alive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَنُحْيِيَنَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "then surely We will give him life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَيَوٰةًۭ",
+      "translation_bh": "",
+      "translation_en": "a life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْيَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "يَحْيَىٰ",
+      "translation_bh": "",
+      "translation_en": "(will be) Yahya"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَحْيَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰيَحْيَىٰ",
+      "translation_bh": "",
+      "translation_en": "O Yahya"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "حَيًّۭا",
+      "translation_bh": "",
+      "translation_en": "alive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَيًّا",
+      "translation_bh": "",
+      "translation_en": "alive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَيَّةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(was) a snake"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَىَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَحْيَىٰ",
+      "translation_bh": "",
+      "translation_en": "live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْحَىِّ",
+      "translation_bh": "",
+      "translation_en": "before the Ever-Living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَىٍّ ۖ",
+      "translation_bh": "",
+      "translation_en": "living thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحْيَاكُمْ",
+      "translation_bh": "",
+      "translation_en": "gave you life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْيِيكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "He will give you life (again)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَىَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَنَحْيَا",
+      "translation_bh": "",
+      "translation_en": "and we live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَحِيَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَحِيَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "a greeting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّنُحْـِۧىَ",
+      "translation_bh": "",
+      "translation_en": "That We may give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْيِينِ",
+      "translation_bh": "",
+      "translation_en": "he will give me life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "and letting live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِحْياء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱسْتِحْيَآءٍۢ",
+      "translation_bh": "",
+      "translation_en": "shyness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَيَوَانُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) the life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُحْىِ",
+      "translation_bh": "",
+      "translation_en": "and He gives life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "and gives life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَمُحْىِ",
+      "translation_bh": "",
+      "translation_en": "surely He (will) give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَسْتَحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "and he is shy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَحْىِۦ",
+      "translation_bh": "",
+      "translation_en": "is not shy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَحْيَيْنَا",
+      "translation_bh": "",
+      "translation_en": "and We revive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَحْيَآءُ",
+      "translation_bh": "",
+      "translation_en": "(are) the living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُحْىِ",
+      "translation_bh": "",
+      "translation_en": "[We] give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحْيَيْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "We give it life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْيِيهَا",
+      "translation_bh": "",
+      "translation_en": "He will give them life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَحْيَيْتَنَا",
+      "translation_bh": "",
+      "translation_en": "and You gave us life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَحْىِۦ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَحْيُوا۟",
+      "translation_bh": "",
+      "translation_en": "and let live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّحْيَاهُمْ",
+      "translation_bh": "",
+      "translation_en": "(in) their life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَيَاتِكُمُ",
+      "translation_bh": "",
+      "translation_en": "your life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُحْـِۧىَ",
+      "translation_bh": "",
+      "translation_en": "to give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَحْيَيْنَا",
+      "translation_bh": "",
+      "translation_en": "and We give life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْيا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَحْيَا",
+      "translation_bh": "",
+      "translation_en": "and gives life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَيَّوْكَ",
+      "translation_bh": "",
+      "translation_en": "they greet you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَيِّكَ",
+      "translation_bh": "",
+      "translation_en": "greets you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْحَيَوٰةَ",
+      "translation_bh": "",
+      "translation_en": "and life"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْيَآءًۭ",
+      "translation_bh": "",
+      "translation_en": "(For the) living"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَياة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِحَيَاتِى",
+      "translation_bh": "",
+      "translation_en": "for my life"
+    }
+  ]
+}

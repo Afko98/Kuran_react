@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 793,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "طَرَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طارِد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طرد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "طَرَد",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَطْرُدِ",
+      "translation_bh": "",
+      "translation_en": "send away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَرَد",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَطْرُدَهُمْ",
+      "translation_bh": "",
+      "translation_en": "So were you to send them away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طارِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِطَارِدِ",
+      "translation_bh": "",
+      "translation_en": "going to drive away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَرَد",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طَرَدتُّهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "I drove them away"
+    }
+  ]
+}

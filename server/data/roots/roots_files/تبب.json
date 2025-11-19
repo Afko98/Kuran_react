@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 895,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَتْبِيب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَباب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "تبب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَتْبِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَتْبِيبٍۢ",
+      "translation_bh": "",
+      "translation_en": "ruin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَباب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبَابٍۢ",
+      "translation_bh": "",
+      "translation_en": "ruin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبَّتْ",
+      "translation_bh": "",
+      "translation_en": "Perish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَبَّ",
+      "translation_bh": "",
+      "translation_en": "and perish he"
+    }
+  ]
+}

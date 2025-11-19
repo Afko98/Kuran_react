@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1100,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أُبْسِلُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بسل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أُبْسِلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُبْسَلَ",
+      "translation_bh": "",
+      "translation_en": "is given up to destruction"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُبْسِلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُبْسِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "are given to destruction"
+    }
+  ]
+}

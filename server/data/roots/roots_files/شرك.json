@@ -1,0 +1,757 @@
+{
+  "description_bh": "",
+  "id": 62,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِكَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شارِكْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِرْك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْتَرِك",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شرك",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "associate[d] partners (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "ٱلْمُشْرِكِينَ",
+      "translation_bh": "",
+      "translation_en": "those who associate partners (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِكَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُشْرِكَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "[the] polytheistic women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِكَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّشْرِكَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a polytheistic woman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّشْرِكٍۢ",
+      "translation_bh": "",
+      "translation_en": "a polytheistic man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُشْرِكَ",
+      "translation_bh": "",
+      "translation_en": "we associate partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "أَشْرَكُوا۟",
+      "translation_bh": "",
+      "translation_en": "they associated partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَشْرَكُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "associate partners with Allah "
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءُ",
+      "translation_bh": "",
+      "translation_en": "(are) partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تُشْرِكُوا۟",
+      "translation_bh": "",
+      "translation_en": "associate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُشْرَكَ",
+      "translation_bh": "",
+      "translation_en": "partners be associated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يُشْرِكْ",
+      "translation_bh": "",
+      "translation_en": "associates partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) polytheists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "تُشْرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "you associate (with Him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآؤُكُمُ",
+      "translation_bh": "",
+      "translation_en": "your partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُشْرِكِينَ",
+      "translation_bh": "",
+      "translation_en": "those who associated others (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you associate (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكْتُم",
+      "translation_bh": "",
+      "translation_en": "have associated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَـٰٓؤُا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "partners (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءَ",
+      "translation_bh": "",
+      "translation_en": "partners "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "associated partners (with Him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمُشْرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "(would) be the polytheists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِشُرَكَآئِنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) for our partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِشُرَكَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "for their partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآئِهِمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "their partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآؤُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their partners "
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكْنَا",
+      "translation_bh": "",
+      "translation_en": "we (would) have associated partners (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَرِيكَ",
+      "translation_bh": "",
+      "translation_en": "partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكَ",
+      "translation_bh": "",
+      "translation_en": "partners (were) associated (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 19,
+      "part_of_speech": "V",
+      "text": "يُشْرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "they associate (with Him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَيُشْرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "Do they associate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُشْرِكِينَ ۙ",
+      "translation_bh": "",
+      "translation_en": "(to) the polytheists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِلْمُشْرِكِينَ",
+      "translation_bh": "",
+      "translation_en": "for the polytheists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُشْرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "the polytheists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشُرَكَآؤُكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and your partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآؤُهُم",
+      "translation_bh": "",
+      "translation_en": "their partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شُرَكَآئِكُم",
+      "translation_bh": "",
+      "translation_en": "your partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءَ ۚ",
+      "translation_bh": "",
+      "translation_en": "partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشُرَكَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُّشْرِكَ",
+      "translation_bh": "",
+      "translation_en": "we associate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّشْرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "associate partners with Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُشْرِكَ",
+      "translation_bh": "",
+      "translation_en": "I associate partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكْتُمُونِ",
+      "translation_bh": "",
+      "translation_en": "your association of me (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءِىَ",
+      "translation_bh": "",
+      "translation_en": "(are) My partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآؤُنَا",
+      "translation_bh": "",
+      "translation_en": "(are) our partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُشْرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "associate partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شارِكْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَشَارِكْهُمْ",
+      "translation_bh": "",
+      "translation_en": "and be a partner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَرِيكٌۭ",
+      "translation_bh": "",
+      "translation_en": "a partner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُشْرِكُ",
+      "translation_bh": "",
+      "translation_en": "He shares"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُشْرِكُ",
+      "translation_bh": "",
+      "translation_en": "I associate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُشْرِكْ",
+      "translation_bh": "",
+      "translation_en": "I had not associated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَشْرِكْهُ",
+      "translation_bh": "",
+      "translation_en": "And make him share"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُشْرِكْ",
+      "translation_bh": "",
+      "translation_en": "associate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِكَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُشْرِكَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a polytheist woman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُشْرِكٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "a polytheist man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُشْرِكَ",
+      "translation_bh": "",
+      "translation_en": "to make you associate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "theirs partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِشُرَكَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "in their partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّشْرِكِينَ",
+      "translation_bh": "",
+      "translation_en": "polytheists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِرْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشِّرْكَ",
+      "translation_bh": "",
+      "translation_en": "associating partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُشْرِكَ",
+      "translation_bh": "",
+      "translation_en": "you associate partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُشْرِكِينَ",
+      "translation_bh": "",
+      "translation_en": "and the polytheist men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِكَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُشْرِكَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the polytheist women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِرْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شِرْكٍۢ",
+      "translation_bh": "",
+      "translation_en": "partnership"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِرْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِشِرْكِكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your association"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءَكُمُ",
+      "translation_bh": "",
+      "translation_en": "your partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِرْك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شِرْكٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a share"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْتَرِك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُشْتَرِكُونَ",
+      "translation_bh": "",
+      "translation_en": "(will be) sharers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشْرَكْتَ",
+      "translation_bh": "",
+      "translation_en": "you associate (with Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُشْرَكْ",
+      "translation_bh": "",
+      "translation_en": "(others) were associated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُشْرِكَ",
+      "translation_bh": "",
+      "translation_en": "and (to) associate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْرِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْمُشْرِكِينَ",
+      "translation_bh": "",
+      "translation_en": "to the polytheists"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَآءِى",
+      "translation_bh": "",
+      "translation_en": "My partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُرَكَـٰٓؤُا۟",
+      "translation_bh": "",
+      "translation_en": "(are) partners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْرَكَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُشْرِكْنَ",
+      "translation_bh": "",
+      "translation_en": "they will associate"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 900,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَهَّزَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَهاز",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جهز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَهَّزَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "جَهَّزَهُم",
+      "translation_bh": "",
+      "translation_en": "he had furnished them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَهاز",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِجَهَازِهِمْ",
+      "translation_bh": "",
+      "translation_en": "with their supplies"
+    }
+  ]
+}

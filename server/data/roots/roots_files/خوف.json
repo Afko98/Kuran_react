@@ -1,0 +1,505 @@
+{
+  "description_bh": "",
+  "id": 92,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُخَوِّفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخَوُّف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخْوِيف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خوف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "خَوْفٌ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَآئِفِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(like) those in fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَوْفِ",
+      "translation_bh": "",
+      "translation_en": "[the] fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "خَافَ",
+      "translation_bh": "",
+      "translation_en": "fears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخَافَآ",
+      "translation_bh": "",
+      "translation_en": "both fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "خِفْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُخَوِّفُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُخَوِّفُ",
+      "translation_bh": "",
+      "translation_en": "frightens (you)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَافُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "fear them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخَافُونِ",
+      "translation_bh": "",
+      "translation_en": "but fear Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَافُوا۟",
+      "translation_bh": "",
+      "translation_en": "(and) they would have feared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَخَافُونَ",
+      "translation_bh": "",
+      "translation_en": "you fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَافَتْ",
+      "translation_bh": "",
+      "translation_en": "fears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَخَافُونَ",
+      "translation_bh": "",
+      "translation_en": "feared (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 20,
+      "part_of_speech": "V",
+      "text": "أَخَافُ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخَافُهُۥ",
+      "translation_bh": "",
+      "translation_en": "fears Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخَافُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they would fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَوْفًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَخِيفَةًۭ",
+      "translation_bh": "",
+      "translation_en": "and (in) fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَافَنَّ",
+      "translation_bh": "",
+      "translation_en": "you fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَوْفٍۢ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِيفَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "[a fear]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَخَفْ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخَافُ",
+      "translation_bh": "",
+      "translation_en": "and I fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِيفَتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "fear of Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَخَافُونَ",
+      "translation_bh": "",
+      "translation_en": "and are afraid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخَافَ",
+      "translation_bh": "",
+      "translation_en": "and fears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخَوُّف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَخَوُّفٍۢ",
+      "translation_bh": "",
+      "translation_en": "a gradual wasting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْخَوْفِ",
+      "translation_bh": "",
+      "translation_en": "and the fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخْوِيف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَخْوِيفًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a warning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُخَوِّفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُخَوِّفُهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We threaten them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خِفْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تَخَفْ ۖ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَخَافُ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَافَآ ۖ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِيفَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَـٰفُ",
+      "translation_bh": "",
+      "translation_en": "fearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَخَافُ",
+      "translation_bh": "",
+      "translation_en": "he will fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَوْفِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَخَافُ",
+      "translation_bh": "",
+      "translation_en": "so I fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خِفْتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I feared you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خِفْتِ",
+      "translation_bh": "",
+      "translation_en": "you fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَافِى",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خائِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَآئِفًۭا",
+      "translation_bh": "",
+      "translation_en": "fearful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَافُونَهُمْ",
+      "translation_bh": "",
+      "translation_en": "you fear them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَخِيفَتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "as you fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَوْفُ",
+      "translation_bh": "",
+      "translation_en": "the fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُخَوِّفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُخَوِّفُونَكَ",
+      "translation_bh": "",
+      "translation_en": "And they threaten you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَافُوا۟",
+      "translation_bh": "",
+      "translation_en": "fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خافَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَافُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "fearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خِيفَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a fear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَوْفٍۭ",
+      "translation_bh": "",
+      "translation_en": "fear"
+    }
+  ]
+}

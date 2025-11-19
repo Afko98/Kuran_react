@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1001,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَقِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْقُوم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رقم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَقِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلرَّقِيمِ",
+      "translation_bh": "",
+      "translation_en": "and the inscription"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْقُوم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّرْقُومٌۭ",
+      "translation_bh": "",
+      "translation_en": "written"
+    }
+  ]
+}

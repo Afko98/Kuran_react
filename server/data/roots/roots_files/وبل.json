@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 639,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وابِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَبال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَبِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وبل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وابِل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَابِلٌۭ",
+      "translation_bh": "",
+      "translation_en": "heavy rain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَبال",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَبَالَ",
+      "translation_bh": "",
+      "translation_en": "(the) consequence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَبِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "ruinous"
+    }
+  ]
+}

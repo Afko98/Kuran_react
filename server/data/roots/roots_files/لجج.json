@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 918,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَجُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُجِّيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُجَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لجج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَجُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّلَجُّوا۟",
+      "translation_bh": "",
+      "translation_en": "surely they would persist"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُجِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لُّجِّىٍّۢ",
+      "translation_bh": "",
+      "translation_en": "deep"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُجَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لُجَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "(was) a pool"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَجُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّجُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they persist"
+    }
+  ]
+}

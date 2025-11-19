@@ -1,0 +1,261 @@
+{
+  "description_bh": "",
+  "id": 225,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَواب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجِيب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جابُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جوب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُجِيبُ",
+      "translation_bh": "",
+      "translation_en": "I respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَلْيَسْتَجِيبُوا۟",
+      "translation_bh": "",
+      "translation_en": "So let them respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱسْتَجَابُوا۟",
+      "translation_bh": "",
+      "translation_en": "responded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَجَابَ",
+      "translation_bh": "",
+      "translation_en": "Then responded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُجِبْتُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "was (the) response you received"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْتَجِيبُ",
+      "translation_bh": "",
+      "translation_en": "respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَواب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "جَوَابَ",
+      "translation_bh": "",
+      "translation_en": "(the) answer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْتَجِيبُوا۟",
+      "translation_bh": "",
+      "translation_en": "Respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُجِيبَت",
+      "translation_bh": "",
+      "translation_en": "has been answered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَسْتَجِيبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّجِيبٌۭ",
+      "translation_bh": "",
+      "translation_en": "All-Responsive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَجِيبُونَ",
+      "translation_bh": "",
+      "translation_en": "they respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَجَبْتُمْ",
+      "translation_bh": "",
+      "translation_en": "and you responded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّجِبْ",
+      "translation_bh": "",
+      "translation_en": "we will answer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَسْتَجِيبُونَ",
+      "translation_bh": "",
+      "translation_en": "and you will respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَجَبْنَا",
+      "translation_bh": "",
+      "translation_en": "so We responded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُجِيبُ",
+      "translation_bh": "",
+      "translation_en": "responds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَجَبْتُمُ",
+      "translation_bh": "",
+      "translation_en": "did you answer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُجِيب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُجِيبُونَ",
+      "translation_bh": "",
+      "translation_en": "(are We as) Responders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْتَجِبْ",
+      "translation_bh": "",
+      "translation_en": "I will respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتُجِيبَ",
+      "translation_bh": "",
+      "translation_en": "response has been made to Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَجابَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَجِيبُ",
+      "translation_bh": "",
+      "translation_en": "And He answers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَجِيبُوا۟",
+      "translation_bh": "",
+      "translation_en": "Respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُجِيبَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُجِبْ",
+      "translation_bh": "",
+      "translation_en": "respond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جابُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "جَابُوا۟",
+      "translation_bh": "",
+      "translation_en": "carved out"
+    }
+  ]
+}

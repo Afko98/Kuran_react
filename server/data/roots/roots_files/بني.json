@@ -1,0 +1,767 @@
+{
+  "description_bh": "",
+  "id": 54,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بِناء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنْيان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْنَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنّاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْنِيَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بني",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بِناء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِنَآءًۭ",
+      "translation_bh": "",
+      "translation_en": "a canopy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "يَـٰبَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "O Children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 31,
+      "part_of_speech": "N",
+      "text": "بَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "(from the) Children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱبْنَ",
+      "translation_bh": "",
+      "translation_en": "(the) son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنِيهِ",
+      "translation_bh": "",
+      "translation_en": "(upon) his sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "يَـٰبَنِىَّ",
+      "translation_bh": "",
+      "translation_en": "O my sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِبَنِيهِ",
+      "translation_bh": "",
+      "translation_en": "to his sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱبْنَ",
+      "translation_bh": "",
+      "translation_en": "and (of)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَٱبْنِ",
+      "translation_bh": "",
+      "translation_en": "and (of)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْنَآئِنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "and our children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَنِينَ",
+      "translation_bh": "",
+      "translation_en": "and [the] sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "ٱبْنُ",
+      "translation_bh": "",
+      "translation_en": "son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءَنَا",
+      "translation_bh": "",
+      "translation_en": "our sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْنَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "لِّبَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "for (the) Children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَأَبْنَآؤُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your children "
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَنَاتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَبَنَاتُ",
+      "translation_bh": "",
+      "translation_en": "and daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْنَآئِكُمُ",
+      "translation_bh": "",
+      "translation_en": "(of) your sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْنَـٰٓؤُا۟",
+      "translation_bh": "",
+      "translation_en": "(the) children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱبْنَىْ",
+      "translation_bh": "",
+      "translation_en": "(of) two sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱبْنِ",
+      "translation_bh": "",
+      "translation_en": "son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءَهُمُ ۘ",
+      "translation_bh": "",
+      "translation_en": "their sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَنِينَ",
+      "translation_bh": "",
+      "translation_en": "sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَنَـٰتٍۭ",
+      "translation_bh": "",
+      "translation_en": "and daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ يَـٰبَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "O Children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِبَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "(the) Children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنْيان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بُنْيَـٰنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his building"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنْيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُنْيَـٰنُهُمُ",
+      "translation_bh": "",
+      "translation_en": "their building"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَنَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they built"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "the Children of Israel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱبْنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(to) his son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "يَـٰبُنَىَّ",
+      "translation_bh": "",
+      "translation_en": "O my son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱبْنِى",
+      "translation_bh": "",
+      "translation_en": "my son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنَاتِى",
+      "translation_bh": "",
+      "translation_en": "(are) my daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنَاتِكَ",
+      "translation_bh": "",
+      "translation_en": "your daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱبْنَكَ",
+      "translation_bh": "",
+      "translation_en": "your son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَنِىَّ",
+      "translation_bh": "",
+      "translation_en": "and my sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنَاتِىٓ",
+      "translation_bh": "",
+      "translation_en": "(are) my daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنْيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُنْيَـٰنَهُم",
+      "translation_bh": "",
+      "translation_en": "(at) their building"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَنَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "وَبَنِينَ",
+      "translation_bh": "",
+      "translation_en": "and sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْبَنِينَ",
+      "translation_bh": "",
+      "translation_en": "sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِبَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "to the Children of Israel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱبْنُوا۟",
+      "translation_bh": "",
+      "translation_en": "Construct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنْيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُنْيَـٰنًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "a structure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَنُونَ",
+      "translation_bh": "",
+      "translation_en": "and children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَبْنَؤُمَّ",
+      "translation_bh": "",
+      "translation_en": "O son of my mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱبْنَهَآ",
+      "translation_bh": "",
+      "translation_en": "and her son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَبْنَآئِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "their sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءِ",
+      "translation_bh": "",
+      "translation_en": "sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنُونَ",
+      "translation_bh": "",
+      "translation_en": "sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَبْنُونَ",
+      "translation_bh": "",
+      "translation_en": "Do you construct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْنَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱبْنَتَىَّ",
+      "translation_bh": "",
+      "translation_en": "(of) my daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِٱبْنِهِۦ",
+      "translation_bh": "",
+      "translation_en": "to his son"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءَكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَبَنَاتِ",
+      "translation_bh": "",
+      "translation_en": "and (the) daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَنَاتِكَ",
+      "translation_bh": "",
+      "translation_en": "and your daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنْيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُنْيَـٰنًۭا",
+      "translation_bh": "",
+      "translation_en": "a structure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَنَاتُ",
+      "translation_bh": "",
+      "translation_en": "(have) daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَنُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَنَاتِ",
+      "translation_bh": "",
+      "translation_en": "[the] daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَنِينَ",
+      "translation_bh": "",
+      "translation_en": "sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنّاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنَّآءٍۢ",
+      "translation_bh": "",
+      "translation_en": "builder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَبْنِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّبْنِيَّةٌۭ",
+      "translation_bh": "",
+      "translation_en": "built high"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْنَآءَ",
+      "translation_bh": "",
+      "translation_en": "(the) sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱبْنِ",
+      "translation_bh": "",
+      "translation_en": "Construct"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَنَاتٍۢ",
+      "translation_bh": "",
+      "translation_en": "daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَنَيْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "We structured it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِنْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَنَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "(are) daughters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنْيان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُنْيَـٰنٌۭ",
+      "translation_bh": "",
+      "translation_en": "(were) a structure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْنَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱبْنَتَ",
+      "translation_bh": "",
+      "translation_en": "(the) daughter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِبَنِيهِ",
+      "translation_bh": "",
+      "translation_en": "by his children"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَنَيْنَا",
+      "translation_bh": "",
+      "translation_en": "And We constructed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَنَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَنَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "He constructed it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُنَىّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَنِيهِ",
+      "translation_bh": "",
+      "translation_en": "and his children"
+    }
+  ]
+}

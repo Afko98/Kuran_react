@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 966,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُرْدِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَدِفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رادِفَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ردف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُرْدِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْدِفِينَ",
+      "translation_bh": "",
+      "translation_en": "one after another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَدِفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَدِفَ",
+      "translation_bh": "",
+      "translation_en": "close behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رادِفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّادِفَةُ",
+      "translation_bh": "",
+      "translation_en": "the subsequent"
+    }
+  ]
+}

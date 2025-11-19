@@ -1,0 +1,387 @@
+{
+  "description_bh": "",
+  "id": 138,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وِجْهَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجِيه",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجَّهْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَجَّهَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وجه",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجْهَهُۥ",
+      "translation_bh": "",
+      "translation_en": "his face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَجْهُ",
+      "translation_bh": "",
+      "translation_en": "(is the) face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجْهِكَ",
+      "translation_bh": "",
+      "translation_en": "(of) your face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "وَجْهَكَ",
+      "translation_bh": "",
+      "translation_en": "your face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "وُجُوهَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وِجْهَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وِجْهَةٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a direction "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَجْهِ",
+      "translation_bh": "",
+      "translation_en": "(the) face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجْهِىَ",
+      "translation_bh": "",
+      "translation_en": "myself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجِيه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجِيهًۭا",
+      "translation_bh": "",
+      "translation_en": "honored"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَجْهَ",
+      "translation_bh": "",
+      "translation_en": "(at the) beginning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وُجُوهٌۭ",
+      "translation_bh": "",
+      "translation_en": "(some) faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وُجُوهٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(some) faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وُجُوهُهُمْ",
+      "translation_bh": "",
+      "translation_en": "[their] faces "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِوُجُوهِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وُجُوهًۭا",
+      "translation_bh": "",
+      "translation_en": "faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجْهِهَآ",
+      "translation_bh": "",
+      "translation_en": "its (true) form"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجْهَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "His Countenance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجَّهْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَجَّهْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] have turned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وُجُوهَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجْهِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وُجُوهَهُمُ",
+      "translation_bh": "",
+      "translation_en": "their faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَجْهُهُۥ",
+      "translation_bh": "",
+      "translation_en": "his face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجَّهْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوَجِّههُّ",
+      "translation_bh": "",
+      "translation_en": "he directs him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وُجُوهِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their faces "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوُجُوهَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوُجُوهُ",
+      "translation_bh": "",
+      "translation_en": "the faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وُجُوهِهِمُ",
+      "translation_bh": "",
+      "translation_en": "their faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وُجُوهِ",
+      "translation_bh": "",
+      "translation_en": "(the) faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَوَجَّهَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوَجَّهَ",
+      "translation_bh": "",
+      "translation_en": "he turned his face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجْهَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "His Face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجْهَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "his face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِوَجْهِهِۦ",
+      "translation_bh": "",
+      "translation_en": "with his face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وُجُوهُهُم",
+      "translation_bh": "",
+      "translation_en": "their faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وُجُوهِهِم",
+      "translation_bh": "",
+      "translation_en": "their faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجْهَهَا",
+      "translation_bh": "",
+      "translation_en": "her face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَجْهِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "his face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وُجُوهُ",
+      "translation_bh": "",
+      "translation_en": "(the) faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَوُجُوهٌۭ",
+      "translation_bh": "",
+      "translation_en": "And faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَجْه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِوَجْهِ",
+      "translation_bh": "",
+      "translation_en": "for (the) Countenance"
+    }
+  ]
+}

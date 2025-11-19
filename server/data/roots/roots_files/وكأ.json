@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 564,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَّكَأ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّكِئ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَوَكَّؤُا۟",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَّكِئُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وكأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَّكَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَّكَـًۭٔا",
+      "translation_bh": "",
+      "translation_en": "a banquet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّكِئ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُّتَّكِـِٔينَ",
+      "translation_bh": "",
+      "translation_en": "reclining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَوَكَّؤُا۟",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَوَكَّؤُا۟",
+      "translation_bh": "",
+      "translation_en": "I lean"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّكِئ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَّكِـُٔونَ",
+      "translation_bh": "",
+      "translation_en": "reclining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّكِئ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مُتَّكِـِٔينَ",
+      "translation_bh": "",
+      "translation_en": "Reclining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَّكِئُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَّكِـُٔونَ",
+      "translation_bh": "",
+      "translation_en": "they recline"
+    }
+  ]
+}

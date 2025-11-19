@@ -1,0 +1,93 @@
+{
+  "description_bh": "",
+  "id": 533,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشِيعَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شيع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شِيَعًۭا",
+      "translation_bh": "",
+      "translation_en": "(into) sects"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شِيَعِ",
+      "translation_bh": "",
+      "translation_en": "the sects"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شِيعَةٍ",
+      "translation_bh": "",
+      "translation_en": "sect"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَشِيعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشِيعَ",
+      "translation_bh": "",
+      "translation_en": "(should) spread"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شِيعَتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his party"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شِيَعًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "sects"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَشْيَاعِهِم",
+      "translation_bh": "",
+      "translation_en": "with their kind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِيعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَشْيَاعَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your kinds"
+    }
+  ]
+}

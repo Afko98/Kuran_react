@@ -1,0 +1,425 @@
+{
+  "description_bh": "",
+  "id": 120,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحِبّاؤ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَحَبُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَبّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحَبَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبَّبَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حبب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحِبُّونَهُمْ",
+      "translation_bh": "",
+      "translation_en": "They love them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَحُبِّ",
+      "translation_bh": "",
+      "translation_en": "as (they should) love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حُبًّۭا",
+      "translation_bh": "",
+      "translation_en": "(in) love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حُبِّهِۦ",
+      "translation_bh": "",
+      "translation_en": "spite of his love (for it)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 39,
+      "part_of_speech": "V",
+      "text": "يُحِبُّ",
+      "translation_bh": "",
+      "translation_en": "like"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحِبُّوا۟",
+      "translation_bh": "",
+      "translation_en": "you love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُحِبُّ",
+      "translation_bh": "",
+      "translation_en": "and loves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَبَّةٍ",
+      "translation_bh": "",
+      "translation_en": "a grain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَبَّةٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "grain(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُبُّ",
+      "translation_bh": "",
+      "translation_en": "(is) love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تُحِبُّونَ",
+      "translation_bh": "",
+      "translation_en": "love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْبِبْكُمُ",
+      "translation_bh": "",
+      "translation_en": "will love you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُحِبُّونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "you love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحِبُّونَهُمْ",
+      "translation_bh": "",
+      "translation_en": "you love them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحِبُّونَكُمْ",
+      "translation_bh": "",
+      "translation_en": "they love you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَّيُحِبُّونَ",
+      "translation_bh": "",
+      "translation_en": "and they love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحِبّاؤ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَحِبَّـٰٓؤُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "and His beloved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحِبُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "whom He loves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُحِبُّونَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and they love Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَبَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "a grain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُحِبُّ",
+      "translation_bh": "",
+      "translation_en": "(do) I like"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَبِّ",
+      "translation_bh": "",
+      "translation_en": "(of) the grain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "حَبًّۭا",
+      "translation_bh": "",
+      "translation_en": "grain "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَحَبُّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْتَحَبُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they prefer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحَبَّ",
+      "translation_bh": "",
+      "translation_en": "(are) more beloved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُحِبُّونَ",
+      "translation_bh": "",
+      "translation_en": "who love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَبّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَحَبُّ",
+      "translation_bh": "",
+      "translation_en": "(are) more beloved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُبًّا ۖ",
+      "translation_bh": "",
+      "translation_en": "(with) love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَحَبُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَحِبُّونَ",
+      "translation_bh": "",
+      "translation_en": "love more"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحَبَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَحَبَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحْبَبْتَ",
+      "translation_bh": "",
+      "translation_en": "you love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَحْبَبْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] preferred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُبَّ",
+      "translation_bh": "",
+      "translation_en": "(the) love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَحَبُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَحَبُّوا۟",
+      "translation_bh": "",
+      "translation_en": "but they preferred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبَّبَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَبَّبَ",
+      "translation_bh": "",
+      "translation_en": "has endeared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَيُحِبُّ",
+      "translation_bh": "",
+      "translation_en": "Would like"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَبَّ",
+      "translation_bh": "",
+      "translation_en": "and grain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْحَبُّ",
+      "translation_bh": "",
+      "translation_en": "And the grain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُحِبُّونَهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "that you love "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْبَبْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُحِبُّونَ",
+      "translation_bh": "",
+      "translation_en": "And you love"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُبّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِحُبِّ",
+      "translation_bh": "",
+      "translation_en": "in (the) love"
+    }
+  ]
+}

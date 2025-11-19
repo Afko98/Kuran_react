@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 724,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحْمَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حامِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حمي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَامٍۢ ۙ",
+      "translation_bh": "",
+      "translation_en": "a Hami"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحْمَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْمَىٰ",
+      "translation_bh": "",
+      "translation_en": "it will be heated [on it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَمِيَّةَ",
+      "translation_bh": "",
+      "translation_en": "disdain "
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَمِيَّةَ",
+      "translation_bh": "",
+      "translation_en": "(the) disdain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حامِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَامِيَةًۭ",
+      "translation_bh": "",
+      "translation_en": "intensely hot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حامِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَامِيَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "intensely hot"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 866,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سُحْت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسْحِتَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سحت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سُحْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلسُّحْتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "of the forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُحْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلسُّحْتَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسْحِتَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُسْحِتَكُم",
+      "translation_bh": "",
+      "translation_en": "lest He will destroy you"
+    }
+  ]
+}

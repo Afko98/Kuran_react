@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 1038,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَحِسَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَحْس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُحاس",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نحس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَحِسَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّحِسَاتٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) misfortune"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَحْس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَحْسٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) misfortune"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُحاس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنُحَاسٌۭ",
+      "translation_bh": "",
+      "translation_en": "and smoke"
+    }
+  ]
+}

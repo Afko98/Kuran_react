@@ -1,0 +1,680 @@
+{
+  "description_bh": "",
+  "id": 85,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَساءَلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْئُول",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُؤْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُؤال",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سأل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلْتُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "you have asked (for)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَسْـَٔلُوا۟",
+      "translation_bh": "",
+      "translation_en": "you ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سُئِلَ",
+      "translation_bh": "",
+      "translation_en": "was asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسْـَٔلُ",
+      "translation_bh": "",
+      "translation_en": "you will be asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تُسْـَٔلُونَ",
+      "translation_bh": "",
+      "translation_en": "you will be asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّآئِلِينَ",
+      "translation_bh": "",
+      "translation_en": "and those who ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلَكَ",
+      "translation_bh": "",
+      "translation_en": "ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "۞ يَسْـَٔلُونَكَ",
+      "translation_bh": "",
+      "translation_en": "They ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَلْ",
+      "translation_bh": "",
+      "translation_en": "Ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلُونَكَ",
+      "translation_bh": "",
+      "translation_en": "They ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَيَسْـَٔلُونَكَ",
+      "translation_bh": "",
+      "translation_en": "And they ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلُونَ",
+      "translation_bh": "",
+      "translation_en": "(do) they ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَساءَلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسَآءَلُونَ",
+      "translation_bh": "",
+      "translation_en": "you ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَسْـَٔلُوا۟",
+      "translation_bh": "",
+      "translation_en": "And ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلُكَ",
+      "translation_bh": "",
+      "translation_en": "Ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "they (had) asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلَهَا",
+      "translation_bh": "",
+      "translation_en": "asked them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "أَسْـَٔلُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَنَسْـَٔلَنَّ",
+      "translation_bh": "",
+      "translation_en": "Then surely We will question"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَنَسْـَٔلَنَّ",
+      "translation_bh": "",
+      "translation_en": "and surely We will question"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسْـَٔلْهُمْ",
+      "translation_bh": "",
+      "translation_en": "And ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلْتَهُمْ",
+      "translation_bh": "",
+      "translation_en": "you ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَأَلْتُكُم",
+      "translation_bh": "",
+      "translation_en": "I have asked you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَسْـَٔلِ",
+      "translation_bh": "",
+      "translation_en": "then ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْـَٔلْنِ",
+      "translation_bh": "",
+      "translation_en": "ask Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْـَٔلَكَ",
+      "translation_bh": "",
+      "translation_en": "I (should) ask You"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِّلسَّآئِلِينَ",
+      "translation_bh": "",
+      "translation_en": "for those who ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسْـَٔلْهُ",
+      "translation_bh": "",
+      "translation_en": "and ask him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسْـَٔلِ",
+      "translation_bh": "",
+      "translation_en": "And ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَسْـَٔلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "you ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلْتُمُوهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "you asked of Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَسْـَٔلَنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "surely We will question them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَسْـَٔلُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "so ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَتُسْـَٔلُنَّ",
+      "translation_bh": "",
+      "translation_en": "surely you will be asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَتُسْـَٔلُنَّ",
+      "translation_bh": "",
+      "translation_en": "And surely you will be questioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْئُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَسْـُٔولًۭا",
+      "translation_bh": "",
+      "translation_en": "questioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَسْـَٔلْ",
+      "translation_bh": "",
+      "translation_en": "so ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَساءَلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَتَسَآءَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they might question"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْـَٔلْنِى",
+      "translation_bh": "",
+      "translation_en": "ask me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلْتُكَ",
+      "translation_bh": "",
+      "translation_en": "I ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُؤْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُؤْلَكَ",
+      "translation_bh": "",
+      "translation_en": "your request"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَسْـَٔلُكَ",
+      "translation_bh": "",
+      "translation_en": "We ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُسْـَٔلُ",
+      "translation_bh": "",
+      "translation_en": "He (can) be questioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسْـَٔلُونَ",
+      "translation_bh": "",
+      "translation_en": "will be questioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسْـَٔلُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "So ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَساءَلُ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يَتَسَآءَلُونَ",
+      "translation_bh": "",
+      "translation_en": "will they ask each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْئُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّسْـُٔولًۭا",
+      "translation_bh": "",
+      "translation_en": "requested"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَيُسْـَٔلُنَّ",
+      "translation_bh": "",
+      "translation_en": "and surely they will be questioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "سَأَلْتَهُم",
+      "translation_bh": "",
+      "translation_en": "you ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَسْـَٔلَ",
+      "translation_bh": "",
+      "translation_en": "That He may ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سُئِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "they had been asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلْتُمُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "you ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسْـَٔلُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "then ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُسْـَٔلُ",
+      "translation_bh": "",
+      "translation_en": "we will be asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلُكُمْ",
+      "translation_bh": "",
+      "translation_en": "ask (of) you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْئُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّسْـُٔولُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) to be questioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُؤال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسُؤَالِ",
+      "translation_bh": "",
+      "translation_en": "by demanding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُسْـَٔلُونَ",
+      "translation_bh": "",
+      "translation_en": "and they will be questioned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسْـَٔلْ",
+      "translation_bh": "",
+      "translation_en": "And ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلْكُمْ",
+      "translation_bh": "",
+      "translation_en": "will ask you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلْكُمُوهَا",
+      "translation_bh": "",
+      "translation_en": "He were to ask you for it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِّلسَّآئِلِ",
+      "translation_bh": "",
+      "translation_en": "(of) those who asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "Asks Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَسْـَٔلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and let them ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "(will) ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَلْهُمْ",
+      "translation_bh": "",
+      "translation_en": "Ask them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَلَ",
+      "translation_bh": "",
+      "translation_en": "Asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَآئِلٌۢ",
+      "translation_bh": "",
+      "translation_en": "a questioner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْـَٔلُ",
+      "translation_bh": "",
+      "translation_en": "will ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَأَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سُئِلَتْ",
+      "translation_bh": "",
+      "translation_en": "is asked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سائِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّآئِلَ",
+      "translation_bh": "",
+      "translation_en": "one who asks"
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 504,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَزائِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خازِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَزَنَت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خزن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَزائِن",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "خَزَآئِنُ",
+      "translation_bh": "",
+      "translation_en": "(are the) treasures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَزائِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَزَآئِنِ",
+      "translation_bh": "",
+      "translation_en": "(the) treasuries"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَزائِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَزَآئِنُهُۥ",
+      "translation_bh": "",
+      "translation_en": "(are) its treasures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خازِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِخَـٰزِنِينَ",
+      "translation_bh": "",
+      "translation_en": "(are) retainers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَزائِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَزَآئِنَ",
+      "translation_bh": "",
+      "translation_en": "the treasures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَزَنَت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَزَنَتُهَآ",
+      "translation_bh": "",
+      "translation_en": "its keepers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَزَنَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَزَنَتُهَا",
+      "translation_bh": "",
+      "translation_en": "its keepers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَزَنَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِخَزَنَةِ",
+      "translation_bh": "",
+      "translation_en": "to (the) keepers"
+    }
+  ]
+}

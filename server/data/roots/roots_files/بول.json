@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 899,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بال",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بول",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بال",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَالُ",
+      "translation_bh": "",
+      "translation_en": "(is the) case"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بال",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَالَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their condition"
+    }
+  ]
+}

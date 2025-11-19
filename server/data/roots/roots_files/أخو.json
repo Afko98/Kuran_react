@@ -1,0 +1,557 @@
+{
+  "description_bh": "",
+  "id": 119,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أخو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "أَخِيهِ",
+      "translation_bh": "",
+      "translation_en": "his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَإِخْوَٰنُكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "then they (are) your brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَٰنًۭا",
+      "translation_bh": "",
+      "translation_en": "brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِإِخْوَٰنِهِمْ",
+      "translation_bh": "",
+      "translation_en": "about their brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْوَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "إِخْوَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "brothers and sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُخْتٌۭ",
+      "translation_bh": "",
+      "translation_en": "a sister"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَخَوَٰتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَخِ",
+      "translation_bh": "",
+      "translation_en": "(of) brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُخْتِ",
+      "translation_bh": "",
+      "translation_en": "(of) sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَخَوَٰتُكُم",
+      "translation_bh": "",
+      "translation_en": "and your sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُخْتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "two sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَةًۭ",
+      "translation_bh": "",
+      "translation_en": "brothers and sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَخِى ۖ",
+      "translation_bh": "",
+      "translation_en": "and my brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَخِيهِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَخِى ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) my brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِخْوَٰنِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "and their brothers "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخْتَهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "its sister (nation)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "أَخَاهُمْ",
+      "translation_bh": "",
+      "translation_en": "(We sent) their brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَأَخَاهُ",
+      "translation_bh": "",
+      "translation_en": "and his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأَخِيهِ",
+      "translation_bh": "",
+      "translation_en": "to his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِأَخِى",
+      "translation_bh": "",
+      "translation_en": "and my brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِخْوَٰنُهُمْ",
+      "translation_bh": "",
+      "translation_en": "But their brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَإِخْوَٰنُكُمْ",
+      "translation_bh": "",
+      "translation_en": "then (they are) your brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِخْوَٰنَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِخْوَٰنُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَأَخِيهِ",
+      "translation_bh": "",
+      "translation_en": "and his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَتِكَ",
+      "translation_bh": "",
+      "translation_en": "your brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِخْوَتِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "and his brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَخُوهُ",
+      "translation_bh": "",
+      "translation_en": "and his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَةُ",
+      "translation_bh": "",
+      "translation_en": "(the) brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَخٍۢ",
+      "translation_bh": "",
+      "translation_en": "a brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَخَانَا",
+      "translation_bh": "",
+      "translation_en": "our brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخَاهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخُوكَ",
+      "translation_bh": "",
+      "translation_en": "your brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَخَاهُ",
+      "translation_bh": "",
+      "translation_en": "his brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخٌۭ",
+      "translation_bh": "",
+      "translation_en": "a brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِخْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَتِىٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "my brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَٰنًا",
+      "translation_bh": "",
+      "translation_en": "(they will be) brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَٰنَ",
+      "translation_bh": "",
+      "translation_en": "brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰٓأُخْتَ",
+      "translation_bh": "",
+      "translation_en": "O sister"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَخِى",
+      "translation_bh": "",
+      "translation_en": "my brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخْتُكَ",
+      "translation_bh": "",
+      "translation_en": "your sister"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَخُوكَ",
+      "translation_bh": "",
+      "translation_en": "and your brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "إِخْوَٰنِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "their brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَخَوَٰتِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "(of) their sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَٰنِكُمْ",
+      "translation_bh": "",
+      "translation_en": "(of) your brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخَوَٰتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "(of) your sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَخُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "their brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأُخْتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "to his sister"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَخِى",
+      "translation_bh": "",
+      "translation_en": "And my brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَخِيكَ",
+      "translation_bh": "",
+      "translation_en": "through your brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُخْت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخْتِهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "its sister"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخَا",
+      "translation_bh": "",
+      "translation_en": "(the) brother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخَوَيْكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "your brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِخْوَٰنُ",
+      "translation_bh": "",
+      "translation_en": "and (the) brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِخْوَٰنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِإِخْوَٰنِنَا",
+      "translation_bh": "",
+      "translation_en": "and our brothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِإِخْوَٰنِهِمُ",
+      "translation_bh": "",
+      "translation_en": "to their brothers"
+    }
+  ]
+}

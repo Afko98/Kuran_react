@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 772,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "إِعْصار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْصِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْصِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عصر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "إِعْصار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِعْصَارٌۭ",
+      "translation_bh": "",
+      "translation_en": "whirlwind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْصِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَعْصِرُ",
+      "translation_bh": "",
+      "translation_en": "pressing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْصِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْصِرُونَ",
+      "translation_bh": "",
+      "translation_en": "they will press"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْصِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُعْصِرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "the rain clouds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعَصْرِ",
+      "translation_bh": "",
+      "translation_en": "By the time"
+    }
+  ]
+}

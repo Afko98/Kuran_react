@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 714,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَلْحَقُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْحَقْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لحق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَلْحَقُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَلْحَقُوا۟",
+      "translation_bh": "",
+      "translation_en": "yet joined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْحَقْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَلْحِقْنِى",
+      "translation_bh": "",
+      "translation_en": "and join me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْحَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْحَقْتُم",
+      "translation_bh": "",
+      "translation_en": "you have joined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلْحَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَلْحَقْنَا",
+      "translation_bh": "",
+      "translation_en": "We will join"
+    }
+  ]
+}

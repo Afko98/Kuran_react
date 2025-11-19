@@ -1,0 +1,771 @@
+{
+  "description_bh": "",
+  "id": 51,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ضالّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلالَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضِلّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَضْلِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ضلل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ضالّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلضَّآلِّينَ",
+      "translation_bh": "",
+      "translation_en": "(of) those who go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلالَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلضَّلَـٰلَةَ",
+      "translation_bh": "",
+      "translation_en": "[the] astraying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يُضِلُّ",
+      "translation_bh": "",
+      "translation_en": "He lets go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 18,
+      "part_of_speech": "V",
+      "text": "ضَلَّ",
+      "translation_bh": "",
+      "translation_en": "he went astray (from)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَضِلَّ",
+      "translation_bh": "",
+      "translation_en": "[she] errs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلُّونَكُمْ",
+      "translation_bh": "",
+      "translation_en": "they could lead you astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُضِلُّونَ",
+      "translation_bh": "",
+      "translation_en": "they lead astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضالّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلضَّآلُّونَ",
+      "translation_bh": "",
+      "translation_en": "(are) those who have gone astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 23,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَضِلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "you stray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "mislead them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلًۢا",
+      "translation_bh": "",
+      "translation_en": "astray "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَضَلَّ",
+      "translation_bh": "",
+      "translation_en": "is let astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "يُضْلِلِ",
+      "translation_bh": "",
+      "translation_en": "is let astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُضِلُّوكَ",
+      "translation_bh": "",
+      "translation_en": "mislead you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَأُضِلَّنَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "And I will surely mislead them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "ضَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they have strayed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَضِلُّوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "you go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَأَضَلُّ",
+      "translation_bh": "",
+      "translation_en": "and farthest astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَضَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and they misled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَضَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and they have strayed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "وَضَلَّ",
+      "translation_bh": "",
+      "translation_en": "And lost"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضْلِلْهُ",
+      "translation_bh": "",
+      "translation_en": "He lets him go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ضَلَلْتُ",
+      "translation_bh": "",
+      "translation_en": "I would go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَضِلُّ",
+      "translation_bh": "",
+      "translation_en": "strays"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّيُضِلُّونَ",
+      "translation_bh": "",
+      "translation_en": "surely lead astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "He lets him go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِّيُضِلَّ",
+      "translation_bh": "",
+      "translation_en": "to mislead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضَّلَـٰلَةُ ۗ",
+      "translation_bh": "",
+      "translation_en": "the astraying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضَلُّونَا",
+      "translation_bh": "",
+      "translation_en": "misled us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُضِلُّ",
+      "translation_bh": "",
+      "translation_en": "You let go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُضْلِلْ",
+      "translation_bh": "",
+      "translation_en": "He lets go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَضَلُّ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) more astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضَلُّ",
+      "translation_bh": "",
+      "translation_en": "are led astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لِيُضِلَّ",
+      "translation_bh": "",
+      "translation_en": "that He lets go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضَّلَـٰلُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُضِلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "That they may lead astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلِكَ",
+      "translation_bh": "",
+      "translation_en": "your error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلٍۭ",
+      "translation_bh": "",
+      "translation_en": "(are) far astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُضِلُّ",
+      "translation_bh": "",
+      "translation_en": "Then Allah lets go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلضَّلَـٰلُ",
+      "translation_bh": "",
+      "translation_en": "(is) the straying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُضِلُّ",
+      "translation_bh": "",
+      "translation_en": "And Allah lets go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيُضِلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "so that they mislead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضْلَلْنَ",
+      "translation_bh": "",
+      "translation_en": "have led astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلُّونَهُم",
+      "translation_bh": "",
+      "translation_en": "they misled [them]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضَّلَـٰلَةُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the straying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلُّ ۖ",
+      "translation_bh": "",
+      "translation_en": "He lets go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَضَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "but they have gone astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضِلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُضِلِّينَ",
+      "translation_bh": "",
+      "translation_en": "the misleaders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلضَّلَـٰلَةِ",
+      "translation_bh": "",
+      "translation_en": "[the] error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَضَلَّ",
+      "translation_bh": "",
+      "translation_en": "And led astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَضَلَّهُمُ",
+      "translation_bh": "",
+      "translation_en": "and has led them astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ضَلُّوٓا۟",
+      "translation_bh": "",
+      "translation_en": "going astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "will misguide him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضالّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضَآلِّينَ",
+      "translation_bh": "",
+      "translation_en": "astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضْلَلْتُمْ",
+      "translation_bh": "",
+      "translation_en": "[you] mislead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضَلَّنِى",
+      "translation_bh": "",
+      "translation_en": "he led me astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيُضِلُّنَا",
+      "translation_bh": "",
+      "translation_en": "[surely] misled us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "أَضَلُّ",
+      "translation_bh": "",
+      "translation_en": "(is) more astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضَلَّنَآ",
+      "translation_bh": "",
+      "translation_en": "misguided us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلالَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلَتِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضِلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّضِلٌّۭ",
+      "translation_bh": "",
+      "translation_en": "one who misleads"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ضَلَلْنَا",
+      "translation_bh": "",
+      "translation_en": "we are lost"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلًۭا",
+      "translation_bh": "",
+      "translation_en": "(into) error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَضَلُّونَا",
+      "translation_bh": "",
+      "translation_en": "and they misled us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلضَّلَـٰلِ",
+      "translation_bh": "",
+      "translation_en": "and error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضِلُّ",
+      "translation_bh": "",
+      "translation_en": "I will err"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُضِلَّكَ",
+      "translation_bh": "",
+      "translation_en": "for it will lead you astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَضِلُّونَ",
+      "translation_bh": "",
+      "translation_en": "go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُضِلّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّضِلٍّ ۗ",
+      "translation_bh": "",
+      "translation_en": "misleader"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضَلال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَلَـٰلٍ",
+      "translation_bh": "",
+      "translation_en": "error"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضَلَّانَا",
+      "translation_bh": "",
+      "translation_en": "misled us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَضَلَّهُ",
+      "translation_bh": "",
+      "translation_en": "and Allah lets him go astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلَّ",
+      "translation_bh": "",
+      "translation_en": "He will cause to be lost"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضالّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَضَآلُّونَ",
+      "translation_bh": "",
+      "translation_en": "(are) surely lost"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they have led astray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they will mislead"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضالّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضَآلًّۭا",
+      "translation_bh": "",
+      "translation_en": "lost"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَضْلِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَضْلِيلٍۢ",
+      "translation_bh": "",
+      "translation_en": "astray"
+    }
+  ]
+}

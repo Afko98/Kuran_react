@@ -1,0 +1,355 @@
+{
+  "description_bh": "",
+  "id": 126,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرُوء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُقْرِئُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قرأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْءَانُ",
+      "translation_bh": "",
+      "translation_en": "the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرُوء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرُوٓءٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "monthly periods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْءَانَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(on) the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قُرِئَ",
+      "translation_bh": "",
+      "translation_en": "is recited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقُرْءَانِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقُرْءَانٍ",
+      "translation_bh": "",
+      "translation_en": "a Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْءَانٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَقْرَءُونَ",
+      "translation_bh": "",
+      "translation_en": "(have been) reading"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قُرْءَٰنًا",
+      "translation_bh": "",
+      "translation_en": "(as) a Quran in Arabic"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْءَانَ",
+      "translation_bh": "",
+      "translation_en": "the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْءَانًۭا",
+      "translation_bh": "",
+      "translation_en": "any Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُرْءَانٍۢ",
+      "translation_bh": "",
+      "translation_en": "and Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقُرْءَانَ",
+      "translation_bh": "",
+      "translation_en": "and the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قَرَأْتَ",
+      "translation_bh": "",
+      "translation_en": "you recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱقْرَأْ",
+      "translation_bh": "",
+      "translation_en": "Read"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْءَانِ",
+      "translation_bh": "",
+      "translation_en": "the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْءَانِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُرْءَانَ",
+      "translation_bh": "",
+      "translation_en": "and Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْءَانَ",
+      "translation_bh": "",
+      "translation_en": "the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّقْرَؤُهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "we could read it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُرْءَانًۭا",
+      "translation_bh": "",
+      "translation_en": "And the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَقْرَأَهُۥ",
+      "translation_bh": "",
+      "translation_en": "that you might recite it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "قُرْءَانًا",
+      "translation_bh": "",
+      "translation_en": "(the) Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْقُرْءَانِ",
+      "translation_bh": "",
+      "translation_en": "with the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَرَأَهُۥ",
+      "translation_bh": "",
+      "translation_en": "And he (had) recited it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقُرْءَانَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْقُرْءَانِ",
+      "translation_bh": "",
+      "translation_en": "By the Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُرْءَانٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَقُرْءَانٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely, a Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱقْرَءُوا۟",
+      "translation_bh": "",
+      "translation_en": "read"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱقْرَءُوا۟",
+      "translation_bh": "",
+      "translation_en": "so recite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُرْءَانَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and its recitation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَرَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَرَأْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We have recited it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْءَانَهُۥ",
+      "translation_bh": "",
+      "translation_en": "its recitation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُرْءان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُرْءَانٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a Quran"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُقْرِئُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنُقْرِئُكَ",
+      "translation_bh": "",
+      "translation_en": "We will make you recite"
+    }
+  ]
+}

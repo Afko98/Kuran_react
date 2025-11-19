@@ -1,0 +1,368 @@
+{
+  "description_bh": "",
+  "id": 91,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أول",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 16,
+      "part_of_speech": "N",
+      "text": "أَوَّلَ",
+      "translation_bh": "",
+      "translation_en": "(the) first"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آل",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ءَالِ",
+      "translation_bh": "",
+      "translation_en": "(the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آل",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ءَالَ",
+      "translation_bh": "",
+      "translation_en": "(the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَالُ",
+      "translation_bh": "",
+      "translation_en": "(by the) family"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَالُ",
+      "translation_bh": "",
+      "translation_en": "and family"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "its interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "its interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَءَالَ",
+      "translation_bh": "",
+      "translation_en": "and (the) family"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلًا",
+      "translation_bh": "",
+      "translation_en": "(for final) determination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّأَوَّلِنَا",
+      "translation_bh": "",
+      "translation_en": "for first of us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 30,
+      "part_of_speech": "N",
+      "text": "ٱلْأَوَّلِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the former (people)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَوَّلُ",
+      "translation_bh": "",
+      "translation_en": "(the) first"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأُولَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "about the first of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُولَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "(the) first of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "(for) its fulfillment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "its fulfillment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْأَوَّلُونَ",
+      "translation_bh": "",
+      "translation_en": "the first"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوَّلِ",
+      "translation_bh": "",
+      "translation_en": "(the) first"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "its interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلِ",
+      "translation_bh": "",
+      "translation_en": "(the) interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِتَأْوِيلِهِۦٓ ۖ",
+      "translation_bh": "",
+      "translation_en": "of its interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِتَأْوِيلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "of its interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِتَأْوِيلِ",
+      "translation_bh": "",
+      "translation_en": "(are) in the interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلُ",
+      "translation_bh": "",
+      "translation_en": "(is the) interpretation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُولَىٰهُمَا",
+      "translation_bh": "",
+      "translation_en": "(for) the first of the two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأْوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَأْوِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) result"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَوَّلُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the former (people)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْأُولَىٰ",
+      "translation_bh": "",
+      "translation_en": "the former"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأُولَىٰ ۖ",
+      "translation_bh": "",
+      "translation_en": "the former"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَوَّلِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the former (people)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔالِ",
+      "translation_bh": "",
+      "translation_en": "(the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَوَّلِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the first"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْأُولَىٰ",
+      "translation_bh": "",
+      "translation_en": "and the first"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُولَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the former"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَوَّلُ",
+      "translation_bh": "",
+      "translation_en": "(is) the First"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأَوَّلِ",
+      "translation_bh": "",
+      "translation_en": "at (the) first"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَوَّلِينَ",
+      "translation_bh": "",
+      "translation_en": "and the former (people)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوَّل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأُولَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "and the first"
+    }
+  ]
+}

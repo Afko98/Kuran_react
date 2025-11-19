@@ -1,0 +1,414 @@
+{
+  "description_bh": "",
+  "id": 48,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتارَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيَرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَيَّرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خير",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 59,
+      "part_of_speech": "N",
+      "text": "خَيْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَيْرٌ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَيْرٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(would have been) better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "خَيْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِخَيْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْرَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرَٰتِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(to) the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 30,
+      "part_of_speech": "N",
+      "text": "خَيْرًۭا",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَيْرًا",
+      "translation_bh": "",
+      "translation_en": "good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَيْرَ",
+      "translation_bh": "",
+      "translation_en": "(the) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is all) the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "خَيْرُ",
+      "translation_bh": "",
+      "translation_en": "(is the) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرِ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْرَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "the good deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَيْرٌۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَيْرًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "any good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَيْرٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتارَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱخْتَارَ",
+      "translation_bh": "",
+      "translation_en": "And chose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرَٰتُ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) the good things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "خَيْرٌ",
+      "translation_bh": "",
+      "translation_en": "better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْخَيْرِ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَيْرًا ۖ",
+      "translation_bh": "",
+      "translation_en": "any good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِخَيْرٍ ۖ",
+      "translation_bh": "",
+      "translation_en": "with any good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْخَيْرِ ۖ",
+      "translation_bh": "",
+      "translation_en": "for the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَخَيْرٌ",
+      "translation_bh": "",
+      "translation_en": "and (the) best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَخَيْرٌۭ",
+      "translation_bh": "",
+      "translation_en": "and better"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتارَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱخْتَرْتُكَ",
+      "translation_bh": "",
+      "translation_en": "(have) chosen you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْخَيْرِ",
+      "translation_bh": "",
+      "translation_en": "and [the] good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرَ",
+      "translation_bh": "",
+      "translation_en": "[the] good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَيْرًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "any good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتارَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَخْتَارُ ۗ",
+      "translation_bh": "",
+      "translation_en": "and chooses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيَرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخِيَرَةُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the choice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَيْرًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "any good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خِيَرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخِيَرَةُ",
+      "translation_bh": "",
+      "translation_en": "(any) choice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْخَيْرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "in good deeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَخْيَارِ",
+      "translation_bh": "",
+      "translation_en": "the best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتارَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱخْتَرْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We chose them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِّلْخَيْرِ",
+      "translation_bh": "",
+      "translation_en": "of good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَيْرَٰتٌ",
+      "translation_bh": "",
+      "translation_en": "(are) good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَيَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَخَيَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "they select"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَخَيَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخَيَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "you choose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَيْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَيْرُ",
+      "translation_bh": "",
+      "translation_en": "the good"
+    }
+  ]
+}

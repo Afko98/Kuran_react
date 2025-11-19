@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 836,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَزَلَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَلَلْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَزَلَّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زلل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَزَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَزَلَّهُمَا",
+      "translation_bh": "",
+      "translation_en": "Then made [both of] them slip"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَلَلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "زَلَلْتُم",
+      "translation_bh": "",
+      "translation_en": "you slip"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَزَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَزَلَّهُمُ",
+      "translation_bh": "",
+      "translation_en": "made them slip"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زَلَلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَزِلَّ",
+      "translation_bh": "",
+      "translation_en": "lest, should slip"
+    }
+  ]
+}

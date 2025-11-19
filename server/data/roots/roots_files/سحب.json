@@ -1,0 +1,84 @@
+{
+  "description_bh": "",
+  "id": 548,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَحاب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسْحَبُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سحب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَحاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّحَابِ",
+      "translation_bh": "",
+      "translation_en": "and the clouds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَحاب",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سَحَابًۭا",
+      "translation_bh": "",
+      "translation_en": "clouds "
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَحاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّحَابَ",
+      "translation_bh": "",
+      "translation_en": "the clouds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَحاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَحَابٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "a cloud"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَحاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّحَابِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the clouds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسْحَبُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُسْحَبُونَ",
+      "translation_bh": "",
+      "translation_en": "they will be dragged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَحاب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَحَابٌۭ",
+      "translation_bh": "",
+      "translation_en": "Clouds"
+    }
+  ]
+}

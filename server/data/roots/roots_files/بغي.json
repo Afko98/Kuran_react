@@ -1,0 +1,564 @@
+{
+  "description_bh": "",
+  "id": 118,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "باغ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتِغاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنۢبَغِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِغاء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بغي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَغْيًا",
+      "translation_bh": "",
+      "translation_en": "grudging"
+    },
+    {
+      "description_bh": "",
+      "lemma": "باغ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَاغٍۢ",
+      "translation_bh": "",
+      "translation_en": "(being) disobedient"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱبْتَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "and seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَبْتَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "you seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتِغاء",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱبْتِغَآءَ",
+      "translation_bh": "",
+      "translation_en": "seeking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بَغْيًۢا",
+      "translation_bh": "",
+      "translation_en": "(out of) jealousy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتِغاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱبْتِغَآءَ",
+      "translation_bh": "",
+      "translation_en": "and seeking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَبْغُونَ",
+      "translation_bh": "",
+      "translation_en": "they seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْتَغِ",
+      "translation_bh": "",
+      "translation_en": "seeks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْغُونَهَا",
+      "translation_bh": "",
+      "translation_en": "seeking (to make) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْغُوا۟",
+      "translation_bh": "",
+      "translation_en": "seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْتَغُونَ",
+      "translation_bh": "",
+      "translation_en": "seeking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتِغاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱبْتِغَآءِ",
+      "translation_bh": "",
+      "translation_en": "pursuit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَيَبْتَغُونَ",
+      "translation_bh": "",
+      "translation_en": "Do they seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَبْتَغُونَ",
+      "translation_bh": "",
+      "translation_en": "seeking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱبْتَغُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْغُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "they seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْتَغِىَ",
+      "translation_bh": "",
+      "translation_en": "seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْتَغِى",
+      "translation_bh": "",
+      "translation_en": "I seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِبَغْيِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "for their rebellion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْغِى",
+      "translation_bh": "",
+      "translation_en": "I (should) seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَغْىَ",
+      "translation_bh": "",
+      "translation_en": "and the oppression"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَبْغُونَهَا",
+      "translation_bh": "",
+      "translation_en": "and seek in it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَبْغُونَهَا",
+      "translation_bh": "",
+      "translation_en": "and seeking (to make) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْغِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "I seek for you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْغُونَكُمُ",
+      "translation_bh": "",
+      "translation_en": "seeking (for) you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱبْتَغَوُا۟",
+      "translation_bh": "",
+      "translation_en": "they had sought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَغْيُكُمْ",
+      "translation_bh": "",
+      "translation_en": "your rebellion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَغْيًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) rebellion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبْغِى ۖ",
+      "translation_bh": "",
+      "translation_en": "(could) we desire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَلِتَبْتَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "and that you may seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَغْىِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the oppression"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِّتَبْتَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "that you may seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّٱبْتَغَوْا۟",
+      "translation_bh": "",
+      "translation_en": "surely they (would) have sought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِتَبْتَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "that you may seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱبْتَغِ",
+      "translation_bh": "",
+      "translation_en": "but seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبْغِ ۚ",
+      "translation_bh": "",
+      "translation_en": "seeking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَغِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "unchaste"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَنۢبَغِي",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَنۢبَغِى",
+      "translation_bh": "",
+      "translation_en": "is appropriate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بُغِىَ",
+      "translation_bh": "",
+      "translation_en": "he was oppressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱبْتَغَىٰ",
+      "translation_bh": "",
+      "translation_en": "seeks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بِغاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبِغَآءِ",
+      "translation_bh": "",
+      "translation_en": "[the] prostitution"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبْتَغِى",
+      "translation_bh": "",
+      "translation_en": "we seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَبَغَىٰ",
+      "translation_bh": "",
+      "translation_en": "but he oppressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْغِ",
+      "translation_bh": "",
+      "translation_en": "seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱبْتَغُوا۟",
+      "translation_bh": "",
+      "translation_en": "So seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتِغاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱبْتِغَآؤُكُم",
+      "translation_bh": "",
+      "translation_en": "[and] your seeking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱبْتَغَيْتَ",
+      "translation_bh": "",
+      "translation_en": "you desire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَغَىٰ",
+      "translation_bh": "",
+      "translation_en": "has wronged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَبْغِى",
+      "translation_bh": "",
+      "translation_en": "certainly oppress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَبَغَوْا۟",
+      "translation_bh": "",
+      "translation_en": "surely they would rebel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَغْىُ",
+      "translation_bh": "",
+      "translation_en": "tyranny"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَبْغُونَ",
+      "translation_bh": "",
+      "translation_en": "and rebel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَغَتْ",
+      "translation_bh": "",
+      "translation_en": "oppresses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْغِى",
+      "translation_bh": "",
+      "translation_en": "oppresses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْغِيَانِ",
+      "translation_bh": "",
+      "translation_en": "they transgress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ابْتَغَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْتَغِى",
+      "translation_bh": "",
+      "translation_en": "seeking"
+    }
+  ]
+}

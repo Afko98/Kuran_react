@@ -1,0 +1,94 @@
+{
+  "description_bh": "",
+  "id": 435,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عُذْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيذُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعِذْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعاذ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عوذ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عُذْ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "أَعُوذُ",
+      "translation_bh": "",
+      "translation_en": "I seek refuge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُعِيذُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُعِيذُهَا",
+      "translation_bh": "",
+      "translation_en": "[I] seek refuge for her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعِذْ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَعِذْ",
+      "translation_bh": "",
+      "translation_en": "then seek refuge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعاذ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَعَاذَ",
+      "translation_bh": "",
+      "translation_en": "I seek refuge in Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُذْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَعُوذُ",
+      "translation_bh": "",
+      "translation_en": "And I seek refuge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُذْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "عُذْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] seek refuge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُذْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعُوذُونَ",
+      "translation_bh": "",
+      "translation_en": "who sought refuge"
+    }
+  ]
+}

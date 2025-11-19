@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 644,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خالَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوَّلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خال",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خول",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَخَـٰلَـٰتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your mother's sisters"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَوَّلْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "We bestowed (on) you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَخْوَٰلِكُمْ",
+      "translation_bh": "",
+      "translation_en": "(of) your maternal uncles"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَـٰلَـٰتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "(of) your maternal aunts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَالِكَ",
+      "translation_bh": "",
+      "translation_en": "(of) your maternal uncles"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَـٰلَـٰتِكَ",
+      "translation_bh": "",
+      "translation_en": "(of) your maternal aunts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَوَّلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "He bestows on him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَوَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَوَّلْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We bestow (on) him"
+    }
+  ]
+}

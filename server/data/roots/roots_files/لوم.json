@@ -1,0 +1,145 @@
+{
+  "description_bh": "",
+  "id": 477,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَوْمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لائِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُمْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلُوم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَلاوَمُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوّامَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لوم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَوْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَوْمَةَ",
+      "translation_bh": "",
+      "translation_en": "the blame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لائِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَآئِمٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) a critic"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُمْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لُمْتُنَّنِى",
+      "translation_bh": "",
+      "translation_en": "you blamed me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُمْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَلُومُونِى",
+      "translation_bh": "",
+      "translation_en": "blame me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لُمْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلُومُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "but blame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلُوم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَلُومًۭا",
+      "translation_bh": "",
+      "translation_en": "blameworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلُوم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَلُومِينَ",
+      "translation_bh": "",
+      "translation_en": "blameworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلِيم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُلِيمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(was) blameworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلُوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَلُومٍۢ",
+      "translation_bh": "",
+      "translation_en": "(are) to be blamed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَلاوَمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَلَـٰوَمُونَ",
+      "translation_bh": "",
+      "translation_en": "blaming each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَوّامَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّوَّامَةِ",
+      "translation_bh": "",
+      "translation_en": "self-accusing"
+    }
+  ]
+}

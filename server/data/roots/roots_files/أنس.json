@@ -1,0 +1,397 @@
+{
+  "description_bh": "",
+  "id": 22,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنَسَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْتَأْنِسُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَأْنِس",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أنس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 84,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاسِ",
+      "translation_bh": "",
+      "translation_en": "the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 42,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاسُ",
+      "translation_bh": "",
+      "translation_en": "the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 47,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاسَ",
+      "translation_bh": "",
+      "translation_en": "[the] people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُنَاسٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 36,
+      "part_of_speech": "N",
+      "text": "لِلنَّاسِ",
+      "translation_bh": "",
+      "translation_en": "to [the] people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "لِّلنَّاسِ",
+      "translation_bh": "",
+      "translation_en": "for mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلنَّاسِ",
+      "translation_bh": "",
+      "translation_en": "(is) to [the] mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّاسِ",
+      "translation_bh": "",
+      "translation_en": "and the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاسِ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِّلنَّاسِ ۖ",
+      "translation_bh": "",
+      "translation_en": "for the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنَسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَانَسْتُم",
+      "translation_bh": "",
+      "translation_en": "you perceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 26,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنسَـٰنُ",
+      "translation_bh": "",
+      "translation_en": "the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاسِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنسِ",
+      "translation_bh": "",
+      "translation_en": "(from) the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنسِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَٱلْإِنسِ",
+      "translation_bh": "",
+      "translation_en": "and [the] men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُنَاسٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْإِنسِ ۖ",
+      "translation_bh": "",
+      "translation_en": "and men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 27,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنسَـٰنَ",
+      "translation_bh": "",
+      "translation_en": "the man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "لِلْإِنسَـٰنِ",
+      "translation_bh": "",
+      "translation_en": "(is) to man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاسِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلنَّاسِ ۗ",
+      "translation_bh": "",
+      "translation_en": "for the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِنسَـٰنٍ",
+      "translation_bh": "",
+      "translation_en": "man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلنَّاسِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُنَاسٍۭ",
+      "translation_bh": "",
+      "translation_en": "human beings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنسَـٰنِ",
+      "translation_bh": "",
+      "translation_en": "man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنسُ",
+      "translation_bh": "",
+      "translation_en": "the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِنسِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "(to any) human being"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنَسَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ءَانَسْتُ",
+      "translation_bh": "",
+      "translation_en": "[I] perceived"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْتَأْنِسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَأْنِسُوا۟",
+      "translation_bh": "",
+      "translation_en": "you have asked permission"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلنَّاسِ ۗ",
+      "translation_bh": "",
+      "translation_en": "for the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَنَاسِىَّ",
+      "translation_bh": "",
+      "translation_en": "and men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آنَسَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَانَسَ",
+      "translation_bh": "",
+      "translation_en": "he saw"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلنَّاسِ ۖ",
+      "translation_bh": "",
+      "translation_en": "to mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَأْنِس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَـْٔنِسِينَ",
+      "translation_bh": "",
+      "translation_en": "seeking to remain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنسان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنسَـٰنُ ۖ",
+      "translation_bh": "",
+      "translation_en": "the man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاسَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْإِنسَ",
+      "translation_bh": "",
+      "translation_en": "and the mankind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنس",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "إِنسٌۭ",
+      "translation_bh": "",
+      "translation_en": "any man"
+    }
+  ]
+}

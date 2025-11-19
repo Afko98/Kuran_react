@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 816,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُصْرِخ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَصْرِخُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصْطَرِخُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرِيخ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صرخ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُصْرِخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُصْرِخِكُمْ",
+      "translation_bh": "",
+      "translation_en": "(be) your helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُصْرِخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُصْرِخِىَّ ۖ",
+      "translation_bh": "",
+      "translation_en": "(be) my helper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَصْرِخُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَصْرِخُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "cried out to him for help"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَصْطَرِخُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَصْطَرِخُونَ",
+      "translation_bh": "",
+      "translation_en": "will cry"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرِيخ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَرِيخَ",
+      "translation_bh": "",
+      "translation_en": "(would be) a responder to a cry"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 641,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عاقِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَرَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عقر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عاقِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَاقِرٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) [a] barren"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَقَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "Then they hamstrung"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَعَقَرُوهَا",
+      "translation_bh": "",
+      "translation_en": "But they hamstrung her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاقِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَاقِرًۭا",
+      "translation_bh": "",
+      "translation_en": "barren"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَعَقَرَ",
+      "translation_bh": "",
+      "translation_en": "and hamstrung"
+    }
+  ]
+}

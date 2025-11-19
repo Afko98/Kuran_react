@@ -1,0 +1,102 @@
+{
+  "description_bh": "",
+  "id": 528,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُخْل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بخل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَبْخَلُونَ",
+      "translation_bh": "",
+      "translation_en": "withhold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "بَخِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "they withheld"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُخْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْبُخْلِ",
+      "translation_bh": "",
+      "translation_en": "[of] stinginess"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبْخَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "you will withhold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْخَلُ ۖ",
+      "translation_bh": "",
+      "translation_en": "withhold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْخَلْ",
+      "translation_bh": "",
+      "translation_en": "withholds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْخَلُ",
+      "translation_bh": "",
+      "translation_en": "he withholds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُخْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْبُخْلِ ۗ",
+      "translation_bh": "",
+      "translation_en": "stinginess"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَخِلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَخِلَ",
+      "translation_bh": "",
+      "translation_en": "withholds"
+    }
+  ]
+}

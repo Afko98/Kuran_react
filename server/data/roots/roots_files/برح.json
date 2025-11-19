@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 984,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَبْرَحَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "برح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَبْرَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْرَحَ",
+      "translation_bh": "",
+      "translation_en": "will I leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْرَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْرَحُ",
+      "translation_bh": "",
+      "translation_en": "I will cease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْرَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّبْرَحَ",
+      "translation_bh": "",
+      "translation_en": "we will cease"
+    }
+  ]
+}

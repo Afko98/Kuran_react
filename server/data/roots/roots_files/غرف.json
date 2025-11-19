@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 673,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اغْتَرَفَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرْفَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرُفَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غرف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اغْتَرَفَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱغْتَرَفَ",
+      "translation_bh": "",
+      "translation_en": "takes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرْفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غُرْفَةًۢ",
+      "translation_bh": "",
+      "translation_en": "(in the) hollow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرْفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغُرْفَةَ",
+      "translation_bh": "",
+      "translation_en": "the Chamber"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرْفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غُرَفًۭا",
+      "translation_bh": "",
+      "translation_en": "lofty dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرُفَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغُرُفَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the high dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُرْفَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "غُرَفٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) lofty mansions"
+    }
+  ]
+}

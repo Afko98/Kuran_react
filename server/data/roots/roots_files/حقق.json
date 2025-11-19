@@ -1,0 +1,541 @@
+{
+  "description_bh": "",
+  "id": 31,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَقّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَحَقَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحِقَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاقَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حقق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 37,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقُّ",
+      "translation_bh": "",
+      "translation_en": "(is) the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقَّ",
+      "translation_bh": "",
+      "translation_en": "the Truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقِّ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "بِٱلْحَقِّ ۚ",
+      "translation_bh": "",
+      "translation_en": "with the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقُّ ۖ",
+      "translation_bh": "",
+      "translation_en": "the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 47,
+      "part_of_speech": "N",
+      "text": "بِٱلْحَقِّ",
+      "translation_bh": "",
+      "translation_en": "with the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "حَقَّ",
+      "translation_bh": "",
+      "translation_en": "(as it has the) right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَلْحَقُّ",
+      "translation_bh": "",
+      "translation_en": "(is) surely the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلْحَقِّ ۗ",
+      "translation_bh": "",
+      "translation_en": "with [the] Truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "حَقًّا",
+      "translation_bh": "",
+      "translation_en": "a duty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 26,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقِّ",
+      "translation_bh": "",
+      "translation_en": "the Truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَقّ",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "أَحَقُّ",
+      "translation_bh": "",
+      "translation_en": "(have) better right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "حَقٍّۢ",
+      "translation_bh": "",
+      "translation_en": "right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقُّ ۚ",
+      "translation_bh": "",
+      "translation_en": "[the] true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "حَقٌّۭ",
+      "translation_bh": "",
+      "translation_en": "(is) true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَقٍّۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "حَقًّۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقَّ ۚ",
+      "translation_bh": "",
+      "translation_en": "the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقِّ ۚ",
+      "translation_bh": "",
+      "translation_en": "the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقِّ ۖ",
+      "translation_bh": "",
+      "translation_en": "the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَحَقَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَحَقَّآ",
+      "translation_bh": "",
+      "translation_en": "(were) guilty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَحَقَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَحَقَّ",
+      "translation_bh": "",
+      "translation_en": "have a lawful right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِحَقٍّ ۚ",
+      "translation_bh": "",
+      "translation_en": "(had) right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقَّ ۖ",
+      "translation_bh": "",
+      "translation_en": "the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "بِٱلْحَقِّ ۖ",
+      "translation_bh": "",
+      "translation_en": "in truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَقَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "its due"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقَّ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "حَقَّ",
+      "translation_bh": "",
+      "translation_en": "deserved "
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "حَقًّۭا",
+      "translation_bh": "",
+      "translation_en": "true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَقًّۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(to be) true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَقِيقٌ",
+      "translation_bh": "",
+      "translation_en": "Obligated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحِقَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحِقَّ",
+      "translation_bh": "",
+      "translation_en": "justify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحِقَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُحِقَّ",
+      "translation_bh": "",
+      "translation_en": "That He might justify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَقًّا ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقَّ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "حَقَّتْ",
+      "translation_bh": "",
+      "translation_en": "(is) proved true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْحَقِّ ۗ",
+      "translation_bh": "",
+      "translation_en": "to the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحَقٌّ",
+      "translation_bh": "",
+      "translation_en": "Is it true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَحَقٌّۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) surely the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "لِلْحَقِّ",
+      "translation_bh": "",
+      "translation_en": "about the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحِقَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُحِقُّ",
+      "translation_bh": "",
+      "translation_en": "And Allah will establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقَّ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَحَقَّ",
+      "translation_bh": "",
+      "translation_en": "so (is) proved true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَبِٱلْحَقِّ",
+      "translation_bh": "",
+      "translation_en": "And with the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَقُّ ۗ",
+      "translation_bh": "",
+      "translation_en": "the True"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَقٍّ",
+      "translation_bh": "",
+      "translation_en": "right"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَقٌّۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَحِقَّ",
+      "translation_bh": "",
+      "translation_en": "and may be proved true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَحَقٌّۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely (the) truth "
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْحَقُّ",
+      "translation_bh": "",
+      "translation_en": "Then (it is) the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْحَقَّ",
+      "translation_bh": "",
+      "translation_en": "and the truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَقٌّۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) true"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحَقَّ",
+      "translation_bh": "",
+      "translation_en": "and (is) justified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحَقَّ",
+      "translation_bh": "",
+      "translation_en": "more deserving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَقُّ",
+      "translation_bh": "",
+      "translation_en": "(is the) truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاقَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْحَآقَّةُ",
+      "translation_bh": "",
+      "translation_en": "The Inevitable Reality"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَحَقُّ",
+      "translation_bh": "",
+      "translation_en": "surely (the) truth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَقَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَحُقَّتْ",
+      "translation_bh": "",
+      "translation_en": "and was obligated"
+    }
+  ]
+}

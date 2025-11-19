@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 720,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَرَدِّيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْدَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَرْدَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَرَدَّى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ردي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُتَرَدِّيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُتَرَدِّيَةُ",
+      "translation_bh": "",
+      "translation_en": "and that which has a fatal fall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُرْدُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "so that they may ruin them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَرْدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَرْدَىٰ",
+      "translation_bh": "",
+      "translation_en": "lest you perish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتُرْدِينِ",
+      "translation_bh": "",
+      "translation_en": "ruined me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْدَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "It has ruined you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَرَدَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرَدَّىٰٓ",
+      "translation_bh": "",
+      "translation_en": "he falls"
+    }
+  ]
+}

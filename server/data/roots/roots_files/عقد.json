@@ -1,0 +1,94 @@
+{
+  "description_bh": "",
+  "id": 671,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عُقْدَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَدَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَّد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عقد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عُقْدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُقْدَةَ",
+      "translation_bh": "",
+      "translation_en": "the knot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُقْدَةُ",
+      "translation_bh": "",
+      "translation_en": "(is the) knot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَدَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَقَدَتْ",
+      "translation_bh": "",
+      "translation_en": "pledged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْعُقُودِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the contracts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَقَّد",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَقَّدتُّمُ",
+      "translation_bh": "",
+      "translation_en": "you contracted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُقْدَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(the) knot"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُقْدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعُقَدِ",
+      "translation_bh": "",
+      "translation_en": "the knots"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 654,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سِتَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِتِّين",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ستت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سِتَّة",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "سِتَّةِ",
+      "translation_bh": "",
+      "translation_en": "six"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِتِّين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِتِّينَ",
+      "translation_bh": "",
+      "translation_en": "(of) sixty"
+    }
+  ]
+}

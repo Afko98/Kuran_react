@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 656,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غابِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَبَرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غبر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غابِر",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْغَـٰبِرِينَ",
+      "translation_bh": "",
+      "translation_en": "those who stayed behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَبَرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَبَرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) dust"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "description_bh": "",
+  "id": 566,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فِرار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفَرّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فِرار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "فِرَارًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) flight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَفَرَرْتُ",
+      "translation_bh": "",
+      "translation_en": "So I fled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فِرار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفِرَارُ",
+      "translation_bh": "",
+      "translation_en": "the fleeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَرْتُم",
+      "translation_bh": "",
+      "translation_en": "you flee"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَفِرُّوٓا۟",
+      "translation_bh": "",
+      "translation_en": "So flee"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَفِرُّونَ",
+      "translation_bh": "",
+      "translation_en": "you flee"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَرَّتْ",
+      "translation_bh": "",
+      "translation_en": "Fleeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَفَرّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَفَرُّ",
+      "translation_bh": "",
+      "translation_en": "(is) the escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَفِرُّ",
+      "translation_bh": "",
+      "translation_en": "will flee"
+    }
+  ]
+}

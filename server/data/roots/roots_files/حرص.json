@@ -1,0 +1,71 @@
+{
+  "description_bh": "",
+  "id": 755,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَحْرَص",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَصْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِيص",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حرص",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَحْرَص",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْرَصَ",
+      "translation_bh": "",
+      "translation_en": "(the) most greedy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَصْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَرَصْتُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "you desired"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرِيص",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَرِيصٌ",
+      "translation_bh": "",
+      "translation_en": "(he is) concerned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَصْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَرَصْتَ",
+      "translation_bh": "",
+      "translation_en": "you desire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَرَصْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْرِصْ",
+      "translation_bh": "",
+      "translation_en": "you desire"
+    }
+  ]
+}

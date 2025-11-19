@@ -1,0 +1,2426 @@
+{
+  "description_bh": "",
+  "id": 9,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤْتي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِيتاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَأْتِيّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أتي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "فَأْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "then produce"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُتُوا۟",
+      "translation_bh": "",
+      "translation_en": "And they will be given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَنَّكُم",
+      "translation_bh": "",
+      "translation_en": "comes to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "وَءَاتُوا۟",
+      "translation_bh": "",
+      "translation_en": "and give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 17,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَا",
+      "translation_bh": "",
+      "translation_en": "We gave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰكُم",
+      "translation_bh": "",
+      "translation_en": "We have given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "they come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "وَءَاتَيْنَا",
+      "translation_bh": "",
+      "translation_en": "And We gave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 31,
+      "part_of_speech": "V",
+      "text": "أُوتُوا۟",
+      "translation_bh": "",
+      "translation_en": "were given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَأْتِ",
+      "translation_bh": "",
+      "translation_en": "We bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 14,
+      "part_of_speech": "V",
+      "text": "يَأْتِىَ",
+      "translation_bh": "",
+      "translation_en": "brings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتِينَآ",
+      "translation_bh": "",
+      "translation_en": "comes to us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "We have given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 14,
+      "part_of_speech": "V",
+      "text": "أُوتِىَ",
+      "translation_bh": "",
+      "translation_en": "was given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَيْتَ",
+      "translation_bh": "",
+      "translation_en": "you come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يَأْتِ",
+      "translation_bh": "",
+      "translation_en": "will bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَءَاتَى",
+      "translation_bh": "",
+      "translation_en": "and gives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "you come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "And come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ءَاتِنَا",
+      "translation_bh": "",
+      "translation_en": "Grant us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَهُمُ",
+      "translation_bh": "",
+      "translation_en": "comes to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "We gave them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُوتُوهُ",
+      "translation_bh": "",
+      "translation_en": "were given it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِكُم",
+      "translation_bh": "",
+      "translation_en": "(has) come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأْتُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "then come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتُمُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "you have given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتُم",
+      "translation_bh": "",
+      "translation_en": "you give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤْتَ",
+      "translation_bh": "",
+      "translation_en": "he has been given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُؤْتِى",
+      "translation_bh": "",
+      "translation_en": "gives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَكُمُ",
+      "translation_bh": "",
+      "translation_en": "will come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "and gave him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "gave him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "يَأْتِى",
+      "translation_bh": "",
+      "translation_en": "brings up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَأْتِ",
+      "translation_bh": "",
+      "translation_en": "so you bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِينَكَ",
+      "translation_bh": "",
+      "translation_en": "they will come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتَتْ",
+      "translation_bh": "",
+      "translation_en": "so it yielded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُؤْتُوهَا",
+      "translation_bh": "",
+      "translation_en": "and give it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَءَاتَوُا۟",
+      "translation_bh": "",
+      "translation_en": "and gave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْتِى",
+      "translation_bh": "",
+      "translation_en": "You give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "is given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُوتِيتُمْ",
+      "translation_bh": "",
+      "translation_en": "was given to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يُؤْتِيهِ",
+      "translation_bh": "",
+      "translation_en": "He gives it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتِيَهُ",
+      "translation_bh": "",
+      "translation_en": "gives him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتُكُم",
+      "translation_bh": "",
+      "translation_en": "I (have) given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَأْتُوكُم",
+      "translation_bh": "",
+      "translation_en": "and they come upon you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نُؤْتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "We will give him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "So gave them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "bestowed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَنَا",
+      "translation_bh": "",
+      "translation_en": "he brings to us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَوا۟",
+      "translation_bh": "",
+      "translation_en": "(they have) brought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتِنَا",
+      "translation_bh": "",
+      "translation_en": "grant us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَأْتِينَ",
+      "translation_bh": "",
+      "translation_en": "commit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَـٰنِهَا",
+      "translation_bh": "",
+      "translation_en": "commit it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتَيْتُمْ",
+      "translation_bh": "",
+      "translation_en": "and you have given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "so you give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "and give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَيْنَ",
+      "translation_bh": "",
+      "translation_en": "they commit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "then give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيُؤْتِ",
+      "translation_bh": "",
+      "translation_en": "and gives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُؤْتُونَ",
+      "translation_bh": "",
+      "translation_en": "they give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَآ",
+      "translation_bh": "",
+      "translation_en": "We gave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَءَاتَيْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "and [We] gave them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّـَٔاتَيْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "We would (have) given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُؤْتِيهِ",
+      "translation_bh": "",
+      "translation_en": "We will grant him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْتَأْتِ",
+      "translation_bh": "",
+      "translation_en": "and let come (forward)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْتُونَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "(do) you give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَأْتِ",
+      "translation_bh": "",
+      "translation_en": "and bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُؤْتِ",
+      "translation_bh": "",
+      "translation_en": "will be given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "He will give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤْتي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُؤْتُونَ",
+      "translation_bh": "",
+      "translation_en": "and the ones who give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنُؤْتِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "We will give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتَيْتُمُ",
+      "translation_bh": "",
+      "translation_en": "and give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَءَاتَىٰكُم",
+      "translation_bh": "",
+      "translation_en": "and He gave you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتُوكَ ۖ",
+      "translation_bh": "",
+      "translation_en": "come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْتَوْهُ",
+      "translation_bh": "",
+      "translation_en": "you are given it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "وَءَاتَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "and We gave him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "He (has) given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَيُؤْتُونَ",
+      "translation_bh": "",
+      "translation_en": "and give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَأْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "they will give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَأْتِيهِم",
+      "translation_bh": "",
+      "translation_en": "comes to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْتِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "will come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "came to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَأْتِيَهُم",
+      "translation_bh": "",
+      "translation_en": "so that you bring to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَتَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "(there) came to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَتْكُمُ",
+      "translation_bh": "",
+      "translation_en": "(there) came to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُوتُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they were given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَأْتِيكُم",
+      "translation_bh": "",
+      "translation_en": "to bring [back] to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱئْتِنَا ۗ",
+      "translation_bh": "",
+      "translation_en": "'Come to us.'"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰهَآ",
+      "translation_bh": "",
+      "translation_en": "We gave it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُؤْتَىٰ",
+      "translation_bh": "",
+      "translation_en": "we are given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَأْتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَـَٔاتٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) sure to come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "تَأْتِيَهُمُ",
+      "translation_bh": "",
+      "translation_en": "comes to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "He has given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَـَٔاتِيَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "surely, I will come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "so give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَأْتِنَا",
+      "translation_bh": "",
+      "translation_en": "Then bring us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱئْتِنَا",
+      "translation_bh": "",
+      "translation_en": "Bring us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَتَأْتُونَ",
+      "translation_bh": "",
+      "translation_en": "Do you commit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "لَتَأْتُونَ",
+      "translation_bh": "",
+      "translation_en": "you approach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَهُم",
+      "translation_bh": "",
+      "translation_en": "comes to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَأْتُوكَ",
+      "translation_bh": "",
+      "translation_en": "They (will) bring to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتِيَنَا",
+      "translation_bh": "",
+      "translation_en": "you came to us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتِنَا",
+      "translation_bh": "",
+      "translation_en": "you bring us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَتَوْا۟",
+      "translation_bh": "",
+      "translation_en": "Then they came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتُكَ",
+      "translation_bh": "",
+      "translation_en": "I have given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "came to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتِيهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَأْتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "comes to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We gave [him]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْتِيكُمْ",
+      "translation_bh": "",
+      "translation_en": "will it come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتَنَا",
+      "translation_bh": "",
+      "translation_en": "You give us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰهُمَا",
+      "translation_bh": "",
+      "translation_en": "He gives them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰهُمَا ۚ",
+      "translation_bh": "",
+      "translation_en": "He has given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْتِهِم",
+      "translation_bh": "",
+      "translation_en": "you bring them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُؤْتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "He will give you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَأْتُونَ",
+      "translation_bh": "",
+      "translation_en": "they come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيُؤْتِينَا",
+      "translation_bh": "",
+      "translation_en": "Allah will give us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَتْهُمْ",
+      "translation_bh": "",
+      "translation_en": "Came to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰنَا",
+      "translation_bh": "",
+      "translation_en": "He gives us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰهُم",
+      "translation_bh": "",
+      "translation_en": "He gave them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَوْكَ",
+      "translation_bh": "",
+      "translation_en": "they came to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱئْتِ",
+      "translation_bh": "",
+      "translation_en": "Bring us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَىٰهَآ",
+      "translation_bh": "",
+      "translation_en": "comes (to) it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "ٱئْتُونِى",
+      "translation_bh": "",
+      "translation_en": "Bring to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتَ",
+      "translation_bh": "",
+      "translation_en": "have given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَءَاتَىٰنِى",
+      "translation_bh": "",
+      "translation_en": "while He has given me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتِيَهُمُ",
+      "translation_bh": "",
+      "translation_en": "will Allah give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَأْتِيهِ",
+      "translation_bh": "",
+      "translation_en": "will come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاتِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "(will) come (for) them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتَتْ",
+      "translation_bh": "",
+      "translation_en": "and she gave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيكُمَا",
+      "translation_bh": "",
+      "translation_en": "(will) come to both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَكُمَا ۚ",
+      "translation_bh": "",
+      "translation_en": "[it] comes to both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتُونِى",
+      "translation_bh": "",
+      "translation_en": "you bring him to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْتُونِ",
+      "translation_bh": "",
+      "translation_en": "you give to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَأْتُنَّنِى",
+      "translation_bh": "",
+      "translation_en": "that surely you will bring him to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَوْهُ",
+      "translation_bh": "",
+      "translation_en": "they had given him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَنِى",
+      "translation_bh": "",
+      "translation_en": "will bring them to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأْتُونِى",
+      "translation_bh": "",
+      "translation_en": "And bring to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتَنِى",
+      "translation_bh": "",
+      "translation_en": "you have given me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْتِيَهُمْ",
+      "translation_bh": "",
+      "translation_en": "comes to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَأْتِى",
+      "translation_bh": "",
+      "translation_en": "come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأْتُونَا",
+      "translation_bh": "",
+      "translation_en": "So bring us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّأْتِيَكُم",
+      "translation_bh": "",
+      "translation_en": "we bring you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَأْتِيهِ",
+      "translation_bh": "",
+      "translation_en": "And will come to him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُؤْتِىٓ",
+      "translation_bh": "",
+      "translation_en": "Giving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيهِمُ",
+      "translation_bh": "",
+      "translation_en": "(when) will come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْتِينَا",
+      "translation_bh": "",
+      "translation_en": "you bring to us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَأْتِيهِم",
+      "translation_bh": "",
+      "translation_en": "came to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَتَيْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "And we have come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتَيْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We gave them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَـَٔاتِيَةٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) surely coming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "We have given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَكَ",
+      "translation_bh": "",
+      "translation_en": "comes to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "Will come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَتَى",
+      "translation_bh": "",
+      "translation_en": "but Allah came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَتَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "and came to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "We have given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِيتاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِيتَآئِ",
+      "translation_bh": "",
+      "translation_en": "and giving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْتِى",
+      "translation_bh": "",
+      "translation_en": "(when) will come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِيهَا",
+      "translation_bh": "",
+      "translation_en": "coming to it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتِ",
+      "translation_bh": "",
+      "translation_en": "And give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أُوتِيتُم",
+      "translation_bh": "",
+      "translation_en": "you have been given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتِىَ",
+      "translation_bh": "",
+      "translation_en": "you bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَأْتِكُم",
+      "translation_bh": "",
+      "translation_en": "and let him bring to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَتْ",
+      "translation_bh": "",
+      "translation_en": "brought forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتِيَنِ",
+      "translation_bh": "",
+      "translation_en": "will give me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَيَآ",
+      "translation_bh": "",
+      "translation_en": "they came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتُونِى",
+      "translation_bh": "",
+      "translation_en": "Bring me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتُونِىٓ",
+      "translation_bh": "",
+      "translation_en": "Bring me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَتَتْ",
+      "translation_bh": "",
+      "translation_en": "Then she came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰنِىَ",
+      "translation_bh": "",
+      "translation_en": "He gave me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتُونَنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "they will come to Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِكَ",
+      "translation_bh": "",
+      "translation_en": "came to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَأْتِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَأْتِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "sure to come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأُوتَيَنَّ",
+      "translation_bh": "",
+      "translation_en": "Surely, I will be given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَأْتِينَا",
+      "translation_bh": "",
+      "translation_en": "and he will come to Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاتِى",
+      "translation_bh": "",
+      "translation_en": "(will) come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاتِيهِ",
+      "translation_bh": "",
+      "translation_en": "(will) come (to) Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "أَتَىٰكَ",
+      "translation_bh": "",
+      "translation_en": "come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ءَاتِيكُم",
+      "translation_bh": "",
+      "translation_en": "bring you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَتَىٰهَا",
+      "translation_bh": "",
+      "translation_en": "he came to it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاتِيَةٌ",
+      "translation_bh": "",
+      "translation_en": "(will be) coming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُوتِيتَ",
+      "translation_bh": "",
+      "translation_en": "you are granted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأْتِيَاهُ",
+      "translation_bh": "",
+      "translation_en": "So go to him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَنَأْتِيَنَّكَ",
+      "translation_bh": "",
+      "translation_en": "Then we will surely produce for you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَتَىٰ",
+      "translation_bh": "",
+      "translation_en": "came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱئْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِهِۦ",
+      "translation_bh": "",
+      "translation_en": "comes to Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَتْكَ",
+      "translation_bh": "",
+      "translation_en": "came to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِينَا",
+      "translation_bh": "",
+      "translation_en": "he brings us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَتَأْتُونَ",
+      "translation_bh": "",
+      "translation_en": "So would you approach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَأْتِنَا",
+      "translation_bh": "",
+      "translation_en": "So let him bring us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَتَيْنَا",
+      "translation_bh": "",
+      "translation_en": "We will bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِيتاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِيتَآءَ",
+      "translation_bh": "",
+      "translation_en": "and giving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاتِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "will come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَأْتِيَهُمْ",
+      "translation_bh": "",
+      "translation_en": "comes to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَوا۟",
+      "translation_bh": "",
+      "translation_en": "they give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَتَيْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "We have brought them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَءَاتُوهُم",
+      "translation_bh": "",
+      "translation_en": "and give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "He has given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِيتاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِيتَآءِ",
+      "translation_bh": "",
+      "translation_en": "and giving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتُونَكَ",
+      "translation_bh": "",
+      "translation_en": "they come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَتَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they have come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَيَأْتِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "then will come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأْتِيَا",
+      "translation_bh": "",
+      "translation_en": "So go both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَتَى",
+      "translation_bh": "",
+      "translation_en": "comes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَأْتِيَهُم",
+      "translation_bh": "",
+      "translation_en": "And it will come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَـَٔاتِيكُم",
+      "translation_bh": "",
+      "translation_en": "I will bring you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأُوتِينَا",
+      "translation_bh": "",
+      "translation_en": "and we have been given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَأْتِيَنِّى",
+      "translation_bh": "",
+      "translation_en": "he brings me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُوتِيَتْ",
+      "translation_bh": "",
+      "translation_en": "and she has been given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰنِۦَ",
+      "translation_bh": "",
+      "translation_en": "Allah has given me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰكُم",
+      "translation_bh": "",
+      "translation_en": "He has given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَنَأْتِيَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "surely, we will come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِينِى",
+      "translation_bh": "",
+      "translation_en": "will bring me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتُونِى",
+      "translation_bh": "",
+      "translation_en": "they come to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتِيكَ",
+      "translation_bh": "",
+      "translation_en": "will bring it to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَوْهُ",
+      "translation_bh": "",
+      "translation_en": "(will) come to Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَتَىٰهُم",
+      "translation_bh": "",
+      "translation_en": "(had) come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتَوْنَ",
+      "translation_bh": "",
+      "translation_en": "will be given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰكَ",
+      "translation_bh": "",
+      "translation_en": "Allah has given you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُوتِيتُهُۥ",
+      "translation_bh": "",
+      "translation_en": "I have been given it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَـَٔاتٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) surely coming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَأْتُونَ",
+      "translation_bh": "",
+      "translation_en": "and commit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَيَأْتِيَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "But it will surely come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We have given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتِ",
+      "translation_bh": "",
+      "translation_en": "So give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَـَٔاتَيْنَا",
+      "translation_bh": "",
+      "translation_en": "surely We (would) have given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَـَٔاتَوْهَا",
+      "translation_bh": "",
+      "translation_en": "they (would) have certainly done it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّؤْتِهَآ",
+      "translation_bh": "",
+      "translation_en": "We will give her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتِينَ",
+      "translation_bh": "",
+      "translation_en": "and give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَيْتَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "you have given them "
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتِهِمْ",
+      "translation_bh": "",
+      "translation_en": "Give them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَأْتِيَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "surely it will come to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَأْتُونَنَا",
+      "translation_bh": "",
+      "translation_en": "come (to) us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتَيْنَـٰهُمَا",
+      "translation_bh": "",
+      "translation_en": "And We gave both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَتَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "so came upon them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَّأْتِيهِمْ",
+      "translation_bh": "",
+      "translation_en": "used to come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَىٰهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(having) come to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَىٰهُمْ ۙ",
+      "translation_bh": "",
+      "translation_en": "(which) came to them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَـَٔاتِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely coming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱئْتِيَا",
+      "translation_bh": "",
+      "translation_en": "Come both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَأْتِىٓ",
+      "translation_bh": "",
+      "translation_en": "comes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأْتِيَهُم",
+      "translation_bh": "",
+      "translation_en": "it should come on them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَءَاتَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and gives them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَيُؤْتِيهِ",
+      "translation_bh": "",
+      "translation_en": "soon He will give him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتِكُمُ",
+      "translation_bh": "",
+      "translation_en": "Allah will give you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "their Lord has given them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَتْ",
+      "translation_bh": "",
+      "translation_en": "it came"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَلْيَأْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "Then let them bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَأْتِ",
+      "translation_bh": "",
+      "translation_en": "Then let bring"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتَيْنَا",
+      "translation_bh": "",
+      "translation_en": "So We gave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰكُمُ",
+      "translation_bh": "",
+      "translation_en": "gives you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَـَٔاتُوا۟",
+      "translation_bh": "",
+      "translation_en": "then give"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَاتَىٰهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "He has given it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُوتَ",
+      "translation_bh": "",
+      "translation_en": "I had been given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَىٰنَا",
+      "translation_bh": "",
+      "translation_en": "came to us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤْتَىٰ",
+      "translation_bh": "",
+      "translation_en": "he may be given"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَأْتُونَ",
+      "translation_bh": "",
+      "translation_en": "and you will come forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آتَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُؤْتُوا۟",
+      "translation_bh": "",
+      "translation_en": "and to give"
+    }
+  ]
+}

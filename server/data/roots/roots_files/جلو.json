@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 802,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَجَلَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَلَّى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَلاء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جلو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَجَلَّى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَجَلَّىٰ",
+      "translation_bh": "",
+      "translation_en": "revealed (His) Glory"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُجَلِّيهَا",
+      "translation_bh": "",
+      "translation_en": "can reveal [it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَلاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَلَآءَ",
+      "translation_bh": "",
+      "translation_en": "the exile"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَلَّى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "جَلَّىٰهَا",
+      "translation_bh": "",
+      "translation_en": "it displays it"
+    }
+  ]
+}

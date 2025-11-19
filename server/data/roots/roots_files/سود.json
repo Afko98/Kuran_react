@@ -1,0 +1,122 @@
+{
+  "description_bh": "",
+  "id": 574,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَسْوَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْوَدَّتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْوَدّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْوَدَّة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سود",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَسْوَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَسْوَدِ",
+      "translation_bh": "",
+      "translation_en": "[the] black"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَسَيِّدًۭا",
+      "translation_bh": "",
+      "translation_en": "and a noble"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْوَدَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَسْوَدُّ",
+      "translation_bh": "",
+      "translation_en": "and would become black"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْوَدَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْوَدَّتْ",
+      "translation_bh": "",
+      "translation_en": "turn black"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَيِّدَهَا",
+      "translation_bh": "",
+      "translation_en": "her husband"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْوَدّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُسْوَدًّۭا",
+      "translation_bh": "",
+      "translation_en": "dark"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَيِّد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَادَتَنَا",
+      "translation_bh": "",
+      "translation_en": "our chiefs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُودٌۭ",
+      "translation_bh": "",
+      "translation_en": "and intensely black"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْوَدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْوَدَّةٌ ۚ",
+      "translation_bh": "",
+      "translation_en": "(will be) blackened"
+    }
+  ]
+}

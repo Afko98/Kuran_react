@@ -1,0 +1,755 @@
+{
+  "description_bh": "أ (alif) – ل (lām) – هـ (hāʾ)",
+  "id": 1,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "translation_bh": "Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "translation_bh": "Bog"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّهُمَّ",
+      "translation_bh": "O Allahu (dozivanje)"
+    }
+  ],
+  "root": "أله",
+  "translation_bh": "obožavati, okretati se s ljubavlju i pokornošću, tražiti utočište, uzvisiti",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "Riječ je u genitivu nakon prijedloga ili genitivna veza „kuća čovjeka“ → بيتُ الرجلِ",
+      "lemma": "اللَّه",
+      "occurrences": 665,
+      "part_of_speech": "N",
+      "text": "ٱللَّهِ",
+      "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+      "translation_en": "(of) Allah"
+    },
+    {
+      "description_bh": "لِلَّهِ = لِ + ٱللَّهِ\nلِـ = prijedlog „za“, „pripada“, „od strane“",
+      "lemma": "اللَّه",
+      "occurrences": 86,
+      "part_of_speech": "N",
+      "text": "لِلَّهِ",
+      "translation_bh": "Allahovom / od Allaha / za Allaha /Allahovo",
+      "translation_en": "(be) to Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 660,
+      "part_of_speech": "N",
+      "text": "ٱللَّهُ",
+      "translation_bh": "Allah (Nomenativ)",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "بِٱللَّهِ = بِ + ٱللَّهِ\nبِـ = prijedlog „s“, „u“, „uz pomoć“\nٱللَّهِ = ime Allah u genitivu (majrūr)",
+      "lemma": "اللَّه",
+      "occurrences": 128,
+      "part_of_speech": "N",
+      "text": "بِٱللَّهِ",
+      "translation_bh": "uz pomoć Allaha / s Allahom",
+      "translation_en": "in Allah"
+    },
+    {
+      "description_bh": "Akuzativ se koristi kada je riječ objekat radnje ili nakon nekih partikula.\nأَدْعُو ٱللَّهَ - \"Molim Allaha / Dozivam Allaha\"",
+      "lemma": "اللَّه",
+      "occurrences": 567,
+      "part_of_speech": "N",
+      "text": "ٱللَّهَ",
+      "translation_bh": "Allaha (Akuzativ)",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 239,
+      "part_of_speech": "N",
+      "text": "وَٱللَّهُ",
+      "translation_bh": "I Allah",
+      "translation_en": "And Allah"
+    },
+    {
+      "description_bh": "Riječ je u genitivu nakon prijedloga ili genitivna veza „kuća čovjeka“ → بيتُ الرجلِ",
+      "lemma": "اللَّه",
+      "occurrences": 34,
+      "part_of_speech": "N",
+      "text": "ٱللَّهِ ۗ",
+      "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "لِّلَّهِ = لِـ + الـ + اللهِ (isto kao لِلَّهِ ali naglašeno)\nلِـ = prijedlog „za, pripada, od strane“\nالـ = određeni član „the“\nاللهِ = Allah u genitivu (majrūr)",
+      "lemma": "اللَّه",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "لِّلَّهِ",
+      "translation_bh": "Allahovom / od Allaha / za Allaha /Allahovo",
+      "translation_en": "(to) Allah"
+    },
+    {
+      "description_bh": "Riječ je u genitivu nakon prijedloga ili genitivna veza „kuća čovjeka“ → بيتُ الرجلِ",
+      "lemma": "اللَّه",
+      "occurrences": 73,
+      "part_of_speech": "N",
+      "text": "ٱللَّهِ ۚ",
+      "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+      "translation_en": "(of) Allah"
+    },
+    {
+      "description_bh": "فَٱللَّهُ = فَ + ٱللَّهُ\nفَ = veznik “pa” / “tako da” / “zato”, često se prevodi kontekstualno",
+      "lemma": "اللَّه",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "فَٱللَّهُ",
+      "translation_bh": "pa Allah... / zato Allah...",
+      "translation_en": "[So] Allah"
+    },
+    {
+      "description_bh": "وَلِلَّهِ = وَ + لِـ + اللهِ\nوَ = veznik „i / a / također“\nلِـ = prijedlog „za, pripada“\nاللهِ = Allah u genitivu (majrūr) → završava sa kasrom (ـِ)",
+      "lemma": "اللَّه",
+      "occurrences": 27,
+      "part_of_speech": "N",
+      "text": "وَلِلَّهِ",
+      "translation_bh": "I Allahu pripada / A Allahove / Također Allahovo",
+      "translation_en": "And for Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهَكَ",
+      "translation_bh": "tvoj Bog",
+      "translation_en": "your God"
+    },
+    {
+      "description_bh": "وَ = veznik „i / a / također“",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِلَـٰهَ",
+      "translation_bh": "i/a Bog",
+      "translation_en": "and (the) God"
+    },
+    {
+      "description_bh": "„bog“ (jednog, neodređenog), „jednog boga“\nU Kur’anu se često koristi za općeniti pojam boga, ne ime.",
+      "lemma": "إِلٰه",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهًۭا",
+      "translation_bh": "bog (jednog, neodređenog) / jednog boga",
+      "translation_en": "God"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 33,
+      "part_of_speech": "N",
+      "text": "ٱللَّهُ ۚ",
+      "translation_bh": "Allah",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "Riječ je u genitivu nakon prijedloga ili genitivna veza „kuća čovjeka“ → بيتُ الرجلِ",
+      "lemma": "اللَّه",
+      "occurrences": 52,
+      "part_of_speech": "N",
+      "text": "ٱللَّهِ ۖ",
+      "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+      "translation_en": "(of) Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "ٱللَّهُ ۗ",
+      "translation_bh": "Allah",
+      "translation_en": "(is) Allah"
+    },
+    {
+      "description_bh": "وَإِلَـٰهُكُمْ = وَ + إِلَـٰهُ + كُمْ\nوَ = veznik „i / također / a“\nإِلَـٰهُ = imenica ilāh („bog“) u nominativu (marfūʿ) → završava sa ـُ (dhamma)\nكُمْ = sufiks za “vaš” (drugo lice množine, posvojni dodatak)",
+      "lemma": "إِلٰه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَإِلَـٰهُكُمْ",
+      "translation_bh": "I vaš Bog",
+      "translation_en": "And your God"
+    },
+    {
+      "description_bh": "(neodređeno, subjekat rečenice)",
+      "lemma": "إِلٰه",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهٌۭ",
+      "translation_bh": "Bog ",
+      "translation_en": "(is) God"
+    },
+    {
+      "description_bh": "objekat nakon negacije (posebno u „lā ilāha“)",
+      "lemma": "إِلٰه",
+      "occurrences": 37,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهَ",
+      "translation_bh": "boga (akuzativ)",
+      "translation_en": "god"
+    },
+    {
+      "description_bh": "لِّلَّهِ = لِـ + الـ + اللهِ (isto kao لِلَّهِ ali naglašeno)\nلِـ = prijedlog „za, pripada, od strane“\nالـ = određeni član „the“\nاللهِ = Allah u genitivu (majrūr)",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلَّهِ ۗ",
+      "translation_bh": "Allahovom / od Allaha / za Allaha /Allahovo",
+      "translation_en": "for Allah"
+    },
+    {
+      "description_bh": "لِلَّهِ = لِ + ٱللَّهِ\nلِـ = prijedlog „za“, „pripada“, „od strane“",
+      "lemma": "اللَّه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِلَّهِ ۖ",
+      "translation_bh": "Allahovo / za Allaha / pripada Allahu",
+      "translation_en": "for Allah"
+    },
+    {
+      "description_bh": "لِلَّهِ = لِ + ٱللَّهِ\nلِـ = prijedlog „za“, „pripada“, „od strane“",
+      "lemma": "اللَّه",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "لِلَّهِ ۚ",
+      "translation_bh": "Allahovo / za Allaha / pripada Allahu",
+      "translation_en": "for Allah"
+    },
+    {
+      "description_bh": "Akuzativ se koristi kada je riječ objekat radnje ili nakon nekih partikula.\nأَدْعُو ٱللَّهَ - \"Molim Allaha / Dozivam Allaha\"",
+      "lemma": "اللَّه",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "ٱللَّهَ ۚ",
+      "translation_bh": "Allaha (Akuzativ)",
+      "translation_en": "(of) Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 22,
+      "part_of_speech": "N",
+      "text": "ٱللَّهُ ۖ",
+      "translation_bh": "Allah (Nomenativ)",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "Akuzativ se koristi kada je riječ objekat radnje ili nakon nekih partikula.\nأَدْعُو ٱللَّهَ - \"Molim Allaha / Dozivam Allaha\"",
+      "lemma": "اللَّه",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱللَّهَ ۖ",
+      "translation_bh": "Allaha (Akuzativ)",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "يَا اللَّهُ → yā Allāhu („O Allahu“)\nAli Arapi često koriste skraćeni, svečaniji oblik:\nٱللَّهُمَّ → Allāhumma",
+      "lemma": "اللَّهُمَّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱللَّهُمَّ",
+      "translation_bh": "O Allahu",
+      "translation_en": "O Allah"
+    },
+    {
+      "description_bh": "boga (u genitivu: „od boga“, „za boga“, „kod boga“ itd.)",
+      "lemma": "إِلٰه",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهٍ",
+      "translation_bh": "boga",
+      "translation_en": "god"
+    },
+    {
+      "description_bh": "بِٱللَّهِ = بِ + ٱللَّهِ\nبِـ = prijedlog „s“, „u“, „uz pomoć“\nٱللَّهِ = ime Allah u genitivu (majrūr)",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱللَّهِ ۗ",
+      "translation_bh": "u Allaha / s Allahom / od Allaha",
+      "translation_en": "in Allah"
+    },
+    {
+      "description_bh": "لِلَّهِ = لِ + ٱللَّهِ\nلِـ = prijedlog „za“, „pripada“, „od strane“",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلَّهِ ۗ",
+      "translation_bh": "Allahovom / od Allaha / za Allaha /Allahovo",
+      "translation_en": "(is) for Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّهُ ۘ",
+      "translation_bh": "Allah",
+      "translation_en": "by Allah"
+    },
+    {
+      "description_bh": "إِلَـٰه + ـَيْنِ → إِلَـٰهَيْنِ\nإِلَـٰه → osnovna imenica (bog)\nـَيْنِ → nastavak dvojnine za akuzativ/genitiv",
+      "lemma": "إِلٰه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهَيْنِ",
+      "translation_bh": "dva boga",
+      "translation_en": "(as) two gods"
+    },
+    {
+      "description_bh": "لِّلَّهِ = لِـ + الـ + اللهِ (isto kao لِلَّهِ ali naglašeno)\nلِـ = prijedlog „za, pripada, od strane“\nالـ = određeni član „the“\nاللهِ = Allah u genitivu (majrūr)",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلَّهِ ۚ",
+      "translation_bh": "Allahovo / za Allaha / pripada Allahu",
+      "translation_en": "To Allah"
+    },
+    {
+      "description_bh": "ءَالِهَةٌ = množina od إِلَـٰه (ʾilāh) → bog\nDakle, ءَالِهَةٌ = bogovi",
+      "lemma": "إِلٰه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةً",
+      "translation_bh": "bogove (akuzativ / objekat)",
+      "translation_en": "(there are) gods"
+    },
+    {
+      "description_bh": "|   وَ    | \"Tako mi...\" |   وَٱللَّهِ   | Tako mi Allaha |\n|   بِـ   | \"Tako mi...\" |   بِٱللَّهِ  | Tako mi Allaha |\n|   تَـ   | \"Tako mi...\" (rijeđe, naglašeno, često u pričama) |   تَٱللَّهِ   | Tako mi Allaha |",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱللَّهِ",
+      "translation_bh": "tako mi Allaha",
+      "translation_en": "By Allah"
+    },
+    {
+      "description_bh": "(neodređeno, subjekat rečenice)",
+      "lemma": "إِلٰه",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهٌ",
+      "translation_bh": "bog",
+      "translation_en": "(is the) god"
+    },
+    {
+      "description_bh": "ءَالِهَةٌ = množina od إِلَـٰه (ʾilāh) → bog\nDakle, ءَالِهَةٌ = bogovi",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةً ۖ",
+      "translation_bh": "bogove (akuzativ / objekat)",
+      "translation_en": "(as) gods"
+    },
+    {
+      "description_bh": "Riječ je u genitivu nakon prijedloga ili genitivna veza „kuća čovjeka“ → بيتُ الرجلِ",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّهِ ۘ",
+      "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+      "translation_en": "(of) Allah"
+    },
+    {
+      "description_bh": "فَـ veznik („pa“, „stoga“, „zatim“, „dakle“)\tpovezuje rečenice logički ili vremenski\nلِـ prijedlog - („za“, „od“, „pripada“)\nٱللَّهِ u genitivu (jer prijedlog li- zahtijeva genitiv) „Allaha“",
+      "lemma": "اللَّه",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "فَلِلَّهِ",
+      "translation_bh": "Pa Allahu (pripada...) / Dakle Allahu... / Stoga Allahu...",
+      "translation_en": "With Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَالِهَتَكَ ۚ",
+      "translation_bh": "i tvoji bogovi",
+      "translation_en": "and your gods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةٌۭ ۚ",
+      "translation_bh": "bogovi",
+      "translation_en": "gods"
+    },
+    {
+      "description_bh": "بِٱللَّهِ = بِ + ٱللَّهِ\nبِـ = prijedlog „s“, „u“, „uz pomoć“\nٱللَّهِ = ime Allah u genitivu radi بِ",
+      "lemma": "اللَّه",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِٱللَّهِ ۚ",
+      "translation_bh": "u Allaha / s Allahom / od Allaha",
+      "translation_en": "in Allah"
+    },
+    {
+      "description_bh": "Riječ je u genitivu nakon prijedloga ili genitivna veza „kuća čovjeka“ → بيتُ الرجلِ\n ۙ - ne smije se praviti pauza u čitanju",
+      "lemma": "اللَّه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱللَّهِ ۙ",
+      "translation_bh": "Allaha / od Allaha / Allahov",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبِٱللَّهِ",
+      "translation_bh": "zar se s Allahom...? ",
+      "translation_en": "Is it Allah"
+    },
+    {
+      "description_bh": "ءَا (ʔa)\nhamzatul-istifhām — upitna čestica „da li“, „zar“",
+      "lemma": "اللَّه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَآللَّهُ",
+      "translation_bh": "zar Allah / da li Allah",
+      "translation_en": "Has Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ءَالِهَتِنَا",
+      "translation_bh": "naši bogovi",
+      "translation_en": "our gods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَتُهُمُ",
+      "translation_bh": "njihovi bogovi",
+      "translation_en": "their gods"
+    },
+    {
+      "description_bh": "|   وَ    | \"Tako mi...\" |   وَٱللَّهِ   | Tako mi Allaha |\n|   بِـ   | \"Tako mi...\" |   بِٱللَّهِ  | Tako mi Allaha |\n|   تَـ   | \"Tako mi...\" (rijeđe, naglašeno, često u pričama) |   تَٱللَّهِ   | Tako mi Allaha |\n",
+      "lemma": "اللَّه",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "تَٱللَّهِ",
+      "translation_bh": "tako mi Allaha",
+      "translation_en": "By Allah"
+    },
+    {
+      "description_bh": "(neodređeni oblik - akuzativ)\nلَا إِلَـٰهَ إِلَّا ٱللَّهُ - „Nema boga osim Allaha.“",
+      "lemma": "إِلٰه",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهًا",
+      "translation_bh": "bog ",
+      "translation_en": "god"
+    },
+    {
+      "description_bh": "إِلَـٰهُكُمْ =  إِلَـٰهُ + كُمْ\nإِلَـٰهُ = imenica ilāh („bog“) u nominativu (marfūʿ) → završava sa ـُ (dhamma)\nكُمْ = sufiks za “vaš” (drugo lice množine, posvojni dodatak)",
+      "lemma": "إِلٰه",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهُكُمْ",
+      "translation_bh": "vaš bog",
+      "translation_en": "Your god"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةٌۭ",
+      "translation_bh": "bogovi",
+      "translation_en": "gods"
+    },
+    {
+      "description_bh": "لَا إِلَـٰهَ إِلَّا ٱللَّهُ - „Nema boga osim Allaha.“",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهًۭا ۖ",
+      "translation_bh": "boga",
+      "translation_en": "any god"
+    },
+    {
+      "description_bh": "(akuzativ)",
+      "lemma": "إِلٰه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةًۭ ۖ",
+      "translation_bh": "bogove",
+      "translation_en": "gods"
+    },
+    {
+      "description_bh": "Arapski nema posebne oblike za akuzativ i genitiv kada se doda sufiks (poput ـي).",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَتِى",
+      "translation_bh": "moji bogovi",
+      "translation_en": "my gods"
+    },
+    {
+      "description_bh": "(akuzativ)",
+      "lemma": "إِلٰه",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةًۭ",
+      "translation_bh": "bogove",
+      "translation_en": "gods"
+    },
+    {
+      "description_bh": "i/a/pa bog je...",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِلَـٰهُ",
+      "translation_bh": "i bog",
+      "translation_en": "and the god"
+    },
+    {
+      "description_bh": "ili tvog boga... zavisno od konteksta",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهِكَ",
+      "translation_bh": "tvoj bog",
+      "translation_en": "your god"
+    },
+    {
+      "description_bh": "ili vašeg Boga... zavisno od konteksta (akuzativ)",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهُكُمُ",
+      "translation_bh": "vaš Bog",
+      "translation_en": "your God"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةٌ",
+      "translation_bh": "bogovi",
+      "translation_en": "gods"
+    },
+    {
+      "description_bh": "ili vaše bogove... zavisno od konteksta (akuzativ)",
+      "lemma": "إِلٰه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ءَالِهَتَكُمْ",
+      "translation_bh": "vaši bogovi",
+      "translation_en": "your gods"
+    },
+    {
+      "description_bh": "i kunem se Allahom...",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَٱللَّهِ",
+      "translation_bh": "i tako mi Allaha",
+      "translation_en": "And by Allah"
+    },
+    {
+      "description_bh": "بِـءَالِهَتِنَآ = بِـ + آلِهَة + نَآ\nbi (بِـ) → „s / uz / po“ (prijedlog)\nāliha (ءَالِهَة) → „bogovi“ (množina od إِلَـٰه)\nna (نَا) → „naši“ (sufiks 1. lice množine)\nٓ → produženi znak (pravila čitanja, ne prevodimo)",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔالِهَتِنَآ",
+      "translation_bh": "s bogovima našim / uz naše bogove",
+      "translation_en": "to our gods"
+    },
+    {
+      "description_bh": "بِـَٔالِهَتِنَا = بِـ + آلِهَة + نَا\nbi (بِـ) → „s / uz / po“ (prijedlog)\nāliha (ءَالِهَة) → „bogovi“ (množina od إِلَـٰه)\nna (نَا) → „naši“ (sufiks 1. lice množine)\n",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔالِهَتِنَا",
+      "translation_bh": "s bogovima našim / uz naše bogove",
+      "translation_en": "to our gods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَإِلَـٰهُكُمْ",
+      "translation_bh": "pa/zato/tada vaš Bog",
+      "translation_en": "And your God"
+    },
+    {
+      "description_bh": "مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُ\n„Nemate vi drugog boga osim Njega.“",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهٍ ۚ",
+      "translation_bh": "boga",
+      "translation_en": "god"
+    },
+    {
+      "description_bh": "مَا لَكُم مِّنْ إِلَـٰهٍ غَيْرُهُ\n„Nemate vi drugog boga osim Njega.“",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهٍۭ",
+      "translation_bh": "boga",
+      "translation_en": "god"
+    },
+    {
+      "description_bh": "بِٱللَّهِ = بِ + ٱللَّهِ\nبِـ = prijedlog „s“, „u“, „uz pomoć“\nٱللَّهِ = ime Allah u genitivu (majrūr)",
+      "lemma": "اللَّه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱللَّهِ ۙ",
+      "translation_bh": "u Allaha / s Allahom / od Allaha",
+      "translation_en": "by Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "۞ ٱللَّهُ",
+      "translation_bh": "Allah",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "Nominativ إِلَـٰهُهُ njegov Bog (subjekat)\nAkuzativ إِلَـٰهَهُ njegovog Boga (objekat)\nGenitiv إِلَـٰهِهِ njegovog Boga (poslije prijedloga ili oznaka pripadnosti)",
+      "lemma": "إِلٰه",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهَهُۥ",
+      "translation_bh": "njegovog boga",
+      "translation_en": "(as) his god"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "أَءِلَـٰهٌۭ",
+      "translation_bh": "Da li je bog",
+      "translation_en": "Is there any god"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهِ",
+      "translation_bh": "Boga",
+      "translation_en": "(the) God"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِلَـٰهُنَا",
+      "translation_bh": "i/a naš Bog",
+      "translation_en": "And our God"
+    },
+    {
+      "description_bh": "بِٱللَّهِ = بِ + ٱللَّهِ\nبِـ = prijedlog „s“, „u“, „uz pomoć“\nٱللَّهِ = ime Allah u genitivu (majrūr)",
+      "lemma": "اللَّه",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِٱللَّهِ ۖ",
+      "translation_bh": "u Allaha / s Allahom / od Allaha",
+      "translation_en": "with Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اللَّه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّهَ ۗ",
+      "translation_bh": "Allaha",
+      "translation_en": "Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهَكُمْ",
+      "translation_bh": "vašeg Boga",
+      "translation_en": "your Lord"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَتِهِمْ",
+      "translation_bh": "njihovim bogovima",
+      "translation_en": "their gods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔالِهَةَ",
+      "translation_bh": "bogovi (određeno)",
+      "translation_en": "the gods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَتِكُمْ ۖ",
+      "translation_bh": "vaši bogovi",
+      "translation_en": "your gods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَأَـٰلِهَتُنَا",
+      "translation_bh": "Da li su naša božanstva",
+      "translation_en": "Are our gods"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِلَـٰهٌۭ ۚ",
+      "translation_bh": "Bog",
+      "translation_en": "God"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِلٰه",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَالِهَةًۢ ۖ",
+      "translation_bh": "bogovi",
+      "translation_en": "gods as a way of approach"
+    }
+  ]
+}

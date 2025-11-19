@@ -1,0 +1,84 @@
+{
+  "description_bh": "",
+  "id": 476,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَثْوًى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثاوِي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ثوي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَثْوًى",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مَثْوَى",
+      "translation_bh": "",
+      "translation_en": "(is the) abode"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْوًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَثْوَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) your abode"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْوًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَثْوَىٰهُ",
+      "translation_bh": "",
+      "translation_en": "his stay"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْوًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَثْوَاىَ ۖ",
+      "translation_bh": "",
+      "translation_en": "my stay"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثاوِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ثَاوِيًۭا",
+      "translation_bh": "",
+      "translation_en": "a dweller"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْوًى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مَثْوًۭى",
+      "translation_bh": "",
+      "translation_en": "an abode"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْوًى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَثْوَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your resting places"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "description_bh": "",
+  "id": 187,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَعَدَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُودَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعْتَدُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّدَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عدد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَعَدَّ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أُعِدَّتْ",
+      "translation_bh": "",
+      "translation_en": "prepared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُودَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْدُودَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "numbered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُودَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّعْدُودَٰتٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "numbered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَعِدَّةٌۭ",
+      "translation_bh": "",
+      "translation_en": "then a prescribed number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعِدَّةَ",
+      "translation_bh": "",
+      "translation_en": "the prescribed period"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُودَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْدُودَٰتٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "numbered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعَدَّ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "وَأَعَدَّ",
+      "translation_bh": "",
+      "translation_en": "and He has prepared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعَدَّ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "أَعَدَّ",
+      "translation_bh": "",
+      "translation_en": "has prepared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَعِدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "And prepare"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عِدَّةَ",
+      "translation_bh": "",
+      "translation_en": "(the) number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأَعَدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "surely they (would) have prepared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُدَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "(some) preparation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَدَدَ",
+      "translation_bh": "",
+      "translation_en": "(the) number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُودَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْدُودَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "determined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّعْدُودٍۢ",
+      "translation_bh": "",
+      "translation_en": "limited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْدُودَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْدُودَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "few"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعُدُّوا۟",
+      "translation_bh": "",
+      "translation_en": "you count"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَدَدًۭا",
+      "translation_bh": "",
+      "translation_en": "a number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِعِدَّتِهِم",
+      "translation_bh": "",
+      "translation_en": "their number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَعُدُّ",
+      "translation_bh": "",
+      "translation_en": "We count"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَدًّۭا",
+      "translation_bh": "",
+      "translation_en": "a number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "and counted them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعُدُّونَ",
+      "translation_bh": "",
+      "translation_en": "you count"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَآدِّينَ",
+      "translation_bh": "",
+      "translation_en": "those who keep count"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِدَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "waiting period"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعْتَدُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْتَدُّونَهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "(to) count concerning them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَعُدُّهُم",
+      "translation_bh": "",
+      "translation_en": "count them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِعِدَّتِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "for their waiting period"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعِدَّةَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the waiting period"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَعِدَّتُهُنَّ",
+      "translation_bh": "",
+      "translation_en": "then their waiting period"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدَدًۢا",
+      "translation_bh": "",
+      "translation_en": "(in) number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِدَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِدَّتَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their number"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدَّدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدَّدَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and counts it"
+    }
+  ]
+}

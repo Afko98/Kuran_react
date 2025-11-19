@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 827,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "هُزِّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَزَّتْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "هزز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "هُزِّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَهُزِّىٓ",
+      "translation_bh": "",
+      "translation_en": "And shake"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَزَّتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱهْتَزَّتْ",
+      "translation_bh": "",
+      "translation_en": "it gets stirred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اهْتَزَّتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَهْتَزُّ",
+      "translation_bh": "",
+      "translation_en": "moving"
+    }
+  ]
+}

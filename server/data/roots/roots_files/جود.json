@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1128,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جُودِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِياد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جود",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جُودِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجُودِىِّ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Judi"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِياد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجِيَادُ",
+      "translation_bh": "",
+      "translation_en": "excellent bred steeds"
+    }
+  ]
+}

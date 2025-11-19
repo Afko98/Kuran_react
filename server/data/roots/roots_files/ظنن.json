@@ -1,0 +1,359 @@
+{
+  "description_bh": "",
+  "id": 159,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظانّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ظنن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَظُنُّونَ",
+      "translation_bh": "",
+      "translation_en": "believe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَنَّآ",
+      "translation_bh": "",
+      "translation_en": "they believe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ظَنَّ",
+      "translation_bh": "",
+      "translation_en": "(the) thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّنِّ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلظَّنَّ",
+      "translation_bh": "",
+      "translation_en": "[the] assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَظُنُّكَ",
+      "translation_bh": "",
+      "translation_en": "[we] think you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَظَنُّوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and they thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَظَنَّ",
+      "translation_bh": "",
+      "translation_en": "and think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَنًّا ۚ",
+      "translation_bh": "",
+      "translation_en": "assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظَنُّ",
+      "translation_bh": "",
+      "translation_en": "(will be the) assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَظُنُّكُمْ",
+      "translation_bh": "",
+      "translation_en": "we think you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ظَنَّ",
+      "translation_bh": "",
+      "translation_en": "he thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَتَظُنُّونَ",
+      "translation_bh": "",
+      "translation_en": "and you will think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَأَظُنُّكَ",
+      "translation_bh": "",
+      "translation_en": "[I] think you "
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَظُنُّ",
+      "translation_bh": "",
+      "translation_en": "I think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَظَنُّوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and they (will be) certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَظَنَّ",
+      "translation_bh": "",
+      "translation_en": "and thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَظُنُّ",
+      "translation_bh": "",
+      "translation_en": "thinks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّظُنُّكَ",
+      "translation_bh": "",
+      "translation_en": "we think you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَأَظُنُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "[I] think that he"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظُّنُونَا۠",
+      "translation_bh": "",
+      "translation_en": "the assumptions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَنَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "his assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَنُّكُم",
+      "translation_bh": "",
+      "translation_en": "(do) you think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ظَنَنتُمْ",
+      "translation_bh": "",
+      "translation_en": "you assumed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَنُّكُمُ",
+      "translation_bh": "",
+      "translation_en": "(was) your assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَنَنتُم",
+      "translation_bh": "",
+      "translation_en": "you assumed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَظَنُّوا۟",
+      "translation_bh": "",
+      "translation_en": "and they (will) be certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّظُنُّ",
+      "translation_bh": "",
+      "translation_en": "we think"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَنًّۭا",
+      "translation_bh": "",
+      "translation_en": "an assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظانّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّآنِّينَ",
+      "translation_bh": "",
+      "translation_en": "who assume"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَظَنَنتُمْ",
+      "translation_bh": "",
+      "translation_en": "And you assumed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلظَّنِّ",
+      "translation_bh": "",
+      "translation_en": "the assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّنَّ ۖ",
+      "translation_bh": "",
+      "translation_en": "assumption"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَنَنتُ",
+      "translation_bh": "",
+      "translation_en": "was certain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ظَنَنَّآ",
+      "translation_bh": "",
+      "translation_en": "thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَنُّوا۟",
+      "translation_bh": "",
+      "translation_en": "thought"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَنَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَظُنُّ",
+      "translation_bh": "",
+      "translation_en": "Thinking"
+    }
+  ]
+}

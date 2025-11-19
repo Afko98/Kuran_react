@@ -1,0 +1,122 @@
+{
+  "description_bh": "",
+  "id": 559,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَقْصُرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَصْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُقْصِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاصِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَصِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْصُورَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قصر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَقْصُرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقْصُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "you shorten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُصُورًۭا",
+      "translation_bh": "",
+      "translation_en": "palaces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُقْصِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُقْصِرُونَ",
+      "translation_bh": "",
+      "translation_en": "they cease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَصْرٍۢ",
+      "translation_bh": "",
+      "translation_en": "and castle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُصُورًۢا",
+      "translation_bh": "",
+      "translation_en": "palaces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاصِرَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قَـٰصِرَٰتُ",
+      "translation_bh": "",
+      "translation_en": "(will be) companions of modest gaze"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَصِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُقَصِّرِينَ",
+      "translation_bh": "",
+      "translation_en": "and shortened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْصُورَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقْصُورَٰتٌۭ",
+      "translation_bh": "",
+      "translation_en": "restrained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَصْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلْقَصْرِ",
+      "translation_bh": "",
+      "translation_en": "as the fortress"
+    }
+  ]
+}

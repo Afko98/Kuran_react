@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 796,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فُرادَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فرد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فُرادَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فُرَٰدَىٰ",
+      "translation_bh": "",
+      "translation_en": "alone"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَرْدًۭا",
+      "translation_bh": "",
+      "translation_en": "alone"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَرْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَرْدًا",
+      "translation_bh": "",
+      "translation_en": "alone"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فُرادَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَفُرَٰدَىٰ",
+      "translation_bh": "",
+      "translation_en": "and (as) individuals"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 626,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَعْرُجُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَج",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعارِج",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عرج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَعْرُجُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْرُجُونَ",
+      "translation_bh": "",
+      "translation_en": "(to) ascend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْرَج",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْرَجِ",
+      "translation_bh": "",
+      "translation_en": "the lame"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْرُجُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَعْرُجُ",
+      "translation_bh": "",
+      "translation_en": "it will ascend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعارِج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَعَارِجَ",
+      "translation_bh": "",
+      "translation_en": "and stairways"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعارِج",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَعَارِجِ",
+      "translation_bh": "",
+      "translation_en": "(of) the ways of ascent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْرُجُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْرُجُ",
+      "translation_bh": "",
+      "translation_en": "Ascend"
+    }
+  ]
+}

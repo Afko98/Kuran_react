@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 695,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَضاءَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِياء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ضوأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَضاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضَآءَتْ",
+      "translation_bh": "",
+      "translation_en": "it illuminated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَضَآءَ",
+      "translation_bh": "",
+      "translation_en": "it flashes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِياء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ضِيَآءًۭ",
+      "translation_bh": "",
+      "translation_en": "a shining light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِياء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَضِيَآءًۭ",
+      "translation_bh": "",
+      "translation_en": "and a light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَضاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُضِىٓءُ",
+      "translation_bh": "",
+      "translation_en": "glow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ضِياء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِضِيَآءٍ ۖ",
+      "translation_bh": "",
+      "translation_en": "light"
+    }
+  ]
+}

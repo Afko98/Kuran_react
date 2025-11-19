@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 731,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَرْصَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِرْصاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَصَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِرْصاد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رصد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَرْصَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَرْصَدٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "place of ambush"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِرْصاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِرْصَادًۭا",
+      "translation_bh": "",
+      "translation_en": "and (as) a station"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَصَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّصَدًۭا",
+      "translation_bh": "",
+      "translation_en": "waiting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَصَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَصَدًۭا",
+      "translation_bh": "",
+      "translation_en": "a guard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِرْصاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِرْصَادًۭا",
+      "translation_bh": "",
+      "translation_en": "lying in wait"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِرْصاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَبِٱلْمِرْصَادِ",
+      "translation_bh": "",
+      "translation_en": "(is) surely Ever Watchful"
+    }
+  ]
+}

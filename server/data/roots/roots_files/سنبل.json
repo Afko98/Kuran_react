@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 771,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سُنبُلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُنبُل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سنبل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سُنبُلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَنَابِلَ",
+      "translation_bh": "",
+      "translation_en": "ears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُنبُلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُنۢبُلَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "ear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُنبُلَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سُنۢبُلَـٰتٍ",
+      "translation_bh": "",
+      "translation_en": "ears (of corn)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُنبُل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُنۢبُلِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "its ears"
+    }
+  ]
+}

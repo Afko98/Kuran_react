@@ -1,0 +1,607 @@
+{
+  "description_bh": "",
+  "id": 107,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدْوان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَدي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَعَدَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَداوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدْو",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدْوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَيْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عدو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَدُوٌّۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَعْتَدُونَ",
+      "translation_bh": "",
+      "translation_en": "transgressing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْتَدَوْا۟",
+      "translation_bh": "",
+      "translation_en": "transgressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدْوان",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلْعُدْوَٰنِ",
+      "translation_bh": "",
+      "translation_en": "and [the] transgression"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "عَدُوًّۭا",
+      "translation_bh": "",
+      "translation_en": "an enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "عَدُوٌّۭ",
+      "translation_bh": "",
+      "translation_en": "(is) an enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَادٍۢ",
+      "translation_bh": "",
+      "translation_en": "transgressor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱعْتَدَىٰ",
+      "translation_bh": "",
+      "translation_en": "transgresses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعْتَدُوٓا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "transgress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَدي",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْمُعْتَدِينَ",
+      "translation_bh": "",
+      "translation_en": "the transgressors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدْوان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عُدْوَٰنَ",
+      "translation_bh": "",
+      "translation_en": "hostility"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْتَدُوا۟",
+      "translation_bh": "",
+      "translation_en": "then you transgress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْتَدُوهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "transgress them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَعَدَّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَعَدَّ",
+      "translation_bh": "",
+      "translation_en": "transgresses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّتَعْتَدُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "so that you transgress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَعْدَآءًۭ",
+      "translation_bh": "",
+      "translation_en": "enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَعَدَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَعَدَّ",
+      "translation_bh": "",
+      "translation_en": "and transgresses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُدْوَٰنًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) aggression"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَعْدَآئِكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "about your enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَدُوٍّۢ",
+      "translation_bh": "",
+      "translation_en": "hostile"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْدُوا۟",
+      "translation_bh": "",
+      "translation_en": "transgress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْتَدُوا۟ ۘ",
+      "translation_bh": "",
+      "translation_en": "you commit transgression"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدْوان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعُدْوَٰنِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and [the] transgression"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَداوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَدَاوَةَ",
+      "translation_bh": "",
+      "translation_en": "[the] enmity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَداوَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعَدَٰوَةَ",
+      "translation_bh": "",
+      "translation_en": "[the] enmity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَداوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدَٰوَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(in) enmity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَدَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱعْتَدَيْنَآ",
+      "translation_bh": "",
+      "translation_en": "we have transgressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدْو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدْوًۢا",
+      "translation_bh": "",
+      "translation_en": "(in) enmity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَدي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْمُعْتَدِينَ",
+      "translation_bh": "",
+      "translation_en": "of the transgressors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "your enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْدَآءَ",
+      "translation_bh": "",
+      "translation_en": "the enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْدُونَ",
+      "translation_bh": "",
+      "translation_en": "they transgressed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُدْوَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْعُدْوَةِ",
+      "translation_bh": "",
+      "translation_en": "on side of the valley"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوَّ",
+      "translation_bh": "",
+      "translation_en": "(the) enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَعَدُوَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَدي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُعْتَدُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the transgressors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوًّا ۖ",
+      "translation_bh": "",
+      "translation_en": "any enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدْو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَدْوًا ۖ",
+      "translation_bh": "",
+      "translation_en": "and enmity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْدُ",
+      "translation_bh": "",
+      "translation_en": "pass beyond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوٌّۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَدُوٌّۭ",
+      "translation_bh": "",
+      "translation_en": "and an enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوِّكُمْ",
+      "translation_bh": "",
+      "translation_en": "your enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْعَادُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the transgressors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَادُونَ",
+      "translation_bh": "",
+      "translation_en": "transgressing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوِّهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "his enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوِّهِۦ",
+      "translation_bh": "",
+      "translation_en": "his enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوًّا ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) an enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْدَآءُ",
+      "translation_bh": "",
+      "translation_en": "(the) enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَعْدَآءِ",
+      "translation_bh": "",
+      "translation_en": "(of the) enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَداوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدَٰوَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(was) enmity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوٌّ",
+      "translation_bh": "",
+      "translation_en": "(will be) enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُعْتَدٍۢ",
+      "translation_bh": "",
+      "translation_en": "transgressor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوِّى",
+      "translation_bh": "",
+      "translation_en": "My enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَداوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَدَٰوَةُ",
+      "translation_bh": "",
+      "translation_en": "enmity"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَادَيْتُم",
+      "translation_bh": "",
+      "translation_en": "you have been enemies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَدُوِّهِمْ",
+      "translation_bh": "",
+      "translation_en": "their enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَدُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَدُوُّ",
+      "translation_bh": "",
+      "translation_en": "(are) the enemy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْتَد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُعْتَدٍ",
+      "translation_bh": "",
+      "translation_en": "transgressor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عادِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعَـٰدِيَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "By the racers"
+    }
+  ]
+}

@@ -1,0 +1,347 @@
+{
+  "description_bh": "",
+  "id": 234,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لاعِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلْعُونَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلْعُون",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لعن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَّعَنَهُمُ",
+      "translation_bh": "",
+      "translation_en": "has cursed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَلَعْنَةُ",
+      "translation_bh": "",
+      "translation_en": "So (the) curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْعَنُهُمُ",
+      "translation_bh": "",
+      "translation_en": "curses them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَلْعَنُهُمُ",
+      "translation_bh": "",
+      "translation_en": "and curse them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لاعِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّـٰعِنُونَ",
+      "translation_bh": "",
+      "translation_en": "the ones who curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَعْنَةُ",
+      "translation_bh": "",
+      "translation_en": "(is the) curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَّعْنَتَ",
+      "translation_bh": "",
+      "translation_en": "the curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعْنَةَ",
+      "translation_bh": "",
+      "translation_en": "(is the) curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَلْعَنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "We curse them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَنَّآ",
+      "translation_bh": "",
+      "translation_en": "We cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لَعَنَهُمُ",
+      "translation_bh": "",
+      "translation_en": "(who have been) cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَلْعَنِ",
+      "translation_bh": "",
+      "translation_en": "(is) cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَعَنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and He (will) curse him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَّعَنَهُ",
+      "translation_bh": "",
+      "translation_en": "He was cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَنَّـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We cursed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلُعِنُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they have been cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لُعِنَ",
+      "translation_bh": "",
+      "translation_en": "Were cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّعَنَتْ",
+      "translation_bh": "",
+      "translation_en": "it cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَّعْنَةُ",
+      "translation_bh": "",
+      "translation_en": "(The) curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَعَنَهُمُ",
+      "translation_bh": "",
+      "translation_en": "And Allah has cursed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَعْنَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(with) a curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱللَّعْنَةُ",
+      "translation_bh": "",
+      "translation_en": "(is) the curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱللَّعْنَةَ",
+      "translation_bh": "",
+      "translation_en": "(will be) the curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلْعُونَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلْعُونَةَ",
+      "translation_bh": "",
+      "translation_en": "the accursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعْنَتَ",
+      "translation_bh": "",
+      "translation_en": "(the) curse of Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لُعِنُوا۟",
+      "translation_bh": "",
+      "translation_en": "are cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعْنَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "a curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَلْعَنُ",
+      "translation_bh": "",
+      "translation_en": "and curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلْعُون",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّلْعُونِينَ ۖ",
+      "translation_bh": "",
+      "translation_en": "Accursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَعَنَ",
+      "translation_bh": "",
+      "translation_en": "has cursed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱلْعَنْهُمْ",
+      "translation_bh": "",
+      "translation_en": "and curse them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعْنًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) a curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعْنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعْنَتِىٓ",
+      "translation_bh": "",
+      "translation_en": "(is) My curse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَعَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَعَنَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and He has cursed them"
+    }
+  ]
+}

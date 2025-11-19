@@ -1,0 +1,646 @@
+{
+  "description_bh": "",
+  "id": 74,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِيرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْصِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْصِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصُرَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَبْصِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْصِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبَصَّرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بصر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "يُبْصِرُونَ",
+      "translation_bh": "",
+      "translation_en": "(do) they see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْصَـٰرِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and their sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "بَصِيرٌۢ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Seer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "بَصِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Seer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "بَصِيرٌ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Seer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْأَبْصَـٰرِ",
+      "translation_bh": "",
+      "translation_en": "(of) vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "بَصِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "All-Seeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْصَـٰرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَصِيرُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the seeing one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْأَبْصَـٰرُ",
+      "translation_bh": "",
+      "translation_en": "the visions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَبْصَـٰرَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(all) the vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِيرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَصَآئِرُ",
+      "translation_bh": "",
+      "translation_en": "enlightenment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْصَرَ",
+      "translation_bh": "",
+      "translation_en": "sees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْصَـٰرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their sights"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their eyes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّبْصِرُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) those who see (aright)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَبْصَـٰرَ",
+      "translation_bh": "",
+      "translation_en": "and the sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْصِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُبْصِرًا ۚ",
+      "translation_bh": "",
+      "translation_en": "giving visibility"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَصِيرِ",
+      "translation_bh": "",
+      "translation_en": "and the seer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَصِيرًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "then returned (his) sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَصِيرَةٍ",
+      "translation_bh": "",
+      "translation_en": "insight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَصِيرُ",
+      "translation_bh": "",
+      "translation_en": "and the seeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرُنَا",
+      "translation_bh": "",
+      "translation_en": "our eyes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَصَرِ",
+      "translation_bh": "",
+      "translation_en": "(of) the eye"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْصَـٰرِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "and their sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْبَصِيرُ",
+      "translation_bh": "",
+      "translation_en": "the All-Seer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبْصِرَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُبْصِرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "visible"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْبَصَرَ",
+      "translation_bh": "",
+      "translation_en": "and the sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِيرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَصَآئِرَ",
+      "translation_bh": "",
+      "translation_en": "(as) evidence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْصِرْ",
+      "translation_bh": "",
+      "translation_en": "How clearly He sees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَبْصِرْ",
+      "translation_bh": "",
+      "translation_en": "and how (they will) see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبْصِرُ",
+      "translation_bh": "",
+      "translation_en": "sees"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصُرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَصُرْتُ",
+      "translation_bh": "",
+      "translation_en": "I perceived"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصُرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْصُرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they perceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "تُبْصِرُونَ",
+      "translation_bh": "",
+      "translation_en": "see (it)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرُ",
+      "translation_bh": "",
+      "translation_en": "(the) eyes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "their gaze"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَبْصَـٰرُ",
+      "translation_bh": "",
+      "translation_en": "and the eyes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْأَبْصَـٰرِ",
+      "translation_bh": "",
+      "translation_en": "the sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصُرَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَبَصُرَتْ",
+      "translation_bh": "",
+      "translation_en": "So she watched"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَبْصِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَبْصِرِينَ",
+      "translation_bh": "",
+      "translation_en": "endowed with insight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبْصَرْنَا",
+      "translation_bh": "",
+      "translation_en": "we have seen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بَصِيرًا",
+      "translation_bh": "",
+      "translation_en": "All-Seer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَصِيرًۢا",
+      "translation_bh": "",
+      "translation_en": "All-Seer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَبْصِرْهُمْ",
+      "translation_bh": "",
+      "translation_en": "And see them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَبْصَـٰرِ",
+      "translation_bh": "",
+      "translation_en": "and vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْصَـٰرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرُكُمْ",
+      "translation_bh": "",
+      "translation_en": "your sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَصَـٰٓئِرُ",
+      "translation_bh": "",
+      "translation_en": "(is) enlightenment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَصَرِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبْصَـٰرًۭا",
+      "translation_bh": "",
+      "translation_en": "and vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبْصِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبْصِرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "Giving insight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَبَصَرُكَ",
+      "translation_bh": "",
+      "translation_en": "so your sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْبَصَرُ",
+      "translation_bh": "",
+      "translation_en": "the sight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْبَصَرِ",
+      "translation_bh": "",
+      "translation_en": "(of) the eye"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَصَرَ",
+      "translation_bh": "",
+      "translation_en": "the vision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَتُبْصِرُ",
+      "translation_bh": "",
+      "translation_en": "So you will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْصَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُبْصِرُونَ",
+      "translation_bh": "",
+      "translation_en": "and they will see"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَبْصَـٰرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "with their look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُبَصَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَصَّرُونَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "They will be made to see each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَصِيرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) a witness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَصَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبْصَـٰرُهَا",
+      "translation_bh": "",
+      "translation_en": "Their eyes"
+    }
+  ]
+}

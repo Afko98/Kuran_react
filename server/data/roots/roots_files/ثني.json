@@ -1,0 +1,190 @@
+{
+  "description_bh": "",
+  "id": 307,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "اثْنَتَيْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْنَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَيْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثانِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَثْنُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثانِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَثْنُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ثني",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "اثْنَتَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱثْنَتَا",
+      "translation_bh": "",
+      "translation_en": "(of)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْنَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَثْنَىٰ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَتَيْن",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱثْنَتَيْنِ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱثْنَىْ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱثْنَانِ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَيْن",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱثْنَيْنِ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱثْنَيْنِ ۗ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَتَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱثْنَتَىْ",
+      "translation_bh": "",
+      "translation_en": "(into) two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱثْنَا",
+      "translation_bh": "",
+      "translation_en": "(is) twelve"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثانِي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ثَانِىَ",
+      "translation_bh": "",
+      "translation_en": "the second"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَثْنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَثْنُونَ",
+      "translation_bh": "",
+      "translation_en": "fold up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثْنَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱثْنَيْنِ ۖ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثانِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَثَانِى",
+      "translation_bh": "",
+      "translation_en": "the oft-repeated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثْنَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّثْنَىٰ",
+      "translation_bh": "",
+      "translation_en": "two"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَثانِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّثَانِىَ",
+      "translation_bh": "",
+      "translation_en": "oft-repeated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَثْنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَثْنُونَ",
+      "translation_bh": "",
+      "translation_en": "making exception"
+    }
+  ]
+}

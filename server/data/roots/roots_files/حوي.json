@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1105,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَوايا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْوَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حوي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَوايا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَوَايَآ",
+      "translation_bh": "",
+      "translation_en": "the entrails"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْوَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْوَىٰ",
+      "translation_bh": "",
+      "translation_en": "dark"
+    }
+  ]
+}

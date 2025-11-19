@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 999,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَذْقان",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ذقن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَذْقان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِلْأَذْقَانِ",
+      "translation_bh": "",
+      "translation_en": "on their faces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَذْقان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَذْقَانِ",
+      "translation_bh": "",
+      "translation_en": "the chins"
+    }
+  ]
+}

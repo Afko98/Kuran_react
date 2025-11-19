@@ -1,0 +1,89 @@
+{
+  "description_bh": "",
+  "id": 645,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "صُلْب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَلَبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُصَلَّبُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صلب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "صُلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَصْلَـٰبِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your loins"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَلَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "صَلَبُوهُ",
+      "translation_bh": "",
+      "translation_en": "they crucified him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُصَلَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصَلَّبُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they be crucified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُصَلَّبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأُصَلِّبَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "I will surely crucify you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَلَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُصْلَبُ",
+      "translation_bh": "",
+      "translation_en": "he will be crucified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُصَلَّبُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَلَأُصَلِّبَنَّكُمْ",
+      "translation_bh": "",
+      "translation_en": "and surely I will crucify you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صُلْب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلصُّلْبِ",
+      "translation_bh": "",
+      "translation_en": "the backbone"
+    }
+  ]
+}

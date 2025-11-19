@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 753,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ادّارَأَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدْرَؤُا۟",
+      "translation_bh": ""
+    }
+  ],
+  "root": "درأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ادّارَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدَّٰرَْٰٔتُمْ",
+      "translation_bh": "",
+      "translation_en": "then you disputed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدْرَؤُا۟",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْرَءُوا۟",
+      "translation_bh": "",
+      "translation_en": "Then avert"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدْرَؤُا۟",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَدْرَءُونَ",
+      "translation_bh": "",
+      "translation_en": "and they repel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدْرَؤُا۟",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَدْرَؤُا۟",
+      "translation_bh": "",
+      "translation_en": "But it would prevent"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 290,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَيْث",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حيث",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَيْث",
+      "occurrences": 29,
+      "part_of_speech": "N",
+      "text": "حَيْثُ",
+      "translation_bh": "",
+      "translation_en": "(from) wherever"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَيْث",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَحَيْثُ",
+      "translation_bh": "",
+      "translation_en": "and wherever"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1198,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قالي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قلي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قالي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَالِينَ",
+      "translation_bh": "",
+      "translation_en": "those who detest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَلَىٰ",
+      "translation_bh": "",
+      "translation_en": "He is displeased"
+    }
+  ]
+}

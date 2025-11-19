@@ -1,0 +1,135 @@
+{
+  "description_bh": "",
+  "id": 354,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَقْسَط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِسْط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقْسِطُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقْسِط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاسِط",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قسط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَقْسَط",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَقْسَطُ",
+      "translation_bh": "",
+      "translation_en": "(is) more just"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِسْط",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلْقِسْطِ ۚ",
+      "translation_bh": "",
+      "translation_en": "in justice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِسْط",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِٱلْقِسْطِ",
+      "translation_bh": "",
+      "translation_en": "[with] justice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقْسِطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُقْسِطُوا۟",
+      "translation_bh": "",
+      "translation_en": "you will be able to do justice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِسْط",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلْقِسْطِ ۖ",
+      "translation_bh": "",
+      "translation_en": "in justice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقْسِط",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقْسِطِينَ",
+      "translation_bh": "",
+      "translation_en": "the ones who are just"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِسْط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقِسْطَ",
+      "translation_bh": "",
+      "translation_en": "(of) the justice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقْسِطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَقْسِطُوٓا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "and act justly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُقْسِطُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُقْسِطُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and deal justly"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاسِط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَـٰسِطُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) unjust"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قاسِط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَـٰسِطُونَ",
+      "translation_bh": "",
+      "translation_en": "the unjust"
+    }
+  ]
+}

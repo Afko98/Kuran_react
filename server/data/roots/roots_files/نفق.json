@@ -1,0 +1,407 @@
+{
+  "description_bh": "",
+  "id": 101,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنفِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نافَقُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِفاق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنفاق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نفق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 19,
+      "part_of_speech": "V",
+      "text": "يُنفِقُونَ",
+      "translation_bh": "",
+      "translation_en": "they spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَأَنفِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "And spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنفِقُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "they (should) spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَنفَقْتُم",
+      "translation_bh": "",
+      "translation_en": "you spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَنفِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "Spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَنفَقُوا۟",
+      "translation_bh": "",
+      "translation_en": "they spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يُنفِقُ",
+      "translation_bh": "",
+      "translation_en": "spends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُنفِقُونَ",
+      "translation_bh": "",
+      "translation_en": "you spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّفَقَةٍ",
+      "translation_bh": "",
+      "translation_en": "(your) expenditures"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "تُنفِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "you spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنفِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُنفِقِينَ",
+      "translation_bh": "",
+      "translation_en": "and those who spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نافَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَافَقُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) hypocrites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَأَنفَقُوا۟",
+      "translation_bh": "",
+      "translation_en": "and spent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِق",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنَـٰفِقِينَ",
+      "translation_bh": "",
+      "translation_en": "the hypocrites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَفَقًۭا",
+      "translation_bh": "",
+      "translation_en": "a tunnel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَيُنفِقُونَهَا",
+      "translation_bh": "",
+      "translation_en": "So they will spend it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِق",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنَـٰفِقُونَ",
+      "translation_bh": "",
+      "translation_en": "the hypocrites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنفَقْتَ",
+      "translation_bh": "",
+      "translation_en": "you (had) spent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنفِقُونَهَا",
+      "translation_bh": "",
+      "translation_en": "spend it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَفَقَـٰتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their contributions"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِقَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُنَـٰفِقَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "and the hypocrite women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِقَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُنَـٰفِقَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "and the hypocrite women"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُنَـٰفِقِينَ",
+      "translation_bh": "",
+      "translation_en": "and the hypocrites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِفاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نِفَاقًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) hypocrisy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِفاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنِفَاقًۭا",
+      "translation_bh": "",
+      "translation_en": "and hypocrisy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنَـٰفِقُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) hypocrites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِفاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنِّفَاقِ",
+      "translation_bh": "",
+      "translation_en": "the hypocrisy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَفَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَفَقَةًۭ",
+      "translation_bh": "",
+      "translation_en": "any spending"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُنفِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "and (to) spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِنفاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْإِنفَاقِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) spending"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَنفَقَ",
+      "translation_bh": "",
+      "translation_en": "he (had) spent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنافِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُنَـٰفِقِينَ ۗ",
+      "translation_bh": "",
+      "translation_en": "and the hypocrites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُنفِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "to spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نافَقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَافَقُوا۟",
+      "translation_bh": "",
+      "translation_en": "(were) hypocrites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَنفَقُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they have spent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنفَقْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you have spent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَنفِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "then spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُنفِقْ",
+      "translation_bh": "",
+      "translation_en": "Let spend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنفَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيُنفِقْ",
+      "translation_bh": "",
+      "translation_en": "let him spend"
+    }
+  ]
+}

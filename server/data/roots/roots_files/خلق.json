@@ -1,0 +1,879 @@
+{
+  "description_bh": "",
+  "id": 36,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلاق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلّاق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخَلَّقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُلُق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خلق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "خَلَقَكُمْ",
+      "translation_bh": "",
+      "translation_en": "created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 57,
+      "part_of_speech": "V",
+      "text": "خَلَقَ",
+      "translation_bh": "",
+      "translation_en": "created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلَـٰقٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "share"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "خَلْقِ",
+      "translation_bh": "",
+      "translation_en": "(the) creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلَـٰقٍۢ",
+      "translation_bh": "",
+      "translation_en": "any share"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يَخْلُقُ",
+      "translation_bh": "",
+      "translation_en": "creates"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخْلُقُ",
+      "translation_bh": "",
+      "translation_en": "[I] design"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "خَلَقَهُۥ",
+      "translation_bh": "",
+      "translation_en": "He created him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلَـٰقَ",
+      "translation_bh": "",
+      "translation_en": "share"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقْتَ",
+      "translation_bh": "",
+      "translation_en": "You have created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "خَلَقَكُم",
+      "translation_bh": "",
+      "translation_en": "created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَخَلَقَ",
+      "translation_bh": "",
+      "translation_en": "and created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخُلِقَ",
+      "translation_bh": "",
+      "translation_en": "and was created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَلْقَ",
+      "translation_bh": "",
+      "translation_en": "(the) creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقَ ۚ",
+      "translation_bh": "",
+      "translation_en": "He created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخْلُقُ",
+      "translation_bh": "",
+      "translation_en": "you make"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "We created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخَلَقَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "though He has created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِق",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَـٰلِقُ",
+      "translation_bh": "",
+      "translation_en": "(the) Creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقْتَنِى",
+      "translation_bh": "",
+      "translation_en": "You created me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَخَلَقْتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and You created him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَلْقُ",
+      "translation_bh": "",
+      "translation_en": "(is) the creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْخَلْقِ",
+      "translation_bh": "",
+      "translation_en": "the stature"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَآ",
+      "translation_bh": "",
+      "translation_en": "We have created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُخْلَقُونَ",
+      "translation_bh": "",
+      "translation_en": "are created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلاق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِخَلَـٰقِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their portion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِخَلَـٰقِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your portion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْخَلْقَ",
+      "translation_bh": "",
+      "translation_en": "the creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقَهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "He created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "خَلْقٍۢ",
+      "translation_bh": "",
+      "translation_en": "a creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "خَلَقُوا۟",
+      "translation_bh": "",
+      "translation_en": "who created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَخَلْقِهِۦ",
+      "translation_bh": "",
+      "translation_en": "like His creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِخَلْقٍۢ",
+      "translation_bh": "",
+      "translation_en": "a creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 18,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَا",
+      "translation_bh": "",
+      "translation_en": "We created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We created it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "خَـٰلِقٌۢ",
+      "translation_bh": "",
+      "translation_en": "(will) create"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقْتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "whom You created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلّاق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَلَّـٰقُ",
+      "translation_bh": "",
+      "translation_en": "(is) the Creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقَهَا ۗ",
+      "translation_bh": "",
+      "translation_en": "He created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَخْلُقُ",
+      "translation_bh": "",
+      "translation_en": "And He creates"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْلُقُ ۗ",
+      "translation_bh": "",
+      "translation_en": "create"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَخْلُقُونَ",
+      "translation_bh": "",
+      "translation_en": "they create"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "خَلْقًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَخْلُقَ",
+      "translation_bh": "",
+      "translation_en": "create"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقَكَ",
+      "translation_bh": "",
+      "translation_en": "created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقْتُكَ",
+      "translation_bh": "",
+      "translation_en": "I (have) created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْقَهُۥ",
+      "translation_bh": "",
+      "translation_en": "its form"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "خُلِقَ",
+      "translation_bh": "",
+      "translation_en": "Is created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَـٰكُم",
+      "translation_bh": "",
+      "translation_en": "We created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخَلَّقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّخَلَّقَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "formed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُخَلَّقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُخَلَّقَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "and unformed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْلُقُوا۟",
+      "translation_bh": "",
+      "translation_en": "create"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَخَلَقْنَا",
+      "translation_bh": "",
+      "translation_en": "then We created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "خَلْقًا",
+      "translation_bh": "",
+      "translation_en": "(as) a creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَـٰلِقِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the Creators"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقَنِى",
+      "translation_bh": "",
+      "translation_en": "created me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُلُق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خُلُقُ",
+      "translation_bh": "",
+      "translation_en": "(the) custom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَخْلُقُونَ",
+      "translation_bh": "",
+      "translation_en": "and you create"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَلْقَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "خَلْقُ",
+      "translation_bh": "",
+      "translation_en": "(is the) creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِخَلْقِ",
+      "translation_bh": "",
+      "translation_en": "(should there be) in the creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْقُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) your creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "He created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَـٰلِقٍ",
+      "translation_bh": "",
+      "translation_en": "creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخَلَقْنَا",
+      "translation_bh": "",
+      "translation_en": "And We created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَلْقِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْقَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "his (own) creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْقٍ",
+      "translation_bh": "",
+      "translation_en": "creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَآ ۚ",
+      "translation_bh": "",
+      "translation_en": "We have created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَـٰهُم",
+      "translation_bh": "",
+      "translation_en": "created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اخْتِلاق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱخْتِلَـٰقٌ",
+      "translation_bh": "",
+      "translation_en": "a fabrication"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "خَلَقْتُ",
+      "translation_bh": "",
+      "translation_en": "I created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْلُقُكُمْ",
+      "translation_bh": "",
+      "translation_en": "He creates you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَخَلْقُ",
+      "translation_bh": "",
+      "translation_en": "Surely, (the) creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقَهُمْ",
+      "translation_bh": "",
+      "translation_en": "created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَقَهُنَّ",
+      "translation_bh": "",
+      "translation_en": "created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْقَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَـٰهُمَآ",
+      "translation_bh": "",
+      "translation_en": "We created both of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خَلْقِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِخَلْقِهِنَّ",
+      "translation_bh": "",
+      "translation_en": "by their creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْخَلْقِ",
+      "translation_bh": "",
+      "translation_en": "with the creation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خُلِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "they were created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْخَـٰلِقُونَ",
+      "translation_bh": "",
+      "translation_en": "the creators"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَخْلُقُونَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "who create it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَـٰلِقُ",
+      "translation_bh": "",
+      "translation_en": "the Creator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خُلُق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "خُلُقٍ",
+      "translation_bh": "",
+      "translation_en": "(of) a moral character"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَخَلَقَ",
+      "translation_bh": "",
+      "translation_en": "then He created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خَلَقْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "created them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَخْلُقكُّم",
+      "translation_bh": "",
+      "translation_en": "We create you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَخَلَقْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "And We created you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "خُلِقَتْ",
+      "translation_bh": "",
+      "translation_en": "they are created"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُخْلَقْ",
+      "translation_bh": "",
+      "translation_en": "had been created"
+    }
+  ]
+}

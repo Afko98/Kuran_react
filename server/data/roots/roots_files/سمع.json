@@ -1,0 +1,709 @@
+{
+  "description_bh": "",
+  "id": 53,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْمَع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمّاع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْمَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَمِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْمِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسَّمَّعُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سمع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمْعِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسَمْعِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 18,
+      "part_of_speech": "V",
+      "text": "يَسْمَعُونَ",
+      "translation_bh": "",
+      "translation_en": "(who used to) hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْمَعُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "and listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 16,
+      "part_of_speech": "V",
+      "text": "سَمِعْنَا",
+      "translation_bh": "",
+      "translation_en": "We heard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱسْمَعُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "and listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمِيعُ",
+      "translation_bh": "",
+      "translation_en": "the All-Hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَسْمَعُ",
+      "translation_bh": "",
+      "translation_en": "(does) hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَمِعَهُۥ",
+      "translation_bh": "",
+      "translation_en": "he (has) heard [it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "سَمِيعٌ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمِيعُ",
+      "translation_bh": "",
+      "translation_en": "(are) All-Hearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَمِعَ",
+      "translation_bh": "",
+      "translation_en": "heard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَتَسْمَعُنَّ",
+      "translation_bh": "",
+      "translation_en": "And you will certainly hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱسْمَعْ",
+      "translation_bh": "",
+      "translation_en": "and \"Hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْمَع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْمَعٍۢ",
+      "translation_bh": "",
+      "translation_en": "to be heard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَمِيعًۢا",
+      "translation_bh": "",
+      "translation_en": "All-Hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَمِعْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمِيعًا",
+      "translation_bh": "",
+      "translation_en": "All-Hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمّاع",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سَمَّـٰعُونَ",
+      "translation_bh": "",
+      "translation_en": "They (are) listeners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "سَمِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "they listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْتَمِعُ",
+      "translation_bh": "",
+      "translation_en": "listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْمَعُونَ ۘ",
+      "translation_bh": "",
+      "translation_en": "listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمْعَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْمَعُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "do they not"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَمِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "then listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَسْمَعُونَ",
+      "translation_bh": "",
+      "translation_en": "hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّأَسْمَعَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "surely, He (would) have made them hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْمَعَهُمْ",
+      "translation_bh": "",
+      "translation_en": "He had made them hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَسَمِيعٌ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْمَعَ",
+      "translation_bh": "",
+      "translation_en": "he hears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمْعَ",
+      "translation_bh": "",
+      "translation_en": "the hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَسْتَمِعُونَ",
+      "translation_bh": "",
+      "translation_en": "listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْمَعَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "تُسْمِعُ",
+      "translation_bh": "",
+      "translation_en": "cause the deaf to hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّمِيعِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the hearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَمِعَتْ",
+      "translation_bh": "",
+      "translation_en": "she heard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَسَمِيعُ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Hearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَسَمْعِهِمْ",
+      "translation_bh": "",
+      "translation_en": "and their hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَسْمِعْ ۚ",
+      "translation_bh": "",
+      "translation_en": "And how clearly He hears"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمْعًا",
+      "translation_bh": "",
+      "translation_en": "(to) hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْمِعْ",
+      "translation_bh": "",
+      "translation_en": "How they will hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَسْمَعُ",
+      "translation_bh": "",
+      "translation_en": "hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَمِعْ",
+      "translation_bh": "",
+      "translation_en": "so listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْمَعُ",
+      "translation_bh": "",
+      "translation_en": "I hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَمَعُوهُ",
+      "translation_bh": "",
+      "translation_en": "they listen to it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سَمِيعٌۢ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Hearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَمِعْتُمُوهُ",
+      "translation_bh": "",
+      "translation_en": "you heard it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَمِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْتَمِعُونَ",
+      "translation_bh": "",
+      "translation_en": "listening"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَمِعُونَ",
+      "translation_bh": "",
+      "translation_en": "you hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْمَعُونَكُمْ",
+      "translation_bh": "",
+      "translation_en": "they hear you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلسَّمْعِ",
+      "translation_bh": "",
+      "translation_en": "the hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْمَعْهَا",
+      "translation_bh": "",
+      "translation_en": "he (had) heard them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَمِعْنَا",
+      "translation_bh": "",
+      "translation_en": "and we have heard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمِيعٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Hearer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْمَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "they hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسْمِعُ",
+      "translation_bh": "",
+      "translation_en": "causes to hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْمِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُسْمِعٍۢ",
+      "translation_bh": "",
+      "translation_en": "can make hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْمَعُونِ",
+      "translation_bh": "",
+      "translation_en": "so listen to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسَّمَّعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسَّمَّعُونَ",
+      "translation_bh": "",
+      "translation_en": "they may listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَمْعُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمْعُكُمْ",
+      "translation_bh": "",
+      "translation_en": "your hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْمَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَسْمَعُ",
+      "translation_bh": "",
+      "translation_en": "hear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْمَعْهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "he heard them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمْعِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمْعًۭا",
+      "translation_bh": "",
+      "translation_en": "hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَمِعْ",
+      "translation_bh": "",
+      "translation_en": "And listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَمِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسْتَمِعُهُم",
+      "translation_bh": "",
+      "translation_en": "their listener"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْمَعْ",
+      "translation_bh": "",
+      "translation_en": "you listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْمَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "and listen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَمَعَ",
+      "translation_bh": "",
+      "translation_en": "listened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلسَّمْعِ ۖ",
+      "translation_bh": "",
+      "translation_en": "for hearing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَمَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَمِعِ",
+      "translation_bh": "",
+      "translation_en": "listens"
+    }
+  ]
+}

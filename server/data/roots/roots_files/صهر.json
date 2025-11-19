@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1183,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُصْهَرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِهْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صهر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُصْهَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُصْهَرُ",
+      "translation_bh": "",
+      "translation_en": "Will be melted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صِهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَصِهْرًۭا ۗ",
+      "translation_bh": "",
+      "translation_en": "and marriage relationship"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 1042,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَنفُذُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نفذ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَنفُذُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنفُذُوا۟",
+      "translation_bh": "",
+      "translation_en": "pass beyond"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَنفُذُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنفُذُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "then pass"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَنفُذُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنفُذُونَ",
+      "translation_bh": "",
+      "translation_en": "you (can) pass"
+    }
+  ]
+}

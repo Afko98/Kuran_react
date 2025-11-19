@@ -1,0 +1,195 @@
+{
+  "description_bh": "",
+  "id": 417,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يُطْلِعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْلِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُلُوع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَّلِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْلَع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طلع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يُطْلِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُطْلِعَكُمْ",
+      "translation_bh": "",
+      "translation_en": "to inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَطَّلِعُ",
+      "translation_bh": "",
+      "translation_en": "to discover"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَلْعِهَا",
+      "translation_bh": "",
+      "translation_en": "its spathe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طَلَعَت",
+      "translation_bh": "",
+      "translation_en": "it rose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱطَّلَعْتَ",
+      "translation_bh": "",
+      "translation_en": "you had looked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْلِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَطْلِعَ",
+      "translation_bh": "",
+      "translation_en": "(the) rising place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَطْلُعُ",
+      "translation_bh": "",
+      "translation_en": "rising"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطَّلَعَ",
+      "translation_bh": "",
+      "translation_en": "Has he looked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طُلُوع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طُلُوعِ",
+      "translation_bh": "",
+      "translation_en": "(the) rising"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طَلْعُهَا",
+      "translation_bh": "",
+      "translation_en": "its spadix"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطَّلِعُ",
+      "translation_bh": "",
+      "translation_en": "I may look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُطَّلِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّطَّلِعُونَ",
+      "translation_bh": "",
+      "translation_en": "be looking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱطَّلَعَ",
+      "translation_bh": "",
+      "translation_en": "Then he (will) look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَطَّلِعَ",
+      "translation_bh": "",
+      "translation_en": "so I may look"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلْع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَلْعٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) layers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْلَع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَطْلَعِ",
+      "translation_bh": "",
+      "translation_en": "(the) emergence"
+    }
+  ]
+}

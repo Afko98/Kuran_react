@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1248,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خُنَّس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَنّاس",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خنس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خُنَّس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْخُنَّسِ",
+      "translation_bh": "",
+      "translation_en": "by the retreating planets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَنّاس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَنَّاسِ",
+      "translation_bh": "",
+      "translation_en": "the one who withdraws"
+    }
+  ]
+}

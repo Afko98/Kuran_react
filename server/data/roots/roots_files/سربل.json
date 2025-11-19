@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 991,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَرابِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سربل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَرابِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَرَابِيلُهُم",
+      "translation_bh": "",
+      "translation_en": "Their garments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرابِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَرَٰبِيلَ",
+      "translation_bh": "",
+      "translation_en": "garments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرابِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَسَرَٰبِيلَ",
+      "translation_bh": "",
+      "translation_en": "and garments"
+    }
+  ]
+}

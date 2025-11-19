@@ -1,0 +1,222 @@
+{
+  "description_bh": "",
+  "id": 325,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مِثْقال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقُلَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقِيل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَثْقَلَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثّاقَلْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُثْقَلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُثْقَل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ثقل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مِثْقال",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "مِثْقَالَ",
+      "translation_bh": "",
+      "translation_en": "(as much as) weight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقُلَتْ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ثَقُلَتْ",
+      "translation_bh": "",
+      "translation_en": "(will be) heavy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ثِقَالًۭا",
+      "translation_bh": "",
+      "translation_en": "heavy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَثْقَلَت",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَثْقَلَت",
+      "translation_bh": "",
+      "translation_en": "she grows heavy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اثّاقَلْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱثَّاقَلْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you cling heavily"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَثِقَالًۭا",
+      "translation_bh": "",
+      "translation_en": "or heavy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْقال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّثْقَالِ",
+      "translation_bh": "",
+      "translation_en": "(the) weight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلثِّقَالَ",
+      "translation_bh": "",
+      "translation_en": "the heavy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَثْقَالَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your loads"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَثْقَالَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their burdens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَثْقَالًۭا",
+      "translation_bh": "",
+      "translation_en": "and burdens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَثْقَالِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their burdens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِثْقال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِثْقَالُ",
+      "translation_bh": "",
+      "translation_en": "(the) weight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُثْقَلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُثْقَلَةٌ",
+      "translation_bh": "",
+      "translation_en": "a heavily laden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُثْقَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّثْقَلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) overburdened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلثَّقَلَانِ",
+      "translation_bh": "",
+      "translation_en": "two classes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ثَقِيلًا",
+      "translation_bh": "",
+      "translation_en": "heavy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ثَقِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "grave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ثَقَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَثْقَالَهَا",
+      "translation_bh": "",
+      "translation_en": "its burdens"
+    }
+  ]
+}

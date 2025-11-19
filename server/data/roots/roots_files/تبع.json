@@ -1,0 +1,875 @@
+{
+  "description_bh": "",
+  "id": 58,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَبِعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تابِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتِّباع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَتابِعَيْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبِيع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّبَع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "تبع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَبِعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَبِعَ",
+      "translation_bh": "",
+      "translation_en": "follows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "And they followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعَ",
+      "translation_bh": "",
+      "translation_en": "you follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعْتَ",
+      "translation_bh": "",
+      "translation_en": "you follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَتَّبِعُ",
+      "translation_bh": "",
+      "translation_en": "follows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "they would follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تابِع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِتَابِعٍۢ",
+      "translation_bh": "",
+      "translation_en": "a follower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتُّبِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "were followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "ٱتَّبِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "Follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نَتَّبِعُ",
+      "translation_bh": "",
+      "translation_en": "we follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتِّباع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱتِّبَاعٌۢ",
+      "translation_bh": "",
+      "translation_en": "then follows up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُتْبِعُونَ",
+      "translation_bh": "",
+      "translation_en": "they follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتْبَعُهَآ",
+      "translation_bh": "",
+      "translation_en": "followed [it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَيَتَّبِعُونَ",
+      "translation_bh": "",
+      "translation_en": "[so] they follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعَنِ ۗ",
+      "translation_bh": "",
+      "translation_en": "follow me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبِعُونِى",
+      "translation_bh": "",
+      "translation_en": "then follow me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبَعْنَا",
+      "translation_bh": "",
+      "translation_en": "and we follow[ed]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعُوكَ",
+      "translation_bh": "",
+      "translation_en": "follow[ed] you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعُوهُ",
+      "translation_bh": "",
+      "translation_en": "follow him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "then follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعَ",
+      "translation_bh": "",
+      "translation_en": "pursues"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّٱتَّبَعْنَـٰكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "certainly we (would have) followed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَتَّبِعُونَ",
+      "translation_bh": "",
+      "translation_en": "follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَٱتَّبَعْتُمُ",
+      "translation_bh": "",
+      "translation_en": "surely you (would have) followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَتابِعَيْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُتَتَابِعَيْنِ",
+      "translation_bh": "",
+      "translation_en": "consecutively"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَّبِعْ",
+      "translation_bh": "",
+      "translation_en": "and he follows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبَعَ",
+      "translation_bh": "",
+      "translation_en": "and follows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتِّباع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱتِّبَاعَ",
+      "translation_bh": "",
+      "translation_en": "(the) following"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعْ",
+      "translation_bh": "",
+      "translation_en": "follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَتَّبِعُ",
+      "translation_bh": "",
+      "translation_en": "(do) I follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱتَّبِعْ",
+      "translation_bh": "",
+      "translation_en": "Follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعُونَ",
+      "translation_bh": "",
+      "translation_en": "you follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبِعُوهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "so follow it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبِعُوهُ",
+      "translation_bh": "",
+      "translation_en": "so follow it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبِعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَبِعَكَ",
+      "translation_bh": "",
+      "translation_en": "follows you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبِعُوهُ",
+      "translation_bh": "",
+      "translation_en": "and follow him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَتْبَعَهُ",
+      "translation_bh": "",
+      "translation_en": "so followed him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَّبِعُوكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "will they follow you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعَكَ",
+      "translation_bh": "",
+      "translation_en": "follows you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّٱتَّبَعُوكَ",
+      "translation_bh": "",
+      "translation_en": "surely they (would) have followed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعُوهُم",
+      "translation_bh": "",
+      "translation_en": "followed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُتَّبَعَ",
+      "translation_bh": "",
+      "translation_en": "he should be followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعَآنِّ",
+      "translation_bh": "",
+      "translation_en": "follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَتْبَعَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and followed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبِعْ",
+      "translation_bh": "",
+      "translation_en": "And follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأُتْبِعُوا۟",
+      "translation_bh": "",
+      "translation_en": "And they were followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "but they followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبَعْتُ",
+      "translation_bh": "",
+      "translation_en": "And I follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعَنِى ۖ",
+      "translation_bh": "",
+      "translation_en": "follows me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبَع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَبَعًۭا",
+      "translation_bh": "",
+      "translation_en": "followers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَبِعَنِى",
+      "translation_bh": "",
+      "translation_en": "follows me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَتَّبِعِ",
+      "translation_bh": "",
+      "translation_en": "and we will follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَتْبَعَهُۥ",
+      "translation_bh": "",
+      "translation_en": "then follows him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَبِيعًۭا",
+      "translation_bh": "",
+      "translation_en": "an avenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَّبِعُكَ",
+      "translation_bh": "",
+      "translation_en": "I follow you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعْتَنِى",
+      "translation_bh": "",
+      "translation_en": "you follow me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَتْبَعَ",
+      "translation_bh": "",
+      "translation_en": "So he followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَتْبَعَ",
+      "translation_bh": "",
+      "translation_en": "he followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبِعْنِىٓ",
+      "translation_bh": "",
+      "translation_en": "so follow me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعَنِ ۖ",
+      "translation_bh": "",
+      "translation_en": "you follow me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَنَتَّبِعَ",
+      "translation_bh": "",
+      "translation_en": "so we (could) have followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَتَّبِعُ",
+      "translation_bh": "",
+      "translation_en": "and follows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَتْبَعْنَا",
+      "translation_bh": "",
+      "translation_en": "so We made (them) follow "
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَّبِعْ",
+      "translation_bh": "",
+      "translation_en": "follows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تابِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلتَّـٰبِعِينَ",
+      "translation_bh": "",
+      "translation_en": "the attendants"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَّبَع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّتَّبَعُونَ",
+      "translation_bh": "",
+      "translation_en": "(will be) followed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَتْبَعُوهُم",
+      "translation_bh": "",
+      "translation_en": "So they followed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبَعَكَ",
+      "translation_bh": "",
+      "translation_en": "while followed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَّبِعُهُمُ",
+      "translation_bh": "",
+      "translation_en": "follow them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبَعَكُمَا",
+      "translation_bh": "",
+      "translation_en": "follow you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَتْبَعْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "And We caused to follow them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَّبِعْهُ",
+      "translation_bh": "",
+      "translation_en": "that I may follow it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّتَّبِعِ",
+      "translation_bh": "",
+      "translation_en": "we follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبَعُوهُ",
+      "translation_bh": "",
+      "translation_en": "so they followed him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعِ",
+      "translation_bh": "",
+      "translation_en": "follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبِعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱتَّبِعُونِ",
+      "translation_bh": "",
+      "translation_en": "Follow me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبِعُونِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and follow Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبِعْهَا",
+      "translation_bh": "",
+      "translation_en": "so follow it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَتَّبِعْكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(to) follow you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتَّبِعُونَا",
+      "translation_bh": "",
+      "translation_en": "will you follow us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱتَّبَعَتْهُمْ",
+      "translation_bh": "",
+      "translation_en": "and followed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّتَّبِعُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "(that) we should follow him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اتَّبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱتَّبِعْ",
+      "translation_bh": "",
+      "translation_en": "then follow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَتْبَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُتْبِعُهُمُ",
+      "translation_bh": "",
+      "translation_en": "We follow them up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَبِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَتْبَعُهَا",
+      "translation_bh": "",
+      "translation_en": "Follows it"
+    }
+  ]
+}

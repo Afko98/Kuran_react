@@ -1,0 +1,143 @@
+{
+  "description_bh": "",
+  "id": 370,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشّاء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مشي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مَّشَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they walk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَمْشِى",
+      "translation_bh": "",
+      "translation_en": "he walks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَمْشُونَ",
+      "translation_bh": "",
+      "translation_en": "(to) walk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَمْشِ",
+      "translation_bh": "",
+      "translation_en": "walk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمْشِىٓ",
+      "translation_bh": "",
+      "translation_en": "was going"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَمْشِى",
+      "translation_bh": "",
+      "translation_en": "and walk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَمْشُونَ",
+      "translation_bh": "",
+      "translation_en": "and walked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمْشِى",
+      "translation_bh": "",
+      "translation_en": "walking"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَشْيِكَ",
+      "translation_bh": "",
+      "translation_en": "your pace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱمْشُوا۟",
+      "translation_bh": "",
+      "translation_en": "Continue"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمْشُونَ",
+      "translation_bh": "",
+      "translation_en": "you will walk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱمْشُوا۟",
+      "translation_bh": "",
+      "translation_en": "so walk"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشّاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّشَّآءٍۭ",
+      "translation_bh": "",
+      "translation_en": "going about"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "description_bh": "",
+  "id": 274,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كفي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَسَيَكْفِيكَهُمُ",
+      "translation_bh": "",
+      "translation_en": "So will suffice you against them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْفِيَكُمْ",
+      "translation_bh": "",
+      "translation_en": "enough for you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 20,
+      "part_of_speech": "V",
+      "text": "وَكَفَىٰ",
+      "translation_bh": "",
+      "translation_en": "And is sufficient"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَكَفَىٰ",
+      "translation_bh": "",
+      "translation_en": "So sufficient"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "كَفَىٰ",
+      "translation_bh": "",
+      "translation_en": "Sufficient"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "كَفَيْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "[We] are sufficient for you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْفِهِمْ",
+      "translation_bh": "",
+      "translation_en": "sufficient for them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَكَفَى",
+      "translation_bh": "",
+      "translation_en": "And sufficient is"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكَافٍ",
+      "translation_bh": "",
+      "translation_en": "sufficient"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كَفَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَكْفِ",
+      "translation_bh": "",
+      "translation_en": "sufficient"
+    }
+  ]
+}

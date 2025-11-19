@@ -1,0 +1,615 @@
+{
+  "description_bh": "",
+  "id": 81,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْدِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِقْدار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقْتَدِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْدُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُور",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قدر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 25,
+      "part_of_speech": "N",
+      "text": "قَدِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "All-Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "قَدِيرٌ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَدَرُهُۥ",
+      "translation_bh": "",
+      "translation_en": "according to his means"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَقْدِرُونَ",
+      "translation_bh": "",
+      "translation_en": "they have control"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "قَدِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "All-Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدِيرًا",
+      "translation_bh": "",
+      "translation_en": "All-Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَقْدِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "you overpower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدِيرٌۢ",
+      "translation_bh": "",
+      "translation_en": "All-Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَادِرٌ",
+      "translation_bh": "",
+      "translation_en": "(is) Able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَادِرُ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Capable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "قَدَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they appraised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدْرِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "[of his] appraisal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْدِير",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "تَقْدِيرُ",
+      "translation_bh": "",
+      "translation_en": "(is the) ordaining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَدَّرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and determined for it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَـٰدِرُونَ",
+      "translation_bh": "",
+      "translation_en": "have the power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِقْدار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمِقْدَارٍ",
+      "translation_bh": "",
+      "translation_en": "(is) in due proportion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقَدَرِهَا",
+      "translation_bh": "",
+      "translation_en": "according to their measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَيَقْدِرُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and restricts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِقَدَرٍۢ",
+      "translation_bh": "",
+      "translation_en": "in a measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَدَّرْنَآ ۙ",
+      "translation_bh": "",
+      "translation_en": "We have decreed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَقْدِرُ",
+      "translation_bh": "",
+      "translation_en": "he has power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقْتَدِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقْتَدِرًا",
+      "translation_bh": "",
+      "translation_en": "(is) All Able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَدَرٍۢ",
+      "translation_bh": "",
+      "translation_en": "the decreed (time)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّقْدِرَ",
+      "translation_bh": "",
+      "translation_en": "We would decree"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَقَدِيرٌ",
+      "translation_bh": "",
+      "translation_en": "(is) surely Able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدْرِهِۦٓ ۗ",
+      "translation_bh": "",
+      "translation_en": "[His] estimation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لَقَـٰدِرُونَ",
+      "translation_bh": "",
+      "translation_en": "surely (are) Able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَقَدَّرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and determined it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقْدِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "تَقْدِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "(with) determination"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَدَّرْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "We destined her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَقْدِرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "and restricts it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَقْدِرُ",
+      "translation_bh": "",
+      "translation_en": "and restricts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَدِيرُ",
+      "translation_bh": "",
+      "translation_en": "the All-Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِقْدار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِقْدَارُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "(the) measure of which is"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدَرًۭا",
+      "translation_bh": "",
+      "translation_en": "a decree"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَقْدُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّقْدُورًا",
+      "translation_bh": "",
+      "translation_en": "destined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَدِّرْ",
+      "translation_bh": "",
+      "translation_en": "and measure precisely"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقُدُورٍۢ",
+      "translation_bh": "",
+      "translation_en": "and cooking-pots"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَدَّرْنَا",
+      "translation_bh": "",
+      "translation_en": "And We determined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَدَّرْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We have ordained for it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِقَـٰدِرٍ",
+      "translation_bh": "",
+      "translation_en": "Able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدْرِهِۦ",
+      "translation_bh": "",
+      "translation_en": "appraisal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَقَدَّرَ",
+      "translation_bh": "",
+      "translation_en": "and determined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقْتَدِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقْتَدِرُونَ",
+      "translation_bh": "",
+      "translation_en": "have full power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قُدِرَ",
+      "translation_bh": "",
+      "translation_en": "predestined"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقْتَدِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقْتَدِرٍ",
+      "translation_bh": "",
+      "translation_en": "(the) Powerful One"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقْتَدِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقْتَدِرٍۭ",
+      "translation_bh": "",
+      "translation_en": "Most Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَدَّرْنَا",
+      "translation_bh": "",
+      "translation_en": "[We] have decreed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدِيرٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Powerful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَدْرًۭا",
+      "translation_bh": "",
+      "translation_en": "a measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَـٰدِرِينَ",
+      "translation_bh": "",
+      "translation_en": "able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِقْدار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِقْدَارُهُۥ",
+      "translation_bh": "",
+      "translation_en": "its measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُقَدِّرُ",
+      "translation_bh": "",
+      "translation_en": "determines"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "قَدَّرَ",
+      "translation_bh": "",
+      "translation_en": "he plotted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَدَّرُوهَا",
+      "translation_bh": "",
+      "translation_en": "They will determine its"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَدَرْنَا",
+      "translation_bh": "",
+      "translation_en": "So We measured"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَـٰدِرُونَ",
+      "translation_bh": "",
+      "translation_en": "(are We to) measure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قادِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَقَادِرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) Able"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَدَرَ",
+      "translation_bh": "",
+      "translation_en": "and restricts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقْدِرَ",
+      "translation_bh": "",
+      "translation_en": "has power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَدْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْقَدْرِ",
+      "translation_bh": "",
+      "translation_en": "(of) Power"
+    }
+  ]
+}

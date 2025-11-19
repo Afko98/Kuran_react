@@ -1,0 +1,552 @@
+{
+  "description_bh": "",
+  "id": 12,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شيأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 54,
+      "part_of_speech": "V",
+      "text": "شَآءَ",
+      "translation_bh": "",
+      "translation_en": "had willed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 99,
+      "part_of_speech": "N",
+      "text": "شَىْءٍۢ",
+      "translation_bh": "",
+      "translation_en": "thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 53,
+      "part_of_speech": "N",
+      "text": "شَىْءٍ",
+      "translation_bh": "",
+      "translation_en": "thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "شِئْتُمَا",
+      "translation_bh": "",
+      "translation_en": "you [both] wish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 40,
+      "part_of_speech": "N",
+      "text": "شَيْـًۭٔا",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "شِئْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you wish[ed]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 56,
+      "part_of_speech": "V",
+      "text": "يَشَآءُ",
+      "translation_bh": "",
+      "translation_en": "He wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 32,
+      "part_of_speech": "V",
+      "text": "يَشَآءُ ۚ",
+      "translation_bh": "",
+      "translation_en": "He wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِشَىْءٍۢ",
+      "translation_bh": "",
+      "translation_en": "with something"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "شَىْءٌۭ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "شِئْتُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "you wish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "شَيْـًٔا",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "يَشَآءُ ۗ",
+      "translation_bh": "",
+      "translation_en": "He willed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "شَآءَ ۚ",
+      "translation_bh": "",
+      "translation_en": "He willed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "شَيْـًۭٔا ۚ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "شَيْـًۭٔا ۖ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَشَآءُ",
+      "translation_bh": "",
+      "translation_en": "You will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَشَآءُ ۖ",
+      "translation_bh": "",
+      "translation_en": "You will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَيْـًٔا ۗ",
+      "translation_bh": "",
+      "translation_en": "(in) anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شَىْءٌ",
+      "translation_bh": "",
+      "translation_en": "(of) anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "شَيْـًۭٔا ۗ",
+      "translation_bh": "",
+      "translation_en": "(in) anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَىْءٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَشَآءُ ۖ",
+      "translation_bh": "",
+      "translation_en": "He wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "شَيْـًٔا ۚ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "شَىْءٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَشَأْ",
+      "translation_bh": "",
+      "translation_en": "He wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَشْيَآءَ",
+      "translation_bh": "",
+      "translation_en": "things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَشَإِ",
+      "translation_bh": "",
+      "translation_en": "wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَشَآءَ",
+      "translation_bh": "",
+      "translation_en": "wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَّشَآءُ ۗ",
+      "translation_bh": "",
+      "translation_en": "We will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "شَىْءٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نَّشَآءُ",
+      "translation_bh": "",
+      "translation_en": "we will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شَىْءٍ ۚ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أَشْيَآءَهُمْ",
+      "translation_bh": "",
+      "translation_en": "in their things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "نَشَآءُ",
+      "translation_bh": "",
+      "translation_en": "We willed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "شِئْتَ",
+      "translation_bh": "",
+      "translation_en": "you (had) willed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَشَآءُ ۖ",
+      "translation_bh": "",
+      "translation_en": "I will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "شِئْنَا",
+      "translation_bh": "",
+      "translation_en": "We willed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَشَىْءٌ",
+      "translation_bh": "",
+      "translation_en": "(is) surely a thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَشَـٰٓؤُا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "we will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَّشَآءُ ۖ",
+      "translation_bh": "",
+      "translation_en": "We will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شَىْءٍ ۖ",
+      "translation_bh": "",
+      "translation_en": "thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِشَىْءٍ",
+      "translation_bh": "",
+      "translation_en": "with a thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَشَآءُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "they wish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِشَىْءٍ",
+      "translation_bh": "",
+      "translation_en": "to a thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِشَا۟ىْءٍ",
+      "translation_bh": "",
+      "translation_en": "of anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "شَىْءٍۭ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَشَآءُ ۩",
+      "translation_bh": "",
+      "translation_en": "He wills"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَشَآءُونَ",
+      "translation_bh": "",
+      "translation_en": "they wish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نَّشَأْ",
+      "translation_bh": "",
+      "translation_en": "We will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَشَىْءٍۢ",
+      "translation_bh": "",
+      "translation_en": "and (some)thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَشَىْءٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) certainly a thing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "شِئْتُم",
+      "translation_bh": "",
+      "translation_en": "you will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَشَآءُ ۖ",
+      "translation_bh": "",
+      "translation_en": "we wish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَىْءٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِشَىْءٍ ۗ",
+      "translation_bh": "",
+      "translation_en": "with anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَىْءٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَىْء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَيْـًٔا ۖ",
+      "translation_bh": "",
+      "translation_en": "anything"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاءَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَشَآءُونَ",
+      "translation_bh": "",
+      "translation_en": "you will"
+    }
+  ]
+}

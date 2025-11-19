@@ -1,0 +1,1045 @@
+{
+  "description_bh": "",
+  "id": 43,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "داع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "داعِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدَّعُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دعو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "and call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْعُ",
+      "translation_bh": "",
+      "translation_en": "so pray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "ٱدْعُ",
+      "translation_bh": "",
+      "translation_en": "Pray"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآءًۭ",
+      "translation_bh": "",
+      "translation_en": "calls"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَعْوَةَ",
+      "translation_bh": "",
+      "translation_en": "(to the) invocation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلدَّاعِ",
+      "translation_bh": "",
+      "translation_en": "(of) the supplicant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَعَانِ ۖ",
+      "translation_bh": "",
+      "translation_en": "he calls Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 23,
+      "part_of_speech": "V",
+      "text": "يَدْعُونَ",
+      "translation_bh": "",
+      "translation_en": "they invite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَدْعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "invites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱدْعُهُنَّ",
+      "translation_bh": "",
+      "translation_en": "call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دُعُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they are called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُدْعَوْنَ",
+      "translation_bh": "",
+      "translation_en": "They are invited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دَعَا",
+      "translation_bh": "",
+      "translation_en": "invoked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلدُّعَآءِ",
+      "translation_bh": "",
+      "translation_en": "(of) the prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَدْعُ",
+      "translation_bh": "",
+      "translation_en": "let us call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَدْعُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "was calling you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 16,
+      "part_of_speech": "V",
+      "text": "تَدْعُونَ",
+      "translation_bh": "",
+      "translation_en": "you call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدْعُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "you call Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنَدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "Shall we call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْعُونَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "who call him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَى",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "دَعْوَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "their plea"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱدْعُوهُ",
+      "translation_bh": "",
+      "translation_en": "and invoke Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "ٱدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "Call upon"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱدْعُوهُ",
+      "translation_bh": "",
+      "translation_en": "so invoke Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَّعَوَا",
+      "translation_bh": "",
+      "translation_en": "they both invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَدْعُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "you call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَدَعَوْتُمُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "whether you call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْعُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "So invoke them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دَعَاكُمْ",
+      "translation_bh": "",
+      "translation_en": "he calls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دَعَانَا",
+      "translation_bh": "",
+      "translation_en": "he calls Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْعُنَآ",
+      "translation_bh": "",
+      "translation_en": "called Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "دَعَوُا۟",
+      "translation_bh": "",
+      "translation_en": "They call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَّعْوَتُكُمَا",
+      "translation_bh": "",
+      "translation_en": "(the) invocation of both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَدْعُ",
+      "translation_bh": "",
+      "translation_en": "invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَدْعُونَآ",
+      "translation_bh": "",
+      "translation_en": "you call us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْعُونَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "they invite me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَدْعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "I invite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَعْوَةُ",
+      "translation_bh": "",
+      "translation_en": "(is) supplication"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآءُ",
+      "translation_bh": "",
+      "translation_en": "(is) the supplication"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "I call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدْعُونَنَآ",
+      "translation_bh": "",
+      "translation_en": "you invite us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَعَوْتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I invited you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دُعَآءِ",
+      "translation_bh": "",
+      "translation_en": "my prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَعْوَتَكَ",
+      "translation_bh": "",
+      "translation_en": "Your call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَدْعُ",
+      "translation_bh": "",
+      "translation_en": "And prays"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآءَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(as) he prays"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "you invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّدْعُوَا۟",
+      "translation_bh": "",
+      "translation_en": "we will invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَدَعَوْهُمْ",
+      "translation_bh": "",
+      "translation_en": "then they will call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدْعُهُمْ",
+      "translation_bh": "",
+      "translation_en": "you call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِدُعَآئِكَ",
+      "translation_bh": "",
+      "translation_en": "in (my) supplication (to) You"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "and I will invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِدُعَآءِ",
+      "translation_bh": "",
+      "translation_en": "in invocation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "دَعَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داعِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدَّاعِىَ",
+      "translation_bh": "",
+      "translation_en": "the caller"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلدُّعَآءَ",
+      "translation_bh": "",
+      "translation_en": "the call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَدْعُونَنَا",
+      "translation_bh": "",
+      "translation_en": "and they supplicate to Us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "He calls"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱدْعُ",
+      "translation_bh": "",
+      "translation_en": "but invite (them)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَدْعُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "certainly call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَدْعُ",
+      "translation_bh": "",
+      "translation_en": "invokes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دُعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they are called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآءَ",
+      "translation_bh": "",
+      "translation_en": "(the) calling"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَدُعَآءِ",
+      "translation_bh": "",
+      "translation_en": "as (the) call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآؤُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your prayer (is to Him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَعَاهُ",
+      "translation_bh": "",
+      "translation_en": "he calls Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْعُوكَ",
+      "translation_bh": "",
+      "translation_en": "calls you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَعْوَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(with) a call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْعُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "(to) call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَدْعِيَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your adopted sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱدْعُوهُمْ",
+      "translation_bh": "",
+      "translation_en": "Call them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَدْعِيَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "(of) their adopted sons"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داعِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَدَاعِيًا",
+      "translation_bh": "",
+      "translation_en": "And as one who invites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دُعِيتُمْ",
+      "translation_bh": "",
+      "translation_en": "you are invited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدَّعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدَّعُونَ",
+      "translation_bh": "",
+      "translation_en": "they call for"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَدْعُونَ",
+      "translation_bh": "",
+      "translation_en": "Do you call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُدْعَوْنَ",
+      "translation_bh": "",
+      "translation_en": "you were called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دُعِىَ",
+      "translation_bh": "",
+      "translation_en": "Allah was invoked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "So invoke"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَدْعُ",
+      "translation_bh": "",
+      "translation_en": "and let him call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَدْعُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "(that) I call you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَدْعُونَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "while you call me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدْعُونَنِى",
+      "translation_bh": "",
+      "translation_en": "You call me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدْعُونَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "you call me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَعْوَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a claim"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْعُوا۟ ۗ",
+      "translation_bh": "",
+      "translation_en": "Then call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَـٰٓؤُا۟",
+      "translation_bh": "",
+      "translation_en": "(is the) call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱدْعُونِىٓ",
+      "translation_bh": "",
+      "translation_en": "Call upon Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّدْعُوا۟",
+      "translation_bh": "",
+      "translation_en": "[we] call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدَّعُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَدَّعُونَ",
+      "translation_bh": "",
+      "translation_en": "you ask"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَعَآ",
+      "translation_bh": "",
+      "translation_en": "invites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآءٍ",
+      "translation_bh": "",
+      "translation_en": "(of) supplication"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْعُ ۖ",
+      "translation_bh": "",
+      "translation_en": "then invite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَدَعَا",
+      "translation_bh": "",
+      "translation_en": "So he called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُدْعَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "will be called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآئِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their calls"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داعِي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دَاعِىَ",
+      "translation_bh": "",
+      "translation_en": "(to the) caller"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَدْعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَتُدْعَوْنَ",
+      "translation_bh": "",
+      "translation_en": "You will be called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَدْعُوهُ ۖ",
+      "translation_bh": "",
+      "translation_en": "call Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدَّاعِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the caller"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُدْعَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "is invited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُدْعَوْنَ",
+      "translation_bh": "",
+      "translation_en": "and they will be called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَعَوْتُ",
+      "translation_bh": "",
+      "translation_en": "invited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُعاء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُعَآءِىٓ",
+      "translation_bh": "",
+      "translation_en": "my invitation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "دَعَوْتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "I invited them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدْعُوهُ",
+      "translation_bh": "",
+      "translation_en": "calling (upon) Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلْيَدْعُ",
+      "translation_bh": "",
+      "translation_en": "Then let him call"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَنَدْعُ",
+      "translation_bh": "",
+      "translation_en": "We will call"
+    }
+  ]
+}

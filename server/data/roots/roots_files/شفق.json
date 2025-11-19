@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 567,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُشْفِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْفَقْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَفَق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شفق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُشْفِق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُشْفِقِينَ",
+      "translation_bh": "",
+      "translation_en": "fearful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْفِق",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُشْفِقُونَ",
+      "translation_bh": "",
+      "translation_en": "stand in awe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُشْفِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّشْفِقُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) cautious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْفَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَشْفَقْنَ",
+      "translation_bh": "",
+      "translation_en": "and they feared"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشْفَقْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ءَأَشْفَقْتُمْ",
+      "translation_bh": "",
+      "translation_en": "Are you afraid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَفَق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلشَّفَقِ",
+      "translation_bh": "",
+      "translation_en": "by the twilight glow"
+    }
+  ]
+}

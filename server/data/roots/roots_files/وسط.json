@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 758,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وَسَط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وُسْطَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْسَط",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَسَطْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وسط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وَسَط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَسَطًۭا",
+      "translation_bh": "",
+      "translation_en": "(of the) middle way"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وُسْطَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوُسْطَىٰ",
+      "translation_bh": "",
+      "translation_en": "[the] middle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْسَط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْسَطِ",
+      "translation_bh": "",
+      "translation_en": "average"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَوْسَط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَوْسَطُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(the) most moderate of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَسَطْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَوَسَطْنَ",
+      "translation_bh": "",
+      "translation_en": "Then penetrate (in the) center"
+    }
+  ]
+}

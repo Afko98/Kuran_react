@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 750,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَكال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَنكِيل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنكال",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نكل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَكال",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَكَـٰلًۭا",
+      "translation_bh": "",
+      "translation_en": "a deterrent punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَنكِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَنكِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) punishment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنكال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنكَالًۭا",
+      "translation_bh": "",
+      "translation_en": "(are) shackles"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَكال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَكَالَ",
+      "translation_bh": "",
+      "translation_en": "(with) an exemplary punishment"
+    }
+  ]
+}

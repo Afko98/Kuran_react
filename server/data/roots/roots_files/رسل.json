@@ -1,0 +1,1576 @@
+{
+  "description_bh": "",
+  "id": 13,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِسالَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسِلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَلَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رسل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلرُّسُلِ ۖ",
+      "translation_bh": "",
+      "translation_en": "with [the] Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَسُولٌۢ",
+      "translation_bh": "",
+      "translation_en": "a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "وَرُسُلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "رَسُولٌۭ",
+      "translation_bh": "",
+      "translation_en": "a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 12,
+      "part_of_speech": "V",
+      "text": "أَرْسَلْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "[We] have sent you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "رَسُولًۭا",
+      "translation_bh": "",
+      "translation_en": "a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "ٱلرَّسُولُ",
+      "translation_bh": "",
+      "translation_en": "the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ٱلرَّسُولَ",
+      "translation_bh": "",
+      "translation_en": "the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 41,
+      "part_of_speech": "V",
+      "text": "أَرْسَلْنَا",
+      "translation_bh": "",
+      "translation_en": "We sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَل",
+      "occurrences": 24,
+      "part_of_speech": "N",
+      "text": "ٱلْمُرْسَلِينَ",
+      "translation_bh": "",
+      "translation_en": "the Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلرُّسُلُ",
+      "translation_bh": "",
+      "translation_en": "(are) the Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرَسُولِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُّسُلِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "His messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلرَّسُولَ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَسُولًا",
+      "translation_bh": "",
+      "translation_en": "And (make him) a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولُهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "(is) His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلرَّسُولَ",
+      "translation_bh": "",
+      "translation_en": "and the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرُّسُلُ ۚ",
+      "translation_bh": "",
+      "translation_en": "[the] (other) Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلرَّسُولُ",
+      "translation_bh": "",
+      "translation_en": "while the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلرَّسُولِ",
+      "translation_bh": "",
+      "translation_en": "and the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُّسُلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرُسُلِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "and His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِرَسُولٍ",
+      "translation_bh": "",
+      "translation_en": "in a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "رُسُلٌۭ",
+      "translation_bh": "",
+      "translation_en": "Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُسُلِكَ",
+      "translation_bh": "",
+      "translation_en": "Your Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "وَرَسُولَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "ٱلرَّسُولِ",
+      "translation_bh": "",
+      "translation_en": "the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "رَّسُولٍ",
+      "translation_bh": "",
+      "translation_en": "Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَرْسَلْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "And We have sent you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَسُولًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "وَرَسُولِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "رَسُولِهِۦ",
+      "translation_bh": "",
+      "translation_en": "His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رَسُولَ",
+      "translation_bh": "",
+      "translation_en": "(the) Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرُسُلًۭا",
+      "translation_bh": "",
+      "translation_en": "And Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُّسُلًۭا",
+      "translation_bh": "",
+      "translation_en": "Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرُّسُلِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "رَسُولُ",
+      "translation_bh": "",
+      "translation_en": "(was) a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُسُلِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "and His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرُسُلِى",
+      "translation_bh": "",
+      "translation_en": "in My Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَسُولُنَا",
+      "translation_bh": "",
+      "translation_en": "Our Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلرُّسُلِ",
+      "translation_bh": "",
+      "translation_en": "the Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رُسُلُنَا",
+      "translation_bh": "",
+      "translation_en": "Our Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "وَرَسُولُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِسالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِسَالَتَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "His Message"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَرْسَلْنَآ",
+      "translation_bh": "",
+      "translation_en": "and We sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُسُلًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَسُولِنَا",
+      "translation_bh": "",
+      "translation_en": "Our Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلرُّسُلَ",
+      "translation_bh": "",
+      "translation_en": "the Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِرَسُولِى",
+      "translation_bh": "",
+      "translation_en": "and in My Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَرْسَلْنَا",
+      "translation_bh": "",
+      "translation_en": "And We sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِرُسُلٍۢ",
+      "translation_bh": "",
+      "translation_en": "Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "أَرْسَلْنَآ",
+      "translation_bh": "",
+      "translation_en": "We sent (Messengers)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "نُرْسِلُ",
+      "translation_bh": "",
+      "translation_en": "We send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيُرْسِلُ",
+      "translation_bh": "",
+      "translation_en": "and He sends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رُسُلُ",
+      "translation_bh": "",
+      "translation_en": "(to the) Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِسالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِسَالَتَهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "His Message"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أُرْسِلَ",
+      "translation_bh": "",
+      "translation_en": "were sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُرْسِلُ",
+      "translation_bh": "",
+      "translation_en": "sends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِسالَة",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رِسَـٰلَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "the Messages"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّرْسَلٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is the) one sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِسالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِسَالَةَ",
+      "translation_bh": "",
+      "translation_en": "(the) Message"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أُرْسِلْتُ",
+      "translation_bh": "",
+      "translation_en": "I have been sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "رُسُلُهُم",
+      "translation_bh": "",
+      "translation_en": "their Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَأَرْسِلْ",
+      "translation_bh": "",
+      "translation_en": "so send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَرْسِلْ",
+      "translation_bh": "",
+      "translation_en": "and send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَأَرْسَلْنَا",
+      "translation_bh": "",
+      "translation_en": "So We sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَنُرْسِلَنَّ",
+      "translation_bh": "",
+      "translation_en": "and surely, we will send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِسالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرِسَـٰلَـٰتِى",
+      "translation_bh": "",
+      "translation_en": "with My Messages"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَسُولِهِ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلرَّسُولِ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرَسُولَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَرَسُولَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَلِلرَّسُولِ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرَسُولِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَرَسُولُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "and (so is) His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَرْسَلَ",
+      "translation_bh": "",
+      "translation_en": "has sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رَسُولَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِرَسُولِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and in His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَرَسُولُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَرَسُولَهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَسُولِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَسُولِ",
+      "translation_bh": "",
+      "translation_en": "(the) Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولِهِ",
+      "translation_bh": "",
+      "translation_en": "His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَرَسُولِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولِهِۦ ۗ",
+      "translation_bh": "",
+      "translation_en": "His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّسُولِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّسُولِ",
+      "translation_bh": "",
+      "translation_en": "the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "رُسُلَنَا",
+      "translation_bh": "",
+      "translation_en": "Our Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّسُولٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رُسُلًا",
+      "translation_bh": "",
+      "translation_en": "Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُرْسِلِ",
+      "translation_bh": "",
+      "translation_en": "He will send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رُسُلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رُسُلُنَآ",
+      "translation_bh": "",
+      "translation_en": "Our messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أُرْسِلْنَآ",
+      "translation_bh": "",
+      "translation_en": "[we] have been sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْسِلْهُ",
+      "translation_bh": "",
+      "translation_en": "Send him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَرْسَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْسَلَتْ",
+      "translation_bh": "",
+      "translation_en": "she sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَرْسِلُونِ",
+      "translation_bh": "",
+      "translation_en": "so send me forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُرْسِلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "will I send him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "رُسُلًۭا",
+      "translation_bh": "",
+      "translation_en": "Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْسَلًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أُرْسِلْتُم",
+      "translation_bh": "",
+      "translation_en": "you have been sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رُسُلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِرُسُلِهِمْ",
+      "translation_bh": "",
+      "translation_en": "to their Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرُّسُلَ ۗ",
+      "translation_bh": "",
+      "translation_en": "the Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُسُلَهُۥٓ ۗ",
+      "translation_bh": "",
+      "translation_en": "(to) His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَل",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْمُرْسَلُونَ",
+      "translation_bh": "",
+      "translation_en": "O messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّسُولًا",
+      "translation_bh": "",
+      "translation_en": "a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّرْسِلَ",
+      "translation_bh": "",
+      "translation_en": "We send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُرْسِلَ",
+      "translation_bh": "",
+      "translation_en": "send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيُرْسِلَ",
+      "translation_bh": "",
+      "translation_en": "and send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُّسُلِنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "Our Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "رَّسُولًۭا",
+      "translation_bh": "",
+      "translation_en": "a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُرْسِلَ",
+      "translation_bh": "",
+      "translation_en": "and will send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُسُلِى",
+      "translation_bh": "",
+      "translation_en": "and My Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَرْسَلْنَآ",
+      "translation_bh": "",
+      "translation_en": "Then We sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولَا",
+      "translation_bh": "",
+      "translation_en": "both (are) Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَرْسَلْتَ",
+      "translation_bh": "",
+      "translation_en": "You sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَّسُولٍۢ",
+      "translation_bh": "",
+      "translation_en": "Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّسُولُهَا",
+      "translation_bh": "",
+      "translation_en": "its Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِٱلرَّسُولِ",
+      "translation_bh": "",
+      "translation_en": "and in the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّسُولَ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولًا",
+      "translation_bh": "",
+      "translation_en": "(as) a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْسِلْ",
+      "translation_bh": "",
+      "translation_en": "send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولَكُمُ",
+      "translation_bh": "",
+      "translation_en": "your Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَرْسَلَ",
+      "translation_bh": "",
+      "translation_en": "Then sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "رَسُولٌ",
+      "translation_bh": "",
+      "translation_en": "a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسِلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْسِلَةٌ",
+      "translation_bh": "",
+      "translation_en": "going to send"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَرْسِلْهُ",
+      "translation_bh": "",
+      "translation_en": "so send him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُرْسِلِينَ",
+      "translation_bh": "",
+      "translation_en": "the Senders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّسُولَ",
+      "translation_bh": "",
+      "translation_en": "(he is the) Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّسُولَا۠",
+      "translation_bh": "",
+      "translation_en": "the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُسُلِى ۖ",
+      "translation_bh": "",
+      "translation_en": "My Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْسِلَ",
+      "translation_bh": "",
+      "translation_en": "(can) release"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّرْسَلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمُرْسَلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) surely Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَرْسَلْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And We sent him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَسُولِهِمْ",
+      "translation_bh": "",
+      "translation_en": "against their Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُسُلُكُم",
+      "translation_bh": "",
+      "translation_en": "your Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُسُلَنَا ۖ",
+      "translation_bh": "",
+      "translation_en": "Our Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلرُّسُلِ",
+      "translation_bh": "",
+      "translation_en": "to the Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَسُولٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رُّسُلِنَآ",
+      "translation_bh": "",
+      "translation_en": "Our Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُسُلُنَا",
+      "translation_bh": "",
+      "translation_en": "and Our Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَسُولَهُ",
+      "translation_bh": "",
+      "translation_en": "His Messenger's"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّسُولُ",
+      "translation_bh": "",
+      "translation_en": "(is the) Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنُرْسِلَ",
+      "translation_bh": "",
+      "translation_en": "That we may send down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَرْسَلْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We sent him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْسِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "(are) sending"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُرْسَلُ",
+      "translation_bh": "",
+      "translation_en": "Will be sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُسُلِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "and His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُسُلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and His Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرُسُلِنَا",
+      "translation_bh": "",
+      "translation_en": "Our Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَسُولِهِۦ",
+      "translation_bh": "",
+      "translation_en": "in His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرُسُلِىٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "and My Messengers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَسُولَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "and His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِرَسُولٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَرَسُولُ",
+      "translation_bh": "",
+      "translation_en": "(are) surely (the) Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَرَسُولُهُۥ",
+      "translation_bh": "",
+      "translation_en": "(are) surely His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلِرَسُولِهِۦ",
+      "translation_bh": "",
+      "translation_en": "and for His Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلرَّسُولَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَسُول",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَسُولٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) a Messenger"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِسالَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرِسَـٰلَـٰتِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "and His Messages"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْسَلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُرْسَلَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "By the ones sent forth"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُرْسِلُوا۟",
+      "translation_bh": "",
+      "translation_en": "they had been sent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَرْسَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَرْسَلَ",
+      "translation_bh": "",
+      "translation_en": "And He sent"
+    }
+  ]
+}

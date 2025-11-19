@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1121,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَيْلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عائِل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عيل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَيْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَيْلَةًۭ",
+      "translation_bh": "",
+      "translation_en": "poverty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عائِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَآئِلًۭا",
+      "translation_bh": "",
+      "translation_en": "in need"
+    }
+  ]
+}

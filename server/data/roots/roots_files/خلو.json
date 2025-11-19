@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 317,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "خَلا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلُّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخَلَّتْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "خلو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "خَلا",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "خَلَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they are alone"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَا",
+      "translation_bh": "",
+      "translation_en": "meet in private"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَتْ ۖ",
+      "translation_bh": "",
+      "translation_en": "has passed away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلا",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "خَلَتْ",
+      "translation_bh": "",
+      "translation_en": "passed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَخَلُّوا۟",
+      "translation_bh": "",
+      "translation_en": "then leave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَخْلُ",
+      "translation_bh": "",
+      "translation_en": "so will be free"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خَلا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "خَلَتِ",
+      "translation_bh": "",
+      "translation_en": "and have already passed away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "خالِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْخَالِيَةِ",
+      "translation_bh": "",
+      "translation_en": "past"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَخَلَّتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَخَلَّتْ",
+      "translation_bh": "",
+      "translation_en": "and becomes empty"
+    }
+  ]
+}

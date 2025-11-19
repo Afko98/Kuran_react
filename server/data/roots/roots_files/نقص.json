@@ -1,0 +1,98 @@
+{
+  "description_bh": "",
+  "id": 573,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَقْص",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنقَصُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنقُوص",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نقص",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَقْص",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَنَقْصٍۢ",
+      "translation_bh": "",
+      "translation_en": "and loss"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنقَصُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنقُصُوكُمْ",
+      "translation_bh": "",
+      "translation_en": "they have failed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنقَصُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنقُصُوا۟",
+      "translation_bh": "",
+      "translation_en": "decrease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَنقُوص",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَنقُوصٍۢ",
+      "translation_bh": "",
+      "translation_en": "being diminished"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنقَصُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَنقُصُهَا",
+      "translation_bh": "",
+      "translation_en": "reducing it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنقَصُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنقَصُ",
+      "translation_bh": "",
+      "translation_en": "is lessened"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنقَصُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنقُصُ",
+      "translation_bh": "",
+      "translation_en": "diminishes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُنقَصُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنقُصْ",
+      "translation_bh": "",
+      "translation_en": "lessen"
+    }
+  ]
+}

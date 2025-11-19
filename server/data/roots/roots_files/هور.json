@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1123,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "هار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انْهارَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "هور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "هار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "هَارٍۢ",
+      "translation_bh": "",
+      "translation_en": "(about to) collapse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انْهارَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنْهَارَ",
+      "translation_bh": "",
+      "translation_en": "so it collapsed"
+    }
+  ]
+}

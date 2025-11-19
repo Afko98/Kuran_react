@@ -1,0 +1,397 @@
+{
+  "description_bh": "",
+  "id": 205,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعِمُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِطْعام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طاعِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطْعَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعْم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طعم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَعَامٍۢ",
+      "translation_bh": "",
+      "translation_en": "food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "طَعَامُ",
+      "translation_bh": "",
+      "translation_en": "(of) feeding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعِمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطْعَمْهُ",
+      "translation_bh": "",
+      "translation_en": "taste it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَعَامِكَ",
+      "translation_bh": "",
+      "translation_en": "your food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّعَامِ",
+      "translation_bh": "",
+      "translation_en": "[the] food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَطَعَامُ",
+      "translation_bh": "",
+      "translation_en": "and (the) food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَطَعَامُكُمْ",
+      "translation_bh": "",
+      "translation_en": "and your food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّعَامَ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِطْعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِطْعَامُ",
+      "translation_bh": "",
+      "translation_en": "(is) feeding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُطْعِمُونَ",
+      "translation_bh": "",
+      "translation_en": "you feed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعِمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طَعِمُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they ate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَطَعَامُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and its food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُطْعِمُ",
+      "translation_bh": "",
+      "translation_en": "Who feeds"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُطْعَمُ ۗ",
+      "translation_bh": "",
+      "translation_en": "He is fed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعِمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطْعَمُهَآ",
+      "translation_bh": "",
+      "translation_en": "can eat them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طاعِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَاعِمٍۢ",
+      "translation_bh": "",
+      "translation_en": "an eater"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعِمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطْعَمُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "who eats it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَعَامٌۭ",
+      "translation_bh": "",
+      "translation_en": "food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَعَامًۭا",
+      "translation_bh": "",
+      "translation_en": "food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَطْعَمَآ",
+      "translation_bh": "",
+      "translation_en": "they asked for food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلطَّعَامَ",
+      "translation_bh": "",
+      "translation_en": "the food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَطْعِمُوا۟",
+      "translation_bh": "",
+      "translation_en": "and feed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُطْعِمُنِى",
+      "translation_bh": "",
+      "translation_en": "gives me food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَعَامٍ",
+      "translation_bh": "",
+      "translation_en": "a meal"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعِمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "طَعِمْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you have eaten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنُطْعِمُ",
+      "translation_bh": "",
+      "translation_en": "Should we feed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطْعَمَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "He would have fed him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَعْمُهُۥ",
+      "translation_bh": "",
+      "translation_en": "its taste"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُطْعِمُونِ",
+      "translation_bh": "",
+      "translation_en": "they (should) feed Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِطْعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَإِطْعَامُ",
+      "translation_bh": "",
+      "translation_en": "then (the) feeding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "طَعَامِ",
+      "translation_bh": "",
+      "translation_en": "(the) feeding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "طَعَامٌ",
+      "translation_bh": "",
+      "translation_en": "any food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَطَعَامًۭا",
+      "translation_bh": "",
+      "translation_en": "And food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُطْعِمُ",
+      "translation_bh": "",
+      "translation_en": "feed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُطْعِمُونَ",
+      "translation_bh": "",
+      "translation_en": "And they feed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُطْعِمُكُمْ",
+      "translation_bh": "",
+      "translation_en": "we feed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَعَامِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "his food"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِطْعام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِطْعَـٰمٌۭ",
+      "translation_bh": "",
+      "translation_en": "feeding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَطْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَطْعَمَهُم",
+      "translation_bh": "",
+      "translation_en": "feeds them"
+    }
+  ]
+}

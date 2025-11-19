@@ -1,0 +1,67 @@
+{
+  "description_bh": "",
+  "id": 846,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَشاوُر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاوِرْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشارَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُورَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَشاوُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَشَاوُرٍۢ",
+      "translation_bh": "",
+      "translation_en": "and consultation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاوِرْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَشَاوِرْهُمْ",
+      "translation_bh": "",
+      "translation_en": "and consult them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَشارَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَشَارَتْ",
+      "translation_bh": "",
+      "translation_en": "Then she pointed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شُورَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شُورَىٰ",
+      "translation_bh": "",
+      "translation_en": "(are conducted by) consultation"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 937,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَحْلِقُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَلِّق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُلْقُوم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حلق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَحْلِقُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْلِقُوا۟",
+      "translation_bh": "",
+      "translation_en": "shave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَلِّق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُحَلِّقِينَ",
+      "translation_bh": "",
+      "translation_en": "having shaved"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُلْقُوم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُلْقُومَ",
+      "translation_bh": "",
+      "translation_en": "the throat"
+    }
+  ]
+}

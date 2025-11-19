@@ -1,0 +1,99 @@
+{
+  "description_bh": "",
+  "id": 569,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نُقَدِّسُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَدَّسَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَدَّس",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُّوس",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قدس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نُقَدِّسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنُقَدِّسُ",
+      "translation_bh": "",
+      "translation_en": "and we sanctify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْقُدُسِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the Holy Spirit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَدَّسَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقَدَّسَةَ",
+      "translation_bh": "",
+      "translation_en": "the Holy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْقُدُسِ",
+      "translation_bh": "",
+      "translation_en": "the Holy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُقَدَّس",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُقَدَّسِ",
+      "translation_bh": "",
+      "translation_en": "the sacred"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُّوس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقُدُّوسُ",
+      "translation_bh": "",
+      "translation_en": "the Holy One"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُدُّوس",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقُدُّوسِ",
+      "translation_bh": "",
+      "translation_en": "the Holy"
+    }
+  ]
+}

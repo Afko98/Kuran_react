@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 897,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَمِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسْمِنُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سمن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَمِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سِمَانٍۢ",
+      "translation_bh": "",
+      "translation_en": "fat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَمِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَمِينٍۢ",
+      "translation_bh": "",
+      "translation_en": "fat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسْمِنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسْمِنُ",
+      "translation_bh": "",
+      "translation_en": "it nourishes"
+    }
+  ]
+}

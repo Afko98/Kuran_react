@@ -1,0 +1,88 @@
+{
+  "description_bh": "",
+  "id": 520,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لحم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَلَحْمَ",
+      "translation_bh": "",
+      "translation_en": "and flesh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَحْمًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(with) flesh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَحْمُ",
+      "translation_bh": "",
+      "translation_en": "and flesh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَحْمَ",
+      "translation_bh": "",
+      "translation_en": "(the) flesh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لَحْمًۭا",
+      "translation_bh": "",
+      "translation_en": "meat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لُحُومُهَا",
+      "translation_bh": "",
+      "translation_en": "their meat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَحْمٍۢ",
+      "translation_bh": "",
+      "translation_en": "and meat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَحْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَلَحْمِ",
+      "translation_bh": "",
+      "translation_en": "And (the) flesh"
+    }
+  ]
+}

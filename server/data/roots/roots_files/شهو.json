@@ -1,0 +1,89 @@
+{
+  "description_bh": "",
+  "id": 493,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَهَوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهْوَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اشْتَهَتْ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شهو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَهَوَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلشَّهَوَٰتِ",
+      "translation_bh": "",
+      "translation_en": "(of) the (things they) desire "
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهْوَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَهْوَةًۭ",
+      "translation_bh": "",
+      "translation_en": "lustfully"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اشْتَهَتْ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يَشْتَهُونَ",
+      "translation_bh": "",
+      "translation_en": "they desire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَهَوَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشَّهَوَٰتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the lusts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اشْتَهَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱشْتَهَتْ",
+      "translation_bh": "",
+      "translation_en": "desire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اشْتَهَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشْتَهِىٓ",
+      "translation_bh": "",
+      "translation_en": "desire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اشْتَهَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَشْتَهِيهِ",
+      "translation_bh": "",
+      "translation_en": "desires"
+    }
+  ]
+}

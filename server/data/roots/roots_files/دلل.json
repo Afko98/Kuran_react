@@ -1,0 +1,75 @@
+{
+  "description_bh": "",
+  "id": 652,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دَلَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلِيل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دلل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَدَلَّىٰهُمَا",
+      "translation_bh": "",
+      "translation_en": "So he made both of them fall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلَّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَدُلُّكُمْ",
+      "translation_bh": "",
+      "translation_en": "I show you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَدُلُّكَ",
+      "translation_bh": "",
+      "translation_en": "I direct you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَلِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "an indication"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَدُلُّكُمْ",
+      "translation_bh": "",
+      "translation_en": "we direct you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَلَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَلَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "indicated to them"
+    }
+  ]
+}

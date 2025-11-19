@@ -1,0 +1,122 @@
+{
+  "description_bh": "",
+  "id": 449,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مِهاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَهْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَمْهَدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماهِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَهَّد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمْهِيد",
+      "translation_bh": ""
+    }
+  ],
+  "root": "مهد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مِهاد",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْمِهَادُ",
+      "translation_bh": "",
+      "translation_en": "[the] resting-place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَهْد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمَهْدِ",
+      "translation_bh": "",
+      "translation_en": "the cradle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِهاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِهَادٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a bed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَهْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَهْدًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a bed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَمْهَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَمْهَدُونَ",
+      "translation_bh": "",
+      "translation_en": "they are preparing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ماهِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَـٰهِدُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) the Spreaders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَهَّد",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَمَهَّدتُّ",
+      "translation_bh": "",
+      "translation_en": "And I spread"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَمْهِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَمْهِيدًۭا",
+      "translation_bh": "",
+      "translation_en": "ease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِهاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِهَـٰدًۭا",
+      "translation_bh": "",
+      "translation_en": "a resting place"
+    }
+  ]
+}

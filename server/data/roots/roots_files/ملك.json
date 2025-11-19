@@ -1,0 +1,668 @@
+{
+  "description_bh": "",
+  "id": 45,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مالِك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكُوت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمْلُوك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلْك",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِيك",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ملك",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "مَـٰ prefiks / oblik naglašava prisvojnu funkciju (poseban oblik ispred korijena)",
+      "lemma": "مالِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَـٰلِكِ",
+      "translation_bh": "Vladaru",
+      "translation_en": "(The) Master"
+    },
+    {
+      "description_bh": "rijedlog لِ formalno stavlja imenicu u genitiv → „prema, za“.\nU arapskom, konstrukcija لِ + imenica u genitivu često pokazuje davanje, obraćanje, namjeru ili predmet radnje.",
+      "lemma": "مَلَك",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "لِلْمَلَـٰٓئِكَةِ",
+      "translation_bh": "melecima",
+      "translation_en": "to the angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَـٰٓئِكَةِ",
+      "translation_bh": "melecima",
+      "translation_en": "the angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَمَلَـٰٓئِكَتِهِۦ",
+      "translation_bh": "a melecima Njegovim",
+      "translation_en": "and His Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُلْكِ",
+      "translation_bh": "",
+      "translation_en": "(the) kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَكَيْنِ",
+      "translation_bh": "",
+      "translation_en": "the two angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "مُلْكُ",
+      "translation_bh": "",
+      "translation_en": "(is the) Kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَلَـٰٓئِكَةِ",
+      "translation_bh": "",
+      "translation_en": "and the Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَلَـٰٓئِكَةُ",
+      "translation_bh": "",
+      "translation_en": "and the Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلِكًۭا",
+      "translation_bh": "",
+      "translation_en": "a king"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلِكًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) a king"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْمُلْكُ",
+      "translation_bh": "",
+      "translation_en": "the kingship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْمُلْكِ",
+      "translation_bh": "",
+      "translation_en": "to kingship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُلْكَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُلْكِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "(of) his kingship"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَـٰٓئِكَةُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْمُلْكَ",
+      "translation_bh": "",
+      "translation_en": "the kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مالِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَـٰلِكَ",
+      "translation_bh": "",
+      "translation_en": "Owner"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْمُلْكِ",
+      "translation_bh": "",
+      "translation_en": "(of) the Dominion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَـٰٓئِكَةُ",
+      "translation_bh": "",
+      "translation_en": "the Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلَـٰٓئِكَةَ",
+      "translation_bh": "",
+      "translation_en": "the Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 15,
+      "part_of_speech": "V",
+      "text": "مَلَكَتْ",
+      "translation_bh": "",
+      "translation_en": "possesses"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّلْكًا",
+      "translation_bh": "",
+      "translation_en": "a kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَمْلِكُ",
+      "translation_bh": "",
+      "translation_en": "has power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّلُوكًۭا",
+      "translation_bh": "",
+      "translation_en": "kings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَمْلِكُ",
+      "translation_bh": "",
+      "translation_en": "(have) power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمْلِكَ",
+      "translation_bh": "",
+      "translation_en": "will you have power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَكٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "an Angel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَلَكًۭا",
+      "translation_bh": "",
+      "translation_en": "an Angel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَكٌ ۖ",
+      "translation_bh": "",
+      "translation_en": "an Angel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكُوت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَكُوتَ",
+      "translation_bh": "",
+      "translation_en": "the kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَكَيْنِ",
+      "translation_bh": "",
+      "translation_en": "Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكُوت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَكُوتِ",
+      "translation_bh": "",
+      "translation_en": "(the) dominion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَكٌ ۚ",
+      "translation_bh": "",
+      "translation_en": "an Angel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَلَكٌۭ",
+      "translation_bh": "",
+      "translation_en": "an Angel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلِكُ",
+      "translation_bh": "",
+      "translation_en": "the king"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمَلِكِ",
+      "translation_bh": "",
+      "translation_en": "(of) the king"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يَمْلِكُونَ",
+      "translation_bh": "",
+      "translation_en": "they have power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْمَلَـٰٓئِكَةِ",
+      "translation_bh": "",
+      "translation_en": "the Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَمْلُوك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّمْلُوكًۭا",
+      "translation_bh": "",
+      "translation_en": "(who is) owned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَـٰٓئِكَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَمْلِكُونَ",
+      "translation_bh": "",
+      "translation_en": "possess"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّلِكٌۭ",
+      "translation_bh": "",
+      "translation_en": "a king"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَلْكِنَا",
+      "translation_bh": "",
+      "translation_en": "by our will"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُلْكٍۢ",
+      "translation_bh": "",
+      "translation_en": "and a kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَلَـٰٓئِكَةًۭ",
+      "translation_bh": "",
+      "translation_en": "Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكُوت",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَلَكُوتُ",
+      "translation_bh": "",
+      "translation_en": "(is the) dominion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "مَلَكْتُم",
+      "translation_bh": "",
+      "translation_en": "you possess"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمْلِكُهُمْ",
+      "translation_bh": "",
+      "translation_en": "ruling them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُلُوكَ",
+      "translation_bh": "",
+      "translation_en": "the kings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّلَكُ",
+      "translation_bh": "",
+      "translation_en": "(the) Angel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَلَـٰٓئِكَتُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and His Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَلَـٰٓئِكَتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and His Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُلْكُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(is) the Dominion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مالِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَـٰلِكُونَ",
+      "translation_bh": "",
+      "translation_en": "(are the) owners"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّلْكُ",
+      "translation_bh": "",
+      "translation_en": "(is the) dominion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُلْكًۭا",
+      "translation_bh": "",
+      "translation_en": "a kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُلْكُ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) the dominion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّلَـٰٓئِكَةًۭ",
+      "translation_bh": "",
+      "translation_en": "Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مالِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰمَـٰلِكُ",
+      "translation_bh": "",
+      "translation_en": "O Malik"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّلَكٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِيك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلِيكٍۢ",
+      "translation_bh": "",
+      "translation_en": "a King"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَـٰٓئِكَةٌ",
+      "translation_bh": "",
+      "translation_en": "(are) Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَلَكُ",
+      "translation_bh": "",
+      "translation_en": "And the Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلَـٰٓئِكَةًۭ ۙ",
+      "translation_bh": "",
+      "translation_en": "Angels"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُلْك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُلْكًۭا",
+      "translation_bh": "",
+      "translation_en": "and a kingdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلَكَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَمْلِكُ",
+      "translation_bh": "",
+      "translation_en": "will have power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَلِك",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَلِكِ",
+      "translation_bh": "",
+      "translation_en": "(The) King"
+    }
+  ]
+}

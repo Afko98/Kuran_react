@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1065,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جِسْم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جسم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جِسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْجِسْمِ ۖ",
+      "translation_bh": "",
+      "translation_en": "and [the] physique"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جِسْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَجْسَامُهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their bodies"
+    }
+  ]
+}

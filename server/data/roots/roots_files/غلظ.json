@@ -1,0 +1,103 @@
+{
+  "description_bh": "",
+  "id": 498,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غَلِيظ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اغْلُظْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غِلْظَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْلَظَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غلظ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غَلِيظ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَلِيظَ",
+      "translation_bh": "",
+      "translation_en": "(and) harsh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَلِيظ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "غَلِيظًۭا",
+      "translation_bh": "",
+      "translation_en": "strong"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اغْلُظْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَٱغْلُظْ",
+      "translation_bh": "",
+      "translation_en": "and be stern"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غِلْظَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غِلْظَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "harshness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَلِيظ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "غَلِيظٍۢ",
+      "translation_bh": "",
+      "translation_en": "severe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَلِيظ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَلِيظٌۭ",
+      "translation_bh": "",
+      "translation_en": "harsh"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْلَظَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَغْلَظَ",
+      "translation_bh": "",
+      "translation_en": "then it becomes thick"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَلِيظ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غِلَاظٌۭ",
+      "translation_bh": "",
+      "translation_en": "stern"
+    }
+  ]
+}

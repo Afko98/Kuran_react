@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 623,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حُلِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِلْيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُلُّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حلي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حُلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُلِيِّهِمْ",
+      "translation_bh": "",
+      "translation_en": "their ornaments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِلْيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِلْيَةٍ",
+      "translation_bh": "",
+      "translation_en": "ornaments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِلْيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حِلْيَةًۭ",
+      "translation_bh": "",
+      "translation_en": "ornaments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُلُّ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُحَلَّوْنَ",
+      "translation_bh": "",
+      "translation_en": "They will be adorned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِلْيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحِلْيَةِ",
+      "translation_bh": "",
+      "translation_en": "ornaments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُلُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَحُلُّوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And they will be adorned"
+    }
+  ]
+}

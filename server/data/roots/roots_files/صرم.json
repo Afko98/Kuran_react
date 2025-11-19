@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 1046,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَصْرِمُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "صارِم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "صرم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَصْرِمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَصْرِمُنَّهَا",
+      "translation_bh": "",
+      "translation_en": "to pluck its fruit"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صَرِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلصَّرِيمِ",
+      "translation_bh": "",
+      "translation_en": "as if reaped"
+    },
+    {
+      "description_bh": "",
+      "lemma": "صارِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "صَـٰرِمِينَ",
+      "translation_bh": "",
+      "translation_en": "pluck (the) fruit"
+    }
+  ]
+}

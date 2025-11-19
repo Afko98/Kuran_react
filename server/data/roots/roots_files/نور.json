@@ -1,0 +1,521 @@
+{
+  "description_bh": "",
+  "id": 49,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنِير",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "نَارًۭا",
+      "translation_bh": "",
+      "translation_en": "a fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِنُورِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارَ",
+      "translation_bh": "",
+      "translation_en": "the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارُ",
+      "translation_bh": "",
+      "translation_en": "the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 53,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارِ",
+      "translation_bh": "",
+      "translation_en": "the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنُّورِ ۖ",
+      "translation_bh": "",
+      "translation_en": "[the] light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلنُّورِ",
+      "translation_bh": "",
+      "translation_en": "the light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَارٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارُ ۚ",
+      "translation_bh": "",
+      "translation_en": "(will be) the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارُ ۗ",
+      "translation_bh": "",
+      "translation_en": "the fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنِيرِ",
+      "translation_bh": "",
+      "translation_en": "[the] Enlightening"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَارًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَارًا",
+      "translation_bh": "",
+      "translation_en": "(to) Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَارًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(into) a Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "نُورًۭا",
+      "translation_bh": "",
+      "translation_en": "a light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورٌۭ",
+      "translation_bh": "",
+      "translation_en": "a light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنُورٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "and light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنُورٌۭ",
+      "translation_bh": "",
+      "translation_en": "and light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارُ ۖ",
+      "translation_bh": "",
+      "translation_en": "(will be) the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنُّورَ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "نَّارٍۢ",
+      "translation_bh": "",
+      "translation_en": "fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنُّورَ",
+      "translation_bh": "",
+      "translation_en": "the light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نُورَ",
+      "translation_bh": "",
+      "translation_en": "Allah's light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His Light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "نَارِ",
+      "translation_bh": "",
+      "translation_en": "the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَارَ",
+      "translation_bh": "",
+      "translation_en": "(is the) Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَارُ",
+      "translation_bh": "",
+      "translation_en": "(The) Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَٱلنَّارُ",
+      "translation_bh": "",
+      "translation_en": "then the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّارَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(into) the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنُّورُ ۗ",
+      "translation_bh": "",
+      "translation_en": "and the light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّارِ",
+      "translation_bh": "",
+      "translation_en": "fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰنَارُ",
+      "translation_bh": "",
+      "translation_en": "O fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّنِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "enlightening"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورُ",
+      "translation_bh": "",
+      "translation_en": "(is the) Light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نُورِهِۦ",
+      "translation_bh": "",
+      "translation_en": "(of) His Light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَارٌۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُّورٌ",
+      "translation_bh": "",
+      "translation_en": "Light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "Light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِنُورِهِۦ",
+      "translation_bh": "",
+      "translation_en": "to His Light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُّورٍ",
+      "translation_bh": "",
+      "translation_en": "light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّنِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "shining"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلنُّورِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنُّورُ",
+      "translation_bh": "",
+      "translation_en": "[the] light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورٍۢ",
+      "translation_bh": "",
+      "translation_en": "a light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِنُورِ",
+      "translation_bh": "",
+      "translation_en": "with (the) light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّارُ",
+      "translation_bh": "",
+      "translation_en": "and the Fire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورُهُم",
+      "translation_bh": "",
+      "translation_en": "their light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُّورِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنُورُهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "and their light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنُّورِ",
+      "translation_bh": "",
+      "translation_en": "and the Light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورُهُمْ",
+      "translation_bh": "",
+      "translation_en": "Their light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نُورَنَا",
+      "translation_bh": "",
+      "translation_en": "our light"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَارٌ",
+      "translation_bh": "",
+      "translation_en": "A Fire"
+    }
+  ]
+}

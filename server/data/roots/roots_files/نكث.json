@@ -1,0 +1,66 @@
+{
+  "description_bh": "",
+  "id": 686,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَكَثَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنكاث",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نكث",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَكَثَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنكُثُونَ",
+      "translation_bh": "",
+      "translation_en": "broke (the word)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَكَثَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَّكَثُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they break"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنكاث",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنكَـٰثًۭا",
+      "translation_bh": "",
+      "translation_en": "(into) untwisted strands"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَكَثَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّكَثَ",
+      "translation_bh": "",
+      "translation_en": "breaks (his oath)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَكَثَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنكُثُ",
+      "translation_bh": "",
+      "translation_en": "he breaks"
+    }
+  ]
+}

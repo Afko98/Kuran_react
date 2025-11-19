@@ -1,0 +1,172 @@
+{
+  "description_bh": "",
+  "id": 369,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وَقَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُوقِعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "واقِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُواقِعُو",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "واقِعَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقْعَت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَواقِع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وقع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وَقَعَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَقَعَ",
+      "translation_bh": "",
+      "translation_en": "(became) incumbent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُوقِعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُوقِعَ",
+      "translation_bh": "",
+      "translation_en": "cause"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَوَقَعَ",
+      "translation_bh": "",
+      "translation_en": "So was established"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واقِع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَاقِعٌۢ",
+      "translation_bh": "",
+      "translation_en": "(would) fall"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَقَعُوا۟",
+      "translation_bh": "",
+      "translation_en": "then fall down"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُواقِعُو",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّوَاقِعُوهَا",
+      "translation_bh": "",
+      "translation_en": "are to fall in it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقَعَ",
+      "translation_bh": "",
+      "translation_en": "it falls"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَوَقَعَ",
+      "translation_bh": "",
+      "translation_en": "And (will be) fulfilled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واقِع",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لَوَٰقِعٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely to occur"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَقَعَتِ",
+      "translation_bh": "",
+      "translation_en": "occurs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واقِعَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْوَاقِعَةُ",
+      "translation_bh": "",
+      "translation_en": "the Event"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَقْعَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِوَقْعَتِهَا",
+      "translation_bh": "",
+      "translation_en": "at its occurrence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَواقِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَوَٰقِعِ",
+      "translation_bh": "",
+      "translation_en": "by setting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واقِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَاقِعٍۢ",
+      "translation_bh": "",
+      "translation_en": "bound to happen"
+    }
+  ]
+}

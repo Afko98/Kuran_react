@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1247,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "ناشِطَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَشْط",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نشط",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "ناشِطَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّـٰشِطَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those who draw out"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَشْط",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَشْطًۭا",
+      "translation_bh": "",
+      "translation_en": "gently"
+    }
+  ]
+}

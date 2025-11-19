@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 901,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَحْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِحْلَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رحل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَحْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِحَالِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their saddlebags"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَحْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَحْلِ",
+      "translation_bh": "",
+      "translation_en": "the bag"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَحْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَحْلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his bag"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رِحْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رِحْلَةَ",
+      "translation_bh": "",
+      "translation_en": "(with the) journey"
+    }
+  ]
+}

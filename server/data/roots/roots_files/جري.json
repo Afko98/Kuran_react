@@ -1,0 +1,139 @@
+{
+  "description_bh": "",
+  "id": 169,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْرى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَوار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جارِيَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جري",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "occurrences": 48,
+      "part_of_speech": "V",
+      "text": "تَجْرِى",
+      "translation_bh": "",
+      "translation_en": "flow"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَجَرَيْنَ",
+      "translation_bh": "",
+      "translation_en": "and they sail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَجْرى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَجْر۪ىٰهَا",
+      "translation_bh": "",
+      "translation_en": "(is) its course"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَجْرِى",
+      "translation_bh": "",
+      "translation_en": "running"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لِتَجْرِىَ",
+      "translation_bh": "",
+      "translation_en": "so that they may sail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِتَجْرِىَ",
+      "translation_bh": "",
+      "translation_en": "and that may sail"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَجْرِىٓ",
+      "translation_bh": "",
+      "translation_en": "moving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَوار",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْجَوَارِ",
+      "translation_bh": "",
+      "translation_en": "(are) the ships"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جارِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْجَـٰرِيَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those sailing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَرَيْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَجْرِيَانِ",
+      "translation_bh": "",
+      "translation_en": "flowing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جارِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَارِيَةِ",
+      "translation_bh": "",
+      "translation_en": "the sailing (ship)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جارِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَارِيَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "flowing"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "description_bh": "",
+  "id": 160,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَمْد",
+      "translation_bh": "hvala / hvaljenje"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيد",
+      "translation_bh": "hvaljen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَمَّد",
+      "translation_bh": "Muhammed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحْمَدُ",
+      "translation_bh": "on je hvaljen / biće hvaljen"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حامِد",
+      "translation_bh": "hvalitelj"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْمُود",
+      "translation_bh": "hvaljen / zaslužuje hvalu"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْمَد",
+      "translation_bh": "Ahmed"
+    }
+  ],
+  "root": "حمد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَمْد",
+      "occurrences": 25,
+      "part_of_speech": "N",
+      "text": "ٱلْحَمْدُ",
+      "translation_bh": "sva zahvala",
+      "translation_en": "All praises and thanks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِحَمْدِكَ",
+      "translation_bh": "sa Tvojom hvalom / uz Tvoju hvalu",
+      "translation_en": "with Your praises"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَمِيدٌ",
+      "translation_bh": "Hvaljen",
+      "translation_en": "Praiseworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَمَّد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُحَمَّدٌ",
+      "translation_bh": "Muhammed",
+      "translation_en": "(is) Muhammad "
+    },
+    {
+      "description_bh": "يُـ - označava 3. lice množine muškog roda u sadašnjem / budućem vremenu (oni...)",
+      "lemma": "يُحْمَدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْمَدُوا۟",
+      "translation_bh": "oni će biti hvaljeni",
+      "translation_en": "they be praised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَمِيدًۭا",
+      "translation_bh": "hvala / hvaliti / hvaljen",
+      "translation_en": "Praiseworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْحَمْدُ",
+      "translation_bh": "i sva zahvala",
+      "translation_en": "And all praises and thanks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حامِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَـٰمِدُونَ",
+      "translation_bh": "oni koji hvale / hvale",
+      "translation_en": "those who praise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "حَمِيدٌۭ",
+      "translation_bh": "hvaljen",
+      "translation_en": "(is) All-Praiseworthy"
+    },
+    {
+      "description_bh": "بِـ → prijedlog bi, znači “s”\nهِ → zamjenica hi, znači “njegov(a)” (ovdje za Allahovu hvalu).",
+      "lemma": "حَمْد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِحَمْدِهِۦ",
+      "translation_bh": "hvali Njega / hvaleći Ga",
+      "translation_en": "with his praise "
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْحَمِيدِ",
+      "translation_bh": "Hvaljenoga",
+      "translation_en": "the Praiseworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمْد",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "بِحَمْدِ",
+      "translation_bh": "hvali",
+      "translation_en": "with the praise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَحْمُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّحْمُودًۭا",
+      "translation_bh": "hvaljeni / hvaljenog (neodređeno)",
+      "translation_en": "praiseworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيد",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْحَمِيدُ",
+      "translation_bh": "Hvaljeni",
+      "translation_en": "the Praiseworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِحَمْدِهِۦ ۚ",
+      "translation_bh": "hvali Ga",
+      "translation_en": "with His Praise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَمِيدٍۢ",
+      "translation_bh": "Hvaljenog",
+      "translation_en": "(the) Praiseworthy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَمَّد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُحَمَّدٍۢ",
+      "translation_bh": "Muhammedu",
+      "translation_en": "Muhammad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحَمَّد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّحَمَّدٌۭ",
+      "translation_bh": "Muhammed",
+      "translation_en": "Muhammad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْمَد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْمَدُ ۖ",
+      "translation_bh": "Ahmed",
+      "translation_en": "Ahmad"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَمْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَمْدُ ۖ",
+      "translation_bh": "sva hvala",
+      "translation_en": "(is) the praise"
+    }
+  ]
+}

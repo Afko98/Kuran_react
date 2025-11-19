@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 1003,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وَصِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤْصَدَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وصد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وَصِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْوَصِيدِ ۚ",
+      "translation_bh": "",
+      "translation_en": "at the entrance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤْصَدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّؤْصَدَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "closed in"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُؤْصَدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّؤْصَدَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "closed over"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "description_bh": "",
+  "id": 352,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حُدُود",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حادَّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَدِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِداد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحادُّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حدد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حُدُود",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "حُدُودُ",
+      "translation_bh": "",
+      "translation_en": "(are the) limits"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُدُود",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "حُدُودَ",
+      "translation_bh": "",
+      "translation_en": "(the) limits"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُدُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُدُودَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His limits "
+    },
+    {
+      "description_bh": "",
+      "lemma": "حادَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَادِدِ",
+      "translation_bh": "",
+      "translation_en": "opposes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُدُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِحُدُودِ",
+      "translation_bh": "",
+      "translation_en": "(the) limits"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَدِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَدِيدًا",
+      "translation_bh": "",
+      "translation_en": "iron"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَدِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحَدِيدِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) iron"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَدِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَدِيدٍۢ",
+      "translation_bh": "",
+      "translation_en": "iron"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِداد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِدَادٍ",
+      "translation_bh": "",
+      "translation_en": "sharp"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَدِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْحَدِيدَ",
+      "translation_bh": "",
+      "translation_en": "[the] iron"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَدِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حَدِيدٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) sharp"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحادُّ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُحَآدُّونَ",
+      "translation_bh": "",
+      "translation_en": "oppose"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حادَّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَآدَّ",
+      "translation_bh": "",
+      "translation_en": "oppose"
+    }
+  ]
+}

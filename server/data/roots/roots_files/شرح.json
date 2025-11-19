@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 799,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "شَرَحَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شرح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "شَرَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَشْرَحْ",
+      "translation_bh": "",
+      "translation_en": "He expands"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرَحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "شَرَحَ",
+      "translation_bh": "",
+      "translation_en": "opens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱشْرَحْ",
+      "translation_bh": "",
+      "translation_en": "Expand"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَرَحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَشْرَحْ",
+      "translation_bh": "",
+      "translation_en": "We expanded"
+    }
+  ]
+}

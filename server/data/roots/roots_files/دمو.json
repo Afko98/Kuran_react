@@ -1,0 +1,88 @@
+{
+  "description_bh": "",
+  "id": 568,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دمو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدِّمَآءَ",
+      "translation_bh": "",
+      "translation_en": "[the] blood[s]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِمَآءَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your blood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلدَّمَ",
+      "translation_bh": "",
+      "translation_en": "and [the] blood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلدَّمُ",
+      "translation_bh": "",
+      "translation_en": "and the blood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَمًۭا",
+      "translation_bh": "",
+      "translation_en": "blood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِدَمٍۢ",
+      "translation_bh": "",
+      "translation_en": "with false blood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَدَمٍۢ",
+      "translation_bh": "",
+      "translation_en": "and blood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِمَآؤُهَا",
+      "translation_bh": "",
+      "translation_en": "their blood"
+    }
+  ]
+}

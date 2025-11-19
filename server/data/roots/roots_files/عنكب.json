@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1205,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَنكَبُوت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عنكب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَنكَبُوت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَنكَبُوتِ",
+      "translation_bh": "",
+      "translation_en": "the spider"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَنكَبُوت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَنكَبُوتِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the spider"
+    }
+  ]
+}

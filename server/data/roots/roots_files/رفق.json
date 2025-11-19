@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 785,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَفِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرافِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِرْفَق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْتَفَق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رفق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَفِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَفِيقًۭا",
+      "translation_bh": "",
+      "translation_en": "companion(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرافِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَرَافِقِ",
+      "translation_bh": "",
+      "translation_en": "the elbows"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِرْفَق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّرْفَقًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) ease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْتَفَق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْتَفَقًا",
+      "translation_bh": "",
+      "translation_en": "(is) the resting place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُرْتَفَق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُرْتَفَقًۭا",
+      "translation_bh": "",
+      "translation_en": "(is) the resting place"
+    }
+  ]
+}

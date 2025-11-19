@@ -1,0 +1,103 @@
+{
+  "description_bh": "",
+  "id": 577,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دَفْع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَفَعْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُدافِعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دافِع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دفع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دَفْع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دَفْعُ",
+      "translation_bh": "",
+      "translation_en": "(for the) repelling"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَفَعْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱدْفَعُوا۟ ۖ",
+      "translation_bh": "",
+      "translation_en": "defend"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَفَعْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱدْفَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "then deliver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَفَعْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "دَفَعْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you deliver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُدافِعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُدَٰفِعُ",
+      "translation_bh": "",
+      "translation_en": "defends"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَفَعْ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱدْفَعْ",
+      "translation_bh": "",
+      "translation_en": "Repel"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دافِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَافِعٍۢ",
+      "translation_bh": "",
+      "translation_en": "preventer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دافِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَافِعٌۭ",
+      "translation_bh": "",
+      "translation_en": "any preventer"
+    }
+  ]
+}

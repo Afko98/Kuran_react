@@ -1,0 +1,1544 @@
+{
+  "description_bh": "",
+  "id": 2,
+  "lemmas": [
+    {
+      "description_bh": "pripada osnovnom glagolu 3. osobe jednine muškog roda u perfektu",
+      "lemma": "قالَ",
+      "translation_bh": "rekao je"
+    },
+    {
+      "description_bh": "dolazi od istog korijena kao قَالَ (qāla)\nوَكَانَ قَوْلُهُمْ لَا يَتَفَرَّقُ\n„A njihova riječ se ne razlikuje / ne mijenja“",
+      "lemma": "قَوْل",
+      "translation_bh": "riječ / govor / izjava"
+    },
+    {
+      "description_bh": "Riječ قِيلَ (qīla) je pasivni oblik glagola قَالَ (qāla)",
+      "lemma": "قِيل",
+      "translation_bh": "rečeno je / bilo je rečeno"
+    },
+    {
+      "description_bh": "imenica djelatnika od glagola قَالَ (qāla)",
+      "lemma": "قائِل",
+      "translation_bh": "onaj koji govori / govornik / kazatelj"
+    },
+    {
+      "description_bh": "isticanje lažne tvrdnje - od glagola قَالَ (qāla)",
+      "lemma": "تَقَوَّلَ",
+      "translation_bh": "lagao / pretjerano govorio / izrekao neistinu"
+    },
+    {
+      "description_bh": "množinski oblik imenice قَوْل (qawl)",
+      "lemma": "أَقاوِيل",
+      "translation_bh": "riječi, izreke, izjave"
+    }
+  ],
+  "root": "قول",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 35,
+      "part_of_speech": "V",
+      "text": "يَقُولُ",
+      "translation_bh": "govori / će govoriti",
+      "translation_en": "say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 34,
+      "part_of_speech": "V",
+      "text": "قِيلَ",
+      "translation_bh": "rečeno je / bilo je rečeno",
+      "translation_en": "it is said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 75,
+      "part_of_speech": "V",
+      "text": "قَالُوٓا۟",
+      "translation_bh": "rekli su",
+      "translation_en": "they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 171,
+      "part_of_speech": "V",
+      "text": "قَالُوا۟",
+      "translation_bh": "govorili / rekli su",
+      "translation_en": "they (will) say"
+    },
+    {
+      "description_bh": "U arapskom jeziku imperfekt može označavati sadašnje ili buduće vrijeme, zavisno od konteksta.",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَقُولُونَ",
+      "translation_bh": "pa će reći / pa govore",
+      "translation_en": "[thus] they will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 407,
+      "part_of_speech": "V",
+      "text": "قَالَ",
+      "translation_bh": "rekao je",
+      "translation_en": "said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 27,
+      "part_of_speech": "V",
+      "text": "فَقَالَ",
+      "translation_bh": "pa je rekao",
+      "translation_en": "then He said"
+    },
+    {
+      "description_bh": "U arapskom jeziku imperfekt može označavati sadašnje ili buduće vrijeme, zavisno od konteksta.",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَقُل",
+      "translation_bh": "ja govorim / ja ću reći",
+      "translation_en": "I say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "قُلْنَا",
+      "translation_bh": "mi govorimo / rekli smo mi",
+      "translation_en": "We said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَقُلْنَا",
+      "translation_bh": "i rekosmo / i rekli smo",
+      "translation_en": "And We said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "قُلْتُمْ",
+      "translation_bh": "rekli ste",
+      "translation_en": "you said"
+    },
+    {
+      "description_bh": "وا lice množina muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "وَقُولُوا۟",
+      "translation_bh": "i recite!",
+      "translation_en": "And say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قَوْلًا",
+      "translation_bh": "riječ / govor / izreka",
+      "translation_en": "(the) word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَقُلْنَا",
+      "translation_bh": "pa rekosmo / pa smo rekli",
+      "translation_en": "[so] We said"
+    },
+    {
+      "description_bh": "يَ = prefiks 3. lice\nقُولُ = korijen glagola\nونَ = sufiks 3. lice množine muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 48,
+      "part_of_speech": "V",
+      "text": "يَقُولُونَ",
+      "translation_bh": "oni govore / oni će govoriti",
+      "translation_en": "they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 49,
+      "part_of_speech": "V",
+      "text": "وَقَالُوا۟",
+      "translation_bh": "i rekli su / i oni su govorili",
+      "translation_en": "And they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 209,
+      "part_of_speech": "V",
+      "text": "قُلْ",
+      "translation_bh": "reci!",
+      "translation_en": "Say"
+    },
+    {
+      "description_bh": "imperfekt\nتَ = prefiks 2. lice\nقُولُ = korijen glagola\nونَ = sufiks množine muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَقُولُونَ",
+      "translation_bh": "vi govorite / vi ćete govoriti",
+      "translation_en": "(do) you say"
+    },
+    {
+      "description_bh": "misli se na dvoje ljudi (muškaraca)\nيَ = prefiks 3. lice\nقُول = korijen glagola / osnova imperfekta\nآ = sufiks dvojine",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقُولَآ",
+      "translation_bh": "oni govore / oni će govoriti (dvojina)",
+      "translation_en": "they [both] say"
+    },
+    {
+      "description_bh": "imperativ \nوا lice množina muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 13,
+      "part_of_speech": "V",
+      "text": "تَقُولُوا۟",
+      "translation_bh": "vi recite / govorite!",
+      "translation_en": "say"
+    },
+    {
+      "description_bh": "وَ = veznik „i“\nقَالَ = korijen glagola u perfektu\nتِ = sufiks 3. lice jednina ženskog roda",
+      "lemma": "قالَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "وَقَالَتِ",
+      "translation_bh": "i rekla je ona",
+      "translation_en": "And said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلِهِمْ ۚ",
+      "translation_bh": "njihova riječ / ono što su oni rekli",
+      "translation_en": "their saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 81,
+      "part_of_speech": "V",
+      "text": "وَقَالَ",
+      "translation_bh": "i rekao je",
+      "translation_en": "And said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلِهِمْ ۘ",
+      "translation_bh": "njihova riječ / ono što su oni rekli",
+      "translation_en": "their saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قُولُوٓا۟",
+      "translation_bh": "recite!",
+      "translation_en": "Say"
+    },
+    {
+      "description_bh": "سَـ prefiks budućeg vremena „će“\nيَ prefiks 3. lice jednina muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ سَيَقُولُ",
+      "translation_bh": "on će reći",
+      "translation_en": "Will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 45,
+      "part_of_speech": "V",
+      "text": "قُل",
+      "translation_bh": "reci!",
+      "translation_en": "Say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلُهُۥ",
+      "translation_bh": "njegova riječ",
+      "translation_en": "(with) his speech"
+    },
+    {
+      "description_bh": "يَ prefiks 3. lice jednina muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَقُولَ",
+      "translation_bh": "da kaze / da izgovori",
+      "translation_en": "said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 30,
+      "part_of_speech": "V",
+      "text": "قُلِ",
+      "translation_bh": "reci ti / govori (ženski oblik)",
+      "translation_en": "Say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "قَوْلًۭا",
+      "translation_bh": "riječ /govor / izreka",
+      "translation_en": "a saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "۞ قَوْلٌۭ",
+      "translation_bh": "riječ /govor / izreka",
+      "translation_en": "A word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "۞ قُلْ",
+      "translation_bh": "reci!",
+      "translation_en": "Say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 12,
+      "part_of_speech": "V",
+      "text": "فَقُلْ",
+      "translation_bh": "pa reci!",
+      "translation_en": "then say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 12,
+      "part_of_speech": "V",
+      "text": "وَقُل",
+      "translation_bh": "i reci!",
+      "translation_en": "And say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "قَالَتِ",
+      "translation_bh": "rekla je",
+      "translation_en": "[she] said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 22,
+      "part_of_speech": "V",
+      "text": "قَالَتْ",
+      "translation_bh": "rekla je",
+      "translation_en": "she said"
+    },
+    {
+      "description_bh": "وا lice množina muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَقُولُوا۟",
+      "translation_bh": "pa recite / zato recite!",
+      "translation_en": "then say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَالَت",
+      "translation_bh": "i rekla je",
+      "translation_en": "And said"
+    },
+    {
+      "description_bh": "وَ = „i“ (veznik)\nيَ = prefiks 3. lice muškog roda (imperfekt)\nقُول = korijen glagola\nونَ = sufiks množina muškog roda",
+      "lemma": "قالَ",
+      "occurrences": 28,
+      "part_of_speech": "V",
+      "text": "وَيَقُولُونَ",
+      "translation_bh": "i oni govore / i oni će reći",
+      "translation_en": "And they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَقُولُ",
+      "translation_bh": "",
+      "translation_en": "you said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 14,
+      "part_of_speech": "V",
+      "text": "وَقِيلَ",
+      "translation_bh": "",
+      "translation_en": "And it was said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "قَوْلَ",
+      "translation_bh": "",
+      "translation_en": "(the) saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَنَقُولُ",
+      "translation_bh": "",
+      "translation_en": "and We will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَقُولُوا۟",
+      "translation_bh": "",
+      "translation_en": "and let them speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلًۢا",
+      "translation_bh": "",
+      "translation_en": "a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "لَيَقُولَنَّ",
+      "translation_bh": "",
+      "translation_en": "he would surely say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يَقُولُوا۟",
+      "translation_bh": "",
+      "translation_en": "they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقُولُ ۖ",
+      "translation_bh": "",
+      "translation_en": "you say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْلِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قِيلًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) statement"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْلِ",
+      "translation_bh": "",
+      "translation_en": "[the] words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "فَقَالُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "for they said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَقَوْلِهِمْ",
+      "translation_bh": "",
+      "translation_en": "and their saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "وَيَقُولُ",
+      "translation_bh": "",
+      "translation_en": "And will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلِهِمُ",
+      "translation_bh": "",
+      "translation_en": "their saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَالُوا۟ ۘ",
+      "translation_bh": "",
+      "translation_en": "they said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 12,
+      "part_of_speech": "V",
+      "text": "فَيَقُولُ",
+      "translation_bh": "",
+      "translation_en": "and He will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "قُلْتَ",
+      "translation_bh": "",
+      "translation_en": "say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أَقُولَ",
+      "translation_bh": "",
+      "translation_en": "I say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُلْتُهُۥ",
+      "translation_bh": "",
+      "translation_en": "said it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُلْتُ",
+      "translation_bh": "",
+      "translation_en": "I said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقَالَ",
+      "translation_bh": "",
+      "translation_en": "surely (would) have said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "نَقُولُ",
+      "translation_bh": "",
+      "translation_en": "We will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "فَقَالُوا۟",
+      "translation_bh": "",
+      "translation_en": "then they (will) say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "وَقَالُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And they said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَقُولُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "أَقُولُ",
+      "translation_bh": "",
+      "translation_en": "(do) I say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَقُولُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "that they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلُهُ",
+      "translation_bh": "",
+      "translation_en": "His word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيَقُولُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they (may) say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَقُل",
+      "translation_bh": "",
+      "translation_en": "then say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "سَيَقُولُ",
+      "translation_bh": "",
+      "translation_en": "Will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَقُولُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "you say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَقُل",
+      "translation_bh": "",
+      "translation_en": "and [I] say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قَالَا",
+      "translation_bh": "",
+      "translation_en": "Both of them said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَتَقُولُونَ",
+      "translation_bh": "",
+      "translation_en": "Do you say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَقَالَتْ",
+      "translation_bh": "",
+      "translation_en": "And (will) say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "۞ قَالَ",
+      "translation_bh": "",
+      "translation_en": "Said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَّقَالُوا۟",
+      "translation_bh": "",
+      "translation_en": "and said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقُلْنَا",
+      "translation_bh": "",
+      "translation_en": "surely, we could say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلُهُم",
+      "translation_bh": "",
+      "translation_en": "(is) their saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 9,
+      "part_of_speech": "V",
+      "text": "لَيَقُولُنَّ",
+      "translation_bh": "",
+      "translation_en": "surely they will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَقُلِ",
+      "translation_bh": "",
+      "translation_en": "And say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "فَسَيَقُولُونَ",
+      "translation_bh": "",
+      "translation_en": "Then they will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَوْلُهُمْ ۘ",
+      "translation_bh": "",
+      "translation_en": "their speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّيَقُولُنَّ",
+      "translation_bh": "",
+      "translation_en": "they will surely say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْلُ",
+      "translation_bh": "",
+      "translation_en": "the word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "۞ وَقَالَ",
+      "translation_bh": "",
+      "translation_en": "And he said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلِكَ",
+      "translation_bh": "",
+      "translation_en": "your saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّقُولُ",
+      "translation_bh": "",
+      "translation_en": "we say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "قَآئِلٌۭ",
+      "translation_bh": "",
+      "translation_en": "a speaker"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَقُلْنَ",
+      "translation_bh": "",
+      "translation_en": "they said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُلْنَ",
+      "translation_bh": "",
+      "translation_en": "They said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "۞ قَالُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "They said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) their saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْلَ",
+      "translation_bh": "",
+      "translation_en": "the speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقَوْلِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the words"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ قَالَتْ",
+      "translation_bh": "",
+      "translation_en": "Said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "بِٱلْقَوْلِ",
+      "translation_bh": "",
+      "translation_en": "with the firm word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقَالُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "They would surely say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَقُلْ",
+      "translation_bh": "",
+      "translation_en": "And say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَقِيلَ",
+      "translation_bh": "",
+      "translation_en": "And it will be said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلُنَا",
+      "translation_bh": "",
+      "translation_en": "Our Word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَّقُولَ",
+      "translation_bh": "",
+      "translation_en": "We say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقُل",
+      "translation_bh": "",
+      "translation_en": "say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتَقُولُونَ",
+      "translation_bh": "",
+      "translation_en": "surely say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قُلْنَآ",
+      "translation_bh": "",
+      "translation_en": "we would have said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "سَيَقُولُونَ",
+      "translation_bh": "",
+      "translation_en": "They say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقُولَنَّ",
+      "translation_bh": "",
+      "translation_en": "say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَقُلْ",
+      "translation_bh": "",
+      "translation_en": "I say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَنَقُولُ",
+      "translation_bh": "",
+      "translation_en": "And we will speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقُولِىٓ",
+      "translation_bh": "",
+      "translation_en": "then say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَوْلِى",
+      "translation_bh": "",
+      "translation_en": "my speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَقُولُ",
+      "translation_bh": "",
+      "translation_en": "and she said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقُولَا",
+      "translation_bh": "",
+      "translation_en": "And speak"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَقُولَآ",
+      "translation_bh": "",
+      "translation_en": "and say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "تَقُولَ",
+      "translation_bh": "",
+      "translation_en": "you would say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَقَالُوا۟",
+      "translation_bh": "",
+      "translation_en": "surely they (would) have said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقُلْ",
+      "translation_bh": "",
+      "translation_en": "says"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُقَالُ",
+      "translation_bh": "",
+      "translation_en": "he is called"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "قَـٰلَ",
+      "translation_bh": "",
+      "translation_en": "He said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَقُلِ",
+      "translation_bh": "",
+      "translation_en": "then say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَآئِلُهَا ۖ",
+      "translation_bh": "",
+      "translation_en": "speaks it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَقُولُونَ",
+      "translation_bh": "",
+      "translation_en": "and you said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "قُلْتُم",
+      "translation_bh": "",
+      "translation_en": "you said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَيَقُولُوا۟",
+      "translation_bh": "",
+      "translation_en": "Then they will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقَالَا",
+      "translation_bh": "",
+      "translation_en": "and they said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلِهَا",
+      "translation_bh": "",
+      "translation_en": "her speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَنَقُولَنَّ",
+      "translation_bh": "",
+      "translation_en": "we will surely say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقَالَتْ",
+      "translation_bh": "",
+      "translation_en": "so she said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَالَتَا",
+      "translation_bh": "",
+      "translation_en": "They said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَقُولُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "they say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَقُولُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "and say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّيَقُولَنَّ",
+      "translation_bh": "",
+      "translation_en": "surely will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلُكُم",
+      "translation_bh": "",
+      "translation_en": "(is) your saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَالَت",
+      "translation_bh": "",
+      "translation_en": "said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قائِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْقَآئِلِينَ",
+      "translation_bh": "",
+      "translation_en": "and those who say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَالُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "they said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَوْلُ",
+      "translation_bh": "",
+      "translation_en": "(the) Word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "لَيَقُولُونَ",
+      "translation_bh": "",
+      "translation_en": "[they] say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَالَهَا",
+      "translation_bh": "",
+      "translation_en": "said it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "قَالَتَآ",
+      "translation_bh": "",
+      "translation_en": "They both said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَّقَالُوا۟",
+      "translation_bh": "",
+      "translation_en": "they (would have) said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَقُولُوا۟",
+      "translation_bh": "",
+      "translation_en": "and say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ قَـٰلَ",
+      "translation_bh": "",
+      "translation_en": "He said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقِيلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "And his saying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَوْلٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ قَالَتِ",
+      "translation_bh": "",
+      "translation_en": "Say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلٍ",
+      "translation_bh": "",
+      "translation_en": "word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَقُولُ",
+      "translation_bh": "",
+      "translation_en": "And it will say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلٍۢ",
+      "translation_bh": "",
+      "translation_en": "a speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَوَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقَوَّلَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "He has made it up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَقُولُوا۟",
+      "translation_bh": "",
+      "translation_en": "and say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَقُولُ ۚ",
+      "translation_bh": "",
+      "translation_en": "we say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِقَوْلِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "to their speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَقُولَ",
+      "translation_bh": "",
+      "translation_en": "and he says"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَوْلَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your speech"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَقَوْلُ",
+      "translation_bh": "",
+      "translation_en": "surely (the) Word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بِقَوْلِ",
+      "translation_bh": "",
+      "translation_en": "(is the) word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَوَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقَوَّلَ",
+      "translation_bh": "",
+      "translation_en": "he (had) fabricated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقاوِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَقَاوِيلِ",
+      "translation_bh": "",
+      "translation_en": "sayings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَقُلْتُ",
+      "translation_bh": "",
+      "translation_en": "Then I said"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِيلًا",
+      "translation_bh": "",
+      "translation_en": "(for) Word"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلِيَقُولَ",
+      "translation_bh": "",
+      "translation_en": "and that may say"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَوْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَقَوْلٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) surely a Word"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1085,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُقِيت",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْوات",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قوت",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُقِيت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقِيتًۭا",
+      "translation_bh": "",
+      "translation_en": "a Keeper"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْوات",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَقْوَٰتَهَا",
+      "translation_bh": "",
+      "translation_en": "its sustenance"
+    }
+  ]
+}

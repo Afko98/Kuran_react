@@ -1,0 +1,167 @@
+{
+  "description_bh": "",
+  "id": 343,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَجَزْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْجِز",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُعْجِزَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَجُوز",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعاجِز",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْجاز",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عجز",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَجَزْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَعَجَزْتُ",
+      "translation_bh": "",
+      "translation_en": "Am I unable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْجِز",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "بِمُعْجِزِينَ",
+      "translation_bh": "",
+      "translation_en": "escape (it)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُعْجِزَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُعْجِزُونَ",
+      "translation_bh": "",
+      "translation_en": "escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْجِز",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُعْجِزِى",
+      "translation_bh": "",
+      "translation_en": "escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْجِز",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُعْجِزِينَ",
+      "translation_bh": "",
+      "translation_en": "(able to) escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَجُوز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَجُوزٌۭ",
+      "translation_bh": "",
+      "translation_en": "an old woman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعاجِز",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُعَـٰجِزِينَ",
+      "translation_bh": "",
+      "translation_en": "(to) cause failure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَجُوز",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَجُوزًۭا",
+      "translation_bh": "",
+      "translation_en": "an old woman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُعْجِزَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيُعْجِزَهُۥ",
+      "translation_bh": "",
+      "translation_en": "that can escape (from) Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُعْجِز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمُعْجِزٍۢ",
+      "translation_bh": "",
+      "translation_en": "he can escape"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَجُوز",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَجُوزٌ",
+      "translation_bh": "",
+      "translation_en": "An old woman"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْجاز",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَعْجَازُ",
+      "translation_bh": "",
+      "translation_en": "trunks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُعْجِزَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّعْجِزَ",
+      "translation_bh": "",
+      "translation_en": "we will cause failure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُعْجِزَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُّعْجِزَهُۥ",
+      "translation_bh": "",
+      "translation_en": "we can escape Him"
+    }
+  ]
+}

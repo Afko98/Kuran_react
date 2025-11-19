@@ -1,0 +1,48 @@
+{
+  "description_bh": "",
+  "id": 824,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كِسَف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِسْف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كسف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كِسَف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِسَفًا",
+      "translation_bh": "",
+      "translation_en": "(in) pieces"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِسَف",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "كِسَفًۭا",
+      "translation_bh": "",
+      "translation_en": "fragments"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كِسْف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كِسْفًۭا",
+      "translation_bh": "",
+      "translation_en": "a portion"
+    }
+  ]
+}

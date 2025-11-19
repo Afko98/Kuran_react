@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 885,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغارَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَوْر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غور",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَارِ",
+      "translation_bh": "",
+      "translation_en": "the cave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغارَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَغَـٰرَٰتٍ",
+      "translation_bh": "",
+      "translation_en": "caves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَوْر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "غَوْرًۭا",
+      "translation_bh": "",
+      "translation_en": "sunken"
+    }
+  ]
+}

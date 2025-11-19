@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 919,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَغُضُّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غضض",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَغُضُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغُضُّوا۟",
+      "translation_bh": "",
+      "translation_en": "they should lower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَغُضُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغْضُضْنَ",
+      "translation_bh": "",
+      "translation_en": "(that) they should lower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَغُضُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱغْضُضْ",
+      "translation_bh": "",
+      "translation_en": "and lower"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَغُضُّ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغُضُّونَ",
+      "translation_bh": "",
+      "translation_en": "lower"
+    }
+  ]
+}

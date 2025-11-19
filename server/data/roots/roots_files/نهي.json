@@ -1,0 +1,370 @@
+{
+  "description_bh": "",
+  "id": 191,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَناهَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَهي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناهي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُهَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَهَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نهي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱنتَهَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they cease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنتَهَىٰ",
+      "translation_bh": "",
+      "translation_en": "and he refrained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَيَنْهَوْنَ",
+      "translation_bh": "",
+      "translation_en": "and forbidding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَنْهَوْنَ",
+      "translation_bh": "",
+      "translation_en": "and forbidding"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُنْهَوْنَ",
+      "translation_bh": "",
+      "translation_en": "you are forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "نُهُوا۟",
+      "translation_bh": "",
+      "translation_en": "they were forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱنتَهُوا۟",
+      "translation_bh": "",
+      "translation_en": "desist"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنْهَىٰهُمُ",
+      "translation_bh": "",
+      "translation_en": "forbid them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنتَهُوا۟",
+      "translation_bh": "",
+      "translation_en": "they desist"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَناهَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَنَاهَوْنَ",
+      "translation_bh": "",
+      "translation_en": "forbidding each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَهي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّنتَهُونَ",
+      "translation_bh": "",
+      "translation_en": "(be) the ones who abstain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَنْهَوْنَ",
+      "translation_bh": "",
+      "translation_en": "forbid (others)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُهِيتُ",
+      "translation_bh": "",
+      "translation_en": "[I] am forbidden"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَهَىٰكُمَا",
+      "translation_bh": "",
+      "translation_en": "forbid you both"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنْهَكُمَا",
+      "translation_bh": "",
+      "translation_en": "I forbid you both"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَنْهَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "and forbids them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَنتَهُوا۟",
+      "translation_bh": "",
+      "translation_en": "you desist"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنتَهُونَ",
+      "translation_bh": "",
+      "translation_en": "cease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناهي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّاهُونَ",
+      "translation_bh": "",
+      "translation_en": "and those who forbid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَنْهَىٰنَآ",
+      "translation_bh": "",
+      "translation_en": "Do you forbid us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنْهَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "I forbid you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَنْهَكَ",
+      "translation_bh": "",
+      "translation_en": "we forbid you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَنْهَىٰ",
+      "translation_bh": "",
+      "translation_en": "and forbids"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَنتَهِ",
+      "translation_bh": "",
+      "translation_en": "you desist"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُهَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلنُّهَىٰ",
+      "translation_bh": "",
+      "translation_en": "(of) intelligence"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَهَوْا۟",
+      "translation_bh": "",
+      "translation_en": "and forbid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَنْهَىٰ",
+      "translation_bh": "",
+      "translation_en": "prevents"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱنْهَ",
+      "translation_bh": "",
+      "translation_en": "and forbid"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنتَهِ",
+      "translation_bh": "",
+      "translation_en": "cease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَهَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْمُنتَهَىٰ",
+      "translation_bh": "",
+      "translation_en": "(of) the utmost boundary"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَهَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "he forbids you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انتَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنتَهُوا۟ ۚ",
+      "translation_bh": "",
+      "translation_en": "refrain"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَنْهَىٰكُمُ",
+      "translation_bh": "",
+      "translation_en": "(does) forbid you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَهَى",
+      "translation_bh": "",
+      "translation_en": "and restrained"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُنتَهَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُنتَهَىٰهَآ",
+      "translation_bh": "",
+      "translation_en": "(is) its finality"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَهَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَنْهَىٰ",
+      "translation_bh": "",
+      "translation_en": "forbids"
+    }
+  ]
+}

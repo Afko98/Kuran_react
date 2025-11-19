@@ -1,0 +1,61 @@
+{
+  "description_bh": "",
+  "id": 608,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عام",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عوم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَامٍۢ",
+      "translation_bh": "",
+      "translation_en": "year(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَامِهِمْ",
+      "translation_bh": "",
+      "translation_en": "this, their (final) year"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عام",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عَامًۭا",
+      "translation_bh": "",
+      "translation_en": "one year"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَامٌۭ",
+      "translation_bh": "",
+      "translation_en": "a year"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَامَيْنِ",
+      "translation_bh": "",
+      "translation_en": "two years"
+    }
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "description_bh": "",
+  "id": 222,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَدَبَّرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دابِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْبِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُدَبِّرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِدْبار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَدْبَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدَبِّرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دبر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَدْبَارَ",
+      "translation_bh": "",
+      "translation_en": "the backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَدْبَارِهَآ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَدَبَّرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَتَدَبَّرُونَ",
+      "translation_bh": "",
+      "translation_en": "they ponder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَدْبَارِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دابِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَابِرُ",
+      "translation_bh": "",
+      "translation_en": "(the) remnant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دابِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "دَابِرَ",
+      "translation_bh": "",
+      "translation_en": "the roots"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دُبُرَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "his back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَأَدْبَـٰرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "and their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْبِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّدْبِرِينَ",
+      "translation_bh": "",
+      "translation_en": "fleeing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُدَبِّرُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يُدَبِّرُ",
+      "translation_bh": "",
+      "translation_en": "disposing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "دُبُرٍۢ",
+      "translation_bh": "",
+      "translation_en": "the back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَدْبَـٰرَهُمْ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَدْبَـٰرِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْبِر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "مُدْبِرِينَ",
+      "translation_bh": "",
+      "translation_en": "turning (your) backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَدَبَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدَّبَّرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they ponder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدْبِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُدْبِرًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) flight"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَدْبَـٰرَ ۚ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَدَبَّرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَدَّبَّرُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "that they may ponder"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَدْبَـٰرِهِم",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَدْبَـٰرَ",
+      "translation_bh": "",
+      "translation_en": "the backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَدْبَـٰرَ",
+      "translation_bh": "",
+      "translation_en": "and after"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِدْبار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَإِدْبَـٰرَ",
+      "translation_bh": "",
+      "translation_en": "and after"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دُبُر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدُّبُرَ",
+      "translation_bh": "",
+      "translation_en": "(their) backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَدْبَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَدْبَرَ",
+      "translation_bh": "",
+      "translation_en": "turned his back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُدَبِّرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْمُدَبِّرَٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those who arrange"
+    }
+  ]
+}

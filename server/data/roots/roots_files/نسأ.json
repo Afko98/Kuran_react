@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1122,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَسِيء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِنسَأَت",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نسأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَسِيء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّسِىٓءُ",
+      "translation_bh": "",
+      "translation_en": "the postponing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِنسَأَت",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِنسَأَتَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "his staff"
+    }
+  ]
+}

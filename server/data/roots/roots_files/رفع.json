@@ -1,0 +1,230 @@
+{
+  "description_bh": "",
+  "id": 308,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رافِع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفِيع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُوع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رافِعَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُوعَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رفع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَرَفَعْنَا",
+      "translation_bh": "",
+      "translation_en": "and We raised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْفَعُ",
+      "translation_bh": "",
+      "translation_en": "(was) raising"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَرَفَعَ",
+      "translation_bh": "",
+      "translation_en": "and He raised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رافِع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَافِعُكَ",
+      "translation_bh": "",
+      "translation_en": "and raise you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَّفَعَهُ",
+      "translation_bh": "",
+      "translation_en": "he was raised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَرْفَعُ",
+      "translation_bh": "",
+      "translation_en": "We raise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَرَفَعْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "surely, We (could) have raised him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "رَفَعَ",
+      "translation_bh": "",
+      "translation_en": "raised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَرَفَعْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And We raised him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُرْفَعَ",
+      "translation_bh": "",
+      "translation_en": "they be raised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْفَعُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "raises it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَفِيعُ",
+      "translation_bh": "",
+      "translation_en": "Possessor of the Highest Ranks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَرْفَعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "raise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُوع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَرْفُوعِ",
+      "translation_bh": "",
+      "translation_en": "raised high"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رَفَعَهَا",
+      "translation_bh": "",
+      "translation_en": "He raised it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رافِعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَّافِعَةٌ",
+      "translation_bh": "",
+      "translation_en": "raising up"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُوعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّرْفُوعَةٍ",
+      "translation_bh": "",
+      "translation_en": "raised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْفَعِ",
+      "translation_bh": "",
+      "translation_en": "Allah will raise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُوعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّرْفُوعَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "Exalted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَرْفُوعَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّرْفُوعَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "raised high"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَفَعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "رُفِعَتْ",
+      "translation_bh": "",
+      "translation_en": "it is raised"
+    }
+  ]
+}

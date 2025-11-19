@@ -1,0 +1,107 @@
+{
+  "description_bh": "",
+  "id": 399,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِنِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَنا",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سنو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَنَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "سَنَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "year(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَنَةًۭ ۛ",
+      "translation_bh": "",
+      "translation_en": "years"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِنِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلسِّنِينَ",
+      "translation_bh": "",
+      "translation_en": "with years (of famine)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِنِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلسِّنِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) the years"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِنِين",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "سِنِينَ",
+      "translation_bh": "",
+      "translation_en": "years"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَنا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَنَا",
+      "translation_bh": "",
+      "translation_en": "(the) flash"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَنَةٍ",
+      "translation_bh": "",
+      "translation_en": "year(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِنِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِنِينَ ۗ",
+      "translation_bh": "",
+      "translation_en": "years"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَنَةًۭ",
+      "translation_bh": "",
+      "translation_en": "year(s)"
+    }
+  ]
+}

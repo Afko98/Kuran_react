@@ -1,0 +1,659 @@
+{
+  "description_bh": "",
+  "id": 78,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَنْعَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْماء",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناعِمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَّمَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نعم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَنْعَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "أَنْعَمْتَ",
+      "translation_bh": "",
+      "translation_en": "You have bestowed (Your) Favors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نِعْمَتِىَ",
+      "translation_bh": "",
+      "translation_en": "My Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنْعَمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَنْعَمْتُ",
+      "translation_bh": "",
+      "translation_en": "I bestowed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نِعْمَتِى",
+      "translation_bh": "",
+      "translation_en": "My favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "نِعْمَةَ",
+      "translation_bh": "",
+      "translation_en": "Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "نِعْمَتَ",
+      "translation_bh": "",
+      "translation_en": "(the) Favors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنِعِمَّا",
+      "translation_bh": "",
+      "translation_en": "then good"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَنْعَـٰمِ",
+      "translation_bh": "",
+      "translation_en": "and [the] cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِنِعْمَتِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "by His Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَنِعْمَ",
+      "translation_bh": "",
+      "translation_en": "And an excellent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِنِعْمَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "of Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نِعِمَّا",
+      "translation_bh": "",
+      "translation_en": "excellently"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنْعَمَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "أَنْعَمَ",
+      "translation_bh": "",
+      "translation_en": "has bestowed (His) Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنْعَـٰمِ",
+      "translation_bh": "",
+      "translation_en": "(of) the cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "نِعْمَتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعِيم",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "ٱلنَّعِيمِ",
+      "translation_bh": "",
+      "translation_en": "(of) Bliss"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّعَمِ",
+      "translation_bh": "",
+      "translation_en": "the cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنْعَـٰمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are) cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَنْعَـٰمٌ",
+      "translation_bh": "",
+      "translation_en": "And cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَنْعَـٰمٌۭ",
+      "translation_bh": "",
+      "translation_en": "and cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلْأَنْعَـٰمِ",
+      "translation_bh": "",
+      "translation_en": "(are) like cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "نِعْمَ",
+      "translation_bh": "",
+      "translation_en": "Excellent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نِّعْمَةً",
+      "translation_bh": "",
+      "translation_en": "a favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنْعَمَهَا",
+      "translation_bh": "",
+      "translation_en": "which He had bestowed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَعِيمٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) bliss"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَنْعَـٰمُ",
+      "translation_bh": "",
+      "translation_en": "and the cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْماء",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَعْمَآءَ",
+      "translation_bh": "",
+      "translation_en": "(of) favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَنِعْمَ",
+      "translation_bh": "",
+      "translation_en": "And excellent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأَنْعَـٰمَ",
+      "translation_bh": "",
+      "translation_en": "And the cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَنِعْمَ",
+      "translation_bh": "",
+      "translation_en": "And surely excellent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نِّعْمَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَفَبِنِعْمَةِ",
+      "translation_bh": "",
+      "translation_en": "Then is it the Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِنِعْمَتِ",
+      "translation_bh": "",
+      "translation_en": "and the Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَنْعُمِ",
+      "translation_bh": "",
+      "translation_en": "(the) Favors of Allah"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّأَنْعُمِهِ ۚ",
+      "translation_bh": "",
+      "translation_en": "for His favors"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنْعَمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "أَنْعَمْنَا",
+      "translation_bh": "",
+      "translation_en": "We bestow favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنْعَـٰمَكُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "your cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنْعَـٰمِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنْعَـٰمُ",
+      "translation_bh": "",
+      "translation_en": "the cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنْعَـٰمِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَٱلْأَنْعَـٰمِ ۖ",
+      "translation_bh": "",
+      "translation_en": "like cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَنْعَـٰمًۭا",
+      "translation_bh": "",
+      "translation_en": "cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نِعْمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is the) favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَنْعَـٰمٍۢ",
+      "translation_bh": "",
+      "translation_en": "with cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نِعْمَتَكَ",
+      "translation_bh": "",
+      "translation_en": "(for) Your Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِنِعْمَةِ",
+      "translation_bh": "",
+      "translation_en": "and in (the) Favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نِعَمَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His Bounties"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِنِعْمَتِ",
+      "translation_bh": "",
+      "translation_en": "by (the) Grace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنْعَـٰمُهُمْ",
+      "translation_bh": "",
+      "translation_en": "their cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنْعَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَنْعَمْتَ",
+      "translation_bh": "",
+      "translation_en": "and you bestowed favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نِعْمَةُ",
+      "translation_bh": "",
+      "translation_en": "(for the) Grace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَنِعْمَ",
+      "translation_bh": "",
+      "translation_en": "and Best"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نِّعْمَ",
+      "translation_bh": "",
+      "translation_en": "an excellent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نِعْمَةًۭ",
+      "translation_bh": "",
+      "translation_en": "a favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنْعَـٰمَ",
+      "translation_bh": "",
+      "translation_en": "the cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَعْمَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "And pleasant things"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنِعْمَةًۭ ۚ",
+      "translation_bh": "",
+      "translation_en": "and favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَعِيمٍۢ",
+      "translation_bh": "",
+      "translation_en": "and pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نِّعْمَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(As) a favor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعِيم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَعِيمٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) Pleasure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نِعْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِنِعْمَةِ",
+      "translation_bh": "",
+      "translation_en": "by (the) Grace"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّعْمَةِ",
+      "translation_bh": "",
+      "translation_en": "(of) the ease"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَعِيمًۭا",
+      "translation_bh": "",
+      "translation_en": "blessings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَلِأَنْعَـٰمِكُمْ",
+      "translation_bh": "",
+      "translation_en": "and for your cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعِيم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَعِيمٍ",
+      "translation_bh": "",
+      "translation_en": "bliss"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناعِمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّاعِمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(will be) joyful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعَّمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَنَعَّمَهُۥ",
+      "translation_bh": "",
+      "translation_en": "and favors him"
+    }
+  ]
+}

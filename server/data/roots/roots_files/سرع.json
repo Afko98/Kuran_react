@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 374,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَرِيع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسارِعُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْرَع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِراع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سرع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَرِيع",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "سَرِيعُ",
+      "translation_bh": "",
+      "translation_en": "(is) swift"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسارِعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُسَـٰرِعُونَ",
+      "translation_bh": "",
+      "translation_en": "and they hasten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسارِعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَسَارِعُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "And hasten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسارِعُ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يُسَـٰرِعُونَ",
+      "translation_bh": "",
+      "translation_en": "hasten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْرَع",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَسْرَعُ",
+      "translation_bh": "",
+      "translation_en": "(is) swiftest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرِيع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَسَرِيعُ",
+      "translation_bh": "",
+      "translation_en": "(is) surely swift"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُسارِعُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُسَارِعُ",
+      "translation_bh": "",
+      "translation_en": "We hasten"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِراع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِرَاعًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "hurrying"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِراع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِرَاعًۭا",
+      "translation_bh": "",
+      "translation_en": "rapidly"
+    }
+  ]
+}

@@ -1,0 +1,379 @@
+{
+  "description_bh": "",
+  "id": 121,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْبِيح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْبَحُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَبِّح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبْح",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سابِحَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سبح",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُسَبِّحُ",
+      "translation_bh": "",
+      "translation_en": "[we] glorify (You)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَكَ",
+      "translation_bh": "",
+      "translation_en": "Glory be to You"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَهُۥ ۖ",
+      "translation_bh": "",
+      "translation_en": "Glory be to Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "وَسَبِّحْ",
+      "translation_bh": "",
+      "translation_en": "and glorify (Him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "Glory be to Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَهُۥ",
+      "translation_bh": "",
+      "translation_en": "Glorified is He"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُسَبِّحُونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "And they glorify Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَسُبْحَـٰنَ",
+      "translation_bh": "",
+      "translation_en": "And Glory be"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُسَبِّحُ",
+      "translation_bh": "",
+      "translation_en": "And glorifies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَسَبِّحْ",
+      "translation_bh": "",
+      "translation_en": "So glorify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَهُۥ ۙ",
+      "translation_bh": "",
+      "translation_en": "Glory be to Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 12,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَ",
+      "translation_bh": "",
+      "translation_en": "Exalted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسَبِّحُ",
+      "translation_bh": "",
+      "translation_en": "Glorify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يُسَبِّحُ",
+      "translation_bh": "",
+      "translation_en": "glorifies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْبِيح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "تَسْبِيحَهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "their glorification"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُبْحَانَ",
+      "translation_bh": "",
+      "translation_en": "Glorified (is)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَبِّحُوا۟",
+      "translation_bh": "",
+      "translation_en": "glorify (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَهُۥٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "Glory be to Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُسَبِّحَكَ",
+      "translation_bh": "",
+      "translation_en": "we may glorify You"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "يُسَبِّحُونَ",
+      "translation_bh": "",
+      "translation_en": "They glorify (Him)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "فَسُبْحَـٰنَ",
+      "translation_bh": "",
+      "translation_en": "So glorified"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سُبْحان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سُبْحَـٰنَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "Glorified is He"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْبَحُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْبَحُونَ",
+      "translation_bh": "",
+      "translation_en": "floating"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُسَبِّحْنَ",
+      "translation_bh": "",
+      "translation_en": "(to) glorify Our praises"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَسْبِيح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَتَسْبِيحَهُۥ ۗ",
+      "translation_bh": "",
+      "translation_en": "and its glorification"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَبَّحُوا۟",
+      "translation_bh": "",
+      "translation_en": "and glorify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَبِّحُوهُ",
+      "translation_bh": "",
+      "translation_en": "And glorify Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَبِّح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسَبِّحِينَ",
+      "translation_bh": "",
+      "translation_en": "those who glorify"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَبِّح",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسَبِّحُونَ",
+      "translation_bh": "",
+      "translation_en": "glorify (Allah)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتُسَبِّحُوهُ",
+      "translation_bh": "",
+      "translation_en": "and glorify Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَسَبِّحْهُ",
+      "translation_bh": "",
+      "translation_en": "glorify Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "سَبَّحَ",
+      "translation_bh": "",
+      "translation_en": "Glorifies"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسَبِّحُونَ",
+      "translation_bh": "",
+      "translation_en": "you glorify (Allah)?'"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبْح",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَبْحًۭا",
+      "translation_bh": "",
+      "translation_en": "(is) occupation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَبِّحْهُ",
+      "translation_bh": "",
+      "translation_en": "and glorify Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سابِحَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّـٰبِحَـٰتِ",
+      "translation_bh": "",
+      "translation_en": "And those who glide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَبَّحَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَبِّحِ",
+      "translation_bh": "",
+      "translation_en": "Glorify"
+    }
+  ]
+}

@@ -1,0 +1,788 @@
+{
+  "description_bh": "",
+  "id": 68,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَنۢبَأَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُبُوَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَنۢبِئُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نبأ",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَنۢبَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنۢبِـُٔونِى",
+      "translation_bh": "",
+      "translation_en": "Inform Me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنۢبَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنۢبِئْهُم",
+      "translation_bh": "",
+      "translation_en": "Inform them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنۢبَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنۢبَأَهُم",
+      "translation_bh": "",
+      "translation_en": "he had informed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبِيِّـۧنَ",
+      "translation_bh": "",
+      "translation_en": "the Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَنۢبِيَآءَ",
+      "translation_bh": "",
+      "translation_en": "(the) Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبِيُّونَ",
+      "translation_bh": "",
+      "translation_en": "(to) the Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّبِيِّـۧنَ",
+      "translation_bh": "",
+      "translation_en": "and the Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِنَبِىٍّۢ",
+      "translation_bh": "",
+      "translation_en": "to a Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَبِيُّهُمْ",
+      "translation_bh": "",
+      "translation_en": "their Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَؤُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "Shall I inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَنَبِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "and a Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "أَنۢبَآءِ",
+      "translation_bh": "",
+      "translation_en": "(the) news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "And I inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 17,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبِىُّ",
+      "translation_bh": "",
+      "translation_en": "[the] Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُبُوَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلنُّبُوَّةَ",
+      "translation_bh": "",
+      "translation_en": "and the Prophethood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّبِيُّونَ",
+      "translation_bh": "",
+      "translation_en": "and the Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنۢبِيَآءَ",
+      "translation_bh": "",
+      "translation_en": "the Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَّبِىٍّۢ",
+      "translation_bh": "",
+      "translation_en": "a Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِنَبِىٍّ",
+      "translation_bh": "",
+      "translation_en": "for a Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنَبِّئُهُمُ",
+      "translation_bh": "",
+      "translation_en": "will inform them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "نَبَأَ",
+      "translation_bh": "",
+      "translation_en": "the story"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "فَيُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "then He will inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "أُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "I inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنَّبِىِّ",
+      "translation_bh": "",
+      "translation_en": "and the Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أَنۢبَـٰٓؤُا۟",
+      "translation_bh": "",
+      "translation_en": "news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّبَإِى۟",
+      "translation_bh": "",
+      "translation_en": "(the) news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "He will inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَبَإٍۢ",
+      "translation_bh": "",
+      "translation_en": "news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُبُوَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلنُّبُوَّةَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the Prophethood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَيُنَبِّئُهُم",
+      "translation_bh": "",
+      "translation_en": "then He will inform them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَبِىٍّ",
+      "translation_bh": "",
+      "translation_en": "Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبِّـُٔونِى",
+      "translation_bh": "",
+      "translation_en": "Inform me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُنَبِّئُهُم",
+      "translation_bh": "",
+      "translation_en": "He will inform them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "نَّبِىٍّ",
+      "translation_bh": "",
+      "translation_en": "Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنۢبَآئِهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "their news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبِىَّ",
+      "translation_bh": "",
+      "translation_en": "the Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبِىِّ",
+      "translation_bh": "",
+      "translation_en": "the Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُنَبِّئُهُم",
+      "translation_bh": "",
+      "translation_en": "informing them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَبَأُ",
+      "translation_bh": "",
+      "translation_en": "(the) news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبَّأَنَا",
+      "translation_bh": "",
+      "translation_en": "Allah (has) informed us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِلنَّبِىِّ",
+      "translation_bh": "",
+      "translation_en": "for the Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتُنَبِّـُٔونَ",
+      "translation_bh": "",
+      "translation_en": "Do you inform"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "and We will inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَنۢبِئُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَيَسْتَنۢبِـُٔونَكَ",
+      "translation_bh": "",
+      "translation_en": "And they ask you to inform"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتُنَبِّئَنَّهُم",
+      "translation_bh": "",
+      "translation_en": "Surely, you will inform them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبِّئْنَا",
+      "translation_bh": "",
+      "translation_en": "Inform us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبَّأْتُكُمَا",
+      "translation_bh": "",
+      "translation_en": "I will inform both of you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُنَبِّـُٔونَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(do) you inform Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَبَؤُا۟",
+      "translation_bh": "",
+      "translation_en": "(the) news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ نَبِّئْ",
+      "translation_bh": "",
+      "translation_en": "Inform"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَنَبِّئْهُمْ",
+      "translation_bh": "",
+      "translation_en": "And inform them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَبَأَهُم",
+      "translation_bh": "",
+      "translation_en": "their story"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأُنَبِّئُكَ",
+      "translation_bh": "",
+      "translation_en": "I will inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "We inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "نَبِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "a Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّبِيًّا",
+      "translation_bh": "",
+      "translation_en": "a Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "نَّبِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "a Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَأُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "Then shall I inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُنَبِّئُكُمْ",
+      "translation_bh": "",
+      "translation_en": "I inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِنَبَإٍۢ",
+      "translation_bh": "",
+      "translation_en": "with news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَّبَإِ",
+      "translation_bh": "",
+      "translation_en": "(the) news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنۢبَآءُ",
+      "translation_bh": "",
+      "translation_en": "the information"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأُنَبِّئُكُم",
+      "translation_bh": "",
+      "translation_en": "and I will inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُبُوَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلنُّبُوَّةَ",
+      "translation_bh": "",
+      "translation_en": "the Prophethood"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَنُنَبِّئُهُم",
+      "translation_bh": "",
+      "translation_en": "then We will inform them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَنۢبَآئِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبِيِّـۧنَ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) the Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبِىِّ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Prophet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنَبِّئُكُمْ",
+      "translation_bh": "",
+      "translation_en": "who informs you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنَبِّئُكَ",
+      "translation_bh": "",
+      "translation_en": "can inform you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَبَؤٌا۟",
+      "translation_bh": "",
+      "translation_en": "a news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَبَأَهُۥ",
+      "translation_bh": "",
+      "translation_en": "its information"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلنَّبِيِّـۧنَ",
+      "translation_bh": "",
+      "translation_en": "the Prophets"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَنُنَبِّئَنَّ",
+      "translation_bh": "",
+      "translation_en": "But We will surely inform"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنَبَّأْ",
+      "translation_bh": "",
+      "translation_en": "he was informed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَنۢبَآءِ",
+      "translation_bh": "",
+      "translation_en": "the information"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَتُنَبَّؤُنَّ",
+      "translation_bh": "",
+      "translation_en": "surely you will be informed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبَّأَتْ",
+      "translation_bh": "",
+      "translation_en": "she informed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبَّأَهَا",
+      "translation_bh": "",
+      "translation_en": "he informed her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَنۢبَأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَنۢبَأَكَ",
+      "translation_bh": "",
+      "translation_en": "informed you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبَّأَنِىَ",
+      "translation_bh": "",
+      "translation_en": "Has informed me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَّأَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُنَبَّؤُا۟",
+      "translation_bh": "",
+      "translation_en": "Will be informed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَبَأ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّبَإِ",
+      "translation_bh": "",
+      "translation_en": "the News"
+    }
+  ]
+}

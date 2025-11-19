@@ -1,0 +1,107 @@
+{
+  "description_bh": "",
+  "id": 589,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَطَشْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطْش",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطْشَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بطش",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَطَشْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْطِشُونَ",
+      "translation_bh": "",
+      "translation_en": "(to) hold"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطَشْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَطَشْتُم",
+      "translation_bh": "",
+      "translation_en": "you seize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطَشْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَطَشْتُمْ",
+      "translation_bh": "",
+      "translation_en": "you seize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطَشْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَبْطِشَ",
+      "translation_bh": "",
+      "translation_en": "strike"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطْش",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بَطْشًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) power"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطَشْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَبْطِشُ",
+      "translation_bh": "",
+      "translation_en": "We will seize"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطْشَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَطْشَةَ",
+      "translation_bh": "",
+      "translation_en": "(with) the seizure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطْشَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَطْشَتَنَا",
+      "translation_bh": "",
+      "translation_en": "(of) Our seizure"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَطْش",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَطْشَ",
+      "translation_bh": "",
+      "translation_en": "(the) Grip"
+    }
+  ]
+}

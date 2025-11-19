@@ -1,0 +1,52 @@
+{
+  "description_bh": "",
+  "id": 927,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَعْجَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نعج",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَعْجَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَعْجَةًۭ",
+      "translation_bh": "",
+      "translation_en": "ewe(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْجَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَعْجَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "ewe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْجَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَعْجَتِكَ",
+      "translation_bh": "",
+      "translation_en": "your ewe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَعْجَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نِعَاجِهِۦ ۖ",
+      "translation_bh": "",
+      "translation_en": "his ewes"
+    }
+  ]
+}

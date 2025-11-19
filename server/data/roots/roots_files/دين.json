@@ -1,0 +1,369 @@
+{
+  "description_bh": "",
+  "id": 114,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَدايَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدِينُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدِين",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دين",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 24,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينِ",
+      "translation_bh": "",
+      "translation_en": "(of the) Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينَ",
+      "translation_bh": "",
+      "translation_en": "the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينُ",
+      "translation_bh": "",
+      "translation_en": "the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "دِينِكُمْ",
+      "translation_bh": "",
+      "translation_en": "your religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دِينِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَدايَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَدَايَنتُم",
+      "translation_bh": "",
+      "translation_en": "you contract with one another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِدَيْنٍ",
+      "translation_bh": "",
+      "translation_en": "any debt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِينِهِم",
+      "translation_bh": "",
+      "translation_en": "their religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "دِينَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "دِينِ",
+      "translation_bh": "",
+      "translation_en": "(the) religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "دِينًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَيْنٍ ۗ",
+      "translation_bh": "",
+      "translation_en": "any debt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَيْنٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "any debt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَيْنٍۢ ۗ",
+      "translation_bh": "",
+      "translation_en": "any debt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَيْن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَيْنٍ",
+      "translation_bh": "",
+      "translation_en": "any debt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "دِينَهُمْ",
+      "translation_bh": "",
+      "translation_en": "(in) their religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِينًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) a religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِينَهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِينُهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "their religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينِ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَدِينُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَدِينُونَ",
+      "translation_bh": "",
+      "translation_en": "they acknowledge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِينَ",
+      "translation_bh": "",
+      "translation_en": "(the) religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَدِينِ",
+      "translation_bh": "",
+      "translation_en": "and the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دِينِى",
+      "translation_bh": "",
+      "translation_en": "my religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِلدِّينِ",
+      "translation_bh": "",
+      "translation_en": "to the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دِينَهُمُ",
+      "translation_bh": "",
+      "translation_en": "their recompense"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمَدِينُونَ",
+      "translation_bh": "",
+      "translation_en": "surely be brought to Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلدِّينَ ۗ",
+      "translation_bh": "",
+      "translation_en": "(in) the religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِدِينِكُمْ",
+      "translation_bh": "",
+      "translation_en": "with your religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَدِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَدِينِينَ",
+      "translation_bh": "",
+      "translation_en": "to be recompensed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلدِّينِ",
+      "translation_bh": "",
+      "translation_en": "the Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِينُ",
+      "translation_bh": "",
+      "translation_en": "(is the) religion"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلدِّينِ",
+      "translation_bh": "",
+      "translation_en": "the Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دِينُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) your religion"
+    }
+  ]
+}

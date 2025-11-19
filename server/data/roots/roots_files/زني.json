@@ -1,0 +1,112 @@
+{
+  "description_bh": "",
+  "id": 627,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "زِنَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زانِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "زان",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَزْنُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "زني",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "زِنَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلزِّنَىٰٓ ۖ",
+      "translation_bh": "",
+      "translation_en": "adultery"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زانِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلزَّانِيَةُ",
+      "translation_bh": "",
+      "translation_en": "The fornicatress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلزَّانِى",
+      "translation_bh": "",
+      "translation_en": "and the fornicator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلزَّانِى",
+      "translation_bh": "",
+      "translation_en": "The fornicator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زانِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَانِيَةً",
+      "translation_bh": "",
+      "translation_en": "a fornicatress"
+    },
+    {
+      "description_bh": "",
+      "lemma": "زانِيَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلزَّانِيَةُ",
+      "translation_bh": "",
+      "translation_en": "and the fornicatress "
+    },
+    {
+      "description_bh": "",
+      "lemma": "زان",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "زَانٍ",
+      "translation_bh": "",
+      "translation_en": "a fornicator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَزْنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَزْنُونَ ۚ",
+      "translation_bh": "",
+      "translation_en": "commit unlawful sexual intercourse"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَزْنُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَزْنِينَ",
+      "translation_bh": "",
+      "translation_en": "they will commit adultery"
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "description_bh": "",
+  "id": 387,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْراب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَبِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُرُب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عرب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أَعْراب",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْرَابِ",
+      "translation_bh": "",
+      "translation_en": "the bedouins"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْراب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْرَابُ",
+      "translation_bh": "",
+      "translation_en": "The bedouins"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَبِيّ",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "عَرَبِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a Quran in Arabic"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرَبِيًّۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) Arabic"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرَبِىٌّۭ",
+      "translation_bh": "",
+      "translation_en": "Arabic"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرَبِىٍّۢ",
+      "translation_bh": "",
+      "translation_en": "Arabic"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَرَبِيًّا",
+      "translation_bh": "",
+      "translation_en": "(in) Arabic"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَرَبِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعَرَبِىٌّۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "and an Arab"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُرُب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عُرُبًا",
+      "translation_bh": "",
+      "translation_en": "Devoted"
+    }
+  ]
+}

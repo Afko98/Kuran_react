@@ -1,0 +1,749 @@
+{
+  "description_bh": "",
+  "id": 41,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُفْران",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَغْفِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِغْفار",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفّار",
+      "translation_bh": ""
+    }
+  ],
+  "root": "غفر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نَّغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "We will forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "occurrences": 46,
+      "part_of_speech": "N",
+      "text": "غَفُورٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْمَغْفِرَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "for [the] forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْفِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَغْفِرَةِ",
+      "translation_bh": "",
+      "translation_en": "and [the] forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "غَفُورٌ",
+      "translation_bh": "",
+      "translation_en": "(is) Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَغْفِرَةٌ",
+      "translation_bh": "",
+      "translation_en": "and (seeking) forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مَّغْفِرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَيَغْفِرُ",
+      "translation_bh": "",
+      "translation_en": "Then, He will forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غُفْران",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غُفْرَانَكَ",
+      "translation_bh": "",
+      "translation_en": "(Grant) us Your forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "وَٱغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "and forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "فَٱغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "so forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَغْفِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمُسْتَغْفِرِينَ",
+      "translation_bh": "",
+      "translation_en": "and those who seek forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "وَيَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "and He will forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 8,
+      "part_of_speech": "V",
+      "text": "يَغْفِرُ",
+      "translation_bh": "",
+      "translation_en": "He forgives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "مَغْفِرَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَغْفَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "then ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "مَّغْفِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "ٱغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمَغْفِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "certainly forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "and ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "occurrences": 19,
+      "part_of_speech": "N",
+      "text": "غَفُورًۭا",
+      "translation_bh": "",
+      "translation_en": "Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَفُورًا",
+      "translation_bh": "",
+      "translation_en": "Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَيَغْفِرُ",
+      "translation_bh": "",
+      "translation_en": "but He forgives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْفَرَ",
+      "translation_bh": "",
+      "translation_en": "and asked forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَغْفِرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "and forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْفِرِ",
+      "translation_bh": "",
+      "translation_en": "And seek forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَغْفِرِ",
+      "translation_bh": "",
+      "translation_en": "seeks forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "لِيَغْفِرَ",
+      "translation_bh": "",
+      "translation_en": "forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَغْفِرُونَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "and seek His forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "You forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "لَغَفُورٌۭ",
+      "translation_bh": "",
+      "translation_en": "[certainly], Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَـٰفِرِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) Forgivers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَيُغْفَرُ",
+      "translation_bh": "",
+      "translation_en": "It will be forgiven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَمَغْفِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "and forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَسْتَغْفِرُونَ",
+      "translation_bh": "",
+      "translation_en": "seek forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُغْفَرْ",
+      "translation_bh": "",
+      "translation_en": "will be forgiven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْتَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "Ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "تَسْتَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 6,
+      "part_of_speech": "V",
+      "text": "يَغْفِرَ",
+      "translation_bh": "",
+      "translation_en": "will Allah forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَغْفِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتِغْفار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱسْتِغْفَارُ",
+      "translation_bh": "",
+      "translation_en": "(the) asking of forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "ٱلْغَفُورُ",
+      "translation_bh": "",
+      "translation_en": "(is) the Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "ٱسْتَغْفِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "Seek forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَغْفِرُوهُ",
+      "translation_bh": "",
+      "translation_en": "So ask forgiveness of Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْفِرِى",
+      "translation_bh": "",
+      "translation_en": "And ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْتَغْفِرُ",
+      "translation_bh": "",
+      "translation_en": "I will ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَغْفِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and they ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَأَسْتَغْفِرُ",
+      "translation_bh": "",
+      "translation_en": "I will ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفّار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَغَفَّارٌۭ",
+      "translation_bh": "",
+      "translation_en": "the Perpetual Forgiver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَغْفِرُونَ",
+      "translation_bh": "",
+      "translation_en": "you ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَغَفَرَ",
+      "translation_bh": "",
+      "translation_en": "Then He forgave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِمَغْفِرَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "of forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "غَفَرَ",
+      "translation_bh": "",
+      "translation_en": "has forgiven"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَغْفَرَ",
+      "translation_bh": "",
+      "translation_en": "and he asked forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَغَفَرْنَا",
+      "translation_bh": "",
+      "translation_en": "So We forgave"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفّار",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْغَفَّـٰرُ",
+      "translation_bh": "",
+      "translation_en": "the Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غافِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَافِرِ",
+      "translation_bh": "",
+      "translation_en": "(The) Forgiver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَغْفِرُونَ",
+      "translation_bh": "",
+      "translation_en": "and ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفّار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْغَفَّـٰرِ",
+      "translation_bh": "",
+      "translation_en": "the Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْفِرُوهُ ۗ",
+      "translation_bh": "",
+      "translation_en": "and ask His forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَفُورٍۢ",
+      "translation_bh": "",
+      "translation_en": "(the) Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغْفِرُونَ",
+      "translation_bh": "",
+      "translation_en": "forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَغَفَرَ",
+      "translation_bh": "",
+      "translation_en": "and forgives"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَغْفِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "(to) forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "He will forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّيَغْفِرَ",
+      "translation_bh": "",
+      "translation_en": "That may forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "so ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَغْفِرَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَأَسْتَغْفِرَنَّ",
+      "translation_bh": "",
+      "translation_en": "Surely I ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَغْفِرْ",
+      "translation_bh": "",
+      "translation_en": "will ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْتَغْفَرْتَ",
+      "translation_bh": "",
+      "translation_en": "whether you ask forgiveness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَغْفِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَغْفِرَ",
+      "translation_bh": "",
+      "translation_en": "that You may forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "غَفّار",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "غَفَّارًۭا",
+      "translation_bh": "",
+      "translation_en": "Oft-Forgiving"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَغْفِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَغْفِرَةِ",
+      "translation_bh": "",
+      "translation_en": "to forgive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَغْفَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٱسْتَغْفِرْهُ ۚ",
+      "translation_bh": "",
+      "translation_en": "and ask His forgiveness"
+    }
+  ]
+}

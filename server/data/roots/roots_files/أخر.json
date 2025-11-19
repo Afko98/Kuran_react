@@ -1,0 +1,797 @@
+{
+  "description_bh": "",
+  "id": 38,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأَخَّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَأْخِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَأْخِر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أخر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبِٱلْـَٔاخِرَةِ",
+      "translation_bh": "",
+      "translation_en": "and in the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 15,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرِ",
+      "translation_bh": "",
+      "translation_en": "[the] Last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْـَٔاخِرَةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "for the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةُ",
+      "translation_bh": "",
+      "translation_en": "(of) the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 46,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةِ",
+      "translation_bh": "",
+      "translation_en": "the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخَرَ ۚ",
+      "translation_bh": "",
+      "translation_en": "other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخَرَ ۗ",
+      "translation_bh": "",
+      "translation_en": "other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأَخَّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَأَخَّرَ",
+      "translation_bh": "",
+      "translation_en": "delays"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرَةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "and the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرَةِ ۗ",
+      "translation_bh": "",
+      "translation_en": "and the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرِ ۚ",
+      "translation_bh": "",
+      "translation_en": "[the] Last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرِ ۗ",
+      "translation_bh": "",
+      "translation_en": "[the] Last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُخْرَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "the other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُخَرُ",
+      "translation_bh": "",
+      "translation_en": "and others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَأُخْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "and another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرَةِ",
+      "translation_bh": "",
+      "translation_en": "and (in) the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاخِرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(at) its end"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةِ ۗ",
+      "translation_bh": "",
+      "translation_en": "(in) the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخْرَىٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "(from) behind you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْـَٔاخِرَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "for the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَّرْتَنَآ",
+      "translation_bh": "",
+      "translation_en": "You postpone (it for) us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرَةُ",
+      "translation_bh": "",
+      "translation_en": "and the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ءَاخَرِينَ",
+      "translation_bh": "",
+      "translation_en": "others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "أُخْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِـَٔاخَرِينَ ۚ",
+      "translation_bh": "",
+      "translation_en": "others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخَرِ",
+      "translation_bh": "",
+      "translation_en": "the other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاخَرَانِ",
+      "translation_bh": "",
+      "translation_en": "two others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَـَٔاخَرَانِ",
+      "translation_bh": "",
+      "translation_en": "then (let) two others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَاخِرِنَا",
+      "translation_bh": "",
+      "translation_en": "and last of us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أُخْرَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 18,
+      "part_of_speech": "N",
+      "text": "بِٱلْـَٔاخِرَةِ",
+      "translation_bh": "",
+      "translation_en": "in the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَأْخِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْتَأْخِرُونَ",
+      "translation_bh": "",
+      "translation_en": "seek to delay"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخْرَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "(the) last of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِأُخْرَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "to (the) last of them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَءَاخَرِينَ",
+      "translation_bh": "",
+      "translation_en": "and others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةَ ۗ",
+      "translation_bh": "",
+      "translation_en": "(for you) the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "وَءَاخَرُونَ",
+      "translation_bh": "",
+      "translation_en": "And others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَاخَرَ",
+      "translation_bh": "",
+      "translation_en": "(with) other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَاخِرُ",
+      "translation_bh": "",
+      "translation_en": "And the last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَأْخِرُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَسْتَـْٔخِرُونَ",
+      "translation_bh": "",
+      "translation_en": "they remain behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَّرْنَا",
+      "translation_bh": "",
+      "translation_en": "We delay"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُؤَخِّرُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "We delay it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخَرُ",
+      "translation_bh": "",
+      "translation_en": "the other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَأُخَرَ",
+      "translation_bh": "",
+      "translation_en": "and others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُؤَخِّرَكُمْ",
+      "translation_bh": "",
+      "translation_en": "and give you respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يُؤَخِّرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "He gives them respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخِّرْنَآ",
+      "translation_bh": "",
+      "translation_en": "Respite us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَأْخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسْتَـْٔخِرِينَ",
+      "translation_bh": "",
+      "translation_en": "the later ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ءَاخَرَ ۚ",
+      "translation_bh": "",
+      "translation_en": "another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُخْرَىٰ ۗ",
+      "translation_bh": "",
+      "translation_en": "(of) another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةَ",
+      "translation_bh": "",
+      "translation_en": "the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَلَلْـَٔاخِرَةُ",
+      "translation_bh": "",
+      "translation_en": "And surely the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ءَاخَرَ",
+      "translation_bh": "",
+      "translation_en": "another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَّرْتَنِ",
+      "translation_bh": "",
+      "translation_en": "You give me respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُخْرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "another time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرَةَ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاخَرُونَ ۖ",
+      "translation_bh": "",
+      "translation_en": "other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخَرِينَ",
+      "translation_bh": "",
+      "translation_en": "the others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرِينَ",
+      "translation_bh": "",
+      "translation_en": "the later (generations)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَةَ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the Hereafter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاخَرَ ۘ",
+      "translation_bh": "",
+      "translation_en": "other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَ",
+      "translation_bh": "",
+      "translation_en": "the Last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَأْخِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْتَـْٔخِرُونَ",
+      "translation_bh": "",
+      "translation_en": "you can postpone"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَءَاخَرُ",
+      "translation_bh": "",
+      "translation_en": "And other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأُخْرَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the others"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّلْـَٔاخِرِينَ",
+      "translation_bh": "",
+      "translation_en": "for the later (generations)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأُخْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "the other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَاخَرَ ۖ",
+      "translation_bh": "",
+      "translation_en": "another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرِينَ",
+      "translation_bh": "",
+      "translation_en": "and the later people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْـَٔاخِرُ",
+      "translation_bh": "",
+      "translation_en": "and the Last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْـَٔاخِرَ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Last"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَخَّرْتَنِىٓ",
+      "translation_bh": "",
+      "translation_en": "You delay me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤَخِّرَ",
+      "translation_bh": "",
+      "translation_en": "will (be) delayed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُؤَخِّرْكُمْ",
+      "translation_bh": "",
+      "translation_en": "and give you respite"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُؤَخَّرُ ۖ",
+      "translation_bh": "",
+      "translation_en": "is delayed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَأَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَأَخَّرَ",
+      "translation_bh": "",
+      "translation_en": "stay behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخَّرَ",
+      "translation_bh": "",
+      "translation_en": "and kept back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَخَّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَخَّرَتْ",
+      "translation_bh": "",
+      "translation_en": "and left behind"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَلْـَٔاخِرَةَ",
+      "translation_bh": "",
+      "translation_en": "(is) the Hereafter"
+    }
+  ]
+}

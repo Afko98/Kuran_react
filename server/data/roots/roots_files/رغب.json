@@ -1,0 +1,89 @@
+{
+  "description_bh": "",
+  "id": 636,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْغَبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "راغِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَغَب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "رغب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَرْغَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْغَبُ",
+      "translation_bh": "",
+      "translation_en": "will turn away"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْغَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَرْغَبُونَ",
+      "translation_bh": "",
+      "translation_en": "and you desire"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راغِب",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "رَٰغِبُونَ",
+      "translation_bh": "",
+      "translation_en": "turn our hopes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْغَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَرْغَبُوا۟",
+      "translation_bh": "",
+      "translation_en": "they prefer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "راغِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَرَاغِبٌ",
+      "translation_bh": "",
+      "translation_en": "Do you hate"
+    },
+    {
+      "description_bh": "",
+      "lemma": "رَغَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "رَغَبًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) hope"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَرْغَبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱرْغَب",
+      "translation_bh": "",
+      "translation_en": "turn your attention"
+    }
+  ]
+}

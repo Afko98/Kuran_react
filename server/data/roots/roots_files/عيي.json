@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1228,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَيِي",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عيي",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَيِي",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْىَ",
+      "translation_bh": "",
+      "translation_en": "tired"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَيِي",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَفَعَيِينَا",
+      "translation_bh": "",
+      "translation_en": "Were We then tired"
+    }
+  ]
+}

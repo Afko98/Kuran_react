@@ -1,0 +1,43 @@
+{
+  "description_bh": "",
+  "id": 909,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "داخِر",
+      "translation_bh": ""
+    }
+  ],
+  "root": "دخر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "داخِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "دَٰخِرُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) humble"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَٰخِرِينَ",
+      "translation_bh": "",
+      "translation_en": "humbled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "داخِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "دَاخِرِينَ",
+      "translation_bh": "",
+      "translation_en": "(in) humiliation"
+    }
+  ]
+}

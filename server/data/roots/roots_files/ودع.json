@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 875,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَوْدَع",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَدَّعَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ودع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَوْدَع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُسْتَوْدَعٌۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "and a resting place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَوْدَع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُسْتَوْدَعَهَا ۚ",
+      "translation_bh": "",
+      "translation_en": "and its place of storage"
+    },
+    {
+      "description_bh": "",
+      "lemma": "دَعْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَدَعْ",
+      "translation_bh": "",
+      "translation_en": "and disregard"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَدَّعَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَدَّعَكَ",
+      "translation_bh": "",
+      "translation_en": "has forsaken you"
+    }
+  ]
+}

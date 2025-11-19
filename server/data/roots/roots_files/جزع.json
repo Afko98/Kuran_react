@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1140,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جَزِعْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَزُوع",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جزع",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جَزِعْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَجَزِعْنَآ",
+      "translation_bh": "",
+      "translation_en": "whether we show intolerance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَزُوع",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَزُوعًۭا",
+      "translation_bh": "",
+      "translation_en": "distressed"
+    }
+  ]
+}

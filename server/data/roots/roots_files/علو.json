@@ -1,0 +1,437 @@
+{
+  "description_bh": "",
+  "id": 156,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عَلِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَوْن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُلْيا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَعال",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلا",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُلُوّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعْلَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِيَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلِّيّ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "علو",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عَلِيّ",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْعَلِىُّ",
+      "translation_bh": "",
+      "translation_en": "(is) the Most High"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَ",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "تَعَالَوْا۟",
+      "translation_bh": "",
+      "translation_en": "Come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَوْن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْلَوْنَ",
+      "translation_bh": "",
+      "translation_en": "[the] superior"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَلِيًّۭا",
+      "translation_bh": "",
+      "translation_en": "Most High"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَى",
+      "occurrences": 7,
+      "part_of_speech": "V",
+      "text": "وَتَعَـٰلَىٰ",
+      "translation_bh": "",
+      "translation_en": "and Exalted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَى",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَتَعَـٰلَى",
+      "translation_bh": "",
+      "translation_en": "But exalted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُلْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعُلْيَا ۗ",
+      "translation_bh": "",
+      "translation_en": "the highest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعَالٍۢ",
+      "translation_bh": "",
+      "translation_en": "(was) a tyrant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِي",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَـٰلِيَهَا",
+      "translation_bh": "",
+      "translation_en": "its upside"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَعال",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُتَعَالِ",
+      "translation_bh": "",
+      "translation_en": "the Most High"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَى",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعَـٰلَىٰ",
+      "translation_bh": "",
+      "translation_en": "Exalted is He"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْلَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "the Highest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَتَعْلُنَّ",
+      "translation_bh": "",
+      "translation_en": "and surely you will reach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُلُوّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "عُلُوًّۭا",
+      "translation_bh": "",
+      "translation_en": "haughtiness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَوْا۟",
+      "translation_bh": "",
+      "translation_en": "they had conquered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَلِيًّا",
+      "translation_bh": "",
+      "translation_en": "high"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُلْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعُلَى",
+      "translation_bh": "",
+      "translation_en": "[the] high"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَعْلَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَعْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "overcomes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَى",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْلَىٰ",
+      "translation_bh": "",
+      "translation_en": "(will be) superior"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُلْيا",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعُلَىٰ",
+      "translation_bh": "",
+      "translation_en": "[the] high"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَالِينَ",
+      "translation_bh": "",
+      "translation_en": "haughty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَعَلَا",
+      "translation_bh": "",
+      "translation_en": "and surely would have overpowered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَعَـٰلَىٰ",
+      "translation_bh": "",
+      "translation_en": "exalted is He"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عُلُوّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعُلُوًّۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "and haughtiness"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلا",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تَعْلُوا۟",
+      "translation_bh": "",
+      "translation_en": "exalt yourselves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَى",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعَـٰلَى",
+      "translation_bh": "",
+      "translation_en": "High is"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلا",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "عَلَا",
+      "translation_bh": "",
+      "translation_en": "exalted himself"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعالَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَعَالَيْنَ",
+      "translation_bh": "",
+      "translation_en": "then come"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْلَىٰٓ",
+      "translation_bh": "",
+      "translation_en": "the exalted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَالِينَ",
+      "translation_bh": "",
+      "translation_en": "the exalted ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَلِىِّ",
+      "translation_bh": "",
+      "translation_en": "the Most High"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَلِىٌّ",
+      "translation_bh": "",
+      "translation_en": "(is) Most High"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عَلِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَعَلِىٌّ",
+      "translation_bh": "",
+      "translation_en": "surely exalted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَالِيًۭا",
+      "translation_bh": "",
+      "translation_en": "arrogant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِيَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَالِيَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "elevated"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عالِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَـٰلِيَهُمْ",
+      "translation_bh": "",
+      "translation_en": "Upon them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلِّيِّينَ",
+      "translation_bh": "",
+      "translation_en": "Illiyin"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِلِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِلِّيُّونَ",
+      "translation_bh": "",
+      "translation_en": "(is) Illiyun"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَعْلَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأَعْلَى",
+      "translation_bh": "",
+      "translation_en": "the Most High"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1233,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "كاهِن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "كهن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "كاهِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِكَاهِنٍۢ",
+      "translation_bh": "",
+      "translation_en": "a soothsayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "كاهِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "كَاهِنٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) a soothsayer"
+    }
+  ]
+}

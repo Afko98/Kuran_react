@@ -1,0 +1,34 @@
+{
+  "description_bh": "",
+  "id": 1027,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَدائِق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حدق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَدائِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَدَآئِقَ",
+      "translation_bh": "",
+      "translation_en": "gardens"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَدائِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَدَآئِقَ",
+      "translation_bh": "",
+      "translation_en": "And gardens"
+    }
+  ]
+}

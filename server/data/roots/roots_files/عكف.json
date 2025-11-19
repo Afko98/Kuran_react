@@ -1,0 +1,89 @@
+{
+  "description_bh": "",
+  "id": 601,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عاكِف",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْكُفُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْكُوف",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عكف",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عاكِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْعَـٰكِفِينَ",
+      "translation_bh": "",
+      "translation_en": "and those who seclude themselves for devotion and prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاكِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَـٰكِفُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) secluded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَعْكُفُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعْكُفُونَ",
+      "translation_bh": "",
+      "translation_en": "devoted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاكِف",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "عَـٰكِفِينَ",
+      "translation_bh": "",
+      "translation_en": "being devoted to it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاكِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَاكِفًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "devoted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عاكِف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْعَـٰكِفُ",
+      "translation_bh": "",
+      "translation_en": "(are) the resident"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَعْكُوف",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَعْكُوفًا",
+      "translation_bh": "",
+      "translation_en": "(was) prevented"
+    }
+  ]
+}

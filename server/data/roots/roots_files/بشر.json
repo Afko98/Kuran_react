@@ -1,0 +1,624 @@
+{
+  "description_bh": "",
+  "id": 94,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "باشِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْشِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْشِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَبْشِرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "بشر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 11,
+      "part_of_speech": "V",
+      "text": "وَبَشِّرِ",
+      "translation_bh": "",
+      "translation_en": "And give good news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَبُشْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "and glad tiding(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشِير",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بَشِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a bearer of good news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "باشِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَـٰشِرُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "have relations with them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "باشِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُبَـٰشِرُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "have relations with them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُبَشِّرِينَ",
+      "translation_bh": "",
+      "translation_en": "(as) bearers of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَبَشِّرْهُم",
+      "translation_bh": "",
+      "translation_en": "then give them tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَشِّرُكَ",
+      "translation_bh": "",
+      "translation_en": "gives you glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَشِّرُكِ",
+      "translation_bh": "",
+      "translation_en": "gives you glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَشَرٌۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "any man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِبَشَرٍ",
+      "translation_bh": "",
+      "translation_en": "for a human"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بُشْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(as) good news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْشِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيَسْتَبْشِرُونَ",
+      "translation_bh": "",
+      "translation_en": "and they receive good tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْشِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ يَسْتَبْشِرُونَ",
+      "translation_bh": "",
+      "translation_en": "They receive good tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَشِّرِ",
+      "translation_bh": "",
+      "translation_en": "Give tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّبَشِّرِينَ",
+      "translation_bh": "",
+      "translation_en": "bearers of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "بَشَرٌۭ",
+      "translation_bh": "",
+      "translation_en": "human beings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَشِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "bearer of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَشِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "a bearer of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَشَرٍۢ",
+      "translation_bh": "",
+      "translation_en": "a human being"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْر",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "بُشْرًۢا",
+      "translation_bh": "",
+      "translation_en": "(as) glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشِير",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَبَشِيرٌۭ",
+      "translation_bh": "",
+      "translation_en": "and a bearer of good tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَشِّرُهُمْ",
+      "translation_bh": "",
+      "translation_en": "Their Lord gives them glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْشِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱسْتَبْشِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "So rejoice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسْتَبْشِرُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَسْتَبْشِرُونَ",
+      "translation_bh": "",
+      "translation_en": "rejoice"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبُشْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(are) the glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "بَشَرًۭا",
+      "translation_bh": "",
+      "translation_en": "a man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْبُشْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "with glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَبَشَّرْنَـٰهَا",
+      "translation_bh": "",
+      "translation_en": "Then We gave her glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "يَـٰبُشْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "O good news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَشَرًا",
+      "translation_bh": "",
+      "translation_en": "a man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَشِيرُ",
+      "translation_bh": "",
+      "translation_en": "the bearer of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "نُبَشِّرُكَ",
+      "translation_bh": "",
+      "translation_en": "[we] bring glad tidings to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَبَشَّرْتُمُونِى",
+      "translation_bh": "",
+      "translation_en": "Do you give me glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُبَشِّرُونَ",
+      "translation_bh": "",
+      "translation_en": "you give glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَشَّرْنَـٰكَ",
+      "translation_bh": "",
+      "translation_en": "We give you glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "بُشِّرَ",
+      "translation_bh": "",
+      "translation_en": "is given good news"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَشَرٌۭ ۗ",
+      "translation_bh": "",
+      "translation_en": "a human being"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُبَشِّرُ",
+      "translation_bh": "",
+      "translation_en": "and gives glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُبَشِّرًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a bearer of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَيُبَشِّرَ",
+      "translation_bh": "",
+      "translation_en": "and give glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَشَرِ",
+      "translation_bh": "",
+      "translation_en": "human being"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتُبَشِّرَ",
+      "translation_bh": "",
+      "translation_en": "that you may give glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِبَشَرٍۢ",
+      "translation_bh": "",
+      "translation_en": "for any man"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِبَشَرَيْنِ",
+      "translation_bh": "",
+      "translation_en": "(in) two men"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُبَشِّرَٰتٍۢ",
+      "translation_bh": "",
+      "translation_en": "(as) bearers of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "فَبَشِّرْهُ",
+      "translation_bh": "",
+      "translation_en": "So give him tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمُبَشِّرًۭا",
+      "translation_bh": "",
+      "translation_en": "and a bearer of glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَبَشَّرْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "So We gave him the glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَشَّرْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "And We gave him glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبُشْرَىٰ ۚ",
+      "translation_bh": "",
+      "translation_en": "(are) glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَبَشِّرْ",
+      "translation_bh": "",
+      "translation_en": "So give glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبْشِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَبْشِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "but receive the glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُبَشِّرُ",
+      "translation_bh": "",
+      "translation_en": "Allah gives glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشِّرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَبَشَّرُوهُ",
+      "translation_bh": "",
+      "translation_en": "and they gave him glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَشَرًۭا",
+      "translation_bh": "",
+      "translation_en": "Is (it) a human being"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بُشْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بُشْرَىٰكُمُ",
+      "translation_bh": "",
+      "translation_en": "Glad tidings for you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُبَشِّر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمُبَشِّرًۢا",
+      "translation_bh": "",
+      "translation_en": "and bringing glad tidings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَبَشَرٌۭ",
+      "translation_bh": "",
+      "translation_en": "Shall human beings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لِّلْبَشَرِ",
+      "translation_bh": "",
+      "translation_en": "the human (skin)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَشَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِلْبَشَرِ",
+      "translation_bh": "",
+      "translation_en": "to (the) human beings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَبْشِرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْتَبْشِرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "rejoicing at good news"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "description_bh": "",
+  "id": 783,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لَمَسُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَمِسُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لمس",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لَمَسُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "لَـٰمَسْتُمُ",
+      "translation_bh": "",
+      "translation_en": "you have touched"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَمَسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَلَمَسُوهُ",
+      "translation_bh": "",
+      "translation_en": "and they touched it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "الْتَمِسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱلْتَمِسُوا۟",
+      "translation_bh": "",
+      "translation_en": "and seek"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَمَسُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَمَسْنَا",
+      "translation_bh": "",
+      "translation_en": "sought to touch"
+    }
+  ]
+}

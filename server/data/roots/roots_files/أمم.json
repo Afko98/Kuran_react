@@ -1,0 +1,527 @@
+{
+  "description_bh": "",
+  "id": 98,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "أُمِّيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "آمّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمام",
+      "translation_bh": ""
+    }
+  ],
+  "root": "أمم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "أُمِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمِّيُّونَ",
+      "translation_bh": "",
+      "translation_en": "(are) unlettered ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِمَامًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "a leader"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "أُمَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "a community"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "أُمَّةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(was) a community"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُمُّ",
+      "translation_bh": "",
+      "translation_en": "the foundation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْأُمِّيِّـۧنَ",
+      "translation_bh": "",
+      "translation_en": "and the unlettered people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمِّيّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْأُمِّيِّـۧنَ",
+      "translation_bh": "",
+      "translation_en": "the unlettered people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 8,
+      "part_of_speech": "N",
+      "text": "أُمَّةٍ",
+      "translation_bh": "",
+      "translation_en": "(of) people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَلِأُمِّهِ",
+      "translation_bh": "",
+      "translation_en": "then for his mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّهَـٰتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(are) your mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمَّهَـٰتُكُمُ",
+      "translation_bh": "",
+      "translation_en": "and (the) mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمَّهَـٰتُ",
+      "translation_bh": "",
+      "translation_en": "and mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُمَّةٍۭ",
+      "translation_bh": "",
+      "translation_en": "nation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "آمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ءَآمِّينَ",
+      "translation_bh": "",
+      "translation_en": "(those) coming"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمَّهُۥ",
+      "translation_bh": "",
+      "translation_en": "and his mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "And his mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمِّىَ",
+      "translation_bh": "",
+      "translation_en": "and my mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَمٌ",
+      "translation_bh": "",
+      "translation_en": "(are) communities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "أُمَمٍۢ",
+      "translation_bh": "",
+      "translation_en": "nations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أُمَّ",
+      "translation_bh": "",
+      "translation_en": "(the) mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُمِّىَّ",
+      "translation_bh": "",
+      "translation_en": "the unlettered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمِّيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُمِّىِّ",
+      "translation_bh": "",
+      "translation_en": "the unlettered"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَمًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) communities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَمًۭا ۖ",
+      "translation_bh": "",
+      "translation_en": "(as) nations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَئِمَّةَ",
+      "translation_bh": "",
+      "translation_en": "the leaders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "أُمَّةٍۢ",
+      "translation_bh": "",
+      "translation_en": "nation"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "إِمَامًۭا",
+      "translation_bh": "",
+      "translation_en": "(as) a guide"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمَمٌۭ",
+      "translation_bh": "",
+      "translation_en": "But (to other) nations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُمَمٌۭ",
+      "translation_bh": "",
+      "translation_en": "nations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَبِإِمَامٍۢ",
+      "translation_bh": "",
+      "translation_en": "(were) on a highway"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أُمَّهَـٰتِكُمْ",
+      "translation_bh": "",
+      "translation_en": "(of) your mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّةٌ",
+      "translation_bh": "",
+      "translation_en": "a community"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّةٍ ۚ",
+      "translation_bh": "",
+      "translation_en": "(another) community"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِإِمَـٰمِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "with their record"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمُّكِ",
+      "translation_bh": "",
+      "translation_en": "your mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُمِّكَ",
+      "translation_bh": "",
+      "translation_en": "your mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "أَئِمَّةًۭ",
+      "translation_bh": "",
+      "translation_en": "leaders"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُمَّتُكُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) your religion "
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمَّهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "and his mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِمَامًا",
+      "translation_bh": "",
+      "translation_en": "a leader"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "أُمِّ",
+      "translation_bh": "",
+      "translation_en": "(the) mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمِّهِۦ",
+      "translation_bh": "",
+      "translation_en": "his mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمِّهَا",
+      "translation_bh": "",
+      "translation_en": "their mother (town)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "أُمُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "his mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّهَـٰتِكُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "(as) your mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّهَـٰتُهُمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "(are) their mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْأُمَمِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) the nations"
+    },
+    {
+      "description_bh": "",
+      "lemma": "إِمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "إِمَامٍۢ",
+      "translation_bh": "",
+      "translation_en": "a Register"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّهَـٰتِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) your mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّهَـٰتِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "(are) their mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أُمَّهَـٰتُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(are) their mothers"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَمام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَمَامَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(to) what is before him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأُمِّهِۦ",
+      "translation_bh": "",
+      "translation_en": "And his mother"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُمّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَأُمُّهُۥ",
+      "translation_bh": "",
+      "translation_en": "His abode"
+    }
+  ]
+}

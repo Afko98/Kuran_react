@@ -1,0 +1,502 @@
+{
+  "description_bh": "",
+  "id": 158,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَنَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكِينَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِكِّين",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْكَن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكُونَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساكِن",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سكن",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْكُنْ",
+      "translation_bh": "",
+      "translation_en": "Dwell"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَسْكَنَةُ",
+      "translation_bh": "",
+      "translation_en": "and the misery"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَسَـٰكِينِ",
+      "translation_bh": "",
+      "translation_en": "and the needy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَسَـٰكِينَ",
+      "translation_bh": "",
+      "translation_en": "and the needy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِسْكِينٍۢ ۖ",
+      "translation_bh": "",
+      "translation_en": "a poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكِينَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَكِينَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) tranquility"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَنَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَسْكَنَةُ ۚ",
+      "translation_bh": "",
+      "translation_en": "the poverty"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَسَـٰكِينُ",
+      "translation_bh": "",
+      "translation_en": "and the poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَسَـٰكِينَ",
+      "translation_bh": "",
+      "translation_en": "needy people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَكَنَ",
+      "translation_bh": "",
+      "translation_en": "dwells"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "سَكَنًۭا",
+      "translation_bh": "",
+      "translation_en": "(for) rest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱسْكُنُوا۟",
+      "translation_bh": "",
+      "translation_en": "Live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَسْكُنَ",
+      "translation_bh": "",
+      "translation_en": "that he might live"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَسَـٰكِنُ",
+      "translation_bh": "",
+      "translation_en": "and the dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكِينَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "سَكِينَتَهُۥ",
+      "translation_bh": "",
+      "translation_en": "His tranquility"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَمَسَـٰكِنَ",
+      "translation_bh": "",
+      "translation_en": "and dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَكَنٌۭ",
+      "translation_bh": "",
+      "translation_en": "(are a) reassurance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لِتَسْكُنُوا۟",
+      "translation_bh": "",
+      "translation_en": "that you may rest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِكِّين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِكِّينًۭا",
+      "translation_bh": "",
+      "translation_en": "a knife"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلَنُسْكِنَنَّكُمُ",
+      "translation_bh": "",
+      "translation_en": "And surely We will make you dwell"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْكَنتُ",
+      "translation_bh": "",
+      "translation_en": "[I] have settled"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَسَكَنتُمْ",
+      "translation_bh": "",
+      "translation_en": "And you dwelt"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسَـٰكِنِ",
+      "translation_bh": "",
+      "translation_en": "the dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَٱلْمِسْكِينَ",
+      "translation_bh": "",
+      "translation_en": "and the needy"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِمَسَـٰكِينَ",
+      "translation_bh": "",
+      "translation_en": "of (the) poor people"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسَـٰكِنِهِمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "their dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَمَسَـٰكِنِكُمْ",
+      "translation_bh": "",
+      "translation_en": "and to your homes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَسْكَنَّـٰهُ",
+      "translation_bh": "",
+      "translation_en": "then We cause it to settle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكُونَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسْكُونَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "inhabited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ساكِن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَاكِنًۭا",
+      "translation_bh": "",
+      "translation_en": "stationary"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسَـٰكِنَكُمْ",
+      "translation_bh": "",
+      "translation_en": "your dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِيَسْكُنُوا۟",
+      "translation_bh": "",
+      "translation_en": "that they may rest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسَـٰكِنُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(are) their dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسْكَن",
+      "translation_bh": "",
+      "translation_en": "have been inhabited"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَسْكُنُونَ",
+      "translation_bh": "",
+      "translation_en": "(for) you (to) rest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّسَـٰكِنِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "their dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِّتَسْكُنُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "that you may find tranquility"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسَـٰكِنِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسْكَنِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their dwelling place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُسْكِنِ",
+      "translation_bh": "",
+      "translation_en": "He can cause the wind to become still"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَسَـٰكِنُهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their dwellings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكِينَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلسَّكِينَةَ",
+      "translation_bh": "",
+      "translation_en": "[the] tranquility"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِسْكِينًۭا ۚ",
+      "translation_bh": "",
+      "translation_en": "needy one(s)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَسْكَن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَسْكِنُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "Lodge them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَكَنَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "سَكَنتُم",
+      "translation_bh": "",
+      "translation_en": "you dwell"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّسْكِينٌۭ",
+      "translation_bh": "",
+      "translation_en": "any poor person"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْمِسْكِينِ",
+      "translation_bh": "",
+      "translation_en": "(of) the poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمِسْكِينَ",
+      "translation_bh": "",
+      "translation_en": "the poor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِسْكِين",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مِسْكِينًۭا",
+      "translation_bh": "",
+      "translation_en": "(to the) needy"
+    }
+  ]
+}

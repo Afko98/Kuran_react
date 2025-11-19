@@ -1,0 +1,80 @@
+{
+  "description_bh": "",
+  "id": 663,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "بَرْق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبارِيق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِقَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "برق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "بَرْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَبَرْقٌۭ",
+      "translation_bh": "",
+      "translation_en": "and lightning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْبَرْقُ",
+      "translation_bh": "",
+      "translation_en": "the lightning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرْق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْبَرْقَ",
+      "translation_bh": "",
+      "translation_en": "the lightning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرْق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بَرْقِهِۦ",
+      "translation_bh": "",
+      "translation_en": "(of) its lighting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَبارِيق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَبَارِيقَ",
+      "translation_bh": "",
+      "translation_en": "and jugs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "بَرِقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "بَرِقَ",
+      "translation_bh": "",
+      "translation_en": "is dazzled"
+    }
+  ]
+}

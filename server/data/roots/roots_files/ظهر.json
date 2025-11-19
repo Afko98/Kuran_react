@@ -1,0 +1,439 @@
+{
+  "description_bh": "",
+  "id": 184,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "تَظاهَرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهَرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْهَرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظِهْرِيّ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهِيرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِرَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ظهر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "تَظاهَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَظَـٰهَرُونَ",
+      "translation_bh": "",
+      "translation_en": "you support one another"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ظُهُورِهِمْ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُهُورِهَا",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُهُورِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُهُورِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "your backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَـٰهِرَ",
+      "translation_bh": "",
+      "translation_en": "open"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُهُورُهَا",
+      "translation_bh": "",
+      "translation_en": "(are) their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُهُورُهُمَآ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهَرَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "ظَهَرَ",
+      "translation_bh": "",
+      "translation_en": "(is) apparent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُظَـٰهِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they have supported"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَظْهَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "they gain dominance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْهَرَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "لِيُظْهِرَهُۥ",
+      "translation_bh": "",
+      "translation_en": "to manifest it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَظُهُورُهُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "and their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَظَهَرَ",
+      "translation_bh": "",
+      "translation_en": "and became manifest"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظِهْرِيّ",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظِهْرِيًّا ۖ",
+      "translation_bh": "",
+      "translation_en": "backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِظَـٰهِرٍۢ",
+      "translation_bh": "",
+      "translation_en": "of the apparent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهِير",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ظَهِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "assistants"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظَـٰهِرًۭا",
+      "translation_bh": "",
+      "translation_en": "obvious"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَظْهَرُوهُ",
+      "translation_bh": "",
+      "translation_en": "scale it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهِيرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلظَّهِيرَةِ",
+      "translation_bh": "",
+      "translation_en": "noon"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَظَـٰهَرَا",
+      "translation_bh": "",
+      "translation_en": "supporting each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُظْهِرُونَ",
+      "translation_bh": "",
+      "translation_en": "you are at noon"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظَـٰهِرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "apparent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُظَـٰهِرُونَ",
+      "translation_bh": "",
+      "translation_en": "you declare unlawful"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ظَـٰهَرُوهُم",
+      "translation_bh": "",
+      "translation_en": "backed them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَهِيرٍۢ",
+      "translation_bh": "",
+      "translation_en": "supporter"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَهْرِهَا",
+      "translation_bh": "",
+      "translation_en": "its back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُظْهِرَ",
+      "translation_bh": "",
+      "translation_en": "he may cause to appear"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ظَـٰهِرِينَ",
+      "translation_bh": "",
+      "translation_en": "dominant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَهْرِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "its back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظُهُورِهِۦ",
+      "translation_bh": "",
+      "translation_en": "their backs"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَظْهَرُونَ",
+      "translation_bh": "",
+      "translation_en": "they mount"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلظَّـٰهِرُ",
+      "translation_bh": "",
+      "translation_en": "and the Apparent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَظَـٰهِرُهُۥ",
+      "translation_bh": "",
+      "translation_en": "but its exterior"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهَرُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُظَـٰهِرُونَ",
+      "translation_bh": "",
+      "translation_en": "pronounce zihar"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظاهَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَظَـٰهَرُوا۟",
+      "translation_bh": "",
+      "translation_en": "and support"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَظْهَرَهُ",
+      "translation_bh": "",
+      "translation_en": "and made it apparent"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَظاهَرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَظَـٰهَرَا",
+      "translation_bh": "",
+      "translation_en": "you backup each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَهِيرٌ",
+      "translation_bh": "",
+      "translation_en": "(are his) assistants"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَظْهَرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُظْهِرُ",
+      "translation_bh": "",
+      "translation_en": "He reveals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَهْرِهِۦ",
+      "translation_bh": "",
+      "translation_en": "his back"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ظَهْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ظَهْرَكَ",
+      "translation_bh": "",
+      "translation_en": "your back"
+    }
+  ]
+}

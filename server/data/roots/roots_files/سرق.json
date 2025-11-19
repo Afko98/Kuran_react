@@ -1,0 +1,103 @@
+{
+  "description_bh": "",
+  "id": 621,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "سارِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سارِقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرَقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَرَقَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سرق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "سارِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّارِقُ",
+      "translation_bh": "",
+      "translation_en": "And (for) the male thief"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سارِقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلسَّارِقَةُ",
+      "translation_bh": "",
+      "translation_en": "and the female thief "
+    },
+    {
+      "description_bh": "",
+      "lemma": "سارِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَسَـٰرِقُونَ",
+      "translation_bh": "",
+      "translation_en": "surely (are) thieves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سارِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سَـٰرِقِينَ",
+      "translation_bh": "",
+      "translation_en": "thieves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْرِقْ",
+      "translation_bh": "",
+      "translation_en": "he steals "
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرَقَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "سَرَقَ",
+      "translation_bh": "",
+      "translation_en": "stole"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اسْتَرَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱسْتَرَقَ",
+      "translation_bh": "",
+      "translation_en": "steals"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سَرَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسْرِقْنَ",
+      "translation_bh": "",
+      "translation_en": "they will steal"
+    }
+  ]
+}

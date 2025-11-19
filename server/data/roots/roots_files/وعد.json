@@ -1,0 +1,655 @@
+{
+  "description_bh": "",
+  "id": 73,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "واعَدْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِيعاد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُوعِدُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَواعَد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِدَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعِيد",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعُود",
+      "translation_bh": ""
+    }
+  ],
+  "root": "وعد",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "واعَدْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَٰعَدْنَا",
+      "translation_bh": "",
+      "translation_en": "We appointed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واعَدْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُوَاعِدُوهُنَّ",
+      "translation_bh": "",
+      "translation_en": "promise them (widows)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَعِدُكُمُ",
+      "translation_bh": "",
+      "translation_en": "promises you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعِدُكُم",
+      "translation_bh": "",
+      "translation_en": "promises you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِيعاد",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْمِيعَادَ",
+      "translation_bh": "",
+      "translation_en": "the Promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعْدَهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "His promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدتَّنَا",
+      "translation_bh": "",
+      "translation_en": "You promised us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "وَعَدَ",
+      "translation_bh": "",
+      "translation_en": "promised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعِدُهُمْ",
+      "translation_bh": "",
+      "translation_en": "He promises them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَعِدُهُمُ",
+      "translation_bh": "",
+      "translation_en": "promises them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 17,
+      "part_of_speech": "N",
+      "text": "وَعْدَ",
+      "translation_bh": "",
+      "translation_en": "A Promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 12,
+      "part_of_speech": "V",
+      "text": "تُوعَدُونَ",
+      "translation_bh": "",
+      "translation_en": "you are promised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وَعَدَنَا",
+      "translation_bh": "",
+      "translation_en": "(had) promised us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَعِدُنَآ",
+      "translation_bh": "",
+      "translation_en": "you promise us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُوعِدُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُوعِدُونَ",
+      "translation_bh": "",
+      "translation_en": "threatening"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واعَدْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "۞ وَوَٰعَدْنَا",
+      "translation_bh": "",
+      "translation_en": "And We appointed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَواعَد",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَوَاعَدتُّمْ",
+      "translation_bh": "",
+      "translation_en": "you (had) made an appointment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِيعاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمِيعَـٰدِ ۙ",
+      "translation_bh": "",
+      "translation_en": "the appointment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدُوهُ",
+      "translation_bh": "",
+      "translation_en": "they had promised Him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "وَعْدًا",
+      "translation_bh": "",
+      "translation_en": "A promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِدَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّوْعِدَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "(of) a promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدَهَآ",
+      "translation_bh": "",
+      "translation_en": "he had promised it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "نَعِدُهُمْ",
+      "translation_bh": "",
+      "translation_en": "We promised them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "ٱلْوَعْدُ",
+      "translation_bh": "",
+      "translation_en": "the promise (be fulfilled)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْعِدُهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "(will be) his promised (meeting) place"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعْدَكَ",
+      "translation_bh": "",
+      "translation_en": "Your promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعْدٌ",
+      "translation_bh": "",
+      "translation_en": "(is) a promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْعِدَهُمُ",
+      "translation_bh": "",
+      "translation_en": "their appointed time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "وَعْدُ",
+      "translation_bh": "",
+      "translation_en": "(the) promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "وُعِدَ",
+      "translation_bh": "",
+      "translation_en": "(is) promised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعِيد",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَعِيدِ",
+      "translation_bh": "",
+      "translation_en": "My Threat"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدَكُمْ",
+      "translation_bh": "",
+      "translation_en": "promised you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَوَعَدتُّكُمْ",
+      "translation_bh": "",
+      "translation_en": "And I promised you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعْدِهِۦ",
+      "translation_bh": "",
+      "translation_en": "(to) keep His Promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَمَوْعِدُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) surely the promised place for them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَعْدًۭا",
+      "translation_bh": "",
+      "translation_en": "a promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعِدْهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "and promise them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَّوْعِدًۭا",
+      "translation_bh": "",
+      "translation_en": "an appointment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّوْعِدٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) an appointment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوَعْدِ",
+      "translation_bh": "",
+      "translation_en": "(to his) promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَعْدُهُۥ",
+      "translation_bh": "",
+      "translation_en": "His promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يُوعَدُونَ",
+      "translation_bh": "",
+      "translation_en": "they were promised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مَوْعِدًۭا",
+      "translation_bh": "",
+      "translation_en": "an appointment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْعِدُكُمْ",
+      "translation_bh": "",
+      "translation_en": "Your appointment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "واعَدْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَوَٰعَدْنَـٰكُمْ",
+      "translation_bh": "",
+      "translation_en": "and We made a covenant with you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعِدْكُمْ",
+      "translation_bh": "",
+      "translation_en": "promise you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَّوْعِدِى",
+      "translation_bh": "",
+      "translation_en": "(the) promise to me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْعِدَكَ",
+      "translation_bh": "",
+      "translation_en": "promise to you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعِيد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْوَعِيدِ",
+      "translation_bh": "",
+      "translation_en": "the warnings"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْوَعْدَ",
+      "translation_bh": "",
+      "translation_en": "the promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَعْدَهُۥ ۚ",
+      "translation_bh": "",
+      "translation_en": "(in) His Promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدَهَا",
+      "translation_bh": "",
+      "translation_en": "Allah (has) promised it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَيَعِدُكُمْ",
+      "translation_bh": "",
+      "translation_en": "Does he promise you "
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وُعِدْنَا",
+      "translation_bh": "",
+      "translation_en": "we have been promised"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدْنَـٰهُ",
+      "translation_bh": "",
+      "translation_en": "We have promised him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعْد",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَعْدَهُۥ",
+      "translation_bh": "",
+      "translation_en": "(in) His promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مِيعاد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مِّيعَادُ",
+      "translation_bh": "",
+      "translation_en": "(is the) appointment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعِدُ",
+      "translation_bh": "",
+      "translation_en": "promise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدتَّهُمْ",
+      "translation_bh": "",
+      "translation_en": "You have promised them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَعِدُكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "he threatens you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدْنَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "We have promised them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَتَعِدَانِنِىٓ",
+      "translation_bh": "",
+      "translation_en": "Do you promise me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعَدَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَعَدَكُمُ",
+      "translation_bh": "",
+      "translation_en": "Allah has promised you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَعِيد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِٱلْوَعِيدِ",
+      "translation_bh": "",
+      "translation_en": "the Warning"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعِد",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مَوْعِدُهُمْ",
+      "translation_bh": "",
+      "translation_en": "(is) their promised time"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَوْعُود",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَوْعُودِ",
+      "translation_bh": "",
+      "translation_en": "Promised"
+    }
+  ]
+}

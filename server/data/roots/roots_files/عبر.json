@@ -1,0 +1,85 @@
+{
+  "description_bh": "",
+  "id": 611,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "عِبْرَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "عابِرِي",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعْبُرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَبِرُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "عبر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "عِبْرَة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لَعِبْرَةًۭ",
+      "translation_bh": "",
+      "translation_en": "surely (is) a lesson"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عابِرِي",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عَابِرِى",
+      "translation_bh": "",
+      "translation_en": "(when) passing"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَعْبُرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَعْبُرُونَ",
+      "translation_bh": "",
+      "translation_en": "interpret"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِبْرَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "عِبْرَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "a lesson"
+    },
+    {
+      "description_bh": "",
+      "lemma": "عِبْرَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "لَعِبْرَةًۭ ۖ",
+      "translation_bh": "",
+      "translation_en": "(is) a lesson"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اعْتَبِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱعْتَبِرُوا۟",
+      "translation_bh": "",
+      "translation_en": "So take a lesson"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "description_bh": "",
+  "id": 364,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "جاهِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاهِلِيَّة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَهالَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَجْهَلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَهُول",
+      "translation_bh": ""
+    }
+  ],
+  "root": "جهل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "جاهِل",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْجَـٰهِلِينَ",
+      "translation_bh": "",
+      "translation_en": "the ignorant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاهِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَاهِلُ",
+      "translation_bh": "",
+      "translation_en": "the ignorant one"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاهِلِيَّة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْجَـٰهِلِيَّةِ ۖ",
+      "translation_bh": "",
+      "translation_en": "(of) [the] ignorance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَهالَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "بِجَهَـٰلَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "in ignorance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاهِلِيَّة",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "ٱلْجَـٰهِلِيَّةِ",
+      "translation_bh": "",
+      "translation_en": "(of the time of) ignorance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَجْهَلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَجْهَلُونَ",
+      "translation_bh": "",
+      "translation_en": "(are) ignorant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَجْهَلُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَجْهَلُونَ",
+      "translation_bh": "",
+      "translation_en": "ignorant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاهِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَـٰهِلُونَ",
+      "translation_bh": "",
+      "translation_en": "ignorant"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جاهِل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "ٱلْجَـٰهِلُونَ",
+      "translation_bh": "",
+      "translation_en": "the ignorant ones"
+    },
+    {
+      "description_bh": "",
+      "lemma": "جَهُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "جَهُولًۭا",
+      "translation_bh": "",
+      "translation_en": "ignorant"
+    }
+  ]
+}

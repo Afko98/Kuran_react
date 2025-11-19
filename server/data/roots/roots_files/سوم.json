@@ -1,0 +1,135 @@
+{
+  "description_bh": "",
+  "id": 460,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَسُومُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيما",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَوَّمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَوِّم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُسِيمُ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "سوم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَسُومُ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَسُومُونَكُمْ",
+      "translation_bh": "",
+      "translation_en": "(who were) afflicting you (with)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيما",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِسِيمَـٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "by their mark"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَوَّمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمُسَوَّمَةِ",
+      "translation_bh": "",
+      "translation_en": "[the] branded"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَوِّم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُسَوِّمِينَ",
+      "translation_bh": "",
+      "translation_en": "[the ones] having marks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيما",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسِيمَىٰهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "by their marks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيما",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسِيمَىٰهُمْ",
+      "translation_bh": "",
+      "translation_en": "by their marks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَسُومُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَسُومُهُمْ",
+      "translation_bh": "",
+      "translation_en": "would afflict them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسَوَّمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "مُّسَوَّمَةً",
+      "translation_bh": "",
+      "translation_en": "Marked"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تُسِيمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُسِيمُونَ",
+      "translation_bh": "",
+      "translation_en": "you pasture your cattle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيما",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِسِيمَـٰهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "by their marks"
+    },
+    {
+      "description_bh": "",
+      "lemma": "سِيما",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "سِيمَاهُمْ",
+      "translation_bh": "",
+      "translation_en": "Their mark"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "description_bh": "",
+  "id": 779,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "لِن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَيِّن",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِينَة",
+      "translation_bh": ""
+    }
+  ],
+  "root": "لين",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "لِن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِنتَ",
+      "translation_bh": "",
+      "translation_en": "you dealt gently"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لَيِّن",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لَّيِّنًۭا",
+      "translation_bh": "",
+      "translation_en": "gentle"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَلَنَّا",
+      "translation_bh": "",
+      "translation_en": "And We made pliable"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِن",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَلِينُ",
+      "translation_bh": "",
+      "translation_en": "relax"
+    },
+    {
+      "description_bh": "",
+      "lemma": "لِينَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِّينَةٍ",
+      "translation_bh": "",
+      "translation_en": "(the) palm-trees"
+    }
+  ]
+}

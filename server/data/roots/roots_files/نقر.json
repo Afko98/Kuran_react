@@ -1,0 +1,62 @@
+{
+  "description_bh": "",
+  "id": 861,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "نَقِير",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُقِرَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناقُور",
+      "translation_bh": ""
+    }
+  ],
+  "root": "نقر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "نَقِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَقِيرًا",
+      "translation_bh": "",
+      "translation_en": "(even as much as the) speck on a date seed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نَقِير",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "نَقِيرًۭا",
+      "translation_bh": "",
+      "translation_en": "(even as much as) the speck on a date-seed"
+    },
+    {
+      "description_bh": "",
+      "lemma": "نُقِرَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نُقِرَ",
+      "translation_bh": "",
+      "translation_en": "is blown"
+    },
+    {
+      "description_bh": "",
+      "lemma": "ناقُور",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلنَّاقُورِ",
+      "translation_bh": "",
+      "translation_en": "the trumpet"
+    }
+  ]
+}

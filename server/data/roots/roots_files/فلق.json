@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 874,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "فالِق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَلَقَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَلَق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "فلق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "فالِق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "فَالِقُ",
+      "translation_bh": "",
+      "translation_en": "(is the) Cleaver"
+    },
+    {
+      "description_bh": "",
+      "lemma": "انفَلَقَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَٱنفَلَقَ",
+      "translation_bh": "",
+      "translation_en": "So it parted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "فَلَق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْفَلَقِ",
+      "translation_bh": "",
+      "translation_en": "(of) the dawn"
+    }
+  ]
+}

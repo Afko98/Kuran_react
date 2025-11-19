@@ -1,0 +1,611 @@
+{
+  "description_bh": "",
+  "id": 44,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكّام",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْكَمَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَحاكَمُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحَكِّمُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاكِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُحْكِمَتْ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْكَم",
+      "translation_bh": ""
+    }
+  ],
+  "root": "حكم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "occurrences": 33,
+      "part_of_speech": "N",
+      "text": "ٱلْحَكِيمُ",
+      "translation_bh": "",
+      "translation_en": "the All-Wise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 10,
+      "part_of_speech": "V",
+      "text": "يَحْكُمُ",
+      "translation_bh": "",
+      "translation_en": "will judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "وَٱلْحِكْمَةَ",
+      "translation_bh": "",
+      "translation_en": "and the wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكّام",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُكَّامِ",
+      "translation_bh": "",
+      "translation_en": "the authorities"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "حَكِيمٌ",
+      "translation_bh": "",
+      "translation_en": "All-Wise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "لِيَحْكُمَ",
+      "translation_bh": "",
+      "translation_en": "to judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "occurrences": 21,
+      "part_of_speech": "N",
+      "text": "حَكِيمٌۭ",
+      "translation_bh": "",
+      "translation_en": "All-Wise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْحِكْمَةِ",
+      "translation_bh": "",
+      "translation_en": "and [the] wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "ٱلْحِكْمَةَ",
+      "translation_bh": "",
+      "translation_en": "[the] wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْكَمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّحْكَمَـٰتٌ",
+      "translation_bh": "",
+      "translation_en": "absolutely clear "
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَحْكُمُ",
+      "translation_bh": "",
+      "translation_en": "and I will judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "ٱلْحَكِيمِ",
+      "translation_bh": "",
+      "translation_en": "[the] Wise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "وَٱلْحُكْمَ",
+      "translation_bh": "",
+      "translation_en": "and the wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحِكْمَةٍۢ",
+      "translation_bh": "",
+      "translation_en": "and wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "حَكِيمًۭا",
+      "translation_bh": "",
+      "translation_en": "All-Wise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَكَمًۭا",
+      "translation_bh": "",
+      "translation_en": "an arbitrator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَحَكَمًۭا",
+      "translation_bh": "",
+      "translation_en": "and an arbitrator"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَكَمْتُم",
+      "translation_bh": "",
+      "translation_en": "you judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْكُمُوا۟",
+      "translation_bh": "",
+      "translation_en": "judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَتَحاكَمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَحَاكَمُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "go for judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحَكِّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَكِّمُوكَ",
+      "translation_bh": "",
+      "translation_en": "they make you judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حَكِيمًا",
+      "translation_bh": "",
+      "translation_en": "All-Wise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لِتَحْكُمَ",
+      "translation_bh": "",
+      "translation_en": "so that you may judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 5,
+      "part_of_speech": "V",
+      "text": "فَٱحْكُم",
+      "translation_bh": "",
+      "translation_en": "then judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَكَمْتَ",
+      "translation_bh": "",
+      "translation_en": "you judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُحَكِّمُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحَكِّمُونَكَ",
+      "translation_bh": "",
+      "translation_en": "they appoint you a judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "حُكْمُ",
+      "translation_bh": "",
+      "translation_en": "(is the) Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَحْكُم",
+      "translation_bh": "",
+      "translation_en": "judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَلْيَحْكُمْ",
+      "translation_bh": "",
+      "translation_en": "And let judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "ٱحْكُم",
+      "translation_bh": "",
+      "translation_en": "you judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَفَحُكْمَ",
+      "translation_bh": "",
+      "translation_en": "Is it then the judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "حُكْمًۭا",
+      "translation_bh": "",
+      "translation_en": "(in) judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "ٱلْحُكْمُ",
+      "translation_bh": "",
+      "translation_en": "(is) the decision"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "يَحْكُمُونَ",
+      "translation_bh": "",
+      "translation_en": "they judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 3,
+      "part_of_speech": "V",
+      "text": "يَحْكُمَ",
+      "translation_bh": "",
+      "translation_en": "judges"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حاكِم",
+      "occurrences": 5,
+      "part_of_speech": "N",
+      "text": "ٱلْحَـٰكِمِينَ",
+      "translation_bh": "",
+      "translation_en": "(of) [the] Judges"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَحْكُمُونَ",
+      "translation_bh": "",
+      "translation_en": "you judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُحْكِمَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أُحْكِمَتْ",
+      "translation_bh": "",
+      "translation_en": "are perfected"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكِيم",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "حَكِيمٍ",
+      "translation_bh": "",
+      "translation_en": "(is) All-Wise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْكَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "أَحْكَمُ",
+      "translation_bh": "",
+      "translation_en": "(are) the Most Just"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُكْمًا",
+      "translation_bh": "",
+      "translation_en": "(to be) a judgment of authority"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِحُكْمِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) His Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "لَيَحْكُمُ",
+      "translation_bh": "",
+      "translation_en": "will surely judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "بِٱلْحِكْمَةِ",
+      "translation_bh": "",
+      "translation_en": "with the wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحِكْمَةِ ۗ",
+      "translation_bh": "",
+      "translation_en": "the wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حُكْمِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "His Commands"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْحُكْمَ",
+      "translation_bh": "",
+      "translation_en": "[the] wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَحْكُمَانِ",
+      "translation_bh": "",
+      "translation_en": "they judged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِحُكْمِهِمْ",
+      "translation_bh": "",
+      "translation_en": "to their judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أُحْكِمَتْ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُحْكِمُ",
+      "translation_bh": "",
+      "translation_en": "Allah will establish"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِحُكْمِهِۦ ۚ",
+      "translation_bh": "",
+      "translation_en": "by His Judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْحِكْمَةِ ۚ",
+      "translation_bh": "",
+      "translation_en": "and the wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَحْكُمُ",
+      "translation_bh": "",
+      "translation_en": "will judge"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَٱلْحُكْمُ",
+      "translation_bh": "",
+      "translation_en": "So the judgment"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حَكَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "حَكَمَ",
+      "translation_bh": "",
+      "translation_en": "has judged"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "فَحُكْمُهُۥٓ",
+      "translation_bh": "",
+      "translation_en": "then its ruling"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُحْكَمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّحْكَمَةٌۭ",
+      "translation_bh": "",
+      "translation_en": "precise"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حُكْم",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "لِحُكْمِ",
+      "translation_bh": "",
+      "translation_en": "for (the) Command"
+    },
+    {
+      "description_bh": "",
+      "lemma": "حِكْمَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "حِكْمَةٌۢ",
+      "translation_bh": "",
+      "translation_en": "Wisdom"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَحْكَم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِأَحْكَمِ",
+      "translation_bh": "",
+      "translation_en": "(the) Most Just"
+    }
+  ]
+}

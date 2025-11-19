@@ -1,0 +1,742 @@
+{
+  "description_bh": "",
+  "id": 28,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْبَلُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبْلَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبَل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبُول",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُبُل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبِيل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَقابِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قابِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقْبِل",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبائِل",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قبل",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 24,
+      "part_of_speech": "N",
+      "text": "قَبْلِكَ",
+      "translation_bh": "",
+      "translation_en": "before you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "قَبْلِكُمْ",
+      "translation_bh": "",
+      "translation_en": "before you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 14,
+      "part_of_speech": "N",
+      "text": "قَبْلُ ۖ",
+      "translation_bh": "",
+      "translation_en": "before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْبَلُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُقْبَلُ",
+      "translation_bh": "",
+      "translation_en": "will be accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 44,
+      "part_of_speech": "N",
+      "text": "قَبْلُ",
+      "translation_bh": "",
+      "translation_en": "before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَبْلُ ۗ",
+      "translation_bh": "",
+      "translation_en": "before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 7,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِم",
+      "translation_bh": "",
+      "translation_en": "before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقَبَّلْ",
+      "translation_bh": "",
+      "translation_en": "Accept"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِبْلَتِهِمُ",
+      "translation_bh": "",
+      "translation_en": "their direction of prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْقِبْلَةَ",
+      "translation_bh": "",
+      "translation_en": "the direction of prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبْلَة",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قِبْلَةًۭ",
+      "translation_bh": "",
+      "translation_en": "(to the) direction of prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِبْلَتَكَ ۚ",
+      "translation_bh": "",
+      "translation_en": "your direction of prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِبْلَتَهُمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) their direction of prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبْلَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِبْلَةَ",
+      "translation_bh": "",
+      "translation_en": "(of the) direction of prayer"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبَل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قِبَلَ",
+      "translation_bh": "",
+      "translation_en": "towards"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 11,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِۦ",
+      "translation_bh": "",
+      "translation_en": "before [it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِكُم ۖ",
+      "translation_bh": "",
+      "translation_en": "before you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 25,
+      "part_of_speech": "N",
+      "text": "قَبْلِ",
+      "translation_bh": "",
+      "translation_en": "before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِنَا ۚ",
+      "translation_bh": "",
+      "translation_en": "before us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِمْ ۚ",
+      "translation_bh": "",
+      "translation_en": "before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَقَبَّلْ",
+      "translation_bh": "",
+      "translation_en": "so accept"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتَقَبَّلَهَا",
+      "translation_bh": "",
+      "translation_en": "So accepted her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبُول",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِقَبُولٍ",
+      "translation_bh": "",
+      "translation_en": "with acceptance"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْبَلُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يُقْبَلَ",
+      "translation_bh": "",
+      "translation_en": "will be accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْبَلُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "تُقْبَلَ",
+      "translation_bh": "",
+      "translation_en": "will be accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِ",
+      "translation_bh": "",
+      "translation_en": "before him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَبْلِى",
+      "translation_bh": "",
+      "translation_en": "before me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 10,
+      "part_of_speech": "N",
+      "text": "قَبْلُ ۚ",
+      "translation_bh": "",
+      "translation_en": "before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 20,
+      "part_of_speech": "N",
+      "text": "قَبْلَ",
+      "translation_bh": "",
+      "translation_en": "before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "قَبْلِكَ ۚ",
+      "translation_bh": "",
+      "translation_en": "before you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَتُقُبِّلَ",
+      "translation_bh": "",
+      "translation_en": "and it was accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُتَقَبَّلْ",
+      "translation_bh": "",
+      "translation_en": "was accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَتَقَبَّلُ",
+      "translation_bh": "",
+      "translation_en": "accepts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تُقُبِّلَ",
+      "translation_bh": "",
+      "translation_en": "will be accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُبُل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قُبُلًۭا",
+      "translation_bh": "",
+      "translation_en": "face to face"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 13,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِمْ",
+      "translation_bh": "",
+      "translation_en": "before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِنَا",
+      "translation_bh": "",
+      "translation_en": "before us"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَبِيلُهُۥ",
+      "translation_bh": "",
+      "translation_en": "and his tribe"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَبْلِكُم",
+      "translation_bh": "",
+      "translation_en": "before you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُتَقَبَّلَ",
+      "translation_bh": "",
+      "translation_en": "will be accepted"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْبَلُ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "يَقْبَلُ",
+      "translation_bh": "",
+      "translation_en": "(Who) accepts"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِۦٓ ۚ",
+      "translation_bh": "",
+      "translation_en": "before it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قُبُل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قُبُلٍۢ",
+      "translation_bh": "",
+      "translation_en": "the front"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَأَقْبَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "turning towards"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَقْبَلْنَا",
+      "translation_bh": "",
+      "translation_en": "we returned"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِمْ ۗ",
+      "translation_bh": "",
+      "translation_en": "(were) before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِمُ",
+      "translation_bh": "",
+      "translation_en": "before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِهَآ",
+      "translation_bh": "",
+      "translation_en": "before it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "وَتَقَبَّلْ",
+      "translation_bh": "",
+      "translation_en": "and accept"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَقابِل",
+      "occurrences": 3,
+      "part_of_speech": "N",
+      "text": "مُّتَقَـٰبِلِينَ",
+      "translation_bh": "",
+      "translation_en": "facing each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 4,
+      "part_of_speech": "N",
+      "text": "قَبْلَكَ",
+      "translation_bh": "",
+      "translation_en": "before you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبِيل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبِيلًا",
+      "translation_bh": "",
+      "translation_en": "before (us)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِهِۦٓ",
+      "translation_bh": "",
+      "translation_en": "before it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 6,
+      "part_of_speech": "N",
+      "text": "قَبْلَهُم",
+      "translation_bh": "",
+      "translation_en": "before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَقَبْلَ",
+      "translation_bh": "",
+      "translation_en": "and before"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِى ۗ",
+      "translation_bh": "",
+      "translation_en": "(were) before me"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 9,
+      "part_of_speech": "N",
+      "text": "قَبْلَهُمْ",
+      "translation_bh": "",
+      "translation_en": "before them"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَقْبَلُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "تَقْبَلُوا۟",
+      "translation_bh": "",
+      "translation_en": "accept"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِهَا",
+      "translation_bh": "",
+      "translation_en": "before her"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "أَقْبِلْ",
+      "translation_bh": "",
+      "translation_en": "Draw near"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلِكُمْ ۖ",
+      "translation_bh": "",
+      "translation_en": "before you"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "وَأَقْبَلَ",
+      "translation_bh": "",
+      "translation_en": "And will approach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "occurrences": 2,
+      "part_of_speech": "V",
+      "text": "فَأَقْبَلَ",
+      "translation_bh": "",
+      "translation_en": "And (will) approach"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَقْبَلُوٓا۟",
+      "translation_bh": "",
+      "translation_en": "Then they advanced"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قابِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَابِلِ",
+      "translation_bh": "",
+      "translation_en": "and (the) Acceptor"
+    },
+    {
+      "description_bh": "",
+      "lemma": "تَقَبَّلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "نَتَقَبَّلُ",
+      "translation_bh": "",
+      "translation_en": "We will accept"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُسْتَقْبِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّسْتَقْبِلَ",
+      "translation_bh": "",
+      "translation_en": "approaching"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبائِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَقَبَآئِلَ",
+      "translation_bh": "",
+      "translation_en": "and tribes"
+    },
+    {
+      "description_bh": "",
+      "lemma": "أَقْبَلَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "فَأَقْبَلَتِ",
+      "translation_bh": "",
+      "translation_en": "Then came forward"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مُتَقابِل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُتَقَـٰبِلِينَ",
+      "translation_bh": "",
+      "translation_en": "facing each other"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِبَلِهِ",
+      "translation_bh": "",
+      "translation_en": "facing towards [it]"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قَبْل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قَبْلَهُۥ",
+      "translation_bh": "",
+      "translation_en": "before him"
+    },
+    {
+      "description_bh": "",
+      "lemma": "قِبَل",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "قِبَلَكَ",
+      "translation_bh": "",
+      "translation_en": "before you"
+    }
+  ]
+}

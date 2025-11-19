@@ -1,0 +1,39 @@
+{
+  "description_bh": "",
+  "id": 1218,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "مُقْتَحِم",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "اقْتَحَمَ",
+      "translation_bh": ""
+    }
+  ],
+  "root": "قحم",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "مُقْتَحِم",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "مُّقْتَحِمٌۭ",
+      "translation_bh": "",
+      "translation_en": "bursting"
+    },
+    {
+      "description_bh": "",
+      "lemma": "اقْتَحَمَ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "ٱقْتَحَمَ",
+      "translation_bh": "",
+      "translation_en": "he has attempted"
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "description_bh": "",
+  "id": 869,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "وَرَقَة",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرَق",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرِق",
+      "translation_bh": ""
+    }
+  ],
+  "root": "ورق",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "وَرَقَة",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَرَقَةٍ",
+      "translation_bh": "",
+      "translation_en": "any leaf"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرَق",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "وَرَقِ",
+      "translation_bh": "",
+      "translation_en": "(the) leaves"
+    },
+    {
+      "description_bh": "",
+      "lemma": "وَرِق",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "بِوَرِقِكُمْ",
+      "translation_bh": "",
+      "translation_en": "with this silver coin of yours"
+    }
+  ]
+}

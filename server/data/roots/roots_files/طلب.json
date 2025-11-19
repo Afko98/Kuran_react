@@ -1,0 +1,67 @@
+{
+  "description_bh": "",
+  "id": 880,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَطْلُبُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "طالِب",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْلُوب",
+      "translation_bh": ""
+    }
+  ],
+  "root": "طلب",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَطْلُبُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يَطْلُبُهُۥ",
+      "translation_bh": "",
+      "translation_en": "seeking it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طَلَب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "طَلَبًۭا",
+      "translation_bh": "",
+      "translation_en": "to find it"
+    },
+    {
+      "description_bh": "",
+      "lemma": "طالِب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلطَّالِبُ",
+      "translation_bh": "",
+      "translation_en": "(are) the seeker"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَطْلُوب",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلْمَطْلُوبُ",
+      "translation_bh": "",
+      "translation_en": "and the one who is sought"
+    }
+  ]
+}

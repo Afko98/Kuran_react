@@ -1,0 +1,181 @@
+{
+  "description_bh": "",
+  "id": 240,
+  "lemmas": [
+    {
+      "description_bh": "",
+      "lemma": "يَشْعُرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَعائِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْعَر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُشْعِرُ",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِعْر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاعِر",
+      "translation_bh": ""
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِعْرَى",
+      "translation_bh": ""
+    }
+  ],
+  "root": "شعر",
+  "translation_bh": "",
+  "translation_en": "",
+  "words": [
+    {
+      "description_bh": "",
+      "lemma": "يَشْعُرُ",
+      "occurrences": 21,
+      "part_of_speech": "V",
+      "text": "يَشْعُرُونَ",
+      "translation_bh": "",
+      "translation_en": "they realize (it)"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يَشْعُرُ",
+      "occurrences": 4,
+      "part_of_speech": "V",
+      "text": "تَشْعُرُونَ",
+      "translation_bh": "",
+      "translation_en": "perceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَعائِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَعَآئِرِ",
+      "translation_bh": "",
+      "translation_en": "(the) symbols"
+    },
+    {
+      "description_bh": "",
+      "lemma": "مَشْعَر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلْمَشْعَرِ",
+      "translation_bh": "",
+      "translation_en": "the Monument"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَعائِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَعَـٰٓئِرَ",
+      "translation_bh": "",
+      "translation_en": "(the) rites"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُشْعِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُشْعِرُكُمْ",
+      "translation_bh": "",
+      "translation_en": "will make you perceive"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِعْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَأَشْعَارِهَآ",
+      "translation_bh": "",
+      "translation_en": "and their hair"
+    },
+    {
+      "description_bh": "",
+      "lemma": "يُشْعِرُ",
+      "occurrences": 1,
+      "part_of_speech": "V",
+      "text": "يُشْعِرَنَّ",
+      "translation_bh": "",
+      "translation_en": "And let not be aware"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاعِر",
+      "occurrences": 2,
+      "part_of_speech": "N",
+      "text": "شَاعِرٌۭ",
+      "translation_bh": "",
+      "translation_en": "(is) a poet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شَعائِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَعَـٰٓئِرِ",
+      "translation_bh": "",
+      "translation_en": "(the) Symbols"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاعِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "وَٱلشُّعَرَآءُ",
+      "translation_bh": "",
+      "translation_en": "And the poets "
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِعْر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشِّعْرَ",
+      "translation_bh": "",
+      "translation_en": "[the] poetry"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاعِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "لِشَاعِرٍۢ",
+      "translation_bh": "",
+      "translation_en": "for a poet"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شِعْرَى",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "ٱلشِّعْرَىٰ",
+      "translation_bh": "",
+      "translation_en": "(of) Sirius"
+    },
+    {
+      "description_bh": "",
+      "lemma": "شاعِر",
+      "occurrences": 1,
+      "part_of_speech": "N",
+      "text": "شَاعِرٍۢ ۚ",
+      "translation_bh": "",
+      "translation_en": "(of) a poet"
+    }
+  ]
+}
