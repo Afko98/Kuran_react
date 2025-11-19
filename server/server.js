@@ -9,13 +9,13 @@ const PORT = process.env.PORT || 3000;
 app.use(express.json());
 
 // Routes
-const quranRoots = require('./routes/root');
-const quranSurah = require('./routes/surah');
+const quranRoots = require('./routes/roots');
+const quranChapter = require('./routes/chapter');
 const quranPage = require('./routes/page');
 const quranTefsir = require('./routes/tefsir');
 
 app.use('/api/root', quranRoots);
-app.use('/api/surah', quranSurah);
+app.use('/api/chapter', quranChapter);
 app.use('/api/page', quranPage);
 app.use('/api/tefsir', quranTefsir);
 

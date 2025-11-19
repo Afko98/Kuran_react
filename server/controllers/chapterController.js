@@ -1,10 +1,10 @@
 const fs = require('fs').promises;
 const path = require('path');
 
-const getTefsir = async (req, res) => {
-    const tefsir = req.query.tefsir_of_chapter;
+const getChapter = async (req, res) => {
+    const chapter = req.query.chapter;
 
-    const filePath = path.join(__dirname, '..', 'data', 'tefsir', `${tefsir}.html`);
+    const filePath = path.join(__dirname, '..', 'data', 'chapters', `${chapter}.json`);
 
     try {
         const data = await fs.readFile(filePath, 'utf8');
@@ -14,4 +14,4 @@ const getTefsir = async (req, res) => {
     }
 }
 
-module.exports = { getTefsir };
+module.exports = { getChapter };
