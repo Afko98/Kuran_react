@@ -61,7 +61,7 @@ def transfer_translations(chapters_file, roots_file, output_file):
 if __name__ == "__main__":
     # File paths
     chapters_file = "../templates/template_full_chapters.json"
-    roots_file = "../data/roots_one_file/roots.json"
+    roots_file = "../data/roots/roots_one_file/roots.json"
     output_file = "../data/all_chapters.json"
     
     # Run the transfer
