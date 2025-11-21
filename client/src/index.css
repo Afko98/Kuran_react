@@ -1,0 +1,74 @@
+:root {
+  --color-background-1: rgb(226, 226, 226);
+  --color-home-chapter-container-background: #e0e0e093;
+  --color-home-chapter-id: #c9c9c9ce;
+  --color-text-lighter: rgb(56, 26, 2);
+}
+
+*, *::after, *::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+html, body, #root {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+font-size: 14px;
+}
+
+html, body {
+    height: 100%; /* Ensure the background covers the full height */
+    margin: 0; /* Remove default margin */
+    background-color: var(--bg-root-color);
+    color: var(--text-color);
+    
+}
+
+/* Width of the scrollbar */
+::-webkit-scrollbar {
+    width: 6px;
+}
+
+/* The draggable part */
+::-webkit-scrollbar-thumb {
+    background: transparent;
+    border-radius: 4px;
+    transition: background 0.2s ease;
+    background: var(--scrollbar-thumb-hover, #e3e3e354);
+}
+
+/* Show scrollbar thumb only on hover over scrollable area */
+*:hover::-webkit-scrollbar-thumb {
+    background: var(--scrollbar-thumb-hover, #e3e3e354);
+}
+
+/* Change color when hovering directly on the thumb */
+*:hover::-webkit-scrollbar-thumb:hover {
+    
+    background: var(--scrollbar-thumb, #9e9e9e49);
+}
+
+.arabic {
+  font-family: 'Amiri', 'Traditional Arabic', serif; /* Use appropriate Arabic font */
+}
+
+.font_arabic_L {
+  font-size: 1.75rem;
+}
+
+.font_arabic_M {
+  font-size: 1.5rem;
+}

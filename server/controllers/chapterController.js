@@ -14,4 +14,15 @@ const getChapter = async (req, res) => {
     }
 }
 
-module.exports = { getChapter };
+const getChaptersInfo = async (req, res) => {
+    const filePath = path.join(__dirname, '..', 'data', 'chapters', 'chapters_info.json');
+    console.log("here");
+    try {
+        const data = await fs.readFile(filePath, 'utf8');
+        res.json(JSON.parse(data)); // automatically sends parsed JSON
+    } catch (err) {
+        res.status(404).json({ error: 'Page not found' });
+    }
+}
+
+module.exports = { getChapter, getChaptersInfo };
