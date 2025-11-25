@@ -1,8 +1,9 @@
 :root {
-  --color-background-1: rgb(226, 226, 226);
+  --color-background-1: rgb(245, 245, 245);
   --color-home-chapter-container-background: #e0e0e093;
-  --color-home-chapter-id: #c9c9c9ce;
-  --color-text-lighter: rgb(56, 26, 2);
+  --color-home-chapter-id: #c5c5c5ce;
+  --color-text-lighter: rgb(48, 48, 48);
+  --color-h-line: rgb(201, 201, 201);
 }
 
 *, *::after, *::before {
@@ -62,13 +63,25 @@ html, body {
 }
 
 .arabic {
-  font-family: 'Amiri', 'Traditional Arabic', serif; /* Use appropriate Arabic font */
+    font-family: 'Amiri Quran', 'Scheherazade New', 'KFGQPC Uthmanic Script', serif; /* Use appropriate Arabic font */
+  color: var(--color-text-lighter);
+  line-height: 2;
+      white-space: nowrap; /* Prevent line breaks within Arabic text */
+    word-break: keep-all; /* Keep Arabic words together */
+    overflow-wrap: normal; /* Don't break Arabic text */
+    direction: rtl; /* Ensure right-to-left direction */
+    unicode-bidi: embed; /* Proper Unicode bidirectional handling */
+    
+}
+
+.font_arabic_XL {
+  font-size: 36px;
 }
 
 .font_arabic_L {
-  font-size: 1.75rem;
+  font-size: 32px;
 }
 
 .font_arabic_M {
-  font-size: 1.5rem;
+  font-size: 28px;
 }
