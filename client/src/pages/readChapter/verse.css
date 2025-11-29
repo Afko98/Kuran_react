@@ -48,9 +48,19 @@
 }
 .verse_footer {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     gap: 12px;
-    align-items: center;
+    align-items: left;
+}
+
+.verse_footer_buttons {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+}
+
+.verse_footer_buttons span {
+  padding: 0px 4px;
 }
 
 .verse_tefsir_button {
@@ -62,6 +72,22 @@
     justify-content: center;
     align-items: center;
     border-radius: 8px;
+}
+
+.verse_key {
+    min-width: 30px;
+    max-height: 30px;
+    height: 30px;
+    background-color: var(--color-background-1);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.verse_tefsir_button:hover {
+  cursor: pointer;
+  opacity: 60%;
 }
 
 .flower_wrapper {

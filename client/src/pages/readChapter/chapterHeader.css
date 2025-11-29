@@ -33,14 +33,7 @@
   cursor: pointer;
 }
 
-.header_content_options_subcontainer {
-  display: flex;
-  flex-direction: row;
-  gap: 8px;
-  justify-content: start;
-  width: 120px;
-  align-items: center;
-}
+
 .header_content {
   width: 100%;
   padding: 4px 18px;
@@ -50,12 +43,6 @@
   justify-content: space-between;
 }
 
-.header_tefsir_button {
-  display: flex;
-  flex-direction: row;
-  align-items:center;
-  
-}
 
 .padding_2_4{
   padding: 2px 4px;

@@ -41,16 +41,7 @@ const navigate = useNavigate();
   return (
     <header ref={headerRef} className="chapter_header">
         <div className="header_content_options">
-          <div className='header_content_options_subcontainer'>
-            <TextAlignJustify  className='header_icon_border padding_2_4' size={'30'}  onClick={() => navigate(`/`)}/>
-            <div 
-              className='header_tefsir_button padding_2_4 header_icon_border' 
-               // Open popup
-            >
-              <BookType size={'24'}/>
-              <span>Tefsir</span>
-            </div>
-          </div>
+          <TextAlignJustify  className='header_icon_border padding_2_4' size={'30'}  onClick={() => navigate(`/`)}/>
           <Settings className='header_icon_border padding_2_4' size={'30'}/>
         </div>
 
@@ -99,8 +90,6 @@ const navigate = useNavigate();
             </div>
           )}
         </div>
-
-        {/* Tefsir Popup */}
     </header>
   );
 }

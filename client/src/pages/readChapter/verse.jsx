@@ -67,11 +67,15 @@ export default function Verse({ verse, headerRef }) {
       </div>
 
       <div className='verse_footer'>
+        <div className='verse_footer_buttons'>
         <div
           className='verse_tefsir_button'
           onClick={() => {headerRef.current.style.transform = 'translateY(-100%)'; fetchTefsir(verse.verse_key)}}
         >
           <BookType size={24} />
+          
+        </div>
+        <span className='verse_key'>{verse.verse_key}</span>
         </div>
         <span className='verse_translation'>{verse.translation}</span>
       </div>
