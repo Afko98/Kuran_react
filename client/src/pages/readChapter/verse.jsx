@@ -1,5 +1,7 @@
-import React from 'react'
-import './verse.css'
+import React, { useState, useEffect } from 'react';
+import './verse.css';
+import { BookType } from 'lucide-react';
+import api from '../../api'; // ← assuming you already have this
 
 function Word({ word }) {
   const isEnd = word.char_type_name === "end";
@@ -27,27 +29,69 @@ function Word({ word }) {
         )}
       </div>
 
-      <div className="translation">  {word.char_type_name === "end"
-    ? word.translation_en.replace(/[()]/g, '') || '\u00A0'
-    : word.translation_bh || '\u00A0'}</div>
+      <div className="translation">
+        {isEnd
+          ? word.translation_en?.replace(/[()]/g, '') || '\u00A0'
+          : word.translation_bh || '\u00A0'}
+      </div>
     </div>
   );
 }
 
+export default function Verse({ verse, headerRef }) {
+  const [showTefsir, setShowTefsir] = useState(false);
+  const [tefsirContent, setTefsirContent] = useState('');
 
-export default function Verse({ verse }) {
+  useEffect(() => {
+    document.body.style.overflow = showTefsir ? 'hidden' : '';
+    return () => { document.body.style.overflow = ''; };
+  }, [showTefsir]);
+
+  const fetchTefsir = async (verse_key) => {
+    try {
+      const [chapter, ayah] = verse_key.split(':');
+      const response = await api.get(`/api/tefsir?chapter=${chapter}&ayah=${ayah}`);
+      setTefsirContent(response.data.content || response.data); // supports both structures
+      setShowTefsir(true);
+    } catch (err) {
+      console.error(err);
+    }
+  };
+
   return (
     <div className="verse_container">
-
       <div className='verse_words_container'>
         {verse.words.map((word) => (
-        <Word key={word.id} word={word} />
-      ))}
+          <Word key={word.id} word={word} />
+        ))}
       </div>
+
       <div className='verse_footer'>
+        <div
+          className='verse_tefsir_button'
+          onClick={() => {headerRef.current.style.transform = 'translateY(-100%)'; fetchTefsir(verse.verse_key)}}
+        >
+          <BookType size={24} />
+        </div>
         <span className='verse_translation'>{verse.translation}</span>
       </div>
-      
+
+      {showTefsir && (
+        <div className="tefsir_modal_overlay" onClick={() => setShowTefsir(false)}>
+          <div
+            className="tefsir_modal_content"
+            onClick={(e) => e.stopPropagation()}
+          >
+            <div className="tefsir_modal_header">
+              <button className="tefsir_modal_close" onClick={() => setShowTefsir(false)}>×</button>
+            </div>
+            <div
+              className="tefsir_text"
+              dangerouslySetInnerHTML={{ __html: tefsirContent }}
+            />
+          </div>
+        </div>
+      )}
     </div>
   );
 }
