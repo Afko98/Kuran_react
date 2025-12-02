@@ -3,12 +3,12 @@ import './verse.css';
 import { BookType } from 'lucide-react';
 import api from '../../api'; // ← assuming you already have this
 
-function Word({ word }) {
+function Word({ word,showWordTranslation, }) {
   const isEnd = word.char_type_name === "end";
 
   return (
     <div className="word_container">
-      <div className="font_arabic_XL arabic">
+      <div className="arabic">
         {isEnd ? (
           <div className="flower_wrapper">
             <svg className="verse_chapter_badge" viewBox="0 0 100 100">
@@ -28,17 +28,19 @@ function Word({ word }) {
           word.text_uthmani
         )}
       </div>
-
+{showWordTranslation &&
       <div className="translation">
         {isEnd
           ? word.translation_en?.replace(/[()]/g, '') || '\u00A0'
           : word.translation_bh || '\u00A0'}
       </div>
+}
     </div>
+        
   );
 }
 
-export default function Verse({ verse, headerRef }) {
+export default function Verse({ verse, headerRef,showWordTranslation }) {
   const [showTefsir, setShowTefsir] = useState(false);
   const [tefsirContent, setTefsirContent] = useState('');
 
@@ -62,7 +64,8 @@ export default function Verse({ verse, headerRef }) {
     <div className="verse_container">
       <div className='verse_words_container'>
         {verse.words.map((word) => (
-          <Word key={word.id} word={word} />
+          <Word key={word.id} word={word} showWordTranslation={showWordTranslation}
+        />
         ))}
       </div>
 
@@ -70,7 +73,7 @@ export default function Verse({ verse, headerRef }) {
         <div className='verse_footer_buttons'>
         <div
           className='verse_tefsir_button'
-          onClick={() => {headerRef.current.style.transform = 'translateY(-100%)'; fetchTefsir(verse.verse_key)}}
+          onClick={() => {fetchTefsir(verse.verse_key)}}
         >
           <BookType size={24} />
           
@@ -81,7 +84,7 @@ export default function Verse({ verse, headerRef }) {
       </div>
 
       {showTefsir && (
-        <div className="tefsir_modal_overlay" onClick={() => setShowTefsir(false)}>
+        <div className="modal_overlay" onClick={() => setShowTefsir(false)}>
           <div
             className="tefsir_modal_content"
             onClick={(e) => e.stopPropagation()}

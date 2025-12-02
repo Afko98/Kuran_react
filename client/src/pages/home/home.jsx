@@ -1,5 +1,5 @@
 import {React, useEffect, useState} from 'react'
-
+import UserSettings from '../../userSettings';
 import api from '../../api'
 import Chapter from './chapter';
 import './home.css'
@@ -42,7 +42,7 @@ function Home() {
   return (
     <>
     <HomeHeader/>
-    <div className='chapters__list_container'>
+    <div className='chapters_list_container'>
       {
         chapters.map(chapter => (
           <Chapter props={chapter} key={chapter.chapter_id}></Chapter>

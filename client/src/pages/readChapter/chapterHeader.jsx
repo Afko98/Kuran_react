@@ -3,10 +3,12 @@ import './chapterHeader.css'
 import { TextAlignJustify , Settings, BookType } from 'lucide-react';
 import { useNavigate } from "react-router-dom";
 import api from '../../api';
+import UserSettings from '../../userSettings';
 
-export default function ChapterHeader({ headerRef, chapter, onNavigate }) {
+export default function ChapterHeader({ headerRef, chapter, onNavigate, showWordTranslation, setShowWordTranslation }) {
   const [selectorType, setSelectorType] = useState('page');
   const [showDropdown, setShowDropdown] = useState(false);
+  const [showSettings, setShowSettings] = useState(false);
 
 const navigate = useNavigate();
 
@@ -38,11 +40,21 @@ const navigate = useNavigate();
   const options = getOptions();
   const label = selectorType === 'page' ? 'Stranica' : selectorType === 'juz' ? 'Džuz' : 'Ajet';
 
-  return (
+  return (<>
+    {
+      showSettings && 
+      <UserSettings 
+        showSettings={showSettings} 
+        setShowSettings={setShowSettings} 
+        showWordTranslation={showWordTranslation}
+        setShowWordTranslation={setShowWordTranslation}
+      />
+    }
     <header ref={headerRef} className="chapter_header">
+      
         <div className="header_content_options">
           <TextAlignJustify  className='header_icon_border padding_2_4' size={'30'}  onClick={() => navigate(`/`)}/>
-          <Settings className='header_icon_border padding_2_4' size={'30'}/>
+          <Settings className='header_icon_border padding_2_4' size={'30'} onClick={() => setShowSettings(true)}/>
         </div>
 
         <div className='h_line'></div>
@@ -51,7 +63,7 @@ const navigate = useNavigate();
           <h1>{chapter ? (chapter.chapter_id + '. ' + chapter.name_simple) : 'Loading...'}</h1>
           
           {chapter && (
-            <div className="navigation_selector">
+            <div className="navigation_selector setting-group">
               <select
                 value={selectorType}
                 onChange={(e) => {
@@ -68,13 +80,13 @@ const navigate = useNavigate();
               <div className="selector_dropdown">
                 <button
                   onClick={() => setShowDropdown(!showDropdown)}
-                  className="selector_button"
+                  className="btn"
                 >
                   {`Izaberi ${label.toLowerCase()}`}
                 </button>
 
                 {showDropdown && (
-                  <div className="selector_options">
+                  <div className="select selector_options">
                     {options.map(option => (
                       <div
                         key={option}
@@ -89,7 +101,11 @@ const navigate = useNavigate();
               </div>
             </div>
           )}
+          
         </div>
+        <div className='h_line'></div>
     </header>
+    </>
   );
+  
 }

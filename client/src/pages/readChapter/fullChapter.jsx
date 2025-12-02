@@ -19,6 +19,14 @@ function FullChapter() {
   const isLoadingRef = useRef({ top: false, bottom: false });
   const PAGES_PER_LOAD = 1; // Load 2 pages at a time for better UX
 
+const [showWordTranslation, setShowWordTranslation] = useState(
+  localStorage.getItem('showWordTranslation') !== 'false'
+);
+
+useEffect(() => {
+  localStorage.setItem('showWordTranslation', showWordTranslation);
+}, [showWordTranslation]);
+
   const fetchChapter = async () => {
     try {
       const response = await api.get(`/api/chapter?chapter=${chapter_id}`);
@@ -243,13 +251,14 @@ function FullChapter() {
             </div>
           )}
           <div ref={el => verseRefs.current[verse.id] = el}>
-            <Verse verse={verse} headerRef={headerRef}/>
+            <Verse verse={verse} headerRef={headerRef} showWordTranslation={showWordTranslation}
+       />
           </div>
           <div className="h_line"></div>
         </React.Fragment>
       );
     });
-  }, [loadedVerses]);
+  }, [loadedVerses, showWordTranslation]);
 
   return (
     <>
@@ -257,6 +266,8 @@ function FullChapter() {
         headerRef={headerRef} 
         chapter={chapter} 
         onNavigate={handleNavigate}
+        showWordTranslation={showWordTranslation}
+        setShowWordTranslation={setShowWordTranslation}
       />
 
       <div className="chapter_page_container">
@@ -268,12 +279,12 @@ function FullChapter() {
               style={{ marginTop: '74px' }}
             >
               {Number(chapter_id) < 114 && (
-                <button onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}>
+                <button className='btn' onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}>
                   Sljedeća sura
                 </button>
               )}
               {Number(chapter_id) > 1 && (
-                <button onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}>
+                <button className='btn' onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}>
                   Prethodna sura
                 </button>
               )}
@@ -297,12 +308,12 @@ function FullChapter() {
               style={{ marginTop: '12px' }}
             >
               {Number(chapter_id) < 114 && (
-                <button onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}>
+                <button className='btn' onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}>
                   Sljedeća sura
                 </button>
               )}
               {Number(chapter_id) > 1 && (
-                <button onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}>
+                <button className='btn' onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}>
                   Prethodna sura
                 </button>
               )}
