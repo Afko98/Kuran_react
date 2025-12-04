@@ -1,6 +1,5 @@
 /* index.css or App.css */
 @import url('https://fonts.googleapis.com/css2?family=Scheherazade+New:wght@300;400;500;600&family=Noto+Naskh+Arabic:wght@400;700&family=El+Messiri:wght@400;700&display=swap');
-@import url('https://fonts.cdnfonts.com/css/kfgqpc-hafs-uthmanic-script');
 @import url('https://fonts.googleapis.com/css2?family=Amiri+Quran:wght@400;500;700&display=swap');
 
 :root {
@@ -83,8 +82,7 @@ html, body {
 .arabic {
     font-family: var(--font-style-arabic);
     color: var(--color-text-lighter);
-    line-height: 2.5; /* Increased */
-    letter-spacing: 0.05em; /* Added */
+    line-height: 2; /* Increased */
     white-space: nowrap;
     word-break: keep-all;
     overflow-wrap: normal;

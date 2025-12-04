@@ -20,8 +20,8 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
   const [currentTheme, setCurrentTheme] = useState(
     localStorage.getItem('theme') || 'light'
   )
-  const [fontStyleArabic, setFontStyleArabic] = useState(
-    localStorage.getItem('fontStyleArabic') || `KFGQPC HAFS Uthmanic Script, Scheherazade New, Noto Naskh Arabic, Amiri Quran, serif`
+  const [fontStyleArabic3, setFontStyleArabic3] = useState(
+    localStorage.getItem('fontStyleArabic3') || `Scheherazade New, serif`
   )
   
   // Trigger animation after component mounts
@@ -59,9 +59,9 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
     localStorage.setItem('fontSizeWordTranslation', fontSizeWordTranslation);
   }, [fontSizeWordTranslation]);
       useEffect(() => {
-    document.documentElement.style.setProperty('--font-style-arabic', `${fontStyleArabic}`);
-    localStorage.setItem('fontStyleArabic', fontStyleArabic);
-  }, [fontStyleArabic]);
+    document.documentElement.style.setProperty('--font-style-arabic', `${fontStyleArabic3}`);
+    localStorage.setItem('fontStyleArabic3', fontStyleArabic3);
+  }, [fontStyleArabic3]);
 
 
   function handleThemeChange(theme) {
@@ -103,13 +103,13 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
           <label >Font arapskog pisma</label>
           <select 
             id="font-style-select"
-            value={fontStyleArabic}
-            onChange={(e) => setFontStyleArabic(e.target.value)}
+            value={fontStyleArabic3}
+            onChange={(e) => setFontStyleArabic3(e.target.value)}
           >
-            <option value="KFGQPC Uthmanic Script, Scheherazade New, Noto Naskh Arabic, Amiri Quran, serif">Fron 1</option>
-            <option value="Amiri Quran,KFGQPC Uthmanic Script, Scheherazade New, Noto Naskh Arabic, serif">Fron 2</option>
-            <option value="Noto Naskh Arabic,KFGQPC Uthmanic Script, KFGQPC HAFS Uthmanic Script, Scheherazade New, Amiri Quran, serif">Fron 3</option>
-            <option value="Scheherazade New,KFGQPC Uthmanic Script, Amiri Quran, serif">Fron 4</option>
+            <option value="'Scheherazade New', serif">Font 1</option>
+            <option value="'Amiri Quran', serif">Font 2</option>
+            <option value="'Noto Naskh Arabic', serif">Font 3</option>
+            
           </select>
         </div>
         
