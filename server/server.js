@@ -4,6 +4,10 @@ const express = require('express');
 const path = require('path');
 const app = express();
 
+require('dotenv').config({
+    path: process.env.NODE_ENV === 'production' ? '.env.production' : 'env'
+});
+
 const PORT = process.env.PORT || 80;
 
 // Middleware

@@ -22,8 +22,11 @@ function App() {
     const savedWordTranslationFont = localStorage.getItem('fontSizeWordTranslation') || '12';
     document.documentElement.style.setProperty('--font-size-word-translation', `${savedWordTranslationFont}px`);
 
-    const savedArabFontStyle = localStorage.getItem('fontStyleArabic2') || `Scheherazade New, serif`;
+    const savedArabFontStyle = localStorage.getItem('fontStyleArabic3') || `Scheherazade New, serif`;
     document.documentElement.style.setProperty('--font-style-arabic', savedArabFontStyle);
+
+    const savedAudioEdition = localStorage.getItem('audioEdition') || `ar.alafasy`;
+    document.documentElement.style.setProperty('--audio-edition', savedAudioEdition);
   }, []);
 
   return (

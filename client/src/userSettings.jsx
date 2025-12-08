@@ -3,7 +3,7 @@ import { X } from 'lucide-react'
 import Slider from './pages/moduls/slider';
 import './userSettings.css'
 
-function UserSettings({ showSettings, setShowSettings, showWordTranslation, setShowWordTranslation }) {
+function UserSettings({ showSettings, setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition}) {
   const [isVisible, setIsVisible] = useState(false);
   const [fontSizeArabic, setFontSizeArabic] = useState(
     localStorage.getItem('fontSizeArabic') || 32
@@ -23,7 +23,7 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
   const [fontStyleArabic3, setFontStyleArabic3] = useState(
     localStorage.getItem('fontStyleArabic3') || `Scheherazade New, serif`
   )
-  
+
   // Trigger animation after component mounts
   useEffect(() => {
     // Small delay to ensure initial render completes
@@ -58,10 +58,14 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
     document.documentElement.style.setProperty('--font-size-word-translation', `${fontSizeWordTranslation}px`);
     localStorage.setItem('fontSizeWordTranslation', fontSizeWordTranslation);
   }, [fontSizeWordTranslation]);
-      useEffect(() => {
+    useEffect(() => {
     document.documentElement.style.setProperty('--font-style-arabic', `${fontStyleArabic3}`);
     localStorage.setItem('fontStyleArabic3', fontStyleArabic3);
   }, [fontStyleArabic3]);
+    useEffect(() => {
+    document.documentElement.style.setProperty('--audio-edition', audioEdition);
+    localStorage.setItem('audioEdition', audioEdition);
+  }, [audioEdition]);
 
 
   function handleThemeChange(theme) {
@@ -110,6 +114,21 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
             <option value="'Amiri Quran', serif">Font 2</option>
             <option value="'Noto Naskh Arabic', serif">Font 3</option>
             
+          </select>
+        </div>
+
+        <div className="setting-group">
+          <label >Učač</label>
+          <select 
+            id="audioEdition"
+            value={audioEdition}    
+            onChange={(e) => setAudioEdition(e.target.value)}
+          >
+            <option value="ar.alafasy">Alafasy</option>
+            <option value="ar.husary">Husary</option>
+            <option value="ar.minshawi">Minshawi</option>
+            <option value="ar.mahermuaiqly">Maher</option>
+            <option value="ar.hudhaify">Hudhaify</option>
           </select>
         </div>
         

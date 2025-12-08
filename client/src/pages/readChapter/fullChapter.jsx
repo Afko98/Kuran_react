@@ -18,7 +18,10 @@ function FullChapter() {
   const loadMoreBottomRef = useRef(null);
   const isLoadingRef = useRef({ top: false, bottom: false });
   const PAGES_PER_LOAD = 1; // Load 2 pages at a time for better UX
-
+  const [audioEdition, setAudioEdition] = useState(
+    localStorage.getItem('audioEdition') || `ar.alafasy`
+  )
+  
 const [showWordTranslation, setShowWordTranslation] = useState(() => {
   return localStorage.getItem('showWordTranslation') === 'true';
 });
@@ -252,13 +255,14 @@ useEffect(() => {
           )}
           <div ref={el => verseRefs.current[verse.id] = el}>
             <Verse verse={verse} headerRef={headerRef} showWordTranslation={showWordTranslation}
+            audioEdition={audioEdition}
        />
           </div>
           <div className="h_line"></div>
         </React.Fragment>
       );
     });
-  }, [loadedVerses, showWordTranslation]);
+  }, [loadedVerses, showWordTranslation, audioEdition]);
 
   return (
     <>
@@ -268,6 +272,8 @@ useEffect(() => {
         onNavigate={handleNavigate}
         showWordTranslation={showWordTranslation}
         setShowWordTranslation={setShowWordTranslation}
+        audioEdition={audioEdition}
+        setAudioEdition={setAudioEdition}
       />
 
       <div className="chapter_page_container">

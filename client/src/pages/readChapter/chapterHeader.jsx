@@ -5,7 +5,7 @@ import { useNavigate } from "react-router-dom";
 import api from '../../api';
 import UserSettings from '../../userSettings';
 
-export default function ChapterHeader({ headerRef, chapter, onNavigate, showWordTranslation, setShowWordTranslation }) {
+export default function ChapterHeader({ headerRef, chapter, onNavigate, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition }) {
   const [selectorType, setSelectorType] = useState('page');
   const [showDropdown, setShowDropdown] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
@@ -48,6 +48,8 @@ const navigate = useNavigate();
         setShowSettings={setShowSettings} 
         showWordTranslation={showWordTranslation}
         setShowWordTranslation={setShowWordTranslation}
+        audioEdition={audioEdition}
+        setAudioEdition={setAudioEdition}
       />
     }
     <header ref={headerRef} className="chapter_header">
@@ -82,7 +84,7 @@ const navigate = useNavigate();
                   onClick={() => setShowDropdown(!showDropdown)}
                   className="btn"
                 >
-                  {`Izaberi ${label.toLowerCase()}`}
+                  {"Izaberi"}
                 </button>
 
                 {showDropdown && (
