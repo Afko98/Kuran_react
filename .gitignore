@@ -8,12 +8,6 @@ yarn-error.log*
 package-lock.json
 .pnpm-debug.log*
 
-# Environment files
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
 
 # Logs
 logs
@@ -39,8 +33,7 @@ Thumbs.db
 # If your React app is in /client
 client/node_modules/
 client/build/
-client/.env
-client/.env.local
+
 
 # If you’re using Create React App
 build/
