@@ -2,10 +2,10 @@ import React from 'react'
 import './chapter.css'
 import { useNavigate } from "react-router-dom";
 
-function Chapter({ props }) {
+function Chapter({ props, use_nav = true , onClick}) {
     const navigate = useNavigate();
   return (
-    <div className='home_chapter_container'  onClick={() => navigate(`/chapter/${props.chapter_id}`)}>
+    <div className='home_chapter_container'  onClick={onClick}>
       <div className='home_chapter_id'>
         <svg className='chapter_badge' viewBox="0 0 100 100">
           {/* Simple flower/medallion shape with 8 petals */}

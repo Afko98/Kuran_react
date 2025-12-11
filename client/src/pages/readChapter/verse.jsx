@@ -1,14 +1,28 @@
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import './verse.css';
-import { Play, Pause, BookType } from 'lucide-react';
+import { Play, Pause, BookType, StepForward } from 'lucide-react';
 import api from '../../api';
 
 // Global audio instance shared across all Verse components
 const globalAudio = new Audio();
 
-function Word({ word, showWordTranslation }) {
+function Word({ word, showWordTranslation, textStyleArabic }) {
   const isEnd = word.char_type_name === "end";
-
+  const getArabicText = () => {
+    switch(textStyleArabic) {
+      case 'text_uthmani':
+        return word.text_uthmani;
+      case 'text_imlaei':
+        return word.text_imlaei;
+      case 'text_indopak':
+        return word.text_indopak;
+      case 'text_uthmani_simple':
+        return word.text_uthmani_simple;
+      default:
+        return word.text_uthmani;
+    }
+  };
+  
   return (
     <div className="word_container">
       <div className="arabic">
@@ -25,10 +39,10 @@ function Word({ word, showWordTranslation }) {
               <circle cx="35" cy="35" r="12" />
               <circle cx="50" cy="50" r="20" />
             </svg>
-            <span className="flower_text">{word.text_uthmani}</span>
+            <span className="flower_text">{getArabicText()}</span>
           </div>
         ) : (
-          word.text_uthmani
+          <span>{getArabicText()}</span>
         )}
       </div>
       {showWordTranslation &&
@@ -41,8 +55,7 @@ function Word({ word, showWordTranslation }) {
     </div>
   );
 }
-
-export default function Verse({ verse, headerRef, showWordTranslation, audioEdition }) {
+export default function Verse({ scrollToVerse, verse, headerRef, showWordTranslation, audioEdition, textStyleArabic, isAutoplayEnabled, setIsAutoplayEnabled }) {
   const [showTefsir, setShowTefsir] = useState(false);
   const [tefsirContent, setTefsirContent] = useState('');
   const [isPlaying, setIsPlaying] = useState(false);
@@ -54,7 +67,7 @@ export default function Verse({ verse, headerRef, showWordTranslation, audioEdit
     return () => { document.body.style.overflow = ''; };
   }, [showTefsir]);
 
-    useEffect(() => {
+  useEffect(() => {
     if (isPlaying) {
       globalAudio.pause();
       setIsPlaying(false);
@@ -63,12 +76,24 @@ export default function Verse({ verse, headerRef, showWordTranslation, audioEdit
   }, [audioEdition]);
 
   useEffect(() => {
-    const handleEnded = () => {
-      if (globalAudio.getAttribute('data-ayah-id') === String(verse.id)) {
-        setIsPlaying(false);
-        setProgress(0);
+const handleEnded = () => {
+    if (globalAudio.getAttribute('data-ayah-id') === String(verse.id)) {
+      setIsPlaying(false);
+      setProgress(0);
+      
+      if (isAutoplayEnabled && verse.id < 6236) {
+        const nextAyahId = verse.id + 1;
+        setTimeout(() => {
+          playAyah(nextAyahId);
+          // Scroll to next ayah
+          scrollToVerse(nextAyahId);
+        }, 100);
       }
-    };
+    }
+  };
+
+
+
 
     const handlePlay = () => {
       const currentAyahId = globalAudio.getAttribute('data-ayah-id');
@@ -112,7 +137,7 @@ export default function Verse({ verse, headerRef, showWordTranslation, audioEdit
       globalAudio.removeEventListener('timeupdate', handleTimeUpdate);
       globalAudio.removeEventListener('loadedmetadata', handleLoadedMetadata);
     };
-  }, [verse.id]);
+  }, [verse.id, isAutoplayEnabled,scrollToVerse]);
 
   const fetchTefsir = async (verse_key) => {
     try {
@@ -139,6 +164,11 @@ export default function Verse({ verse, headerRef, showWordTranslation, audioEdit
     }
   };
 
+  const toggleAutoplay = () => {
+    const newAutoplayState = !isAutoplayEnabled;
+    setIsAutoplayEnabled(newAutoplayState);
+  };
+
   const handleSliderChange = (e) => {
     const newTime = parseFloat(e.target.value);
     if (globalAudio.getAttribute('data-ayah-id') === String(verse.id)) {
@@ -158,23 +188,31 @@ export default function Verse({ verse, headerRef, showWordTranslation, audioEdit
     <div className="verse_container">
       <div className='verse_words_container'>
         {verse.words.map((word) => (
-          <Word key={word.id} word={word} showWordTranslation={showWordTranslation} />
+          <Word key={word.id} word={word} showWordTranslation={showWordTranslation} textStyleArabic={textStyleArabic} />
         ))}
       </div>
-
+      <span className='verse_translation'>{verse.translation}</span>
       <div className='verse_footer'>
         <div className='verse_footer_buttons'>
           <div
             className='verse_tefsir_button'
             onClick={() => { fetchTefsir(verse.verse_key) }}
           >
-            <BookType size={24} />
+            <BookType size={20} strokeWidth={1.6}/>
           </div>
+
           <div
             onClick={() => { playAyah(verse.id) }}
             className='verse_tefsir_button'
           >
-            {isPlaying ? <Pause size={20} /> : <Play size={20} />}
+            {isPlaying ? <Pause size={18} strokeWidth={1.6}/> : <Play size={18} strokeWidth={1.6}/>}
+          </div>
+                    <div
+            onClick={toggleAutoplay}
+            className={`verse_tefsir_button ${isAutoplayEnabled ? 'autoplay_active' : ''}`}
+            title="Autoplay consecutive ayahs"
+          >
+            <StepForward size={18} strokeWidth={1.5}/>
           </div>
           <span className='verse_key'>{verse.verse_key}</span>
         </div>
@@ -194,8 +232,6 @@ export default function Verse({ verse, headerRef, showWordTranslation, audioEdit
             <span className='audio_time'>{formatTime(duration)}</span>
           </div>
         )}
-
-        <span className='verse_translation'>{verse.translation}</span>
       </div>
 
       {showTefsir && (

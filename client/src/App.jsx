@@ -16,7 +16,7 @@ function App() {
     const savedTefsirFont = localStorage.getItem('fontSizeTefsir') || '14';
     document.documentElement.style.setProperty('--font-size-tefsir', `${savedTefsirFont}px`);
 
-    const savedVerseTranslationFont = localStorage.getItem('fontSizeVerseTranslation') || '16';
+    const savedVerseTranslationFont = localStorage.getItem('fontSizeVerseTranslation') || '14';
     document.documentElement.style.setProperty('--font-size-verse-translation', `${savedVerseTranslationFont}px`);
 
     const savedWordTranslationFont = localStorage.getItem('fontSizeWordTranslation') || '12';
@@ -35,6 +35,7 @@ function App() {
         <Route path="/" element={<Navigate to="/home" replace/>}/>
         <Route path="/home" element={<Home />} />
         <Route path="chapter/:chapter_id" element={<FullChapter/>}/>
+        <Route path="chapter/:chapter_id/page/:page_id" element={<FullChapter/>}/>
       </Routes>
     </Router>
   )

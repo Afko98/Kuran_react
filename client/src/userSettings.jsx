@@ -3,7 +3,7 @@ import { X } from 'lucide-react'
 import Slider from './pages/moduls/slider';
 import './userSettings.css'
 
-function UserSettings({ showSettings, setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition}) {
+function UserSettings({ showSettings, setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition, textStyleArabic, setTextStyleArabic}) {
   const [isVisible, setIsVisible] = useState(false);
   const [fontSizeArabic, setFontSizeArabic] = useState(
     localStorage.getItem('fontSizeArabic') || 32
@@ -12,7 +12,7 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
     localStorage.getItem('fontSizeTefsir') || 14
   );
   const [fontSizeVerseTranslation, setFontSizeVerseTranslation] = useState(
-    localStorage.getItem('fontSizeVerseTranslation') || 16
+    localStorage.getItem('fontSizeVerseTranslation') || 14
   );
   const [fontSizeWordTranslation, setFontSizeWordTranslation] = useState(
     localStorage.getItem('fontSizeWordTranslation') || 12
@@ -63,10 +63,11 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
     localStorage.setItem('fontStyleArabic3', fontStyleArabic3);
   }, [fontStyleArabic3]);
     useEffect(() => {
-    document.documentElement.style.setProperty('--audio-edition', audioEdition);
     localStorage.setItem('audioEdition', audioEdition);
   }, [audioEdition]);
-
+    useEffect(() => {
+    localStorage.setItem('textStyleArabic', textStyleArabic);
+  }, [textStyleArabic]);
 
   function handleThemeChange(theme) {
     document.documentElement.setAttribute('data-theme', theme);
@@ -114,6 +115,20 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
             <option value="'Amiri Quran', serif">Font 2</option>
             <option value="'Noto Naskh Arabic', serif">Font 3</option>
             
+          </select>
+        </div>
+
+        <div className="setting-group">
+          <label >Štampa arapskog pisma</label>
+          <select 
+            id="textStyleArabic"
+            value={textStyleArabic}
+            onChange={(e) => setTextStyleArabic(e.target.value)}
+          >
+            <option value="text_uthmani">Medinska</option>
+            <option value="text_imlaei">Turska</option>
+            <option value="text_indopak">Pakistanska</option>
+            <option value="text_uthmani_simple">Jednostavna</option>
           </select>
         </div>
 

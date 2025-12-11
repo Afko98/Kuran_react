@@ -21,7 +21,10 @@ function FullChapter() {
   const [audioEdition, setAudioEdition] = useState(
     localStorage.getItem('audioEdition') || `ar.alafasy`
   )
-  
+    const [textStyleArabic, setTextStyleArabic] = useState(
+    localStorage.getItem('textStyleArabic') || `text_uthmani`
+  )
+  const [isAutoplayEnabled, setIsAutoplayEnabled] = useState(false);
 const [showWordTranslation, setShowWordTranslation] = useState(() => {
   return localStorage.getItem('showWordTranslation') === 'true';
 });
@@ -33,7 +36,6 @@ useEffect(() => {
   const fetchChapter = async () => {
     try {
       const response = await api.get(`/api/chapter?chapter=${chapter_id}`);
-      console.log(response.data.chapter);
       setChapter(response.data.chapter);
       
       // Load first pages initially
@@ -88,7 +90,10 @@ useEffect(() => {
     } else {
       isLoadingRef.current.top = false;
     }
+    
   }, [chapter, currentPageRange, PAGES_PER_LOAD]);
+
+  
 
   const loadMoreBottom = useCallback(() => {
     if (!chapter || !currentPageRange.end || isLoadingRef.current.bottom) return;
@@ -109,6 +114,9 @@ useEffect(() => {
     if (newVerses.length > 0) {
       setLoadedVerses(prev => [...prev, ...newVerses]);
       setCurrentPageRange(prev => ({ start: prev.start, end: nextEndPage }));
+      console.log(nextEndPage)
+      localStorage.setItem('lastReadChapter', chapter_id);
+      localStorage.setItem('prevReadPage', nextEndPage); 
     }
     
     isLoadingRef.current.bottom = false;
@@ -207,12 +215,8 @@ useEffect(() => {
         chapter.verses[0].page_number,
         targetPage - Math.floor(PAGES_PER_LOAD / 2)
       );
-      const endPage = Math.min(
-        chapter.verses[chapter.verses.length - 1].page_number,
-        targetPage + Math.ceil(PAGES_PER_LOAD / 2)
-      );
       
-      loadVersesByPageRange(chapter, startPage, endPage);
+      loadVersesByPageRange(chapter, startPage, startPage);
       
       // Scroll to the target after a short delay to allow rendering
       setTimeout(() => {
@@ -225,7 +229,12 @@ useEffect(() => {
       }, 150);
     }
   }, [chapter, loadVersesByPageRange, PAGES_PER_LOAD]);
-
+const scrollToVerse = useCallback((verseId) => {
+  const verseEl = verseRefs.current[verseId];
+  if (verseEl) {
+    verseEl.scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+}, []);
   const hasMoreTop = useMemo(() => {
     if (!chapter || !currentPageRange.start) return false;
     const firstVerse = chapter.verses[0];
@@ -254,15 +263,22 @@ useEffect(() => {
             </div>
           )}
           <div ref={el => verseRefs.current[verse.id] = el}>
-            <Verse verse={verse} headerRef={headerRef} showWordTranslation={showWordTranslation}
-            audioEdition={audioEdition}
-       />
+<Verse 
+  verse={verse} 
+  headerRef={headerRef} 
+  showWordTranslation={showWordTranslation} 
+  textStyleArabic={textStyleArabic}
+  audioEdition={audioEdition}
+  isAutoplayEnabled={isAutoplayEnabled}
+  setIsAutoplayEnabled={setIsAutoplayEnabled}
+    scrollToVerse={scrollToVerse}
+/>
           </div>
           <div className="h_line"></div>
         </React.Fragment>
       );
     });
-  }, [loadedVerses, showWordTranslation, audioEdition]);
+  }, [loadedVerses, showWordTranslation, audioEdition, textStyleArabic, isAutoplayEnabled,setIsAutoplayEnabled]);
 
   return (
     <>
@@ -274,6 +290,8 @@ useEffect(() => {
         setShowWordTranslation={setShowWordTranslation}
         audioEdition={audioEdition}
         setAudioEdition={setAudioEdition}
+        textStyleArabic={textStyleArabic}
+        setTextStyleArabic={setTextStyleArabic}
       />
 
       <div className="chapter_page_container">

@@ -1,11 +1,11 @@
 import React, { useState, useEffect } from 'react';
 import './chapterHeader.css'
 import { TextAlignJustify , Settings, BookType } from 'lucide-react';
-import { useNavigate } from "react-router-dom";
+import { useNavigate, useParams } from "react-router-dom";
 import api from '../../api';
 import UserSettings from '../../userSettings';
 
-export default function ChapterHeader({ headerRef, chapter, onNavigate, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition }) {
+export default function ChapterHeader({ headerRef, chapter, onNavigate, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition,textStyleArabic, setTextStyleArabic }) {
   const [selectorType, setSelectorType] = useState('page');
   const [showDropdown, setShowDropdown] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
@@ -14,8 +14,15 @@ const navigate = useNavigate();
 
   // Disable main page scroll when popup is open
 
+  const { chapter_id, page_id } = useParams();
 
+useEffect(() => {
+  const timer = setTimeout(() => {
+    onNavigate('page', page_id);
+  }, 100); // delay in milliseconds, e.g., 300ms
 
+  return () => clearTimeout(timer); // cleanup if component unmounts
+}, [page_id, onNavigate]);
 
   const getOptions = () => {
     if (!chapter) return [];
@@ -50,6 +57,8 @@ const navigate = useNavigate();
         setShowWordTranslation={setShowWordTranslation}
         audioEdition={audioEdition}
         setAudioEdition={setAudioEdition}
+        textStyleArabic={textStyleArabic}
+        setTextStyleArabic={setTextStyleArabic}
       />
     }
     <header ref={headerRef} className="chapter_header">
