@@ -22,6 +22,14 @@
   transform: translateY(-100%);
 }
 
+/* Add centering only for large screens */
+@media (min-width: 1200px) {
+  .chapter_header {
+    left: 20%;
+    right: 20%;
+    width: 60%;
+  }
+}
 
 .header_content_options {
   width: 100%;

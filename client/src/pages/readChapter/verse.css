@@ -269,3 +269,15 @@
   color: #666;
   min-width: 35px;
 }
+@media (min-width: 1200px) {
+  .modal_overlay {
+    left: 50%;
+    transform: translateX(-50%);
+    max-width: 100%;
+  }
+  
+  .tefsir_modal_content {
+    width: 60%;
+    max-width: 60%;
+  }
+}

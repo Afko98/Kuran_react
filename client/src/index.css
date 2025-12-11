@@ -52,7 +52,13 @@ html, body {
     
     
 }
-
+@media (min-width: 1200px) {
+  #root > * {
+    max-width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
 /* Width of the scrollbar */
 ::-webkit-scrollbar {
     width: 6px;
