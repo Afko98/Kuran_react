@@ -1,18 +1,56 @@
 const cors = require('cors');
-require('dotenv').config();
 const express = require('express');
 const path = require('path');
+const fs = require('fs');
 const app = express();
 
-require('dotenv').config({
-    path: process.env.NODE_ENV === 'production' ? '.env.production' : 'env'
-});
-
 const PORT = process.env.PORT || 80;
+const statsFile = path.join(__dirname, 'stats.json');
 
 // Middleware
 app.use(express.json());
 app.use(cors());
+
+// Track unique daily visits
+app.use((req, res, next) => {
+  // Ignore API and static files
+  if (req.path.startsWith('/api') || path.extname(req.path).length > 0) {
+    return next();
+  }
+
+  const today = new Date().toISOString().split('T')[0];
+  let stats = {};
+
+  // Read existing stats
+  if (fs.existsSync(statsFile)) {
+    try {
+      stats = JSON.parse(fs.readFileSync(statsFile, 'utf-8'));
+    } catch (err) {
+      console.error('Error reading stats.json:', err);
+    }
+  }
+
+  // Initialize today's entry if missing
+  if (!stats[today]) {
+    stats[today] = { count: 0, ips: [] };
+  }
+
+  // Get visitor IP
+  const visitorIp = req.ip || req.connection.remoteAddress;
+
+  // Increment count only if this IP hasn't visited today
+  if (!stats[today].ips.includes(visitorIp)) {
+    stats[today].count += 1;
+    stats[today].ips.push(visitorIp);
+  }
+
+  // Write back stats
+  fs.writeFile(statsFile, JSON.stringify(stats, null, 2), (err) => {
+    if (err) console.error('Error writing stats.json:', err);
+  });
+
+  next();
+});
 
 // Routes
 const quranRoots = require('./routes/roots');
@@ -25,19 +63,35 @@ app.use('/api/chapter', quranChapter);
 app.use('/api/page', quranPage);
 app.use('/api/tefsir', quranTefsir);
 
-// Serve static files FIRST
+// Optional stats endpoint
+app.get('/api/stats', (req, res) => {
+  let stats = {};
+  if (fs.existsSync(statsFile)) {
+    try {
+      stats = JSON.parse(fs.readFileSync(statsFile, 'utf-8'));
+    } catch (err) {
+      console.error('Error reading stats.json:', err);
+    }
+  }
+  // Return simplified JSON (date: count)
+  const simplified = {};
+  for (const date in stats) {
+    simplified[date] = stats[date].count;
+  }
+  res.json(simplified);
+});
+
+// Serve React frontend
 app.use(express.static(path.join(__dirname, '../client/dist')));
 
-// Catch-all for client-side routing - but NOT for files with extensions
+// Catch-all for client-side routing
 app.use((req, res, next) => {
-  // If the request has a file extension, don't handle it (let it 404)
   if (path.extname(req.path).length > 0) {
     return next();
   }
-  // Otherwise, serve index.html for client-side routing
   res.sendFile(path.join(__dirname, '../client/dist/index.html'));
 });
 
 app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`);
+  console.log(`Server running on port ${PORT}`);
 });
