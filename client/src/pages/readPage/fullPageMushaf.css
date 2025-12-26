@@ -1,0 +1,82 @@
+.chapter_page_container_page {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.full_page_footer_container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.full_page_footer_buttons_container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 12px 0px;
+    align-items: center;
+}
+.btn svg {
+  width: 1.2em; /* adjust size */
+  height: 1.2em;
+  vertical-align: middle;
+}
+
+.chapter_header_page {
+  position: relative; /* needed for absolute positioning inside */
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 40px;
+  border-bottom: 1px solid var(--color-h-line);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between; /* keeps left/right icons at edges */
+  padding: 0px 12px;
+  z-index: 1000;
+  transition: transform 0.2s ease-in-out;
+  background-color: var(--color-background-1);
+}
+
+.page-input {
+  position: absolute;      /* center absolutely */
+  left: 50%;               /* move to 50% of header width */
+  transform: translateX(-50%); /* truly center by shifting back half width */
+  padding: 4px 12px;
+  font-size: 1rem;
+  border: 1px solid var(--color-h-line);
+  border-radius: 8px;
+  background: var(--color-home-chapter-container-background);
+  color: var(--color-text-lighter);
+  cursor: pointer;
+  transition: all 0.2s ease;
+  outline: none;
+  font-family: inherit;
+  width: 70px; /* adjust as needed */
+  text-align: center;
+}
+
+.page-input:hover {
+  border-color: var(--color-accent);
+  background: var(--color-background-1);
+}
+.page-input::-webkit-inner-spin-button,
+.page-input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Hide number input arrows (Firefox) */
+.page-input[type=number] {
+  -moz-appearance: textfield;
+}
+.page-input:focus {
+  border-color: var(--color-accent);
+  box-shadow: 0 0 0 3px rgba(54, 54, 54, 0.1);
+}
+
+[data-theme="dark"] .page-input:focus {
+  box-shadow: 0 0 0 3px rgba(205, 205, 205, 0.1);
+}

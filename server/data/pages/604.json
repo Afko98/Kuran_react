@@ -1,6 +1,5 @@
 {
   "page_number": 604,
-  "juz_number": 30,
   "chapters": [
     {
       "chapter_id": 112,
@@ -37,7 +36,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Say",
-              "translation_bh": "reci!"
+              "translation_bh": "reci!",
+              "text": "ﭑ"
             },
             {
               "id": 7,
@@ -54,7 +54,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "He",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭒ"
             },
             {
               "id": 8,
@@ -71,7 +72,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) Allah",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﭓ"
             },
             {
               "id": 9,
@@ -88,7 +90,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "the One",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭔ"
             },
             {
               "id": 10,
@@ -105,7 +108,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(1)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭕ"
             }
           ],
           "translation": "Reci: \"On je Allah- Jedan!"
@@ -137,7 +141,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﭖ"
             },
             {
               "id": 917,
@@ -156,7 +161,8 @@
                 "ٱل"
               ],
               "translation_en": "the Eternal, the Absolute",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭗ"
             },
             {
               "id": 918,
@@ -173,7 +179,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(2)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭘ"
             }
           ],
           "translation": "Allah je Es-Samed!"
@@ -205,7 +212,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "Not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭙ"
             },
             {
               "id": 2747,
@@ -222,7 +230,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He begets",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭚ"
             },
             {
               "id": 2748,
@@ -241,7 +250,8 @@
                 "وَ"
               ],
               "translation_en": "and not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭛ"
             },
             {
               "id": 2749,
@@ -258,7 +268,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He is begotten",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭜ"
             },
             {
               "id": 2750,
@@ -275,7 +286,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(3)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭝ"
             }
           ],
           "translation": "Nije rodio i rođen nije,"
@@ -309,7 +321,8 @@
                 "وَ"
               ],
               "translation_en": "And not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭞ"
             },
             {
               "id": 4137,
@@ -326,7 +339,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "is",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭟ"
             },
             {
               "id": 4138,
@@ -345,7 +359,8 @@
                 "لَّ"
               ],
               "translation_en": "for Him",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭠ"
             },
             {
               "id": 4139,
@@ -362,7 +377,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "equivalent",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭡ"
             },
             {
               "id": 4140,
@@ -379,7 +395,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "any [one]",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭢ"
             },
             {
               "id": 4141,
@@ -396,7 +413,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(4)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭣ"
             }
           ],
           "translation": "i niko Mu ravan nije!\""
@@ -438,7 +456,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Say",
-              "translation_bh": "reci!"
+              "translation_bh": "reci!",
+              "text": "ﭤ"
             },
             {
               "id": 216,
@@ -455,7 +474,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "I seek refuge",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭥ"
             },
             {
               "id": 217,
@@ -474,7 +494,8 @@
                 "بِ"
               ],
               "translation_en": "in (the) Lord",
-              "translation_bh": "u Gospodara"
+              "translation_bh": "u Gospodara",
+              "text": "ﭦ"
             },
             {
               "id": 218,
@@ -493,7 +514,8 @@
                 "ٱلْ"
               ],
               "translation_en": "(of) the dawn",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭧ"
             },
             {
               "id": 219,
@@ -510,7 +532,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(1)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭨ"
             }
           ],
           "translation": "Reci: \"Utječem se Gospodaru svitanja,"
@@ -542,7 +565,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "From",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭩ"
             },
             {
               "id": 970,
@@ -559,7 +583,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) evil",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭪ"
             },
             {
               "id": 971,
@@ -576,7 +601,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(of) what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭫ"
             },
             {
               "id": 972,
@@ -593,7 +619,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He created",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭬ"
             },
             {
               "id": 973,
@@ -610,7 +637,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(2)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭭ"
             }
           ],
           "translation": "od zla onoga što On stvara.\""
@@ -644,7 +672,8 @@
                 "وَ"
               ],
               "translation_en": "And from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭮ"
             },
             {
               "id": 2794,
@@ -661,7 +690,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) evil",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭯ"
             },
             {
               "id": 2795,
@@ -678,7 +708,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) darkness",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭰ"
             },
             {
               "id": 2796,
@@ -695,7 +726,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "when",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭱ"
             },
             {
               "id": 2797,
@@ -712,7 +744,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "it spreads",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭲ"
             },
             {
               "id": 2798,
@@ -729,7 +762,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(3)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭳ"
             }
           ],
           "translation": "i od zla mrkle noći kad razastre tmine,"
@@ -763,7 +797,8 @@
                 "وَ"
               ],
               "translation_en": "And from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭴ"
             },
             {
               "id": 4182,
@@ -780,7 +815,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) evil",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭵ"
             },
             {
               "id": 4183,
@@ -799,7 +835,8 @@
                 "ٱل"
               ],
               "translation_en": "(of) the blowers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭶ"
             },
             {
               "id": 4184,
@@ -816,7 +853,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "in",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭷ"
             },
             {
               "id": 4185,
@@ -835,7 +873,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the knots",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭸ"
             },
             {
               "id": 4186,
@@ -852,7 +891,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(4)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭹ"
             }
           ],
           "translation": "i od zla onih koje u čvorove pušu"
@@ -886,7 +926,8 @@
                 "وَ"
               ],
               "translation_en": "And from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭺ"
             },
             {
               "id": 5474,
@@ -903,7 +944,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) evil",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭻ"
             },
             {
               "id": 5475,
@@ -920,7 +962,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) an envier",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭼ"
             },
             {
               "id": 5476,
@@ -937,7 +980,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "when",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭽ"
             },
             {
               "id": 5477,
@@ -954,7 +998,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "he envies",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭾ"
             },
             {
               "id": 5478,
@@ -971,7 +1016,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(5)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭿ"
             }
           ],
           "translation": "i od zla zavidnika kad zavidi.\""
@@ -1013,7 +1059,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Say",
-              "translation_bh": "reci!"
+              "translation_bh": "reci!",
+              "text": "ﮀ"
             },
             {
               "id": 116,
@@ -1030,7 +1077,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "I seek refuge",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮁ"
             },
             {
               "id": 117,
@@ -1049,7 +1097,8 @@
                 "بِ"
               ],
               "translation_en": "in (the) Lord",
-              "translation_bh": "u Gospodara"
+              "translation_bh": "u Gospodara",
+              "text": "ﮂ"
             },
             {
               "id": 118,
@@ -1068,7 +1117,8 @@
                 "ٱل"
               ],
               "translation_en": "(of) mankind",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮃ"
             },
             {
               "id": 119,
@@ -1085,7 +1135,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(1)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮄ"
             }
           ],
           "translation": "Reci: \"Utječem se Gospodaru ljudi,"
@@ -1117,7 +1168,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(The) King",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮅ"
             },
             {
               "id": 933,
@@ -1136,7 +1188,8 @@
                 "ٱل"
               ],
               "translation_en": "(of) mankind",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮆ"
             },
             {
               "id": 934,
@@ -1153,7 +1206,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(2)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮇ"
             }
           ],
           "translation": "Vladaru ljudi,"
@@ -1185,7 +1239,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(The) God",
-              "translation_bh": "Boga"
+              "translation_bh": "Boga",
+              "text": "ﮈ"
             },
             {
               "id": 2820,
@@ -1204,7 +1259,8 @@
                 "ٱل"
               ],
               "translation_en": "(of) mankind",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮉ"
             },
             {
               "id": 2821,
@@ -1221,7 +1277,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(3)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮊ"
             }
           ],
           "translation": "Bogu ljudi,"
@@ -1253,7 +1310,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "From",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮋ"
             },
             {
               "id": 4132,
@@ -1270,7 +1328,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) evil",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮌ"
             },
             {
               "id": 4133,
@@ -1289,7 +1348,8 @@
                 "ٱلْ"
               ],
               "translation_en": "(of) the whisperer",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮍ"
             },
             {
               "id": 4134,
@@ -1308,7 +1368,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the one who withdraws",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮎ"
             },
             {
               "id": 4135,
@@ -1325,7 +1386,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(4)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮏ"
             }
           ],
           "translation": "od zla šejtana - koji nanosi zle misli pa se skrije,"
@@ -1357,7 +1419,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "The one who",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮐ"
             },
             {
               "id": 5497,
@@ -1374,7 +1437,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "whispers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮑ"
             },
             {
               "id": 5498,
@@ -1391,7 +1455,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "in",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮒ"
             },
             {
               "id": 5499,
@@ -1408,7 +1473,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) breasts",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮓ"
             },
             {
               "id": 5500,
@@ -1427,7 +1493,8 @@
                 "ٱل"
               ],
               "translation_en": "(of) mankind",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮔ"
             },
             {
               "id": 5501,
@@ -1444,7 +1511,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(5)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮕ"
             }
           ],
           "translation": "koji zle misli unosi svijetu u grudi;"
@@ -1476,14 +1544,15 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "From",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮖ"
             },
             {
               "id": 6730,
               "position": 2,
               "char_type_name": "word",
               "text_imlaei": "الْجِنَّةِ",
-              "text_uthmani": "ٱلْجِنَّةِ",
+              "text_uthmani": "ﮗ",
               "text_indopak": "الۡجِنَّةِ",
               "text_uthmani_simple": "الجنة",
               "page_number": 604,
@@ -1495,14 +1564,15 @@
                 "ٱلْ"
               ],
               "translation_en": "the jinn",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮗ"
             },
             {
               "id": 6731,
               "position": 3,
               "char_type_name": "word",
               "text_imlaei": "وَالنَّاسِ",
-              "text_uthmani": "وَٱلنَّاسِ",
+              "text_uthmani": "ﮘ",
               "text_indopak": "وَالنَّاسِ‏",
               "text_uthmani_simple": "والناس",
               "page_number": 604,
@@ -1515,14 +1585,15 @@
                 "ٱل"
               ],
               "translation_en": "and men",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮘ"
             },
             {
               "id": 6732,
               "position": 4,
               "char_type_name": "end",
               "text_imlaei": "٦",
-              "text_uthmani": "٦",
+              "text_uthmani": "ﮙ",
               "text_indopak": "٦",
               "text_uthmani_simple": "٦",
               "page_number": 604,
@@ -1532,7 +1603,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(6)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮙ"
             }
           ],
           "translation": "svijetu džina i ljudi.\""

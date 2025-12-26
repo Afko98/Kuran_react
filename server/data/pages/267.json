@@ -1,6 +1,5 @@
 {
   "page_number": 267,
-  "juz_number": 14,
   "chapters": [
     {
       "chapter_id": 15,
@@ -37,7 +36,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "Those who",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭑ"
             },
             {
               "id": 68583,
@@ -54,7 +54,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "have made",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭒ"
             },
             {
               "id": 68584,
@@ -73,7 +74,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the Quran",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭓ"
             },
             {
               "id": 68585,
@@ -90,7 +92,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(in) parts",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭔ"
             },
             {
               "id": 68586,
@@ -107,7 +110,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(91)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭕ"
             }
           ],
           "translation": "one koji Kur'an na dijelove podijeliše."
@@ -142,7 +146,8 @@
                 "وَ"
               ],
               "translation_en": "So by your Lord",
-              "translation_bh": "I/pa tako Mi Gospodara tvoga"
+              "translation_bh": "I/pa tako Mi Gospodara tvoga",
+              "text": "ﭖ"
             },
             {
               "id": 68619,
@@ -161,7 +166,8 @@
                 "لَ"
               ],
               "translation_en": "surely We will question them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭗ"
             },
             {
               "id": 68620,
@@ -178,7 +184,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "all",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭘ"
             },
             {
               "id": 68621,
@@ -195,7 +202,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(92)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭙ"
             }
           ],
           "translation": "I tako Mi Gospodara tvoga, njih ćemo sve na odgovornost pozvati"
@@ -227,7 +235,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "About what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭚ"
             },
             {
               "id": 69142,
@@ -244,7 +253,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they used (to)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭛ"
             },
             {
               "id": 69143,
@@ -261,7 +271,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "do",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭜ"
             },
             {
               "id": 69144,
@@ -278,7 +289,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(93)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭝ"
             }
           ],
           "translation": "za ono što su radili!"
@@ -312,7 +324,8 @@
                 "فَ"
               ],
               "translation_en": "So proclaim",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭞ"
             },
             {
               "id": 69654,
@@ -331,7 +344,8 @@
                 "بِ"
               ],
               "translation_en": "of what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭟ"
             },
             {
               "id": 69655,
@@ -348,7 +362,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you are ordered",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭠ"
             },
             {
               "id": 69656,
@@ -367,7 +382,8 @@
                 "وَ"
               ],
               "translation_en": "and turn away",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭡ"
             },
             {
               "id": 69657,
@@ -384,7 +400,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭢ"
             },
             {
               "id": 69658,
@@ -403,7 +420,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the polytheists",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭣ"
             },
             {
               "id": 69659,
@@ -420,7 +438,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(94)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭤ"
             }
           ],
           "translation": "Ti javno ispovijedaj ono što ti se naređuje i višebožaca se okani."
@@ -452,7 +471,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "Indeed, We",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭥ"
             },
             {
               "id": 69694,
@@ -469,7 +489,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "[We] are sufficient for you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭦ"
             },
             {
               "id": 69695,
@@ -488,7 +509,8 @@
                 "ٱلْ"
               ],
               "translation_en": "(against) the mockers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭧ"
             },
             {
               "id": 69696,
@@ -505,7 +527,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(95)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭨ"
             }
           ],
           "translation": "Zaista ćemo te sačuvati onih koji se rugaju,"
@@ -537,7 +560,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "Those who",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭩ"
             },
             {
               "id": 70138,
@@ -554,7 +578,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "set up",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭪ"
             },
             {
               "id": 70139,
@@ -571,7 +596,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "with",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭫ"
             },
             {
               "id": 70140,
@@ -588,7 +614,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)"
+              "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+              "text": "ﭬ"
             },
             {
               "id": 70141,
@@ -605,7 +632,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "god",
-              "translation_bh": "bog "
+              "translation_bh": "bog ",
+              "text": "ﭭ"
             },
             {
               "id": 70142,
@@ -622,7 +650,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "another",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭮﭯ"
             },
             {
               "id": 70144,
@@ -641,7 +670,8 @@
                 "فَ"
               ],
               "translation_en": "But soon",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭰ"
             },
             {
               "id": 70145,
@@ -658,7 +688,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they will come to know",
-              "translation_bh": "oni znaju"
+              "translation_bh": "oni znaju",
+              "text": "ﭱ"
             },
             {
               "id": 70146,
@@ -675,7 +706,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(96)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭲ"
             }
           ],
           "translation": "koji pored Allaha drugog boga uzimaju; i znat će oni!"
@@ -710,7 +742,8 @@
                 "لَ"
               ],
               "translation_en": "And verily",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭳ"
             },
             {
               "id": 70392,
@@ -727,7 +760,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "We know",
-              "translation_bh": "mi znamo"
+              "translation_bh": "mi znamo",
+              "text": "ﭴ"
             },
             {
               "id": 70393,
@@ -744,7 +778,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "that [you]",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭵ"
             },
             {
               "id": 70394,
@@ -761,7 +796,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "(is) straitened",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭶ"
             },
             {
               "id": 70395,
@@ -778,7 +814,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "your breast",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭷ"
             },
             {
               "id": 70396,
@@ -797,7 +834,8 @@
                 "بِ"
               ],
               "translation_en": "by what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭸ"
             },
             {
               "id": 70397,
@@ -814,7 +852,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they say",
-              "translation_bh": "oni govore / oni će govoriti"
+              "translation_bh": "oni govore / oni će govoriti",
+              "text": "ﭹ"
             },
             {
               "id": 70398,
@@ -831,7 +870,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(97)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭺ"
             }
           ],
           "translation": "Mi dobro znamo da ti se u prsima steže zbog onoga što oni govore,"
@@ -865,7 +905,8 @@
                 "فَ"
               ],
               "translation_en": "So glorify",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭻ"
             },
             {
               "id": 70815,
@@ -884,7 +925,8 @@
                 "بِ"
               ],
               "translation_en": "with the praise",
-              "translation_bh": "hvali"
+              "translation_bh": "hvali",
+              "text": "ﭼ"
             },
             {
               "id": 70816,
@@ -901,7 +943,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your Lord",
-              "translation_bh": "Gospodara tvoga"
+              "translation_bh": "Gospodara tvoga",
+              "text": "ﭽ"
             },
             {
               "id": 70817,
@@ -920,7 +963,8 @@
                 "وَ"
               ],
               "translation_en": "and be",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭾ"
             },
             {
               "id": 70818,
@@ -937,7 +981,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "of",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭿ"
             },
             {
               "id": 70819,
@@ -956,7 +1001,8 @@
                 "ٱل"
               ],
               "translation_en": "those who prostrate",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮀ"
             },
             {
               "id": 70820,
@@ -973,7 +1019,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(98)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮁ"
             }
           ],
           "translation": "zato, veličaj Gospodara svoga i hvali Ga, i budi od onih što na sedždu padaju,"
@@ -1007,7 +1054,8 @@
                 "وَ"
               ],
               "translation_en": "And worship",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮂ"
             },
             {
               "id": 70960,
@@ -1024,7 +1072,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "your Lord",
-              "translation_bh": "Gospodar tvoj"
+              "translation_bh": "Gospodar tvoj",
+              "text": "ﮃ"
             },
             {
               "id": 70961,
@@ -1041,7 +1090,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "until",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮄ"
             },
             {
               "id": 70962,
@@ -1058,7 +1108,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "comes to you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮅ"
             },
             {
               "id": 70963,
@@ -1077,7 +1128,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the certainty",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮆ"
             },
             {
               "id": 70964,
@@ -1094,7 +1146,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(99)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮇ"
             }
           ],
           "translation": "i Gospodaru svome ibadet čini sve dok ti smrt - ono što je neupitno - ne dođe!"
@@ -1136,7 +1189,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Will come",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮈ"
             },
             {
               "id": 893,
@@ -1153,7 +1207,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) command of Allah",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮉ"
             },
             {
               "id": 894,
@@ -1170,7 +1225,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) command of Allah",
-              "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)"
+              "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+              "text": "ﮊ"
             },
             {
               "id": 895,
@@ -1189,7 +1245,8 @@
                 "فَ"
               ],
               "translation_en": "so (do) not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮋ"
             },
             {
               "id": 896,
@@ -1206,7 +1263,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "(be) impatient for it",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮌﮍ"
             },
             {
               "id": 898,
@@ -1223,7 +1281,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Glorified is He",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮎ"
             },
             {
               "id": 899,
@@ -1242,7 +1301,8 @@
                 "وَ"
               ],
               "translation_en": "and Exalted (is) He",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮏ"
             },
             {
               "id": 900,
@@ -1259,7 +1319,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "above what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮐ"
             },
             {
               "id": 901,
@@ -1276,7 +1337,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they associate",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮑ"
             },
             {
               "id": 902,
@@ -1293,7 +1355,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(1)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮒ"
             }
           ],
           "translation": "Allahova odredba stiže, i ne požurujte je! Uzvišen je On i vrlo visoko iznad onoga što Mu pridružuju!"
@@ -1325,7 +1388,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He sends down",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮓ"
             },
             {
               "id": 1995,
@@ -1344,7 +1408,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the Angels",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮔ"
             },
             {
               "id": 1996,
@@ -1364,7 +1429,8 @@
                 "ٱل"
               ],
               "translation_en": "with the inspiration",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮕ"
             },
             {
               "id": 1997,
@@ -1381,7 +1447,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "of",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮖ"
             },
             {
               "id": 1998,
@@ -1398,7 +1465,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "His Command",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮗ"
             },
             {
               "id": 1999,
@@ -1415,7 +1483,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "upon",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮘ"
             },
             {
               "id": 2000,
@@ -1432,7 +1501,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "whom",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮙ"
             },
             {
               "id": 2001,
@@ -1449,7 +1519,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He wills",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮚ"
             },
             {
               "id": 2002,
@@ -1466,7 +1537,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "of",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮛ"
             },
             {
               "id": 2003,
@@ -1483,7 +1555,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "His slaves",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮜ"
             },
             {
               "id": 2004,
@@ -1500,7 +1573,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "that",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮝ"
             },
             {
               "id": 2005,
@@ -1517,7 +1591,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Warn",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮞ"
             },
             {
               "id": 2006,
@@ -1534,7 +1609,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "that [He]",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮟ"
             },
             {
               "id": 2007,
@@ -1551,7 +1627,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(there is) no",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮠ"
             },
             {
               "id": 2008,
@@ -1568,7 +1645,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "god",
-              "translation_bh": "boga (akuzativ)"
+              "translation_bh": "boga (akuzativ)",
+              "text": "ﮡ"
             },
             {
               "id": 2009,
@@ -1585,7 +1663,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "except",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮢ"
             },
             {
               "id": 2010,
@@ -1602,7 +1681,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "Me",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮣ"
             },
             {
               "id": 2011,
@@ -1621,7 +1701,8 @@
                 "فَ"
               ],
               "translation_en": "so fear Me",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮤ"
             },
             {
               "id": 2012,
@@ -1638,7 +1719,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(2)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮥ"
             }
           ],
           "translation": "On meleke s Objavom, po odredbi Svojoj, šalje onim robovima Svojim kojima hoće: \"Upozoravajte da nema drugog boga osim Mene i bojte Me se!\""
@@ -1670,7 +1752,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He created",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮦ"
             },
             {
               "id": 3193,
@@ -1689,7 +1772,8 @@
                 "ٱل"
               ],
               "translation_en": "the heavens",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮧ"
             },
             {
               "id": 3194,
@@ -1709,7 +1793,8 @@
                 "ٱلْ"
               ],
               "translation_en": "and the earth",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮨ"
             },
             {
               "id": 3195,
@@ -1729,7 +1814,8 @@
                 "ٱلْ"
               ],
               "translation_en": "in truth",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮩﮪ"
             },
             {
               "id": 3197,
@@ -1746,7 +1832,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Exalted is He",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮫ"
             },
             {
               "id": 3198,
@@ -1763,7 +1850,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "above what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮬ"
             },
             {
               "id": 3199,
@@ -1780,7 +1868,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they associate",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮭ"
             },
             {
               "id": 3200,
@@ -1797,7 +1886,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(3)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮮ"
             }
           ],
           "translation": "On je s Istinom nebesa i Zemlju stvorio, neka je On vrlo visoko iznad onoga što Mu pridružuju."
@@ -1829,7 +1919,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He created",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮯ"
             },
             {
               "id": 4167,
@@ -1848,7 +1939,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the human kind",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮰ"
             },
             {
               "id": 4168,
@@ -1865,7 +1957,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮱ"
             },
             {
               "id": 4169,
@@ -1882,7 +1975,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "a minute quantity of semen",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯓ"
             },
             {
               "id": 4170,
@@ -1901,7 +1995,8 @@
                 "فَ"
               ],
               "translation_en": "then behold",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯔ"
             },
             {
               "id": 4171,
@@ -1918,7 +2013,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "he",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯕ"
             },
             {
               "id": 4172,
@@ -1935,7 +2031,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) an opponent",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯖ"
             },
             {
               "id": 4173,
@@ -1952,7 +2049,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "clear",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯗ"
             },
             {
               "id": 4174,
@@ -1969,7 +2067,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(4)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯘ"
             }
           ],
           "translation": "On stvara čovjeka od kapi sjemena, a on poslije toga otvoreno, svađalački osporava!"
@@ -2004,7 +2103,8 @@
                 "ٱلْ"
               ],
               "translation_en": "And the cattle",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯙ"
             },
             {
               "id": 5799,
@@ -2021,7 +2121,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He created them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯚﯛ"
             },
             {
               "id": 5801,
@@ -2040,7 +2141,8 @@
                 "لَ"
               ],
               "translation_en": "for you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯜ"
             },
             {
               "id": 5802,
@@ -2057,7 +2159,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "in them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯝ"
             },
             {
               "id": 5803,
@@ -2074,7 +2177,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) warmth",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯞ"
             },
             {
               "id": 5804,
@@ -2093,7 +2197,8 @@
                 "وَ"
               ],
               "translation_en": "and benefits",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯟ"
             },
             {
               "id": 5805,
@@ -2112,7 +2217,8 @@
                 "وَ"
               ],
               "translation_en": "and from them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯠ"
             },
             {
               "id": 5806,
@@ -2129,7 +2235,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you eat",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯡ"
             },
             {
               "id": 5807,
@@ -2146,7 +2253,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(5)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯢ"
             }
           ],
           "translation": "I stoku On za vas stvara; njome se od hladnoće štitite, a i drugih koristi imate, njome se i hranite;"
@@ -2181,7 +2289,8 @@
                 "لَ"
               ],
               "translation_en": "And for you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯣ"
             },
             {
               "id": 7089,
@@ -2198,7 +2307,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "in them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯤ"
             },
             {
               "id": 7090,
@@ -2215,7 +2325,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) beauty",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯥ"
             },
             {
               "id": 7091,
@@ -2232,7 +2343,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "when",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯦ"
             },
             {
               "id": 7092,
@@ -2249,7 +2361,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you bring them in",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯧ"
             },
             {
               "id": 7093,
@@ -2268,7 +2381,8 @@
                 "وَ"
               ],
               "translation_en": "and when",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯨ"
             },
             {
               "id": 7094,
@@ -2285,7 +2399,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you take them out",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯩ"
             },
             {
               "id": 7095,
@@ -2302,7 +2417,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(6)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯪ"
             }
           ],
           "translation": "ona vam je ukras kad je sa ispaše vraćate i kad je na pašu izgonite."

@@ -15,7 +15,8 @@ logs
 *.pid
 *.seed
 *.pid.lock
-
+*.env*
+.env
 # Coverage reports
 coverage/
 *.lcov

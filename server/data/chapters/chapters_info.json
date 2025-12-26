@@ -6,7 +6,8 @@
       "name_simple": "Al-Fatihah",
       "revelation_place": "makkah",
       "verses_count": 7,
-      "name_bh": "Uvodnica"
+      "name_bh": "Uvodnica",
+      "start_page": 1
     },
     {
       "chapter_id": 2,
@@ -14,7 +15,8 @@
       "name_simple": "Al-Baqarah",
       "revelation_place": "madinah",
       "verses_count": 286,
-      "name_bh": "Krava"
+      "name_bh": "Krava",
+      "start_page": 2
     },
     {
       "chapter_id": 3,
@@ -22,7 +24,8 @@
       "name_simple": "Ali 'Imran",
       "revelation_place": "madinah",
       "verses_count": 200,
-      "name_bh": "Imranova porodica"
+      "name_bh": "Imranova porodica",
+      "start_page": 50
     },
     {
       "chapter_id": 4,
@@ -30,7 +33,8 @@
       "name_simple": "An-Nisa",
       "revelation_place": "madinah",
       "verses_count": 176,
-      "name_bh": "Žene"
+      "name_bh": "Žene",
+      "start_page": 77
     },
     {
       "chapter_id": 5,
@@ -38,7 +42,8 @@
       "name_simple": "Al-Ma'idah",
       "revelation_place": "madinah",
       "verses_count": 120,
-      "name_bh": "Trpeza"
+      "name_bh": "Trpeza",
+      "start_page": 106
     },
     {
       "chapter_id": 6,
@@ -46,7 +51,8 @@
       "name_simple": "Al-An'am",
       "revelation_place": "makkah",
       "verses_count": 165,
-      "name_bh": "Stoka"
+      "name_bh": "Stoka",
+      "start_page": 128
     },
     {
       "chapter_id": 7,
@@ -54,7 +60,8 @@
       "name_simple": "Al-A'raf",
       "revelation_place": "makkah",
       "verses_count": 206,
-      "name_bh": "Vrhovi zida"
+      "name_bh": "Vrhovi zida",
+      "start_page": 151
     },
     {
       "chapter_id": 8,
@@ -62,7 +69,8 @@
       "name_simple": "Al-Anfal",
       "revelation_place": "madinah",
       "verses_count": 75,
-      "name_bh": "Ratni plijen"
+      "name_bh": "Ratni plijen",
+      "start_page": 177
     },
     {
       "chapter_id": 9,
@@ -70,7 +78,8 @@
       "name_simple": "At-Tawbah",
       "revelation_place": "madinah",
       "verses_count": 129,
-      "name_bh": "Pokajanje"
+      "name_bh": "Pokajanje",
+      "start_page": 187
     },
     {
       "chapter_id": 10,
@@ -78,7 +87,8 @@
       "name_simple": "Yunus",
       "revelation_place": "makkah",
       "verses_count": 109,
-      "name_bh": "Junus"
+      "name_bh": "Junus",
+      "start_page": 208
     },
     {
       "chapter_id": 11,
@@ -86,7 +96,8 @@
       "name_simple": "Hud",
       "revelation_place": "makkah",
       "verses_count": 123,
-      "name_bh": "Hud"
+      "name_bh": "Hud",
+      "start_page": 221
     },
     {
       "chapter_id": 12,
@@ -94,7 +105,8 @@
       "name_simple": "Yusuf",
       "revelation_place": "makkah",
       "verses_count": 111,
-      "name_bh": "Jusuf"
+      "name_bh": "Jusuf",
+      "start_page": 235
     },
     {
       "chapter_id": 13,
@@ -102,7 +114,8 @@
       "name_simple": "Ar-Ra'd",
       "revelation_place": "madinah",
       "verses_count": 43,
-      "name_bh": "Grmljavina"
+      "name_bh": "Grmljavina",
+      "start_page": 249
     },
     {
       "chapter_id": 14,
@@ -110,7 +123,8 @@
       "name_simple": "Ibrahim",
       "revelation_place": "makkah",
       "verses_count": 52,
-      "name_bh": "Ibrahim"
+      "name_bh": "Ibrahim",
+      "start_page": 255
     },
     {
       "chapter_id": 15,
@@ -118,7 +132,8 @@
       "name_simple": "Al-Hijr",
       "revelation_place": "makkah",
       "verses_count": 99,
-      "name_bh": "Hidžr"
+      "name_bh": "Hidžr",
+      "start_page": 262
     },
     {
       "chapter_id": 16,
@@ -126,7 +141,8 @@
       "name_simple": "An-Nahl",
       "revelation_place": "makkah",
       "verses_count": 128,
-      "name_bh": "Pčele"
+      "name_bh": "Pčele",
+      "start_page": 267
     },
     {
       "chapter_id": 17,
@@ -134,7 +150,8 @@
       "name_simple": "Al-Isra",
       "revelation_place": "makkah",
       "verses_count": 111,
-      "name_bh": "Noćno putovanje"
+      "name_bh": "Noćno putovanje",
+      "start_page": 282
     },
     {
       "chapter_id": 18,
@@ -142,7 +159,8 @@
       "name_simple": "Al-Kahf",
       "revelation_place": "makkah",
       "verses_count": 110,
-      "name_bh": "Pećina"
+      "name_bh": "Pećina",
+      "start_page": 293
     },
     {
       "chapter_id": 19,
@@ -150,7 +168,8 @@
       "name_simple": "Maryam",
       "revelation_place": "makkah",
       "verses_count": 98,
-      "name_bh": "Merjema"
+      "name_bh": "Merjema",
+      "start_page": 305
     },
     {
       "chapter_id": 20,
@@ -158,7 +177,8 @@
       "name_simple": "Taha",
       "revelation_place": "makkah",
       "verses_count": 135,
-      "name_bh": "Taha"
+      "name_bh": "Taha",
+      "start_page": 312
     },
     {
       "chapter_id": 21,
@@ -166,7 +186,8 @@
       "name_simple": "Al-Anbya",
       "revelation_place": "makkah",
       "verses_count": 112,
-      "name_bh": "Vjerovjesnici"
+      "name_bh": "Vjerovjesnici",
+      "start_page": 322
     },
     {
       "chapter_id": 22,
@@ -174,7 +195,8 @@
       "name_simple": "Al-Hajj",
       "revelation_place": "madinah",
       "verses_count": 78,
-      "name_bh": "Hadždž"
+      "name_bh": "Hadždž",
+      "start_page": 332
     },
     {
       "chapter_id": 23,
@@ -182,7 +204,8 @@
       "name_simple": "Al-Mu'minun",
       "revelation_place": "makkah",
       "verses_count": 118,
-      "name_bh": "Vjernici"
+      "name_bh": "Vjernici",
+      "start_page": 342
     },
     {
       "chapter_id": 24,
@@ -190,7 +213,8 @@
       "name_simple": "An-Nur",
       "revelation_place": "madinah",
       "verses_count": 64,
-      "name_bh": "Svjetlost"
+      "name_bh": "Svjetlost",
+      "start_page": 350
     },
     {
       "chapter_id": 25,
@@ -198,7 +222,8 @@
       "name_simple": "Al-Furqan",
       "revelation_place": "makkah",
       "verses_count": 77,
-      "name_bh": "Furkan"
+      "name_bh": "Furkan",
+      "start_page": 359
     },
     {
       "chapter_id": 26,
@@ -206,7 +231,8 @@
       "name_simple": "Ash-Shu'ara",
       "revelation_place": "makkah",
       "verses_count": 227,
-      "name_bh": "Pjesnici"
+      "name_bh": "Pjesnici",
+      "start_page": 367
     },
     {
       "chapter_id": 27,
@@ -214,7 +240,8 @@
       "name_simple": "An-Naml",
       "revelation_place": "makkah",
       "verses_count": 93,
-      "name_bh": "Mravi"
+      "name_bh": "Mravi",
+      "start_page": 377
     },
     {
       "chapter_id": 28,
@@ -222,7 +249,8 @@
       "name_simple": "Al-Qasas",
       "revelation_place": "makkah",
       "verses_count": 88,
-      "name_bh": "Kazivanje"
+      "name_bh": "Kazivanje",
+      "start_page": 385
     },
     {
       "chapter_id": 29,
@@ -230,7 +258,8 @@
       "name_simple": "Al-'Ankabut",
       "revelation_place": "makkah",
       "verses_count": 69,
-      "name_bh": "Pauk"
+      "name_bh": "Pauk",
+      "start_page": 396
     },
     {
       "chapter_id": 30,
@@ -238,7 +267,8 @@
       "name_simple": "Ar-Rum",
       "revelation_place": "makkah",
       "verses_count": 60,
-      "name_bh": "Bizantici"
+      "name_bh": "Bizantici",
+      "start_page": 404
     },
     {
       "chapter_id": 31,
@@ -246,7 +276,8 @@
       "name_simple": "Luqman",
       "revelation_place": "makkah",
       "verses_count": 34,
-      "name_bh": "Lukman"
+      "name_bh": "Lukman",
+      "start_page": 411
     },
     {
       "chapter_id": 32,
@@ -254,7 +285,8 @@
       "name_simple": "As-Sajdah",
       "revelation_place": "makkah",
       "verses_count": 30,
-      "name_bh": "Sedžda"
+      "name_bh": "Sedžda",
+      "start_page": 415
     },
     {
       "chapter_id": 33,
@@ -262,7 +294,8 @@
       "name_simple": "Al-Ahzab",
       "revelation_place": "madinah",
       "verses_count": 73,
-      "name_bh": "Saveznici"
+      "name_bh": "Saveznici",
+      "start_page": 418
     },
     {
       "chapter_id": 34,
@@ -270,7 +303,8 @@
       "name_simple": "Saba",
       "revelation_place": "makkah",
       "verses_count": 54,
-      "name_bh": "Saba"
+      "name_bh": "Saba",
+      "start_page": 428
     },
     {
       "chapter_id": 35,
@@ -278,7 +312,8 @@
       "name_simple": "Fatir",
       "revelation_place": "makkah",
       "verses_count": 45,
-      "name_bh": "Onaj Koji stvara bez prethodnog primjera"
+      "name_bh": "Onaj Koji stvara bez prethodnog primjera",
+      "start_page": 434
     },
     {
       "chapter_id": 36,
@@ -286,7 +321,8 @@
       "name_simple": "Ya-Sin",
       "revelation_place": "makkah",
       "verses_count": 83,
-      "name_bh": "Jasin"
+      "name_bh": "Jasin",
+      "start_page": 440
     },
     {
       "chapter_id": 37,
@@ -294,7 +330,8 @@
       "name_simple": "As-Saffat",
       "revelation_place": "makkah",
       "verses_count": 182,
-      "name_bh": "Poredani u redove"
+      "name_bh": "Poredani u redove",
+      "start_page": 446
     },
     {
       "chapter_id": 38,
@@ -302,7 +339,8 @@
       "name_simple": "Sad",
       "revelation_place": "makkah",
       "verses_count": 88,
-      "name_bh": "Sad"
+      "name_bh": "Sad",
+      "start_page": 453
     },
     {
       "chapter_id": 39,
@@ -310,7 +348,8 @@
       "name_simple": "Az-Zumar",
       "revelation_place": "makkah",
       "verses_count": 75,
-      "name_bh": "Skupine"
+      "name_bh": "Skupine",
+      "start_page": 458
     },
     {
       "chapter_id": 40,
@@ -318,7 +357,8 @@
       "name_simple": "Al-Mu'min/Ghafir",
       "revelation_place": "makkah",
       "verses_count": 85,
-      "name_bh": "Vjernik/Onaj koji prašta"
+      "name_bh": "Vjernik/Onaj koji prašta",
+      "start_page": 467
     },
     {
       "chapter_id": 41,
@@ -326,7 +366,8 @@
       "name_simple": "Fussilat",
       "revelation_place": "makkah",
       "verses_count": 54,
-      "name_bh": ""
+      "name_bh": "Objašnjenje",
+      "start_page": 477
     },
     {
       "chapter_id": 42,
@@ -334,7 +375,8 @@
       "name_simple": "Ash-Shuraa",
       "revelation_place": "makkah",
       "verses_count": 53,
-      "name_bh": ""
+      "name_bh": "Dogovaranje",
+      "start_page": 483
     },
     {
       "chapter_id": 43,
@@ -342,7 +384,8 @@
       "name_simple": "Az-Zukhruf",
       "revelation_place": "makkah",
       "verses_count": 89,
-      "name_bh": ""
+      "name_bh": "Ukras",
+      "start_page": 489
     },
     {
       "chapter_id": 44,
@@ -350,7 +393,8 @@
       "name_simple": "Ad-Dukhan",
       "revelation_place": "makkah",
       "verses_count": 59,
-      "name_bh": ""
+      "name_bh": "Dim",
+      "start_page": 496
     },
     {
       "chapter_id": 45,
@@ -358,7 +402,8 @@
       "name_simple": "Al-Jathiyah",
       "revelation_place": "makkah",
       "verses_count": 37,
-      "name_bh": ""
+      "name_bh": "Oni koji kleče",
+      "start_page": 499
     },
     {
       "chapter_id": 46,
@@ -366,7 +411,8 @@
       "name_simple": "Al-Ahqaf",
       "revelation_place": "makkah",
       "verses_count": 35,
-      "name_bh": ""
+      "name_bh": "Ahkaf",
+      "start_page": 502
     },
     {
       "chapter_id": 47,
@@ -374,7 +420,8 @@
       "name_simple": "Muhammad",
       "revelation_place": "madinah",
       "verses_count": 38,
-      "name_bh": ""
+      "name_bh": "Muhammed",
+      "start_page": 507
     },
     {
       "chapter_id": 48,
@@ -382,7 +429,8 @@
       "name_simple": "Al-Fath",
       "revelation_place": "madinah",
       "verses_count": 29,
-      "name_bh": ""
+      "name_bh": "Pobjeda",
+      "start_page": 511
     },
     {
       "chapter_id": 49,
@@ -390,7 +438,8 @@
       "name_simple": "Al-Hujurat",
       "revelation_place": "madinah",
       "verses_count": 18,
-      "name_bh": ""
+      "name_bh": "Sobe",
+      "start_page": 515
     },
     {
       "chapter_id": 50,
@@ -398,7 +447,8 @@
       "name_simple": "Qaf",
       "revelation_place": "makkah",
       "verses_count": 45,
-      "name_bh": ""
+      "name_bh": "Kaf",
+      "start_page": 518
     },
     {
       "chapter_id": 51,
@@ -406,7 +456,8 @@
       "name_simple": "Adh-Dhariyat",
       "revelation_place": "makkah",
       "verses_count": 60,
-      "name_bh": ""
+      "name_bh": "Oni koji pušu",
+      "start_page": 520
     },
     {
       "chapter_id": 52,
@@ -414,7 +465,8 @@
       "name_simple": "At-Tur",
       "revelation_place": "makkah",
       "verses_count": 49,
-      "name_bh": ""
+      "name_bh": "Gora",
+      "start_page": 523
     },
     {
       "chapter_id": 53,
@@ -422,7 +474,8 @@
       "name_simple": "An-Najm",
       "revelation_place": "makkah",
       "verses_count": 62,
-      "name_bh": ""
+      "name_bh": "Zvijezda",
+      "start_page": 526
     },
     {
       "chapter_id": 54,
@@ -430,7 +483,8 @@
       "name_simple": "Al-Qamar",
       "revelation_place": "makkah",
       "verses_count": 55,
-      "name_bh": ""
+      "name_bh": "Mjesec",
+      "start_page": 528
     },
     {
       "chapter_id": 55,
@@ -438,7 +492,8 @@
       "name_simple": "Ar-Rahman",
       "revelation_place": "madinah",
       "verses_count": 78,
-      "name_bh": ""
+      "name_bh": "Milostivi",
+      "start_page": 531
     },
     {
       "chapter_id": 56,
@@ -446,7 +501,8 @@
       "name_simple": "Al-Waqi'ah",
       "revelation_place": "makkah",
       "verses_count": 96,
-      "name_bh": ""
+      "name_bh": "Događaj",
+      "start_page": 534
     },
     {
       "chapter_id": 57,
@@ -454,7 +510,8 @@
       "name_simple": "Al-Hadid",
       "revelation_place": "madinah",
       "verses_count": 29,
-      "name_bh": ""
+      "name_bh": "Gvožđe",
+      "start_page": 537
     },
     {
       "chapter_id": 58,
@@ -462,7 +519,8 @@
       "name_simple": "Al-Mujadila",
       "revelation_place": "madinah",
       "verses_count": 22,
-      "name_bh": ""
+      "name_bh": "Rasprava",
+      "start_page": 542
     },
     {
       "chapter_id": 59,
@@ -470,7 +528,8 @@
       "name_simple": "Al-Hashr",
       "revelation_place": "madinah",
       "verses_count": 24,
-      "name_bh": ""
+      "name_bh": "Progonstvo",
+      "start_page": 545
     },
     {
       "chapter_id": 60,
@@ -478,7 +537,8 @@
       "name_simple": "Al-Mumtahanah",
       "revelation_place": "madinah",
       "verses_count": 13,
-      "name_bh": ""
+      "name_bh": "Provjerena",
+      "start_page": 549
     },
     {
       "chapter_id": 61,
@@ -486,7 +546,8 @@
       "name_simple": "As-Saf",
       "revelation_place": "madinah",
       "verses_count": 14,
-      "name_bh": ""
+      "name_bh": "Bojni red",
+      "start_page": 551
     },
     {
       "chapter_id": 62,
@@ -494,7 +555,8 @@
       "name_simple": "Al-Jumu'ah",
       "revelation_place": "madinah",
       "verses_count": 11,
-      "name_bh": ""
+      "name_bh": "Petak",
+      "start_page": 553
     },
     {
       "chapter_id": 63,
@@ -502,7 +564,8 @@
       "name_simple": "Al-Munafiqun",
       "revelation_place": "madinah",
       "verses_count": 11,
-      "name_bh": ""
+      "name_bh": "Licemjeri",
+      "start_page": 554
     },
     {
       "chapter_id": 64,
@@ -510,7 +573,8 @@
       "name_simple": "At-Taghabun",
       "revelation_place": "madinah",
       "verses_count": 18,
-      "name_bh": ""
+      "name_bh": "Samoodbrana",
+      "start_page": 556
     },
     {
       "chapter_id": 65,
@@ -518,7 +582,8 @@
       "name_simple": "At-Talaq",
       "revelation_place": "madinah",
       "verses_count": 12,
-      "name_bh": ""
+      "name_bh": "Razvod braka",
+      "start_page": 558
     },
     {
       "chapter_id": 66,
@@ -526,7 +591,8 @@
       "name_simple": "At-Tahrim",
       "revelation_place": "madinah",
       "verses_count": 12,
-      "name_bh": ""
+      "name_bh": "Zabrana",
+      "start_page": 560
     },
     {
       "chapter_id": 67,
@@ -534,7 +600,8 @@
       "name_simple": "Al-Mulk",
       "revelation_place": "makkah",
       "verses_count": 30,
-      "name_bh": ""
+      "name_bh": "Vlast",
+      "start_page": 562
     },
     {
       "chapter_id": 68,
@@ -542,7 +609,8 @@
       "name_simple": "Al-Qalam",
       "revelation_place": "makkah",
       "verses_count": 52,
-      "name_bh": ""
+      "name_bh": "Kalem",
+      "start_page": 564
     },
     {
       "chapter_id": 69,
@@ -550,7 +618,8 @@
       "name_simple": "Al-Haqqah",
       "revelation_place": "makkah",
       "verses_count": 52,
-      "name_bh": ""
+      "name_bh": "Čas neizbježni",
+      "start_page": 566
     },
     {
       "chapter_id": 70,
@@ -558,7 +627,8 @@
       "name_simple": "Al-Ma'arij",
       "revelation_place": "makkah",
       "verses_count": 44,
-      "name_bh": ""
+      "name_bh": "Stepeni",
+      "start_page": 568
     },
     {
       "chapter_id": 71,
@@ -566,7 +636,8 @@
       "name_simple": "Nuh",
       "revelation_place": "makkah",
       "verses_count": 28,
-      "name_bh": ""
+      "name_bh": "Nuh",
+      "start_page": 570
     },
     {
       "chapter_id": 72,
@@ -574,7 +645,8 @@
       "name_simple": "Al-Jinn",
       "revelation_place": "makkah",
       "verses_count": 28,
-      "name_bh": ""
+      "name_bh": "Džini",
+      "start_page": 572
     },
     {
       "chapter_id": 73,
@@ -582,7 +654,8 @@
       "name_simple": "Al-Muzzammil",
       "revelation_place": "makkah",
       "verses_count": 20,
-      "name_bh": ""
+      "name_bh": "Umotani",
+      "start_page": 574
     },
     {
       "chapter_id": 74,
@@ -590,7 +663,8 @@
       "name_simple": "Al-Muddaththir",
       "revelation_place": "makkah",
       "verses_count": 56,
-      "name_bh": ""
+      "name_bh": "Pokriveni",
+      "start_page": 575
     },
     {
       "chapter_id": 75,
@@ -598,7 +672,8 @@
       "name_simple": "Al-Qiyamah",
       "revelation_place": "makkah",
       "verses_count": 40,
-      "name_bh": ""
+      "name_bh": "Smak svijeta",
+      "start_page": 577
     },
     {
       "chapter_id": 76,
@@ -606,7 +681,8 @@
       "name_simple": "Al-Insan",
       "revelation_place": "madinah",
       "verses_count": 31,
-      "name_bh": ""
+      "name_bh": "Čovjek",
+      "start_page": 578
     },
     {
       "chapter_id": 77,
@@ -614,7 +690,8 @@
       "name_simple": "Al-Mursalat",
       "revelation_place": "makkah",
       "verses_count": 50,
-      "name_bh": ""
+      "name_bh": "Poslani",
+      "start_page": 580
     },
     {
       "chapter_id": 78,
@@ -622,7 +699,8 @@
       "name_simple": "An-Naba",
       "revelation_place": "makkah",
       "verses_count": 40,
-      "name_bh": ""
+      "name_bh": "Vijest",
+      "start_page": 582
     },
     {
       "chapter_id": 79,
@@ -630,7 +708,8 @@
       "name_simple": "An-Nazi'at",
       "revelation_place": "makkah",
       "verses_count": 46,
-      "name_bh": ""
+      "name_bh": "Oni koji čupaju",
+      "start_page": 583
     },
     {
       "chapter_id": 80,
@@ -638,7 +717,8 @@
       "name_simple": "'Abasa",
       "revelation_place": "makkah",
       "verses_count": 42,
-      "name_bh": ""
+      "name_bh": "Namrštio se",
+      "start_page": 585
     },
     {
       "chapter_id": 81,
@@ -646,7 +726,8 @@
       "name_simple": "At-Takwir",
       "revelation_place": "makkah",
       "verses_count": 29,
-      "name_bh": ""
+      "name_bh": "Prestanak sjaja",
+      "start_page": 586
     },
     {
       "chapter_id": 82,
@@ -654,7 +735,8 @@
       "name_simple": "Al-Infitar",
       "revelation_place": "makkah",
       "verses_count": 19,
-      "name_bh": ""
+      "name_bh": "Rascjepljenje",
+      "start_page": 587
     },
     {
       "chapter_id": 83,
@@ -662,7 +744,8 @@
       "name_simple": "Al-Mutaffifin",
       "revelation_place": "makkah",
       "verses_count": 36,
-      "name_bh": ""
+      "name_bh": "Oni koji pri mjerenju zakidaju",
+      "start_page": 587
     },
     {
       "chapter_id": 84,
@@ -670,7 +753,8 @@
       "name_simple": "Al-Inshiqaq",
       "revelation_place": "makkah",
       "verses_count": 25,
-      "name_bh": ""
+      "name_bh": "Cijepanje",
+      "start_page": 589
     },
     {
       "chapter_id": 85,
@@ -678,7 +762,8 @@
       "name_simple": "Al-Buruj",
       "revelation_place": "makkah",
       "verses_count": 22,
-      "name_bh": ""
+      "name_bh": "Sazviježđa",
+      "start_page": 590
     },
     {
       "chapter_id": 86,
@@ -686,7 +771,8 @@
       "name_simple": "At-Tariq",
       "revelation_place": "makkah",
       "verses_count": 17,
-      "name_bh": ""
+      "name_bh": "Danica",
+      "start_page": 591
     },
     {
       "chapter_id": 87,
@@ -694,7 +780,8 @@
       "name_simple": "Al-A'la",
       "revelation_place": "makkah",
       "verses_count": 19,
-      "name_bh": ""
+      "name_bh": "Svevišnji",
+      "start_page": 591
     },
     {
       "chapter_id": 88,
@@ -702,7 +789,8 @@
       "name_simple": "Al-Ghashiyah",
       "revelation_place": "makkah",
       "verses_count": 26,
-      "name_bh": ""
+      "name_bh": "Teška nevolja",
+      "start_page": 592
     },
     {
       "chapter_id": 89,
@@ -710,7 +798,8 @@
       "name_simple": "Al-Fajr",
       "revelation_place": "makkah",
       "verses_count": 30,
-      "name_bh": ""
+      "name_bh": "Zora",
+      "start_page": 593
     },
     {
       "chapter_id": 90,
@@ -718,7 +807,8 @@
       "name_simple": "Al-Balad",
       "revelation_place": "makkah",
       "verses_count": 20,
-      "name_bh": ""
+      "name_bh": "Grad",
+      "start_page": 594
     },
     {
       "chapter_id": 91,
@@ -726,7 +816,8 @@
       "name_simple": "Ash-Shams",
       "revelation_place": "makkah",
       "verses_count": 15,
-      "name_bh": ""
+      "name_bh": "Sunce",
+      "start_page": 595
     },
     {
       "chapter_id": 92,
@@ -734,7 +825,8 @@
       "name_simple": "Al-Layl",
       "revelation_place": "makkah",
       "verses_count": 21,
-      "name_bh": ""
+      "name_bh": "Noć",
+      "start_page": 595
     },
     {
       "chapter_id": 93,
@@ -742,7 +834,8 @@
       "name_simple": "Ad-Duhaa",
       "revelation_place": "makkah",
       "verses_count": 11,
-      "name_bh": ""
+      "name_bh": "Jutro",
+      "start_page": 596
     },
     {
       "chapter_id": 94,
@@ -750,7 +843,8 @@
       "name_simple": "Ash-Sharh",
       "revelation_place": "makkah",
       "verses_count": 8,
-      "name_bh": ""
+      "name_bh": "Širokogrudnost",
+      "start_page": 596
     },
     {
       "chapter_id": 95,
@@ -758,159 +852,179 @@
       "name_simple": "At-Tin",
       "revelation_place": "makkah",
       "verses_count": 8,
-      "name_bh": ""
+      "name_bh": "Smokva",
+      "start_page": 597
     },
     {
-      "chapter_id": 96,
-      "name_arabic": "العلق",
-      "name_simple": "Al-'Alaq",
-      "revelation_place": "makkah",
-      "verses_count": 19,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 97,
-      "name_arabic": "القدر",
-      "name_simple": "Al-Qadr",
-      "revelation_place": "makkah",
-      "verses_count": 5,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 98,
-      "name_arabic": "البينة",
-      "name_simple": "Al-Bayyinah",
-      "revelation_place": "madinah",
-      "verses_count": 8,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 99,
-      "name_arabic": "الزلزلة",
-      "name_simple": "Az-Zalzalah",
-      "revelation_place": "madinah",
-      "verses_count": 8,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 100,
-      "name_arabic": "العاديات",
-      "name_simple": "Al-'Adiyat",
-      "revelation_place": "makkah",
-      "verses_count": 11,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 101,
-      "name_arabic": "القارعة",
-      "name_simple": "Al-Qari'ah",
-      "revelation_place": "makkah",
-      "verses_count": 11,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 102,
-      "name_arabic": "التكاثر",
-      "name_simple": "At-Takathur",
-      "revelation_place": "makkah",
-      "verses_count": 8,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 103,
-      "name_arabic": "العصر",
-      "name_simple": "Al-'Asr",
-      "revelation_place": "makkah",
-      "verses_count": 3,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 104,
-      "name_arabic": "الهمزة",
-      "name_simple": "Al-Humazah",
-      "revelation_place": "makkah",
-      "verses_count": 9,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 105,
-      "name_arabic": "الفيل",
-      "name_simple": "Al-Fil",
-      "revelation_place": "makkah",
-      "verses_count": 5,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 106,
-      "name_arabic": "قريش",
-      "name_simple": "Quraysh",
-      "revelation_place": "makkah",
-      "verses_count": 4,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 107,
-      "name_arabic": "الماعون",
-      "name_simple": "Al-Ma'un",
-      "revelation_place": "makkah",
-      "verses_count": 7,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 108,
-      "name_arabic": "الكوثر",
-      "name_simple": "Al-Kawthar",
-      "revelation_place": "makkah",
-      "verses_count": 3,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 109,
-      "name_arabic": "الكافرون",
-      "name_simple": "Al-Kafirun",
-      "revelation_place": "makkah",
-      "verses_count": 6,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 110,
-      "name_arabic": "النصر",
-      "name_simple": "An-Nasr",
-      "revelation_place": "madinah",
-      "verses_count": 3,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 111,
-      "name_arabic": "المسد",
-      "name_simple": "Al-Masad",
-      "revelation_place": "makkah",
-      "verses_count": 5,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 112,
-      "name_arabic": "الإخلاص",
-      "name_simple": "Al-Ikhlas",
-      "revelation_place": "makkah",
-      "verses_count": 4,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 113,
-      "name_arabic": "الفلق",
-      "name_simple": "Al-Falaq",
-      "revelation_place": "makkah",
-      "verses_count": 5,
-      "name_bh": ""
-    },
-    {
-      "chapter_id": 114,
-      "name_arabic": "الناس",
-      "name_simple": "An-Nas",
-      "revelation_place": "makkah",
-      "verses_count": 6,
-      "name_bh": ""
-    }
-  ]
+      "chapter_id":96,
+"name_arabic": "العلق",
+"name_simple": "Al-'Alaq",
+"revelation_place": "makkah",
+"verses_count": 19,
+"name_bh": "Ugrušak",
+"start_page": 597
+},
+{
+"chapter_id": 97,
+"name_arabic": "القدر",
+"name_simple": "Al-Qadr",
+"revelation_place": "makkah",
+"verses_count": 5,
+"name_bh": "Noč Kadr",
+"start_page": 598
+},
+{
+"chapter_id": 98,
+"name_arabic": "البينة",
+"name_simple": "Al-Bayyinah",
+"revelation_place": "madinah",
+"verses_count": 8,
+"name_bh": "Dokaz jasni",
+"start_page": 598
+},
+{
+"chapter_id": 99,
+"name_arabic": "الزلزلة",
+"name_simple": "Az-Zalzalah",
+"revelation_place": "madinah",
+"verses_count": 8,
+"name_bh": "Zemljotres",
+"start_page": 599
+},
+{
+"chapter_id": 100,
+"name_arabic": "العاديات",
+"name_simple": "Al-'Adiyat",
+"revelation_place": "makkah",
+"verses_count": 11,
+"name_bh": "Oni koji jure",
+"start_page": 599
+},
+{
+"chapter_id": 101,
+"name_arabic": "القارعة",
+"name_simple": "Al-Qari'ah",
+"revelation_place": "makkah",
+"verses_count": 11,
+"name_bh": "Smak svijeta",
+"start_page": 600
+},
+{
+"chapter_id": 102,
+"name_arabic": "التكاثر",
+"name_simple": "At-Takathur",
+"revelation_place": "makkah",
+"verses_count": 8,
+"name_bh": "Nadmetanje",
+"start_page": 600
+},
+{
+"chapter_id": 103,
+"name_arabic": "العصر",
+"name_simple": "Al-'Asr",
+"revelation_place": "makkah",
+"verses_count": 3,
+"name_bh": "Vrijeme",
+"start_page": 601
+},
+{
+"chapter_id": 104,
+"name_arabic": "الهمزة",
+"name_simple": "Al-Humazah",
+"revelation_place": "makkah",
+"verses_count": 9,
+"name_bh": "Klevetnik",
+"start_page": 601
+},
+{
+"chapter_id": 105,
+"name_arabic": "الفيل",
+"name_simple": "Al-Fil",
+"revelation_place": "makkah",
+"verses_count": 5,
+"name_bh": "Slon",
+"start_page": 601
+},
+{
+"chapter_id": 106,
+"name_arabic": "قريش",
+"name_simple": "Quraysh",
+"revelation_place": "makkah",
+"verses_count": 4,
+"name_bh": "Pleme Kurejš",
+"start_page": 602
+},
+{
+"chapter_id": 107,
+"name_arabic": "الماعون",
+"name_simple": "Al-Ma'un",
+"revelation_place": "makkah",
+"verses_count": 7,
+"name_bh": "Davanje u narjuč",
+"start_page": 602
+},
+{
+"chapter_id": 108,
+"name_arabic": "الكوثر",
+"name_simple": "Al-Kawthar",
+"revelation_place": "makkah",
+"verses_count": 3,
+"name_bh": "Mnogo dobra",
+"start_page": 602
+},
+{
+"chapter_id": 109,
+"name_arabic": "الكافرون",
+"name_simple": "Al-Kafirun",
+"revelation_place": "makkah",
+"verses_count": 6,
+"name_bh": "Nevjernici",
+"start_page": 603
+},
+{
+"chapter_id": 110,
+"name_arabic": "النصر",
+"name_simple": "An-Nasr",
+"revelation_place": "madinah",
+"verses_count": 3,
+"name_bh": "Pomoć",
+"start_page": 603
+},
+{
+"chapter_id": 111,
+"name_arabic": "المسد",
+"name_simple": "Al-Masad",
+"revelation_place": "makkah",
+"verses_count": 5,
+"name_bh": "Konopac od palminih vlakana",
+"start_page": 603
+},
+{
+"chapter_id": 112,
+"name_arabic": "الإخلاص",
+"name_simple": "Al-Ikhlas",
+"revelation_place": "makkah",
+"verses_count": 4,
+"name_bh": "Iskrenost",
+"start_page": 604
+},
+{
+"chapter_id": 113,
+"name_arabic": "الفلق",
+"name_simple": "Al-Falaq",
+"revelation_place": "makkah",
+"verses_count": 5,
+"name_bh": "Svitanje",
+"start_page": 604
+},
+{
+"chapter_id": 114,
+"name_arabic": "الناس",
+"name_simple": "An-Nas",
+"revelation_place": "makkah",
+"verses_count": 6,
+"name_bh": "Ljudi",
+"start_page": 604
+}
+]
 }

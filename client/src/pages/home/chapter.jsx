@@ -1,9 +1,23 @@
 import React from 'react'
 import './chapter.css'
-import { useNavigate } from "react-router-dom";
 
-function Chapter({ props, use_nav = true , onClick}) {
-    const navigate = useNavigate();
+const SurahName = ({ number }) => {
+    const paddedNumber = String(number).padStart(3, '0');
+    const surah = String.fromCharCode(0xe000);
+
+    return (
+      <div className='home_chapter_name_arab arabic font_arabic_L' style={{fontSize: `40px`,display:'flex', justifyContent:'center', alignItems:'center'}}>
+
+
+        <span style={{ fontFamily: 'SurahNames'}}>
+          surah{paddedNumber}
+        </span>
+
+      </div>
+    );
+  };
+
+function Chapter({ props, use_nav = true , onClick, page}) {
   return (
     <div className='home_chapter_container'  onClick={onClick}>
       <div className='home_chapter_id'>
@@ -23,12 +37,12 @@ function Chapter({ props, use_nav = true , onClick}) {
       </div>
       
       <div className='home_chapter_info_container'>
-        <span className='home_chapter_info_simple_name'>{props.name_simple}</span>
+        <span className='home_chapter_info_simple_name'>{props.name_simple}{page ? ` (strana ${page})` : ''}</span>
         <div className='home_chapter_info_name_bh'>{props.name_bh}</div>
         <span className='home_chapter_info_revelation'>{props.revelation_place + ' ' + props.verses_count + ' ajeta'}</span>
       </div>
       
-      <span className='home_chapter_name_arab arabic font_arabic_L'>{props.name_arabic}</span>
+      <SurahName number={props.chapter_id}/>
     </div>
   );
 }

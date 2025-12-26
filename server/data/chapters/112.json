@@ -33,7 +33,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Say",
-            "translation_bh": "reci!"
+            "translation_bh": "reci!",
+            "text": "ﭑ"
           },
           {
             "id": 7,
@@ -50,7 +51,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "He",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭒ"
           },
           {
             "id": 8,
@@ -67,7 +69,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(is) Allah",
-            "translation_bh": "Allah (Nomenativ)"
+            "translation_bh": "Allah (Nomenativ)",
+            "text": "ﭓ"
           },
           {
             "id": 9,
@@ -84,7 +87,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "the One",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭔ"
           },
           {
             "id": 10,
@@ -101,7 +105,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(1)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭕ"
           }
         ],
         "translation": "Reci: \"On je Allah- Jedan!"
@@ -133,7 +138,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Allah",
-            "translation_bh": "Allah (Nomenativ)"
+            "translation_bh": "Allah (Nomenativ)",
+            "text": "ﭖ"
           },
           {
             "id": 917,
@@ -152,7 +158,8 @@
               "ٱل"
             ],
             "translation_en": "the Eternal, the Absolute",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭗ"
           },
           {
             "id": 918,
@@ -169,7 +176,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(2)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭘ"
           }
         ],
         "translation": "Allah je Es-Samed!"
@@ -201,7 +209,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭙ"
           },
           {
             "id": 2747,
@@ -218,7 +227,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He begets",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭚ"
           },
           {
             "id": 2748,
@@ -237,7 +247,8 @@
               "وَ"
             ],
             "translation_en": "and not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭛ"
           },
           {
             "id": 2749,
@@ -254,7 +265,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He is begotten",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭜ"
           },
           {
             "id": 2750,
@@ -271,7 +283,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(3)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭝ"
           }
         ],
         "translation": "Nije rodio i rođen nije,"
@@ -305,7 +318,8 @@
               "وَ"
             ],
             "translation_en": "And not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭞ"
           },
           {
             "id": 4137,
@@ -322,7 +336,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "is",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭟ"
           },
           {
             "id": 4138,
@@ -341,7 +356,8 @@
               "لَّ"
             ],
             "translation_en": "for Him",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭠ"
           },
           {
             "id": 4139,
@@ -358,7 +374,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "equivalent",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭡ"
           },
           {
             "id": 4140,
@@ -375,7 +392,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "any [one]",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭢ"
           },
           {
             "id": 4141,
@@ -392,7 +410,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(4)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭣ"
           }
         ],
         "translation": "i niko Mu ravan nije!\""

@@ -1,6 +1,5 @@
 {
   "page_number": 358,
-  "juz_number": 18,
   "chapters": [
     {
       "chapter_id": 24,
@@ -39,7 +38,8 @@
                 "وَ"
               ],
               "translation_en": "And when",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭑ"
             },
             {
               "id": 53715,
@@ -56,7 +56,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "reach",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭒ"
             },
             {
               "id": 53716,
@@ -75,7 +76,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the children",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭓ"
             },
             {
               "id": 53717,
@@ -92,7 +94,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "among you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭔ"
             },
             {
               "id": 53718,
@@ -111,7 +114,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the puberty",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭕ"
             },
             {
               "id": 53719,
@@ -131,7 +135,8 @@
                 "لْ"
               ],
               "translation_en": "then let them ask permission",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭖ"
             },
             {
               "id": 53720,
@@ -150,7 +155,8 @@
                 "كَ"
               ],
               "translation_en": "as",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭗ"
             },
             {
               "id": 53721,
@@ -167,7 +173,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "asked permission",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭘ"
             },
             {
               "id": 53722,
@@ -184,7 +191,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "those who",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭙ"
             },
             {
               "id": 53723,
@@ -201,7 +209,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(were) before them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭚ"
             },
             {
               "id": 53724,
@@ -218,7 +227,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(were) before them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭛﭜ"
             },
             {
               "id": 53726,
@@ -237,7 +247,8 @@
                 "كَ"
               ],
               "translation_en": "Thus",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭝ"
             },
             {
               "id": 53727,
@@ -254,7 +265,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Allah makes clear",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭞ"
             },
             {
               "id": 53728,
@@ -271,7 +283,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah makes clear",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﭟ"
             },
             {
               "id": 53729,
@@ -290,7 +303,8 @@
                 "لَ"
               ],
               "translation_en": "for you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭠ"
             },
             {
               "id": 53730,
@@ -307,7 +321,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "His Verses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭡﭢ"
             },
             {
               "id": 53732,
@@ -326,7 +341,8 @@
                 "وَ"
               ],
               "translation_en": "And Allah",
-              "translation_bh": "I Allah"
+              "translation_bh": "I Allah",
+              "text": "ﭣ"
             },
             {
               "id": 53733,
@@ -343,7 +359,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) All-Knower",
-              "translation_bh": "Sveznajući / sve dobro zna"
+              "translation_bh": "Sveznajući / sve dobro zna",
+              "text": "ﭤ"
             },
             {
               "id": 53734,
@@ -360,7 +377,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "All-Wise",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭥ"
             },
             {
               "id": 53735,
@@ -377,7 +395,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(59)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭦ"
             }
           ],
           "translation": "A kad djeca vaša dostignu spolnu zrelost, neka onda uvijek traže dopuštenje za ulazak, kao što su tražili dopuštenje oni prije njih; tako vam Allah objašnjava ajete Svoje! A Allah je Onaj Koji sve zna i mudar je."
@@ -412,7 +431,8 @@
                 "ٱلْ"
               ],
               "translation_en": "And postmenopausal",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭧ"
             },
             {
               "id": 54522,
@@ -429,7 +449,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "among",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭨ"
             },
             {
               "id": 54523,
@@ -448,7 +469,8 @@
                 "ٱل"
               ],
               "translation_en": "the women",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭩ"
             },
             {
               "id": 54524,
@@ -465,7 +487,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "who",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭪ"
             },
             {
               "id": 54525,
@@ -482,7 +505,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(do) not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭫ"
             },
             {
               "id": 54526,
@@ -499,7 +523,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "have desire",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭬ"
             },
             {
               "id": 54527,
@@ -516,7 +541,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(for) marriage",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭭ"
             },
             {
               "id": 54528,
@@ -535,7 +561,8 @@
                 "فَ"
               ],
               "translation_en": "then not is",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭮ"
             },
             {
               "id": 54529,
@@ -552,7 +579,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "on them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭯ"
             },
             {
               "id": 54530,
@@ -569,7 +597,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "any blame",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭰ"
             },
             {
               "id": 54531,
@@ -586,7 +615,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "that",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭱ"
             },
             {
               "id": 54532,
@@ -603,7 +633,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they put aside",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭲ"
             },
             {
               "id": 54533,
@@ -620,7 +651,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "their (outer) garments",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭳ"
             },
             {
               "id": 54534,
@@ -637,7 +669,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭴ"
             },
             {
               "id": 54535,
@@ -654,7 +687,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "displaying",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭵ"
             },
             {
               "id": 54536,
@@ -673,7 +707,8 @@
                 "بِ"
               ],
               "translation_en": "their adornment",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭶﭷ"
             },
             {
               "id": 54538,
@@ -692,7 +727,8 @@
                 "وَ"
               ],
               "translation_en": "And that",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭸ"
             },
             {
               "id": 54539,
@@ -709,7 +745,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they modestly refrain",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭹ"
             },
             {
               "id": 54540,
@@ -726,7 +763,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) better",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭺ"
             },
             {
               "id": 54541,
@@ -745,7 +783,8 @@
                 "لَّ"
               ],
               "translation_en": "for them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭻﭼ"
             },
             {
               "id": 54543,
@@ -764,7 +803,8 @@
                 "وَ"
               ],
               "translation_en": "And Allah",
-              "translation_bh": "I Allah"
+              "translation_bh": "I Allah",
+              "text": "ﭽ"
             },
             {
               "id": 54544,
@@ -781,7 +821,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) All-Hearer",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭾ"
             },
             {
               "id": 54545,
@@ -798,7 +839,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "All-Knower",
-              "translation_bh": "Sveznajući / sve dobro zna"
+              "translation_bh": "Sveznajući / sve dobro zna",
+              "text": "ﭿ"
             },
             {
               "id": 54546,
@@ -815,7 +857,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(60)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮀ"
             }
           ],
           "translation": "A starim ženama koje ne žude više za udajom nije grijeh da odlože ogrtače svoje, ali ne pokazujući ukrase svoje; a bolje im je da budu kreposne. Allah je Onaj Koji sve čuje i Onaj Koji sve zna."
@@ -847,7 +890,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Not is",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮁ"
             },
             {
               "id": 54883,
@@ -864,7 +908,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "on",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮂ"
             },
             {
               "id": 54884,
@@ -883,7 +928,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the blind",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮃ"
             },
             {
               "id": 54885,
@@ -900,7 +946,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "any blame",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮄ"
             },
             {
               "id": 54886,
@@ -919,7 +966,8 @@
                 "وَ"
               ],
               "translation_en": "and not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮅ"
             },
             {
               "id": 54887,
@@ -936,7 +984,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "on",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮆ"
             },
             {
               "id": 54888,
@@ -955,7 +1004,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the lame",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮇ"
             },
             {
               "id": 54889,
@@ -972,7 +1022,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "any blame",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮈ"
             },
             {
               "id": 54890,
@@ -991,7 +1042,8 @@
                 "وَ"
               ],
               "translation_en": "and not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮉ"
             },
             {
               "id": 54891,
@@ -1008,7 +1060,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "on",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮊ"
             },
             {
               "id": 54892,
@@ -1027,7 +1080,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the sick",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮋ"
             },
             {
               "id": 54893,
@@ -1044,7 +1098,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "any blame",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮌ"
             },
             {
               "id": 54894,
@@ -1063,7 +1118,8 @@
                 "وَ"
               ],
               "translation_en": "and not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮍ"
             },
             {
               "id": 54895,
@@ -1080,7 +1136,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "on",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮎ"
             },
             {
               "id": 54896,
@@ -1097,7 +1154,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "yourselves",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮏ"
             },
             {
               "id": 54897,
@@ -1114,7 +1172,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "that",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮐ"
             },
             {
               "id": 54898,
@@ -1131,7 +1190,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you eat",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮑ"
             },
             {
               "id": 54899,
@@ -1148,7 +1208,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮒ"
             },
             {
               "id": 54900,
@@ -1165,7 +1226,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "your houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮓ"
             },
             {
               "id": 54901,
@@ -1182,7 +1244,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮔ"
             },
             {
               "id": 54902,
@@ -1199,7 +1262,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮕ"
             },
             {
               "id": 54903,
@@ -1216,7 +1280,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your fathers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮖ"
             },
             {
               "id": 54904,
@@ -1233,7 +1298,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮗ"
             },
             {
               "id": 54905,
@@ -1250,7 +1316,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮘ"
             },
             {
               "id": 54906,
@@ -1267,7 +1334,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your mothers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮙ"
             },
             {
               "id": 54907,
@@ -1284,7 +1352,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮚ"
             },
             {
               "id": 54908,
@@ -1301,7 +1370,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮛ"
             },
             {
               "id": 54909,
@@ -1318,7 +1388,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your brothers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮜ"
             },
             {
               "id": 54910,
@@ -1335,7 +1406,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮝ"
             },
             {
               "id": 54911,
@@ -1352,7 +1424,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮞ"
             },
             {
               "id": 54912,
@@ -1369,7 +1442,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your sisters",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮟ"
             },
             {
               "id": 54913,
@@ -1386,7 +1460,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮠ"
             },
             {
               "id": 54914,
@@ -1403,7 +1478,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮡ"
             },
             {
               "id": 54915,
@@ -1420,7 +1496,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your paternal uncles",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮢ"
             },
             {
               "id": 54916,
@@ -1437,7 +1514,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮣ"
             },
             {
               "id": 54917,
@@ -1454,7 +1532,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮤ"
             },
             {
               "id": 54918,
@@ -1471,7 +1550,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your paternal aunts",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮥ"
             },
             {
               "id": 54919,
@@ -1488,7 +1568,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮦ"
             },
             {
               "id": 54920,
@@ -1505,7 +1586,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮧ"
             },
             {
               "id": 54921,
@@ -1522,7 +1604,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your maternal uncles",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮨ"
             },
             {
               "id": 54922,
@@ -1539,7 +1622,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮩ"
             },
             {
               "id": 54923,
@@ -1556,7 +1640,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮪ"
             },
             {
               "id": 54924,
@@ -1573,7 +1658,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your maternal aunts",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮫ"
             },
             {
               "id": 54925,
@@ -1590,7 +1676,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮬ"
             },
             {
               "id": 54926,
@@ -1607,7 +1694,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮭ"
             },
             {
               "id": 54927,
@@ -1624,7 +1712,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you possess",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮮ"
             },
             {
               "id": 54928,
@@ -1641,7 +1730,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "its keys",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮯ"
             },
             {
               "id": 54929,
@@ -1658,7 +1748,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮰ"
             },
             {
               "id": 54930,
@@ -1675,7 +1766,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "your friend",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮱﯓ"
             },
             {
               "id": 54932,
@@ -1692,7 +1784,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Not is",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯔ"
             },
             {
               "id": 54933,
@@ -1709,7 +1802,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "on you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯕ"
             },
             {
               "id": 54934,
@@ -1726,7 +1820,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "any blame",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯖ"
             },
             {
               "id": 54935,
@@ -1743,7 +1838,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "that",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯗ"
             },
             {
               "id": 54936,
@@ -1760,7 +1856,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you eat",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯘ"
             },
             {
               "id": 54937,
@@ -1777,7 +1874,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "together",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯙ"
             },
             {
               "id": 54938,
@@ -1794,7 +1892,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯚ"
             },
             {
               "id": 54939,
@@ -1811,7 +1910,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "separately",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯛﯜ"
             },
             {
               "id": 54941,
@@ -1830,7 +1930,8 @@
                 "فَ"
               ],
               "translation_en": "But when",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯝ"
             },
             {
               "id": 54942,
@@ -1847,7 +1948,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you enter",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯞ"
             },
             {
               "id": 54943,
@@ -1864,7 +1966,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "houses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯟ"
             },
             {
               "id": 54944,
@@ -1883,7 +1986,8 @@
                 "فَ"
               ],
               "translation_en": "then greet",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯠ"
             },
             {
               "id": 54945,
@@ -1900,7 +2004,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "[on]",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯡ"
             },
             {
               "id": 54946,
@@ -1917,7 +2022,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "yourselves",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯢ"
             },
             {
               "id": 54947,
@@ -1934,7 +2040,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "a greeting",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯣ"
             },
             {
               "id": 54948,
@@ -1951,7 +2058,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯤ"
             },
             {
               "id": 54949,
@@ -1968,7 +2076,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯥ"
             },
             {
               "id": 54950,
@@ -1985,7 +2094,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)"
+              "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+              "text": "ﯦ"
             },
             {
               "id": 54951,
@@ -2002,7 +2112,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "blessed",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯧ"
             },
             {
               "id": 54952,
@@ -2019,7 +2130,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(and) good",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯨﯩ"
             },
             {
               "id": 54954,
@@ -2038,7 +2150,8 @@
                 "كَ"
               ],
               "translation_en": "Thus",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯪ"
             },
             {
               "id": 54955,
@@ -2055,7 +2168,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "Allah makes clear",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯫ"
             },
             {
               "id": 54956,
@@ -2072,7 +2186,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah makes clear",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﯬ"
             },
             {
               "id": 54957,
@@ -2091,7 +2206,8 @@
                 "لَ"
               ],
               "translation_en": "for you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯭ"
             },
             {
               "id": 54958,
@@ -2110,7 +2226,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the Verses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯮ"
             },
             {
               "id": 54959,
@@ -2127,7 +2244,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "so that you may",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯯ"
             },
             {
               "id": 54960,
@@ -2144,7 +2262,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "understand",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯰ"
             },
             {
               "id": 54961,
@@ -2161,7 +2280,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(61)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯱ"
             }
           ],
           "translation": "Nije grijeh slijepom, niti je grijeh hromom, niti je grijeh bolesnom, a niti vama samima da jedete u kućama vašim, ili u kućama očeva vaših, ili u kućama majki vaših, ili u kućama braće vaše, ili u kućama sestara vaših, ili u kućama amidža vaših, ili u kućama tetaka vaših po ocu, ili u kućama daidža vaših, ili u kućama tetaka vaših po majci, ili onih čiji su ključevi u vas ili u prijatelja vašeg; nije vam grijeh da jedete zajednički ili pojedinačno. A kad ulazite u kuće, vi ukućane njene pozdravite pozdravom od Allaha propisanim, blagoslovljenim i lijepim. Tako vam Allah objašnjava ajete da biste razumjeli!"

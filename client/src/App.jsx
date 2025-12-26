@@ -4,13 +4,14 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-d
 import './App.css'
 import Home from './pages/home/home';
 import FullChapter from './pages/readChapter/fullChapter';
+import FullPageMushaf from './pages/readPage/fullPageMushaf';
 
 function App() {
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme') || 'light';
     document.documentElement.setAttribute('data-theme', savedTheme);
 
-    const savedArabFont = localStorage.getItem('fontSizeArabic') || '32';
+    const savedArabFont = localStorage.getItem('fontSizeArabic') || '36';
     document.documentElement.style.setProperty('--font-size-arabic', `${savedArabFont}px`);
 
     const savedTefsirFont = localStorage.getItem('fontSizeTefsir') || '14';
@@ -22,7 +23,7 @@ function App() {
     const savedWordTranslationFont = localStorage.getItem('fontSizeWordTranslation') || '12';
     document.documentElement.style.setProperty('--font-size-word-translation', `${savedWordTranslationFont}px`);
 
-    const savedArabFontStyle = localStorage.getItem('fontStyleArabic3') || `Scheherazade New, serif`;
+    const savedArabFontStyle = localStorage.getItem('fontStyleArabic3') || `Scheherazade New`;
     document.documentElement.style.setProperty('--font-style-arabic', savedArabFontStyle);
 
     const savedAudioEdition = localStorage.getItem('audioEdition') || `ar.alafasy`;
@@ -36,6 +37,8 @@ function App() {
         <Route path="/home" element={<Home />} />
         <Route path="chapter/:chapter_id" element={<FullChapter/>}/>
         <Route path="chapter/:chapter_id/page/:page_id" element={<FullChapter/>}/>
+        <Route path="chapter/:chapter_id/verse/:verse_id" element={<FullChapter/>}/>
+        <Route path="page/:page_id" element={<FullPageMushaf/>}/>
       </Routes>
     </Router>
   )

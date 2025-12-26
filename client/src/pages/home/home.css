@@ -79,3 +79,83 @@
     line-height: 1.1;
     margin: 0;
 }
+.version_selector {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-end;
+  gap: 24px;
+  width: 94%;
+  margin: 20px auto;
+  margin-bottom: 6px;
+  border-bottom: 1px solid var(--color-h-line);
+}
+.bookmark_section_header {
+  width: 94%;
+  margin: 32px auto 16px;
+  padding-left: 12px;
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--color-text-lighter);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  border-left: 3px solid rgb(90, 160, 62);
+}
+
+.bookmark_section_header:first-of-type {
+  margin-top: 16px;
+}
+
+[data-theme="dark"] .bookmark_section_header {
+  border-left-color: #487238ff;
+}
+.version_button_group {
+  display: flex;
+  gap: 4px;
+  padding-right: 24px;
+  border-right: 1px solid var(--color-h-line);
+}
+
+.version_button {
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: normal;
+  border-radius: 6px 6px 0px 0px;
+  min-height: 32px;
+  box-shadow: none;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  background-color: transparent;
+  color: var(--color-text-lighter);
+  border: none;
+  border-bottom: 2px solid transparent;
+  position: relative;
+}
+
+/* Active/selected state */
+.version_button.active {
+  background-color: var(--color-h-line);
+  color: var(--color-text);
+  font-weight: 600;
+  border-bottom-color: rgb(90, 160, 62);
+}
+
+/* Hover effect */
+.version_button:hover:not(.active) {
+  background-color: var(--color-opacity-10);
+  color: var(--color-text);
+}
+
+/* Focus state for keyboard navigation */
+.version_button:focus-visible {
+  outline: 2px solid rgb(90, 160, 62);
+  outline-offset: -2px;
+}
+
+[data-theme="dark"] .version_button.active {
+  border-bottom-color: #487238ff;
+}
+
+[data-theme="dark"] .version_button:focus-visible {
+  outline-color: #487238ff;
+}

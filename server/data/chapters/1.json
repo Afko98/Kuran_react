@@ -35,7 +35,8 @@
               "بِ"
             ],
             "translation_en": "In (the) name",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭑ"
           },
           {
             "id": 2,
@@ -52,7 +53,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) Allah",
-            "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)"
+            "translation_bh": "Allaha / od Allaha / Allahov (Genitiv)",
+            "text": "ﭒ"
           },
           {
             "id": 3,
@@ -71,7 +73,8 @@
               "ٱل"
             ],
             "translation_en": "the Most Gracious",
-            "translation_bh": "Svemilosnom / Svemilosnog"
+            "translation_bh": "Svemilosnom / Svemilosnog",
+            "text": "ﭓ"
           },
           {
             "id": 4,
@@ -90,7 +93,8 @@
               "ٱل"
             ],
             "translation_en": "the Most Merciful",
-            "translation_bh": "Milostivog / Milostivom"
+            "translation_bh": "Milostivog / Milostivom",
+            "text": "ﭔ"
           },
           {
             "id": 5,
@@ -107,7 +111,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(1)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭕ"
           }
         ],
         "translation": "S imenom Allaha, Svemilosnog, Milostivog!"
@@ -141,7 +146,8 @@
               "ٱلْ"
             ],
             "translation_en": "All praises and thanks",
-            "translation_bh": "sva zahvala"
+            "translation_bh": "sva zahvala",
+            "text": "ﭖ"
           },
           {
             "id": 1131,
@@ -160,7 +166,8 @@
               "لِ"
             ],
             "translation_en": "(be) to Allah",
-            "translation_bh": "Allahovom / od Allaha / za Allaha /Allahovo"
+            "translation_bh": "Allahovom / od Allaha / za Allaha /Allahovo",
+            "text": "ﭗ"
           },
           {
             "id": 1132,
@@ -177,7 +184,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "the Lord",
-            "translation_bh": "Gospodara"
+            "translation_bh": "Gospodara",
+            "text": "ﭘ"
           },
           {
             "id": 1133,
@@ -196,7 +204,8 @@
               "ٱلْ"
             ],
             "translation_en": "of the universe",
-            "translation_bh": "svjetovima"
+            "translation_bh": "svjetovima",
+            "text": "ﭙ"
           },
           {
             "id": 1134,
@@ -213,7 +222,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(2)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭚ"
           }
         ],
         "translation": "Svaka hvala neka je Allahu, Gospodaru svjetova."
@@ -247,7 +257,8 @@
               "ٱل"
             ],
             "translation_en": "The Most Gracious",
-            "translation_bh": "Svemilosnom / Svemilosnog"
+            "translation_bh": "Svemilosnom / Svemilosnog",
+            "text": "ﭛ"
           },
           {
             "id": 2954,
@@ -266,7 +277,8 @@
               "ٱل"
             ],
             "translation_en": "the Most Merciful",
-            "translation_bh": "Milostivog / Milostivom"
+            "translation_bh": "Milostivog / Milostivom",
+            "text": "ﭜ"
           },
           {
             "id": 2955,
@@ -283,7 +295,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(3)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭝ"
           }
         ],
         "translation": "Svemilosnom, Milostivom."
@@ -315,7 +328,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(The) Master",
-            "translation_bh": "Vladaru"
+            "translation_bh": "Vladaru",
+            "text": "ﭞ"
           },
           {
             "id": 3253,
@@ -332,7 +346,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) Day",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭟ"
           },
           {
             "id": 3254,
@@ -351,7 +366,8 @@
               "ٱل"
             ],
             "translation_en": "(of the) Judgment",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭠ"
           },
           {
             "id": 3255,
@@ -368,7 +384,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(4)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭡ"
           }
         ],
         "translation": "Vladaru Dana sudnjeg."
@@ -400,7 +417,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "You Alone",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭢ"
           },
           {
             "id": 5335,
@@ -417,7 +435,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "we worship",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭣ"
           },
           {
             "id": 5336,
@@ -436,7 +455,8 @@
               "وَ"
             ],
             "translation_en": "and You Alone",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭤ"
           },
           {
             "id": 5337,
@@ -453,7 +473,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "we ask for help",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭥ"
           },
           {
             "id": 5338,
@@ -470,7 +491,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(5)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭦ"
           }
         ],
         "translation": "Samo Tebi ibadet činimo i samo od Tebe pomoć molimo."
@@ -502,7 +524,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Guide us",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭧ"
           },
           {
             "id": 6845,
@@ -521,7 +544,8 @@
               "ٱل"
             ],
             "translation_en": "(to) the path",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭨ"
           },
           {
             "id": 6846,
@@ -540,7 +564,8 @@
               "ٱلْ"
             ],
             "translation_en": "the straight",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭩ"
           },
           {
             "id": 6847,
@@ -557,7 +582,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(6)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭪ"
           }
         ],
         "translation": "Uputi nas na Pravi put."
@@ -589,7 +615,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(The) path",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭫ"
           },
           {
             "id": 8412,
@@ -606,7 +633,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(of) those",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭬ"
           },
           {
             "id": 8413,
@@ -623,7 +651,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "You have bestowed (Your) Favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭭ"
           },
           {
             "id": 8414,
@@ -640,7 +669,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "on them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭮ"
           },
           {
             "id": 8415,
@@ -657,7 +687,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "not (of)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭯ"
           },
           {
             "id": 8416,
@@ -676,7 +707,8 @@
               "ٱلْ"
             ],
             "translation_en": "those who earned (Your) wrath",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭰ"
           },
           {
             "id": 8417,
@@ -693,7 +725,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "on themselves",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭱ"
           },
           {
             "id": 8418,
@@ -712,7 +745,8 @@
               "وَ"
             ],
             "translation_en": "and not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭲ"
           },
           {
             "id": 8419,
@@ -731,7 +765,8 @@
               "ٱل"
             ],
             "translation_en": "(of) those who go astray",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭳ"
           },
           {
             "id": 8420,
@@ -748,7 +783,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(7)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭴ"
           }
         ],
         "translation": "Na put onih kojima si blagodati podario. A ne na put onih na koje se srdžba izlila, niti na put onih koji su zalutali."

@@ -3,10 +3,10 @@ import { X } from 'lucide-react'
 import Slider from './pages/moduls/slider';
 import './userSettings.css'
 
-function UserSettings({ showSettings, setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition, textStyleArabic, setTextStyleArabic}) {
+function UserSettings({ setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, textStyleArabic, page=true }) {
   const [isVisible, setIsVisible] = useState(false);
   const [fontSizeArabic, setFontSizeArabic] = useState(
-    localStorage.getItem('fontSizeArabic') || 32
+    localStorage.getItem('fontSizeArabic') || 36
   );
   const [fontSizeTefsir, setFontSizeTefsir] = useState(
     localStorage.getItem('fontSizeTefsir') || 14
@@ -19,9 +19,6 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
   );
   const [currentTheme, setCurrentTheme] = useState(
     localStorage.getItem('theme') || 'light'
-  )
-  const [fontStyleArabic3, setFontStyleArabic3] = useState(
-    localStorage.getItem('fontStyleArabic3') || `Scheherazade New, serif`
   )
 
   // Trigger animation after component mounts
@@ -58,10 +55,6 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
     document.documentElement.style.setProperty('--font-size-word-translation', `${fontSizeWordTranslation}px`);
     localStorage.setItem('fontSizeWordTranslation', fontSizeWordTranslation);
   }, [fontSizeWordTranslation]);
-    useEffect(() => {
-    document.documentElement.style.setProperty('--font-style-arabic', `${fontStyleArabic3}`);
-    localStorage.setItem('fontStyleArabic3', fontStyleArabic3);
-  }, [fontStyleArabic3]);
     useEffect(() => {
     localStorage.setItem('audioEdition', audioEdition);
   }, [audioEdition]);
@@ -102,51 +95,9 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
             <option value="light">Svijetla</option>
             <option value="dark">Tamna</option>
           </select>
-        </div>
-
-        <div className="setting-group">
-          <label >Font arapskog pisma</label>
-          <select 
-            id="font-style-select"
-            value={fontStyleArabic3}
-            onChange={(e) => setFontStyleArabic3(e.target.value)}
-          >
-            <option value="'Scheherazade New', serif">Font 1</option>
-            <option value="'Amiri Quran', serif">Font 2</option>
-            <option value="'Noto Naskh Arabic', serif">Font 3</option>
-            
-          </select>
-        </div>
-
-        <div className="setting-group">
-          <label >Štampa arapskog pisma</label>
-          <select 
-            id="textStyleArabic"
-            value={textStyleArabic}
-            onChange={(e) => setTextStyleArabic(e.target.value)}
-          >
-            <option value="text_uthmani">Medinska</option>
-            <option value="text_imlaei">Turska</option>
-            <option value="text_indopak">Pakistanska</option>
-            <option value="text_uthmani_simple">Jednostavna</option>
-          </select>
-        </div>
-
-        <div className="setting-group">
-          <label >Učač</label>
-          <select 
-            id="audioEdition"
-            value={audioEdition}    
-            onChange={(e) => setAudioEdition(e.target.value)}
-          >
-            <option value="ar.alafasy">Alafasy</option>
-            <option value="ar.husary">Husary</option>
-            <option value="ar.minshawi">Minshawi</option>
-            <option value="ar.mahermuaiqly">Maher</option>
-            <option value="ar.hudhaify">Hudhaify</option>
-          </select>
-        </div>
-        
+        </div>      
+        {page &&
+        <>
         <div className="toggle-container">
           <label style={{maxWidth:"56%"}} className="toggle-label">Prijevod riječ po riječ (u izradi)</label>
           <label className="toggle-switch">
@@ -162,15 +113,16 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
         <div style={{display:'flex', flexDirection:"column", gap:"8px", borderBottom:"1px solid gray", borderTop:"1px solid gray", paddingTop:"10px"}}>
         <Slider
           label="Veličina arapskog pisma"
-          min={10}
-          max={50}
+          min={24}
+          max={80}
           value={fontSizeArabic}
           onChange={(e) => setFontSizeArabic(Number(e.target.value))}
         />
-        <span  className={'arabic'} style={{paddingBottom:"18px", fontSize:`${fontSizeArabic}px`}}>بِسْمِ اللَّهِ</span>
+        <span  className={'arabic'} style={{paddingBottom:"18px", fontSize:`${fontSizeArabic}px`, fontFamily: 'QuranPage1'}}>ﭑ
+ﭒ</span>
         </div>
 
-        <div style={{display:'flex', flexDirection:"column", gap:"8px", borderBottom:"1px solid gray"}}>
+        <div style={{display:'flex', flexDirection:"column", gap:"18px", borderBottom:"1px solid gray"}}>
         <Slider
           label="Veličina prevedenih riječi"
           min={8}
@@ -180,7 +132,7 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
         />
         <span   style={{paddingBottom:"18px", fontSize:`${fontSizeWordTranslation}px`}}>Primjer teksta</span>
         </div>
-        <div style={{display:'flex', flexDirection:"column", gap:"8px", borderBottom:"1px solid gray"}}>
+        <div style={{display:'flex', flexDirection:"column", gap:"18px", borderBottom:"1px solid gray"}}>
         <Slider
           label="Veličina prijevoda"
           min={8}
@@ -190,7 +142,7 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
         />
         <span  style={{paddingBottom:"18px", fontSize:`${fontSizeVerseTranslation}px`}}>Primjer teksta</span>
         </div>
-        <div style={{display:'flex', flexDirection:"column", gap:"8px", borderBottom:"1px solid gray"}}>
+        <div style={{display:'flex', flexDirection:"column", gap:"18px", borderBottom:"1px solid gray"}}>
         <Slider
           label="Veličina teksta tefsira"
           min={8}
@@ -200,8 +152,10 @@ function UserSettings({ showSettings, setShowSettings, showWordTranslation, setS
         />
         <span style={{paddingBottom:"18px", fontSize:`${fontSizeTefsir}px`}}>Primjer teksta</span>
         </div>
-
+        </>
+}
       </div>
+      
     </div>
   )
 }

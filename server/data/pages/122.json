@@ -1,6 +1,5 @@
 {
   "page_number": 122,
-  "juz_number": 7,
   "chapters": [
     {
       "chapter_id": 5,
@@ -10,6 +9,429 @@
       "verses_count": 120,
       "beginning_of_surah": false,
       "verses": [
+        {
+          "id": 752,
+          "verse_number": 83,
+          "verse_key": "5:83",
+          "hizb_number": 13,
+          "rub_el_hizb_number": 49,
+          "ruku_number": 96,
+          "manzil_number": 2,
+          "sajdah_number": null,
+          "page_number": 122,
+          "juz_number": 7,
+          "words": [
+            {
+              "id": 65447,
+              "position": 1,
+              "char_type_name": "word",
+              "text_imlaei": "وَإِذَا",
+              "text_uthmani": "وَإِذَا",
+              "text_indopak": "وَاِذَا",
+              "text_uthmani_simple": "واذا",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [
+                "وَ"
+              ],
+              "translation_en": "And when",
+              "translation_bh": "",
+              "text": "ﭑ"
+            },
+            {
+              "id": 65448,
+              "position": 2,
+              "char_type_name": "word",
+              "text_imlaei": "سَمِعُوا",
+              "text_uthmani": "سَمِعُوا۟",
+              "text_indopak": "سَمِعُوۡا",
+              "text_uthmani_simple": "سمعوا۟",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "سمع",
+              "lemma": "سَمِعَ",
+              "part_of_speech": "V",
+              "addons": [],
+              "translation_en": "they listen",
+              "translation_bh": "",
+              "text": "ﭒ"
+            },
+            {
+              "id": 65449,
+              "position": 3,
+              "char_type_name": "word",
+              "text_imlaei": "مَا",
+              "text_uthmani": "مَآ",
+              "text_indopak": "مَاۤ",
+              "text_uthmani_simple": "ما",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [],
+              "translation_en": "(to) what",
+              "translation_bh": "",
+              "text": "ﭓ"
+            },
+            {
+              "id": 65450,
+              "position": 4,
+              "char_type_name": "word",
+              "text_imlaei": "أُنزِلَ",
+              "text_uthmani": "أُنزِلَ",
+              "text_indopak": "اُنۡزِلَ",
+              "text_uthmani_simple": "انزل",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "نزل",
+              "lemma": "أَنزَلَ",
+              "part_of_speech": "V",
+              "addons": [],
+              "translation_en": "has been revealed",
+              "translation_bh": "",
+              "text": "ﭔ"
+            },
+            {
+              "id": 65451,
+              "position": 5,
+              "char_type_name": "word",
+              "text_imlaei": "إِلَى",
+              "text_uthmani": "إِلَى",
+              "text_indopak": "اِلَى",
+              "text_uthmani_simple": "الى",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [],
+              "translation_en": "to",
+              "translation_bh": "",
+              "text": "ﭕ"
+            },
+            {
+              "id": 65452,
+              "position": 6,
+              "char_type_name": "word",
+              "text_imlaei": "الرَّسُولِ",
+              "text_uthmani": "ٱلرَّسُولِ",
+              "text_indopak": "الرَّسُوۡلِ",
+              "text_uthmani_simple": "الرسول",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "رسل",
+              "lemma": "رَسُول",
+              "part_of_speech": "N",
+              "addons": [
+                "ٱل"
+              ],
+              "translation_en": "the Messenger",
+              "translation_bh": "",
+              "text": "ﭖ"
+            },
+            {
+              "id": 65453,
+              "position": 7,
+              "char_type_name": "word",
+              "text_imlaei": "تَرَىٰ",
+              "text_uthmani": "تَرَىٰٓ",
+              "text_indopak": "تَرٰٓى",
+              "text_uthmani_simple": "ترى",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "رأي",
+              "lemma": "رَأَى",
+              "part_of_speech": "V",
+              "addons": [],
+              "translation_en": "you see",
+              "translation_bh": "",
+              "text": "ﭗ"
+            },
+            {
+              "id": 65454,
+              "position": 8,
+              "char_type_name": "word",
+              "text_imlaei": "أَعْيُنَهُمْ",
+              "text_uthmani": "أَعْيُنَهُمْ",
+              "text_indopak": "اَعۡيُنَهُمۡ",
+              "text_uthmani_simple": "اعينهم",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "عين",
+              "lemma": "عَيْن",
+              "part_of_speech": "N",
+              "addons": [],
+              "translation_en": "their eyes",
+              "translation_bh": "",
+              "text": "ﭘ"
+            },
+            {
+              "id": 65455,
+              "position": 9,
+              "char_type_name": "word",
+              "text_imlaei": "تَفِيضُ",
+              "text_uthmani": "تَفِيضُ",
+              "text_indopak": "تَفِيۡضُ",
+              "text_uthmani_simple": "تفيض",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "فيض",
+              "lemma": "تَفِيضُ",
+              "part_of_speech": "V",
+              "addons": [],
+              "translation_en": "overflowing",
+              "translation_bh": "",
+              "text": "ﭙ"
+            },
+            {
+              "id": 65456,
+              "position": 10,
+              "char_type_name": "word",
+              "text_imlaei": "مِنَ",
+              "text_uthmani": "مِنَ",
+              "text_indopak": "مِنَ",
+              "text_uthmani_simple": "من",
+              "page_number": 121,
+              "line_number": 1,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [],
+              "translation_en": "with",
+              "translation_bh": "",
+              "text": "ﭚ"
+            },
+            {
+              "id": 65457,
+              "position": 11,
+              "char_type_name": "word",
+              "text_imlaei": "الدَّمْعِ",
+              "text_uthmani": "ٱلدَّمْعِ",
+              "text_indopak": "الدَّمۡعِ",
+              "text_uthmani_simple": "الدمع",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "دمع",
+              "lemma": "دَمْع",
+              "part_of_speech": "N",
+              "addons": [
+                "ٱل"
+              ],
+              "translation_en": "the tears",
+              "translation_bh": "",
+              "text": "ﭛ"
+            },
+            {
+              "id": 65458,
+              "position": 12,
+              "char_type_name": "word",
+              "text_imlaei": "مِمَّا",
+              "text_uthmani": "مِمَّا",
+              "text_indopak": "مِمَّا",
+              "text_uthmani_simple": "مما",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [],
+              "translation_en": "for what",
+              "translation_bh": "",
+              "text": "ﭜ"
+            },
+            {
+              "id": 65459,
+              "position": 13,
+              "char_type_name": "word",
+              "text_imlaei": "عَرَفُوا",
+              "text_uthmani": "عَرَفُوا۟",
+              "text_indopak": "عَرَفُوۡا",
+              "text_uthmani_simple": "عرفوا۟",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "عرف",
+              "lemma": "عَرَفَ",
+              "part_of_speech": "V",
+              "addons": [],
+              "translation_en": "they recognized",
+              "translation_bh": "",
+              "text": "ﭝ"
+            },
+            {
+              "id": 65460,
+              "position": 14,
+              "char_type_name": "word",
+              "text_imlaei": "مِنَ",
+              "text_uthmani": "مِنَ",
+              "text_indopak": "مِنَ",
+              "text_uthmani_simple": "من",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [],
+              "translation_en": "of",
+              "translation_bh": "",
+              "text": "ﭞ"
+            },
+            {
+              "id": 65461,
+              "position": 15,
+              "char_type_name": "word",
+              "text_imlaei": "الْحَقِّ ۖ",
+              "text_uthmani": "ٱلْحَقِّ ۖ",
+              "text_indopak": "الۡحَـقِّ​ۚ",
+              "text_uthmani_simple": "الحق",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "حقق",
+              "lemma": "حَقّ",
+              "part_of_speech": "N",
+              "addons": [
+                "ٱلْ"
+              ],
+              "translation_en": "the truth",
+              "translation_bh": "",
+              "text": "ﭟﭠ"
+            },
+            {
+              "id": 65463,
+              "position": 16,
+              "char_type_name": "word",
+              "text_imlaei": "يَقُولُونَ",
+              "text_uthmani": "يَقُولُونَ",
+              "text_indopak": "يَقُوۡلُوۡنَ",
+              "text_uthmani_simple": "يقولون",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "قول",
+              "lemma": "قالَ",
+              "part_of_speech": "V",
+              "addons": [],
+              "translation_en": "They say",
+              "translation_bh": "oni govore / oni će govoriti",
+              "text": "ﭡ"
+            },
+            {
+              "id": 65464,
+              "position": 17,
+              "char_type_name": "word",
+              "text_imlaei": "رَبَّنَا",
+              "text_uthmani": "رَبَّنَآ",
+              "text_indopak": "رَبَّنَاۤ",
+              "text_uthmani_simple": "ربنا",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "ربب",
+              "lemma": "رَبّ",
+              "part_of_speech": "N",
+              "addons": [],
+              "translation_en": "Our Lord",
+              "translation_bh": "Gospodaru naš",
+              "text": "ﭢ"
+            },
+            {
+              "id": 65465,
+              "position": 18,
+              "char_type_name": "word",
+              "text_imlaei": "آمَنَّا",
+              "text_uthmani": "ءَامَنَّا",
+              "text_indopak": "اٰمَنَّا",
+              "text_uthmani_simple": "امنا",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "أمن",
+              "lemma": "آمَنَ",
+              "part_of_speech": "V",
+              "addons": [],
+              "translation_en": "we have believed",
+              "translation_bh": "",
+              "text": "ﭣ"
+            },
+            {
+              "id": 65466,
+              "position": 19,
+              "char_type_name": "word",
+              "text_imlaei": "فَاكْتُبْنَا",
+              "text_uthmani": "فَٱكْتُبْنَا",
+              "text_indopak": "فَاكۡتُبۡنَا",
+              "text_uthmani_simple": "فاكتبنا",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "كتب",
+              "lemma": "كَتَبَ",
+              "part_of_speech": "V",
+              "addons": [
+                "فَ"
+              ],
+              "translation_en": "so write us",
+              "translation_bh": "",
+              "text": "ﭤ"
+            },
+            {
+              "id": 65467,
+              "position": 20,
+              "char_type_name": "word",
+              "text_imlaei": "مَعَ",
+              "text_uthmani": "مَعَ",
+              "text_indopak": "مَعَ",
+              "text_uthmani_simple": "مع",
+              "page_number": 121,
+              "line_number": 2,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [],
+              "translation_en": "with",
+              "translation_bh": "",
+              "text": "ﭥ"
+            },
+            {
+              "id": 65468,
+              "position": 21,
+              "char_type_name": "word",
+              "text_imlaei": "الشَّاهِدِينَ",
+              "text_uthmani": "ٱلشَّـٰهِدِينَ",
+              "text_indopak": "الشّٰهِدِيۡنَ‏",
+              "text_uthmani_simple": "الشـهدين",
+              "page_number": 121,
+              "line_number": 3,
+              "root": "شهد",
+              "lemma": "شاهِد",
+              "part_of_speech": "N",
+              "addons": [
+                "ٱل"
+              ],
+              "translation_en": "the witnesses",
+              "translation_bh": "",
+              "text": "ﭦ"
+            },
+            {
+              "id": 65469,
+              "position": 22,
+              "char_type_name": "end",
+              "text_imlaei": "٨٣",
+              "text_uthmani": "٨٣",
+              "text_indopak": "٨٣",
+              "text_uthmani_simple": "٨٣",
+              "page_number": 121,
+              "line_number": 3,
+              "root": "",
+              "lemma": "",
+              "part_of_speech": "",
+              "addons": [],
+              "translation_en": "(83)",
+              "translation_bh": "",
+              "text": "ﭧ"
+            }
+          ],
+          "translation": "Kada slušaju ono što se objavljuje Poslaniku, vidiš kako im liju suze iz očiju jer znaju da je to Istina, pa govore: \"Gospodaru naš, mi vjerujemo, pa upiši i nas među one koji su posvjedočili."
+        },
         {
           "id": 753,
           "verse_number": 84,
@@ -39,7 +461,8 @@
                 "وَ"
               ],
               "translation_en": "And what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭨ"
             },
             {
               "id": 65781,
@@ -58,7 +481,8 @@
                 "لَ"
               ],
               "translation_en": "for us (that)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭩ"
             },
             {
               "id": 65782,
@@ -75,7 +499,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭪ"
             },
             {
               "id": 65783,
@@ -92,7 +517,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "we believe",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭫ"
             },
             {
               "id": 65784,
@@ -111,7 +537,8 @@
                 "بِ"
               ],
               "translation_en": "in Allah",
-              "translation_bh": "uz pomoć Allaha / s Allahom"
+              "translation_bh": "uz pomoć Allaha / s Allahom",
+              "text": "ﭬ"
             },
             {
               "id": 65785,
@@ -130,7 +557,8 @@
                 "وَ"
               ],
               "translation_en": "and what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭭ"
             },
             {
               "id": 65786,
@@ -147,7 +575,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "came (to) us",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭮ"
             },
             {
               "id": 65787,
@@ -164,7 +593,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭯ"
             },
             {
               "id": 65788,
@@ -183,7 +613,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the truth",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭰ"
             },
             {
               "id": 65789,
@@ -202,7 +633,8 @@
                 "وَ"
               ],
               "translation_en": "And we hope",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭱ"
             },
             {
               "id": 65790,
@@ -219,7 +651,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "that",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭲ"
             },
             {
               "id": 65791,
@@ -236,7 +669,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "will admit us",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭳ"
             },
             {
               "id": 65792,
@@ -253,7 +687,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "our Lord",
-              "translation_bh": "Gospodar naš"
+              "translation_bh": "Gospodar naš",
+              "text": "ﭴ"
             },
             {
               "id": 65793,
@@ -270,7 +705,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "with",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭵ"
             },
             {
               "id": 65794,
@@ -289,7 +725,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the people",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭶ"
             },
             {
               "id": 65795,
@@ -308,7 +745,8 @@
                 "ٱل"
               ],
               "translation_en": "the righteous",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭷ"
             },
             {
               "id": 65796,
@@ -325,7 +763,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(84)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭸ"
             }
           ],
           "translation": "Zašto da ne vjerujemo u Allaha i u Istinu koja nam dolazi, kada žudimo da i nas Gospodar naš uvede s ljudima dobrim.\""
@@ -359,7 +798,8 @@
                 "فَ"
               ],
               "translation_en": "So rewarded them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭹ"
             },
             {
               "id": 66215,
@@ -376,7 +816,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﭺ"
             },
             {
               "id": 66216,
@@ -395,7 +836,8 @@
                 "بِ"
               ],
               "translation_en": "for what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭻ"
             },
             {
               "id": 66217,
@@ -412,7 +854,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "they said",
-              "translation_bh": "govorili / rekli su"
+              "translation_bh": "govorili / rekli su",
+              "text": "ﭼ"
             },
             {
               "id": 66218,
@@ -429,7 +872,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(with) Gardens",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭽ"
             },
             {
               "id": 66219,
@@ -446,7 +890,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "flows",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭾ"
             },
             {
               "id": 66220,
@@ -463,7 +908,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "from",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﭿ"
             },
             {
               "id": 66221,
@@ -480,7 +926,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "underneath them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮀ"
             },
             {
               "id": 66222,
@@ -499,7 +946,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the rivers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮁ"
             },
             {
               "id": 66223,
@@ -516,7 +964,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "will abide forever",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮂ"
             },
             {
               "id": 66224,
@@ -533,7 +982,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "in it",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮃﮄ"
             },
             {
               "id": 66226,
@@ -552,7 +1002,8 @@
                 "وَ"
               ],
               "translation_en": "And that",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮅ"
             },
             {
               "id": 66227,
@@ -569,7 +1020,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is the) reward",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮆ"
             },
             {
               "id": 66228,
@@ -588,7 +1040,8 @@
                 "ٱلْ"
               ],
               "translation_en": "(of) the good-doers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮇ"
             },
             {
               "id": 66229,
@@ -605,7 +1058,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(85)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮈ"
             }
           ],
           "translation": "I Allah će im, zbog onoga što govore, kao nagradu džennetske bašče dati, kroz koje rijeke teku, u kojima će vječno boraviti; a to će biti nagrada za sve one koji dobra djela čine."
@@ -639,7 +1093,8 @@
                 "وَ"
               ],
               "translation_en": "And those who",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮉ"
             },
             {
               "id": 66566,
@@ -656,7 +1111,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "disbelieved",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮊ"
             },
             {
               "id": 66567,
@@ -675,7 +1131,8 @@
                 "وَ"
               ],
               "translation_en": "and denied",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮋ"
             },
             {
               "id": 66568,
@@ -694,7 +1151,8 @@
                 "بِ"
               ],
               "translation_en": "Our Signs",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮌ"
             },
             {
               "id": 66569,
@@ -711,7 +1169,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "those",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮍ"
             },
             {
               "id": 66570,
@@ -728,7 +1187,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(are the) companions",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮎ"
             },
             {
               "id": 66571,
@@ -747,7 +1207,8 @@
                 "ٱلْ"
               ],
               "translation_en": "(of) the Hellfire",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮏ"
             },
             {
               "id": 66572,
@@ -764,7 +1225,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(86)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮐ"
             }
           ],
           "translation": "A oni koji ne budu vjerovali i ajete i znakove Naše budu poricali, bit će stanovnici Džehennema."
@@ -798,7 +1260,8 @@
                 "يَٰٓ"
               ],
               "translation_en": "O you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮑ"
             },
             {
               "id": 66863,
@@ -815,7 +1278,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "who",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮒ"
             },
             {
               "id": 66864,
@@ -832,7 +1296,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "believe",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮓ"
             },
             {
               "id": 66865,
@@ -849,7 +1314,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(Do) not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮔ"
             },
             {
               "id": 66866,
@@ -866,7 +1332,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "make unlawful",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮕ"
             },
             {
               "id": 66867,
@@ -883,7 +1350,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(the) good things",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮖ"
             },
             {
               "id": 66868,
@@ -900,7 +1368,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(of) what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮗ"
             },
             {
               "id": 66869,
@@ -917,7 +1386,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "has (been) made lawful",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮘ"
             },
             {
               "id": 66870,
@@ -934,7 +1404,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(by) Allah",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﮙ"
             },
             {
               "id": 66871,
@@ -953,7 +1424,8 @@
                 "لَ"
               ],
               "translation_en": "for you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮚ"
             },
             {
               "id": 66872,
@@ -972,7 +1444,8 @@
                 "وَ"
               ],
               "translation_en": "and (do) not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮛ"
             },
             {
               "id": 66873,
@@ -989,7 +1462,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "transgress",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮜﮝ"
             },
             {
               "id": 66875,
@@ -1006,7 +1480,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "Indeed",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮞ"
             },
             {
               "id": 66876,
@@ -1023,7 +1498,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allaha (Akuzativ)"
+              "translation_bh": "Allaha (Akuzativ)",
+              "text": "ﮟ"
             },
             {
               "id": 66877,
@@ -1040,7 +1516,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(does) not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮠ"
             },
             {
               "id": 66878,
@@ -1057,7 +1534,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "love",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮡ"
             },
             {
               "id": 66879,
@@ -1076,7 +1554,8 @@
                 "ٱلْ"
               ],
               "translation_en": "the transgressors",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮢ"
             },
             {
               "id": 66880,
@@ -1093,7 +1572,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(87)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮣ"
             }
           ],
           "translation": "O vi koji vjerujete, ne zabranjujte sebi ono što je lijepo, što je Allah dozvolio, samo ne prelazite granicu! Zaista Allah ne voli one koji granicu prelaze."
@@ -1127,7 +1607,8 @@
                 "وَ"
               ],
               "translation_en": "And eat",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮤ"
             },
             {
               "id": 67245,
@@ -1144,7 +1625,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "of what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮥ"
             },
             {
               "id": 67246,
@@ -1161,7 +1643,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "has provided you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮦ"
             },
             {
               "id": 67247,
@@ -1178,7 +1661,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah ",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﮧ"
             },
             {
               "id": 67248,
@@ -1195,7 +1679,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "lawful",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮨ"
             },
             {
               "id": 67249,
@@ -1212,7 +1697,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "good",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮩﮪ"
             },
             {
               "id": 67251,
@@ -1231,7 +1717,8 @@
                 "وَ"
               ],
               "translation_en": "And fear",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮫ"
             },
             {
               "id": 67252,
@@ -1248,7 +1735,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allaha (Akuzativ)"
+              "translation_bh": "Allaha (Akuzativ)",
+              "text": "ﮬ"
             },
             {
               "id": 67253,
@@ -1265,7 +1753,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "the One",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮭ"
             },
             {
               "id": 67254,
@@ -1282,7 +1771,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "you (are)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮮ"
             },
             {
               "id": 67255,
@@ -1301,7 +1791,8 @@
                 "بِ"
               ],
               "translation_en": "in Him",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮯ"
             },
             {
               "id": 67256,
@@ -1318,7 +1809,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "believers",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮰ"
             },
             {
               "id": 67257,
@@ -1335,7 +1827,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(88)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﮱ"
             }
           ],
           "translation": "I jedite ono što vam Allah daje, što je dozvoljeno i lijepo; i bojte se Allaha, u Kojeg vjerujete."
@@ -1367,7 +1860,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "Not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯓ"
             },
             {
               "id": 67675,
@@ -1384,7 +1878,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "will call you to account",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯔ"
             },
             {
               "id": 67676,
@@ -1401,7 +1896,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﯕ"
             },
             {
               "id": 67677,
@@ -1421,7 +1917,8 @@
                 "ٱل"
               ],
               "translation_en": "for the thoughtless utterances",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯖ"
             },
             {
               "id": 67678,
@@ -1438,7 +1935,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "in",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯗ"
             },
             {
               "id": 67679,
@@ -1455,7 +1953,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "your oaths",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯘ"
             },
             {
               "id": 67680,
@@ -1474,7 +1973,8 @@
                 "وَ"
               ],
               "translation_en": "but",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯙ"
             },
             {
               "id": 67681,
@@ -1491,7 +1991,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "He will call you to account",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯚ"
             },
             {
               "id": 67682,
@@ -1510,7 +2011,8 @@
                 "بِ"
               ],
               "translation_en": "for what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯛ"
             },
             {
               "id": 67683,
@@ -1527,7 +2029,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you contracted",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯜ"
             },
             {
               "id": 67684,
@@ -1546,7 +2049,8 @@
                 "ٱلْ"
               ],
               "translation_en": "(of) the oath",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯝﯞ"
             },
             {
               "id": 67686,
@@ -1565,7 +2069,8 @@
                 "فَ"
               ],
               "translation_en": "So its expiation",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯟ"
             },
             {
               "id": 67687,
@@ -1582,7 +2087,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is) feeding",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯠ"
             },
             {
               "id": 67688,
@@ -1599,7 +2105,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) ten",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯡ"
             },
             {
               "id": 67689,
@@ -1616,7 +2123,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "needy people",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯢ"
             },
             {
               "id": 67690,
@@ -1633,7 +2141,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "of",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯣ"
             },
             {
               "id": 67691,
@@ -1650,7 +2159,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "average",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯤ"
             },
             {
               "id": 67692,
@@ -1667,7 +2177,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(of) what",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯥ"
             },
             {
               "id": 67693,
@@ -1684,7 +2195,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you feed",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯦ"
             },
             {
               "id": 67694,
@@ -1701,7 +2213,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "your families",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯧ"
             },
             {
               "id": 67695,
@@ -1718,7 +2231,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯨ"
             },
             {
               "id": 67696,
@@ -1735,7 +2249,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "clothing them",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯩ"
             },
             {
               "id": 67697,
@@ -1752,7 +2267,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "or",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯪ"
             },
             {
               "id": 67698,
@@ -1769,7 +2285,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "freeing",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯫ"
             },
             {
               "id": 67699,
@@ -1786,7 +2303,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "a slave",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯬﯭ"
             },
             {
               "id": 67701,
@@ -1805,7 +2323,8 @@
                 "فَ"
               ],
               "translation_en": "But whoever",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯮ"
             },
             {
               "id": 67702,
@@ -1822,7 +2341,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(does) not",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯯ"
             },
             {
               "id": 67703,
@@ -1839,7 +2359,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "find",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯰ"
             },
             {
               "id": 67704,
@@ -1858,7 +2379,8 @@
                 "فَ"
               ],
               "translation_en": "(that), then fasting",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯱ"
             },
             {
               "id": 67705,
@@ -1875,7 +2397,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(for) three",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯲ"
             },
             {
               "id": 67706,
@@ -1892,7 +2415,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "days",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯳﯴ"
             },
             {
               "id": 67708,
@@ -1909,7 +2433,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "That",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯵ"
             },
             {
               "id": 67709,
@@ -1926,7 +2451,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(is the) expiation",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯶ"
             },
             {
               "id": 67710,
@@ -1943,7 +2469,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "(of) your oaths",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯷ"
             },
             {
               "id": 67711,
@@ -1960,7 +2487,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "when",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯸ"
             },
             {
               "id": 67712,
@@ -1977,7 +2505,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "you have sworn",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯹﯺ"
             },
             {
               "id": 67714,
@@ -1996,7 +2525,8 @@
                 "وَ"
               ],
               "translation_en": "And guard",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯻ"
             },
             {
               "id": 67715,
@@ -2013,7 +2543,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "your oaths",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯼﯽ"
             },
             {
               "id": 67717,
@@ -2032,7 +2563,8 @@
                 "كَ"
               ],
               "translation_en": "Thus",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯾ"
             },
             {
               "id": 67718,
@@ -2049,7 +2581,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "makes clear",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﯿ"
             },
             {
               "id": 67719,
@@ -2066,7 +2599,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "Allah",
-              "translation_bh": "Allah (Nomenativ)"
+              "translation_bh": "Allah (Nomenativ)",
+              "text": "ﰀ"
             },
             {
               "id": 67720,
@@ -2085,7 +2619,8 @@
                 "لَ"
               ],
               "translation_en": "to you",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﰁ"
             },
             {
               "id": 67721,
@@ -2102,7 +2637,8 @@
               "part_of_speech": "N",
               "addons": [],
               "translation_en": "His Verses",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﰂ"
             },
             {
               "id": 67722,
@@ -2119,7 +2655,8 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "so that you may",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﰃ"
             },
             {
               "id": 67723,
@@ -2136,7 +2673,8 @@
               "part_of_speech": "V",
               "addons": [],
               "translation_en": "(be) grateful",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﰄ"
             },
             {
               "id": 67724,
@@ -2153,314 +2691,11 @@
               "part_of_speech": "",
               "addons": [],
               "translation_en": "(89)",
-              "translation_bh": ""
+              "translation_bh": "",
+              "text": "ﰅ"
             }
           ],
           "translation": "Allah vas neće kazniti ako se zakunete nenamjerno, ali će vas kazniti ako se zakunete namjerno. Otkup za prekršenu zakletvu je: da deset siromaha običnom hranom kojom hranite čeljad svoju nahranite, ili da ih odjenete, ili da roba ropstva oslobodite. A onaj ko ne bude mogao - neka tri dana posti. Tako se za zakletve svoje otkupljujte kada se zakunete; a o zakletvama svojim brinite se! Eto, tako vam Allah objašnjava propise Svoje, da biste bili zahvalni."
-        },
-        {
-          "id": 759,
-          "verse_number": 90,
-          "verse_key": "5:90",
-          "hizb_number": 13,
-          "rub_el_hizb_number": 49,
-          "ruku_number": 97,
-          "manzil_number": 2,
-          "sajdah_number": null,
-          "page_number": 122,
-          "juz_number": 7,
-          "words": [
-            {
-              "id": 68026,
-              "position": 1,
-              "char_type_name": "word",
-              "text_imlaei": "يَا أَيُّهَا",
-              "text_uthmani": "يَـٰٓأَيُّهَا",
-              "text_indopak": "يٰۤاَيُّهَا",
-              "text_uthmani_simple": "يـايها",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "أيي",
-              "lemma": "أَيّ",
-              "part_of_speech": "N",
-              "addons": [
-                "يَٰٓ"
-              ],
-              "translation_en": "O you",
-              "translation_bh": ""
-            },
-            {
-              "id": 68027,
-              "position": 2,
-              "char_type_name": "word",
-              "text_imlaei": "الَّذِينَ",
-              "text_uthmani": "ٱلَّذِينَ",
-              "text_indopak": "الَّذِيۡنَ",
-              "text_uthmani_simple": "الذين",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "",
-              "lemma": "",
-              "part_of_speech": "",
-              "addons": [],
-              "translation_en": "who",
-              "translation_bh": ""
-            },
-            {
-              "id": 68028,
-              "position": 3,
-              "char_type_name": "word",
-              "text_imlaei": "آمَنُوا",
-              "text_uthmani": "ءَامَنُوٓا۟",
-              "text_indopak": "اٰمَنُوۡۤا",
-              "text_uthmani_simple": "امنوا۟",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "أمن",
-              "lemma": "آمَنَ",
-              "part_of_speech": "V",
-              "addons": [],
-              "translation_en": "believe",
-              "translation_bh": ""
-            },
-            {
-              "id": 68029,
-              "position": 4,
-              "char_type_name": "word",
-              "text_imlaei": "إِنَّمَا",
-              "text_uthmani": "إِنَّمَا",
-              "text_indopak": "اِنَّمَا",
-              "text_uthmani_simple": "انما",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "",
-              "lemma": "",
-              "part_of_speech": "",
-              "addons": [],
-              "translation_en": "Verily",
-              "translation_bh": ""
-            },
-            {
-              "id": 68030,
-              "position": 5,
-              "char_type_name": "word",
-              "text_imlaei": "الْخَمْرُ",
-              "text_uthmani": "ٱلْخَمْرُ",
-              "text_indopak": "الۡخَمۡرُ",
-              "text_uthmani_simple": "الخمر",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "خمر",
-              "lemma": "خَمْر",
-              "part_of_speech": "N",
-              "addons": [
-                "ٱلْ"
-              ],
-              "translation_en": "the intoxicants",
-              "translation_bh": ""
-            },
-            {
-              "id": 68031,
-              "position": 6,
-              "char_type_name": "word",
-              "text_imlaei": "وَالْمَيْسِرُ",
-              "text_uthmani": "وَٱلْمَيْسِرُ",
-              "text_indopak": "وَالۡمَيۡسِرُ",
-              "text_uthmani_simple": "والميسر",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "يسر",
-              "lemma": "مَيْسِر",
-              "part_of_speech": "N",
-              "addons": [
-                "وَ",
-                "ٱلْ"
-              ],
-              "translation_en": "and [the] games of chance",
-              "translation_bh": ""
-            },
-            {
-              "id": 68032,
-              "position": 7,
-              "char_type_name": "word",
-              "text_imlaei": "وَالْأَنصَابُ",
-              "text_uthmani": "وَٱلْأَنصَابُ",
-              "text_indopak": "وَالۡاَنۡصَابُ",
-              "text_uthmani_simple": "والانصاب",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "نصب",
-              "lemma": "نُصُب",
-              "part_of_speech": "N",
-              "addons": [
-                "وَ",
-                "ٱلْ"
-              ],
-              "translation_en": "and (sacrifices at) altars",
-              "translation_bh": ""
-            },
-            {
-              "id": 68033,
-              "position": 8,
-              "char_type_name": "word",
-              "text_imlaei": "وَالْأَزْلَامُ",
-              "text_uthmani": "وَٱلْأَزْلَـٰمُ",
-              "text_indopak": "وَالۡاَزۡلَامُ",
-              "text_uthmani_simple": "والازلـم",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "زلم",
-              "lemma": "أَزْلام",
-              "part_of_speech": "N",
-              "addons": [
-                "وَ",
-                "ٱلْ"
-              ],
-              "translation_en": "and divining arrows",
-              "translation_bh": ""
-            },
-            {
-              "id": 68034,
-              "position": 9,
-              "char_type_name": "word",
-              "text_imlaei": "رِجْسٌ",
-              "text_uthmani": "رِجْسٌۭ",
-              "text_indopak": "رِجۡسٌ",
-              "text_uthmani_simple": "رجسۭ",
-              "page_number": 122,
-              "line_number": 1,
-              "root": "رجس",
-              "lemma": "رِجْس",
-              "part_of_speech": "N",
-              "addons": [],
-              "translation_en": "(are an) abomination",
-              "translation_bh": ""
-            },
-            {
-              "id": 68035,
-              "position": 10,
-              "char_type_name": "word",
-              "text_imlaei": "مِّنْ",
-              "text_uthmani": "مِّنْ",
-              "text_indopak": "مِّنۡ",
-              "text_uthmani_simple": "من",
-              "page_number": 122,
-              "line_number": 2,
-              "root": "",
-              "lemma": "",
-              "part_of_speech": "",
-              "addons": [],
-              "translation_en": "from",
-              "translation_bh": ""
-            },
-            {
-              "id": 68036,
-              "position": 11,
-              "char_type_name": "word",
-              "text_imlaei": "عَمَلِ",
-              "text_uthmani": "عَمَلِ",
-              "text_indopak": "عَمَلِ",
-              "text_uthmani_simple": "عمل",
-              "page_number": 122,
-              "line_number": 2,
-              "root": "عمل",
-              "lemma": "عَمَل",
-              "part_of_speech": "N",
-              "addons": [],
-              "translation_en": "(the) work",
-              "translation_bh": ""
-            },
-            {
-              "id": 68037,
-              "position": 12,
-              "char_type_name": "word",
-              "text_imlaei": "الشَّيْطَانِ",
-              "text_uthmani": "ٱلشَّيْطَـٰنِ",
-              "text_indopak": "الشَّيۡطٰنِ",
-              "text_uthmani_simple": "الشيطـن",
-              "page_number": 122,
-              "line_number": 2,
-              "root": "شطن",
-              "lemma": "شَيْطان",
-              "part_of_speech": "N",
-              "addons": [
-                "ٱل"
-              ],
-              "translation_en": "(of) the Shaitaan",
-              "translation_bh": ""
-            },
-            {
-              "id": 68038,
-              "position": 13,
-              "char_type_name": "word",
-              "text_imlaei": "فَاجْتَنِبُوهُ",
-              "text_uthmani": "فَٱجْتَنِبُوهُ",
-              "text_indopak": "فَاجۡتَنِبُوۡهُ",
-              "text_uthmani_simple": "فاجتنبوه",
-              "page_number": 122,
-              "line_number": 2,
-              "root": "جنب",
-              "lemma": "اجْتَنَبُ",
-              "part_of_speech": "V",
-              "addons": [
-                "فَ"
-              ],
-              "translation_en": "so avoid it",
-              "translation_bh": ""
-            },
-            {
-              "id": 68039,
-              "position": 14,
-              "char_type_name": "word",
-              "text_imlaei": "لَعَلَّكُمْ",
-              "text_uthmani": "لَعَلَّكُمْ",
-              "text_indopak": "لَعَلَّكُمۡ",
-              "text_uthmani_simple": "لعلكم",
-              "page_number": 122,
-              "line_number": 2,
-              "root": "",
-              "lemma": "",
-              "part_of_speech": "",
-              "addons": [],
-              "translation_en": "so that you may",
-              "translation_bh": ""
-            },
-            {
-              "id": 68040,
-              "position": 15,
-              "char_type_name": "word",
-              "text_imlaei": "تُفْلِحُونَ",
-              "text_uthmani": "تُفْلِحُونَ",
-              "text_indopak": "تُفۡلِحُوۡنَ‏ ﻿﻿",
-              "text_uthmani_simple": "تفلحون",
-              "page_number": 122,
-              "line_number": 2,
-              "root": "فلح",
-              "lemma": "أَفْلَحَ",
-              "part_of_speech": "V",
-              "addons": [],
-              "translation_en": "(be) successful",
-              "translation_bh": ""
-            },
-            {
-              "id": 68041,
-              "position": 16,
-              "char_type_name": "end",
-              "text_imlaei": "٩٠",
-              "text_uthmani": "٩٠",
-              "text_indopak": "٩٠",
-              "text_uthmani_simple": "٩٠",
-              "page_number": 122,
-              "line_number": 2,
-              "root": "",
-              "lemma": "",
-              "part_of_speech": "",
-              "addons": [],
-              "translation_en": "(90)",
-              "translation_bh": ""
-            }
-          ],
-          "translation": "O vi koji vjerujete, opojna pića i kocka i kumiri i strelice za gatanje odvratno su, šejtanovo djelo; zato se toga klonite, da biste uspjeli."
         }
       ]
     }

@@ -1,49 +1,21 @@
 import React, { useState, useEffect } from 'react';
 import './verse.css';
-import { Play, Pause, BookType, StepForward } from 'lucide-react';
+import { Play, Pause, BookType, StepForward, Bookmark } from 'lucide-react';
 import api from '../../api';
 
 // Global audio instance shared across all Verse components
 const globalAudio = new Audio();
 
-function Word({ word, showWordTranslation, textStyleArabic }) {
+function Word({ word, showWordTranslation, textStyleArabic, pageNumber }) {
   const isEnd = word.char_type_name === "end";
-  const getArabicText = () => {
-    switch(textStyleArabic) {
-      case 'text_uthmani':
-        return word.text_uthmani;
-      case 'text_imlaei':
-        return word.text_imlaei;
-      case 'text_indopak':
-        return word.text_indopak;
-      case 'text_uthmani_simple':
-        return word.text_uthmani_simple;
-      default:
-        return word.text_uthmani;
-    }
-  };
-  
+
   return (
     <div className="word_container">
-      <div className="arabic">
-        {isEnd ? (
-          <div className="flower_wrapper">
-            <svg className="verse_chapter_badge" viewBox="0 0 100 100">
-              <circle cx="50" cy="25" r="15" />
-              <circle cx="70" cy="50" r="15" />
-              <circle cx="50" cy="75" r="15" />
-              <circle cx="30" cy="50" r="15" />
-              <circle cx="65" cy="35" r="12" />
-              <circle cx="65" cy="65" r="12" />
-              <circle cx="35" cy="65" r="12" />
-              <circle cx="35" cy="35" r="12" />
-              <circle cx="50" cy="50" r="20" />
-            </svg>
-            <span className="flower_text">{getArabicText()}</span>
-          </div>
-        ) : (
-          <span>{getArabicText()}</span>
-        )}
+      <div className="arabic"
+     
+      >
+          <span  style={{ fontFamily: `QuranPage${pageNumber}` }}>{word.text}</span>
+
       </div>
       {showWordTranslation &&
         <div className="translation">
@@ -55,7 +27,7 @@ function Word({ word, showWordTranslation, textStyleArabic }) {
     </div>
   );
 }
-export default function Verse({ scrollToVerse, verse, headerRef, showWordTranslation, audioEdition, textStyleArabic, isAutoplayEnabled, setIsAutoplayEnabled }) {
+export default function Verse({ scrollToVerse, verse, booked, removeVerse, addVerse, showWordTranslation, audioEdition, textStyleArabic, isAutoplayEnabled, setIsAutoplayEnabled }) {
   const [showTefsir, setShowTefsir] = useState(false);
   const [tefsirContent, setTefsirContent] = useState('');
   const [isPlaying, setIsPlaying] = useState(false);
@@ -168,7 +140,10 @@ const handleEnded = () => {
     const newAutoplayState = !isAutoplayEnabled;
     setIsAutoplayEnabled(newAutoplayState);
   };
-
+const canPlayOpus = (() => {
+  const audio = document.createElement('audio');
+  return audio.canPlayType('audio/ogg; codecs=opus') !== '';
+})();
   const handleSliderChange = (e) => {
     const newTime = parseFloat(e.target.value);
     if (globalAudio.getAttribute('data-ayah-id') === String(verse.id)) {
@@ -183,12 +158,18 @@ const handleEnded = () => {
     const seconds = Math.floor(time % 60);
     return `${minutes}:${seconds.toString().padStart(2, '0')}`;
   };
-
+  const handleBookmarkClick = () => {
+    if (booked) {
+      removeVerse(verse.verse_key); // already bookmarked → remove
+    } else {
+      addVerse(verse.verse_key);    // not bookmarked → add
+    }
+  };
   return (
     <div className="verse_container">
       <div className='verse_words_container'>
         {verse.words.map((word) => (
-          <Word key={word.id} word={word} showWordTranslation={showWordTranslation} textStyleArabic={textStyleArabic} />
+          <Word pageNumber={verse.page_number} key={word.id} word={word} showWordTranslation={showWordTranslation} textStyleArabic={textStyleArabic} />
         ))}
       </div>
       <span className='verse_translation'>{verse.translation}</span>
@@ -213,6 +194,12 @@ const handleEnded = () => {
             title="Autoplay consecutive ayahs"
           >
             <StepForward size={18} strokeWidth={1.5}/>
+          </div>
+                    <div
+            className='verse_tefsir_button'
+            onClick={handleBookmarkClick}
+          >
+            <Bookmark color={booked ? 'var(--color-bookmark)' : 'currentColor'} opacity={booked ? 1 : 0.4} size={20} strokeWidth={booked ? 2.6 : 1.6} />
           </div>
           <span className='verse_key'>{verse.verse_key}</span>
         </div>

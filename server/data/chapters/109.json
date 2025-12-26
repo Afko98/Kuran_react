@@ -33,7 +33,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Say",
-            "translation_bh": "reci!"
+            "translation_bh": "reci!",
+            "text": "ﭑ"
           },
           {
             "id": 159,
@@ -52,7 +53,8 @@
               "يَٰٓ"
             ],
             "translation_en": "O",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭒ"
           },
           {
             "id": 160,
@@ -71,7 +73,8 @@
               "ٱلْ"
             ],
             "translation_en": "disbelievers",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭓ"
           },
           {
             "id": 161,
@@ -88,7 +91,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(1)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭔ"
           }
         ],
         "translation": "Reci: \"O vi nevjernici,"
@@ -120,7 +124,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭕ"
           },
           {
             "id": 943,
@@ -137,7 +142,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "I worship",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭖ"
           },
           {
             "id": 944,
@@ -154,7 +160,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "what",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭗ"
           },
           {
             "id": 945,
@@ -171,7 +178,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "you worship",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭘ"
           },
           {
             "id": 946,
@@ -188,7 +196,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(2)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭙ"
           }
         ],
         "translation": "ja ne obožavam ono što vi obožavate,"
@@ -222,7 +231,8 @@
               "وَ"
             ],
             "translation_en": "And not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭚ"
           },
           {
             "id": 2571,
@@ -239,7 +249,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "you",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭛ"
           },
           {
             "id": 2572,
@@ -256,7 +267,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) worshippers",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭜ"
           },
           {
             "id": 2573,
@@ -273,7 +285,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(of) what",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭝ"
           },
           {
             "id": 2574,
@@ -290,7 +303,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "I worship",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭞ"
           },
           {
             "id": 2575,
@@ -307,7 +321,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(3)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭟ"
           }
         ],
         "translation": "niti ste vi obožavaoci Onoga Koga ja obožavam,"
@@ -341,7 +356,8 @@
               "وَ"
             ],
             "translation_en": "And not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭠ"
           },
           {
             "id": 3993,
@@ -358,7 +374,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "I am",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭡ"
           },
           {
             "id": 3994,
@@ -375,7 +392,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "a worshipper",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭢ"
           },
           {
             "id": 3995,
@@ -392,7 +410,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(of) what",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭣ"
           },
           {
             "id": 3996,
@@ -409,7 +428,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "you worship",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭤ"
           },
           {
             "id": 3997,
@@ -426,7 +446,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(4)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭥ"
           }
         ],
         "translation": "niti sam ja obožavalac onoga što vi obožavate,"
@@ -460,7 +481,8 @@
               "وَ"
             ],
             "translation_en": "And not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭦ"
           },
           {
             "id": 5291,
@@ -477,7 +499,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "you",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭧ"
           },
           {
             "id": 5292,
@@ -494,7 +517,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) worshippers",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭨ"
           },
           {
             "id": 5293,
@@ -511,7 +535,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(of) what",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭩ"
           },
           {
             "id": 5294,
@@ -528,7 +553,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "I worship",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭪ"
           },
           {
             "id": 5295,
@@ -545,7 +571,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(5)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭫ"
           }
         ],
         "translation": "niti ste vi obožavaoci Onoga Koga ja obožavam,"
@@ -579,7 +606,8 @@
               "لَ"
             ],
             "translation_en": "For you",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭬ"
           },
           {
             "id": 6551,
@@ -596,7 +624,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(is) your religion",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭭ"
           },
           {
             "id": 6552,
@@ -616,7 +645,8 @@
               "لِ"
             ],
             "translation_en": "and for me",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭮ"
           },
           {
             "id": 6553,
@@ -633,7 +663,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(is) my religion",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭯ"
           },
           {
             "id": 6554,
@@ -650,7 +681,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(6)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭰ"
           }
         ],
         "translation": "vama vaša vjera, a meni moja.\""

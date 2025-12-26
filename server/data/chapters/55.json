@@ -35,7 +35,8 @@
               "ٱل"
             ],
             "translation_en": "The Most Gracious",
-            "translation_bh": "Svemilosni"
+            "translation_bh": "Svemilosni",
+            "text": "ﭷ"
           },
           {
             "id": 298,
@@ -52,7 +53,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(1)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭸ"
           }
         ],
         "translation": "Svemilosni"
@@ -84,7 +86,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He taught",
-            "translation_bh": "on poučava"
+            "translation_bh": "on poučava",
+            "text": "ﭹ"
           },
           {
             "id": 1062,
@@ -103,7 +106,8 @@
               "ٱلْ"
             ],
             "translation_en": "the Quran",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭺ"
           },
           {
             "id": 1063,
@@ -120,7 +124,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(2)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭻ"
           }
         ],
         "translation": "poučava Kur'anu,"
@@ -152,7 +157,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He created",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭼ"
           },
           {
             "id": 2224,
@@ -171,7 +177,8 @@
               "ٱلْ"
             ],
             "translation_en": "[the] man",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭽ"
           },
           {
             "id": 2225,
@@ -188,7 +195,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(3)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭾ"
           }
         ],
         "translation": "stvara čovjeka,"
@@ -220,7 +228,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He taught him",
-            "translation_bh": "on ga je poučio / učio ga"
+            "translation_bh": "on ga je poučio / učio ga",
+            "text": "ﭿ"
           },
           {
             "id": 3553,
@@ -239,7 +248,8 @@
               "ٱلْ"
             ],
             "translation_en": "[the] speech",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮀ"
           },
           {
             "id": 3554,
@@ -256,7 +266,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(4)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮁ"
           }
         ],
         "translation": "uči ga izgovoru."
@@ -290,7 +301,8 @@
               "ٱل"
             ],
             "translation_en": "The sun",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮂ"
           },
           {
             "id": 4872,
@@ -310,7 +322,8 @@
               "ٱلْ"
             ],
             "translation_en": "and the moon",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮃ"
           },
           {
             "id": 4873,
@@ -329,7 +342,8 @@
               "بِ"
             ],
             "translation_en": "by (precise) calculation",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮄ"
           },
           {
             "id": 4874,
@@ -346,7 +360,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(5)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮅ"
           }
         ],
         "translation": "Sunce i Mjesec po tačno određenom proračunu plove,"
@@ -381,7 +396,8 @@
               "ٱل"
             ],
             "translation_en": "And the stars",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮆ"
           },
           {
             "id": 6163,
@@ -401,7 +417,8 @@
               "ٱل"
             ],
             "translation_en": "and the trees",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮇ"
           },
           {
             "id": 6164,
@@ -418,7 +435,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "both prostrate",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮈ"
           },
           {
             "id": 6165,
@@ -435,7 +453,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(6)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮉ"
           }
         ],
         "translation": "i zvijezde i drveće sedždu čine,"
@@ -470,7 +489,8 @@
               "ٱل"
             ],
             "translation_en": "And the heaven",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮊ"
           },
           {
             "id": 7496,
@@ -487,7 +507,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He raised it",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮋ"
           },
           {
             "id": 7497,
@@ -506,7 +527,8 @@
               "وَ"
             ],
             "translation_en": "and He has set up",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮌ"
           },
           {
             "id": 7498,
@@ -525,7 +547,8 @@
               "ٱلْ"
             ],
             "translation_en": "the balance",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮍ"
           },
           {
             "id": 7499,
@@ -542,7 +565,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(7)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮎ"
           }
         ],
         "translation": "a nebo je digao. I postavio je Mjerilo,"
@@ -574,7 +598,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "That not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮏ"
           },
           {
             "id": 8742,
@@ -591,7 +616,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "you may transgress",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮐ"
           },
           {
             "id": 8743,
@@ -608,7 +634,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "in",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮑ"
           },
           {
             "id": 8744,
@@ -627,7 +654,8 @@
               "ٱلْ"
             ],
             "translation_en": "the balance",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮒ"
           },
           {
             "id": 8745,
@@ -644,7 +672,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(8)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮓ"
           }
         ],
         "translation": "da ne prelazite granice pravde,"
@@ -678,7 +707,8 @@
               "وَ"
             ],
             "translation_en": "And establish",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮔ"
           },
           {
             "id": 9970,
@@ -697,7 +727,8 @@
               "ٱلْ"
             ],
             "translation_en": "the weight",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮕ"
           },
           {
             "id": 9971,
@@ -717,7 +748,8 @@
               "ٱلْ"
             ],
             "translation_en": "in justice",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮖ"
           },
           {
             "id": 9972,
@@ -736,7 +768,8 @@
               "وَ"
             ],
             "translation_en": "and (do) not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮗ"
           },
           {
             "id": 9973,
@@ -753,7 +786,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "make deficient",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮘ"
           },
           {
             "id": 9974,
@@ -772,7 +806,8 @@
               "ٱلْ"
             ],
             "translation_en": "the balance",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮙ"
           },
           {
             "id": 9975,
@@ -789,7 +824,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(9)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮚ"
           }
         ],
         "translation": "i pravo mjerite i na tereziji ne zakidajte!"
@@ -824,7 +860,8 @@
               "ٱلْ"
             ],
             "translation_en": "And the earth",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮛ"
           },
           {
             "id": 11168,
@@ -841,7 +878,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He laid it",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮜ"
           },
           {
             "id": 11169,
@@ -861,7 +899,8 @@
               "لْ"
             ],
             "translation_en": "for the creatures",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮝ"
           },
           {
             "id": 11170,
@@ -878,7 +917,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(10)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮞ"
           }
         ],
         "translation": "A Zemlju je za stvorenja razastro,"
@@ -910,7 +950,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Therein",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮟ"
           },
           {
             "id": 12494,
@@ -927,7 +968,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(is) fruit",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮠ"
           },
           {
             "id": 12495,
@@ -947,7 +989,8 @@
               "ٱل"
             ],
             "translation_en": "and date-palms",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮡ"
           },
           {
             "id": 12496,
@@ -964,7 +1007,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "having",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮢ"
           },
           {
             "id": 12497,
@@ -983,7 +1027,8 @@
               "ٱلْ"
             ],
             "translation_en": "sheaths",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮣ"
           },
           {
             "id": 12498,
@@ -1000,7 +1045,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(11)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮤ"
           }
         ],
         "translation": "na njoj ima voća i palmi s plodom u čaškama,"
@@ -1035,7 +1081,8 @@
               "ٱلْ"
             ],
             "translation_en": "And the grain",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮥ"
           },
           {
             "id": 13821,
@@ -1052,7 +1099,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "having",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮦ"
           },
           {
             "id": 13822,
@@ -1071,7 +1119,8 @@
               "ٱلْ"
             ],
             "translation_en": "husk",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮧ"
           },
           {
             "id": 13823,
@@ -1091,7 +1140,8 @@
               "ٱل"
             ],
             "translation_en": "and scented plants",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮨ"
           },
           {
             "id": 13824,
@@ -1108,7 +1158,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(12)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮩ"
           }
         ],
         "translation": "i žita s pljevom i lišćem na stabljikama,"
@@ -1143,7 +1194,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮪ"
           },
           {
             "id": 14971,
@@ -1160,7 +1212,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮫ"
           },
           {
             "id": 14972,
@@ -1177,7 +1230,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮬ"
           },
           {
             "id": 14973,
@@ -1194,7 +1248,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮭ"
           },
           {
             "id": 14974,
@@ -1211,7 +1266,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(13)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮮ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -1243,7 +1299,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He created",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮯ"
           },
           {
             "id": 16039,
@@ -1262,7 +1319,8 @@
               "ٱلْ"
             ],
             "translation_en": "the man",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮰ"
           },
           {
             "id": 16040,
@@ -1279,7 +1337,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "from",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮱ"
           },
           {
             "id": 16041,
@@ -1296,7 +1355,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "clay",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯓ"
           },
           {
             "id": 16042,
@@ -1316,7 +1376,8 @@
               "ٱلْ"
             ],
             "translation_en": "like the pottery",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯔ"
           },
           {
             "id": 16043,
@@ -1333,7 +1394,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(14)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯕ"
           }
         ],
         "translation": "On je čovjeka od sasušene ilovače, kao što je grnčarija, stvorio,"
@@ -1367,7 +1429,8 @@
               "وَ"
             ],
             "translation_en": "And He created",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯖ"
           },
           {
             "id": 17286,
@@ -1386,7 +1449,8 @@
               "ٱلْ"
             ],
             "translation_en": "the jinn",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯗ"
           },
           {
             "id": 17287,
@@ -1403,7 +1467,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "from",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯘ"
           },
           {
             "id": 17288,
@@ -1420,7 +1485,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "a smokeless flame",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯙ"
           },
           {
             "id": 17289,
@@ -1437,7 +1503,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "of",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯚ"
           },
           {
             "id": 17290,
@@ -1454,7 +1521,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "fire",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯛ"
           },
           {
             "id": 17291,
@@ -1471,7 +1539,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(15)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯜ"
           }
         ],
         "translation": "a džine od plamena vatre -"
@@ -1506,7 +1575,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯝ"
           },
           {
             "id": 18341,
@@ -1523,7 +1593,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯞ"
           },
           {
             "id": 18342,
@@ -1540,7 +1611,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯟ"
           },
           {
             "id": 18343,
@@ -1557,7 +1629,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯠ"
           },
           {
             "id": 18344,
@@ -1574,7 +1647,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(16)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯡ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -1588,7 +1662,7 @@
         "ruku_number": 468,
         "manzil_number": 7,
         "sajdah_number": null,
-        "page_number": 531,
+        "page_number": 532,
         "juz_number": 27,
         "words": [
           {
@@ -1606,7 +1680,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Lord",
-            "translation_bh": "Gospodar"
+            "translation_bh": "Gospodar",
+            "text": "ﭑ"
           },
           {
             "id": 19357,
@@ -1625,7 +1700,8 @@
               "ٱلْ"
             ],
             "translation_en": "(of) the two Easts",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭒ"
           },
           {
             "id": 19358,
@@ -1644,7 +1720,8 @@
               "وَ"
             ],
             "translation_en": "and Lord",
-            "translation_bh": "i Gospodar"
+            "translation_bh": "i Gospodar",
+            "text": "ﭓ"
           },
           {
             "id": 19359,
@@ -1663,7 +1740,8 @@
               "ٱلْ"
             ],
             "translation_en": "(of) the two Wests",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭔ"
           },
           {
             "id": 19360,
@@ -1680,7 +1758,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(17)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭕ"
           }
         ],
         "translation": "Gospodar dva istoka i dva zapada-"
@@ -1694,7 +1773,7 @@
         "ruku_number": 468,
         "manzil_number": 7,
         "sajdah_number": null,
-        "page_number": 531,
+        "page_number": 532,
         "juz_number": 27,
         "words": [
           {
@@ -1715,7 +1794,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭖ"
           },
           {
             "id": 20416,
@@ -1732,7 +1812,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭗ"
           },
           {
             "id": 20417,
@@ -1749,7 +1830,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭘ"
           },
           {
             "id": 20418,
@@ -1766,7 +1848,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭙ"
           },
           {
             "id": 20419,
@@ -1783,7 +1866,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(18)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭚ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -1815,7 +1899,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "He released",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭛ"
           },
           {
             "id": 21508,
@@ -1834,7 +1919,8 @@
               "ٱلْ"
             ],
             "translation_en": "the two seas",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭜ"
           },
           {
             "id": 21509,
@@ -1851,7 +1937,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "meeting",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭝ"
           },
           {
             "id": 21510,
@@ -1868,7 +1955,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(19)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭞ"
           }
         ],
         "translation": "Pustio je dva mora da se susreću,"
@@ -1900,7 +1988,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Between both of them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭟ"
           },
           {
             "id": 22583,
@@ -1917,7 +2006,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(is) a barrier",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭠ"
           },
           {
             "id": 22584,
@@ -1934,7 +2024,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭡ"
           },
           {
             "id": 22585,
@@ -1951,7 +2042,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "they transgress",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭢ"
           },
           {
             "id": 22586,
@@ -1968,7 +2060,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(20)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭣ"
           }
         ],
         "translation": "između njih je pregrada i ona se ne miješaju -"
@@ -2003,7 +2096,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭤ"
           },
           {
             "id": 23745,
@@ -2020,7 +2114,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭥ"
           },
           {
             "id": 23746,
@@ -2037,7 +2132,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭦ"
           },
           {
             "id": 23747,
@@ -2054,7 +2150,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭧ"
           },
           {
             "id": 23748,
@@ -2071,7 +2168,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(21)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭨ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -2103,7 +2201,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Come forth",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭩ"
           },
           {
             "id": 24747,
@@ -2120,7 +2219,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "from both of them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭪ"
           },
           {
             "id": 24748,
@@ -2139,7 +2239,8 @@
               "ٱل"
             ],
             "translation_en": "the pearl",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭫ"
           },
           {
             "id": 24749,
@@ -2159,7 +2260,8 @@
               "ٱلْ"
             ],
             "translation_en": "and the coral",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭬ"
           },
           {
             "id": 24750,
@@ -2176,7 +2278,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(22)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭭ"
           }
         ],
         "translation": "Iz njih se vadi biser i merdžan -"
@@ -2211,7 +2314,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭮ"
           },
           {
             "id": 26448,
@@ -2228,7 +2332,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭯ"
           },
           {
             "id": 26449,
@@ -2245,7 +2350,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭰ"
           },
           {
             "id": 26450,
@@ -2262,7 +2368,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭱ"
           },
           {
             "id": 26451,
@@ -2279,7 +2386,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(23)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭲ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -2314,7 +2422,8 @@
               "لَ"
             ],
             "translation_en": "And for Him",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭳ"
           },
           {
             "id": 26870,
@@ -2333,7 +2442,8 @@
               "ٱلْ"
             ],
             "translation_en": "(are) the ships",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭴ"
           },
           {
             "id": 26871,
@@ -2352,7 +2462,8 @@
               "ٱلْ"
             ],
             "translation_en": "elevated",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭵ"
           },
           {
             "id": 26872,
@@ -2369,7 +2480,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "in",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭶ"
           },
           {
             "id": 26873,
@@ -2388,7 +2500,8 @@
               "ٱلْ"
             ],
             "translation_en": "the sea",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭷ"
           },
           {
             "id": 26874,
@@ -2408,7 +2521,8 @@
               "ٱلْ"
             ],
             "translation_en": "like mountains",
-            "translation_bh": "kao brda / veliki stupovi / pokazatelj"
+            "translation_bh": "kao brda / veliki stupovi / pokazatelj",
+            "text": "ﭸ"
           },
           {
             "id": 26875,
@@ -2425,7 +2539,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(24)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭹ"
           }
         ],
         "translation": "Njegove su i lađe koje se kao brda visoko po moru uzdižu -"
@@ -2460,7 +2575,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭺ"
           },
           {
             "id": 27899,
@@ -2477,7 +2593,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭻ"
           },
           {
             "id": 27900,
@@ -2494,7 +2611,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭼ"
           },
           {
             "id": 27901,
@@ -2511,7 +2629,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭽ"
           },
           {
             "id": 27902,
@@ -2528,7 +2647,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(25)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭾ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -2560,7 +2680,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Everyone",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭿ"
           },
           {
             "id": 28869,
@@ -2577,7 +2698,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "who",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮀ"
           },
           {
             "id": 28870,
@@ -2594,7 +2716,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(is) on it",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮁ"
           },
           {
             "id": 28871,
@@ -2611,7 +2734,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(will) perish",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮂ"
           },
           {
             "id": 28872,
@@ -2628,7 +2752,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(26)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮃ"
           }
         ],
         "translation": "Sve što je na njoj - Zemlji prolazno je,"
@@ -2662,7 +2787,8 @@
               "وَ"
             ],
             "translation_en": "But will remain",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮄ"
           },
           {
             "id": 29678,
@@ -2679,7 +2805,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(the) Face",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮅ"
           },
           {
             "id": 29679,
@@ -2696,7 +2823,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara tvoga"
+            "translation_bh": "Gospodara tvoga",
+            "text": "ﮆ"
           },
           {
             "id": 29680,
@@ -2713,7 +2841,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(the) Owner",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮇ"
           },
           {
             "id": 29681,
@@ -2732,7 +2861,8 @@
               "ٱلْ"
             ],
             "translation_en": "(of) Majesty",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮈ"
           },
           {
             "id": 29682,
@@ -2752,7 +2882,8 @@
               "ٱلْ"
             ],
             "translation_en": "and Honor",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮉ"
           },
           {
             "id": 29683,
@@ -2769,7 +2900,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(27)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮊ"
           }
         ],
         "translation": "a ostaje Lice tvoga Gospodara, Veličanstveno i Plemenito,"
@@ -2804,7 +2936,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮋ"
           },
           {
             "id": 30760,
@@ -2821,7 +2954,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮌ"
           },
           {
             "id": 30761,
@@ -2838,7 +2972,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮍ"
           },
           {
             "id": 30762,
@@ -2855,7 +2990,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮎ"
           },
           {
             "id": 30763,
@@ -2872,7 +3008,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(28)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮏ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -2904,7 +3041,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Asks Him",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮐ"
           },
           {
             "id": 31836,
@@ -2921,7 +3059,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "whoever",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮑ"
           },
           {
             "id": 31837,
@@ -2938,7 +3077,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(is) in",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮒ"
           },
           {
             "id": 31838,
@@ -2957,7 +3097,8 @@
               "ٱل"
             ],
             "translation_en": "the heavens",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮓ"
           },
           {
             "id": 31839,
@@ -2977,7 +3118,8 @@
               "ٱلْ"
             ],
             "translation_en": "and the earth",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮔﮕ"
           },
           {
             "id": 31841,
@@ -2994,7 +3136,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Every",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮖ"
           },
           {
             "id": 31842,
@@ -3011,7 +3154,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "day",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮗ"
           },
           {
             "id": 31843,
@@ -3028,7 +3172,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "He",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮘ"
           },
           {
             "id": 31844,
@@ -3045,7 +3190,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(is) in",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮙ"
           },
           {
             "id": 31845,
@@ -3062,7 +3208,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "a matter",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮚ"
           },
           {
             "id": 31846,
@@ -3079,7 +3226,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(29)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮛ"
           }
         ],
         "translation": "Njemu se mole oni koji su na nebesima i na Zemlji; svakog časa On se zanima nečim,"
@@ -3114,7 +3262,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮜ"
           },
           {
             "id": 32687,
@@ -3131,7 +3280,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮝ"
           },
           {
             "id": 32688,
@@ -3148,7 +3298,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮞ"
           },
           {
             "id": 32689,
@@ -3165,7 +3316,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮟ"
           },
           {
             "id": 32690,
@@ -3182,7 +3334,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(30)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮠ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -3216,7 +3369,8 @@
               "سَ"
             ],
             "translation_en": "Soon We will attend",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮡ"
           },
           {
             "id": 33862,
@@ -3235,7 +3389,8 @@
               "لَ"
             ],
             "translation_en": "to you",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮢ"
           },
           {
             "id": 33863,
@@ -3252,7 +3407,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "O you",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮣ"
           },
           {
             "id": 33864,
@@ -3271,7 +3427,8 @@
               "ٱل"
             ],
             "translation_en": "two classes",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮤ"
           },
           {
             "id": 33865,
@@ -3288,7 +3445,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(31)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮥ"
           }
         ],
         "translation": "Pozabavit ćemo se vama, o ljudi i džini!"
@@ -3323,7 +3481,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮦ"
           },
           {
             "id": 34639,
@@ -3340,7 +3499,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮧ"
           },
           {
             "id": 34640,
@@ -3357,7 +3517,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮨ"
           },
           {
             "id": 34641,
@@ -3374,7 +3535,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮩ"
           },
           {
             "id": 34642,
@@ -3391,7 +3553,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(32)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮪ"
           }
         ],
         "translation": "Pa, koju blagodat Gospodara svoga poričete?!"
@@ -3425,7 +3588,8 @@
               "يَٰ"
             ],
             "translation_en": "O assembly",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮫ"
           },
           {
             "id": 35427,
@@ -3444,7 +3608,8 @@
               "ٱلْ"
             ],
             "translation_en": "(of) the jinn",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮬ"
           },
           {
             "id": 35428,
@@ -3464,7 +3629,8 @@
               "ٱلْ"
             ],
             "translation_en": "and the men",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮭ"
           },
           {
             "id": 35429,
@@ -3481,7 +3647,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "If",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮮ"
           },
           {
             "id": 35430,
@@ -3498,7 +3665,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "you are able",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮯ"
           },
           {
             "id": 35431,
@@ -3515,7 +3683,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "to",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮰ"
           },
           {
             "id": 35432,
@@ -3532,7 +3701,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "pass beyond",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮱ"
           },
           {
             "id": 35433,
@@ -3549,7 +3719,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "[of]",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯓ"
           },
           {
             "id": 35434,
@@ -3566,7 +3737,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(the) regions",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯔ"
           },
           {
             "id": 35435,
@@ -3585,7 +3757,8 @@
               "ٱل"
             ],
             "translation_en": "(of) the heavens",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯕ"
           },
           {
             "id": 35436,
@@ -3605,7 +3778,8 @@
               "ٱلْ"
             ],
             "translation_en": "and the earth",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯖ"
           },
           {
             "id": 35437,
@@ -3624,7 +3798,8 @@
               "فَ"
             ],
             "translation_en": "then pass",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯗﯘ"
           },
           {
             "id": 35439,
@@ -3641,7 +3816,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯙ"
           },
           {
             "id": 35440,
@@ -3658,7 +3834,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "you (can) pass",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯚ"
           },
           {
             "id": 35441,
@@ -3675,7 +3852,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "except",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯛ"
           },
           {
             "id": 35442,
@@ -3694,7 +3872,8 @@
               "بِ"
             ],
             "translation_en": "by authority",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯜ"
           },
           {
             "id": 35443,
@@ -3711,7 +3890,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(33)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯝ"
           }
         ],
         "translation": "O družine džina i ljudi, ako možete kroz slojeve nebesa i Zemlje prodrijeti, prodrite! Moći ćete prodrijeti jedino uz veliku moć!"
@@ -3746,7 +3926,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯞ"
           },
           {
             "id": 36350,
@@ -3763,7 +3944,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯟ"
           },
           {
             "id": 36351,
@@ -3780,7 +3962,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯠ"
           },
           {
             "id": 36352,
@@ -3797,7 +3980,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯡ"
           },
           {
             "id": 36353,
@@ -3814,7 +3998,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(34)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯢ"
           }
         ],
         "translation": "Pa, koju blagodat Gospodara svoga poričete?!"
@@ -3846,7 +4031,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Will be sent",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯣ"
           },
           {
             "id": 37564,
@@ -3863,7 +4049,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "against both of you",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯤ"
           },
           {
             "id": 37565,
@@ -3880,7 +4067,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "a flame",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯥ"
           },
           {
             "id": 37566,
@@ -3897,7 +4085,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "of",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯦ"
           },
           {
             "id": 37567,
@@ -3914,7 +4103,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "fire",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯧ"
           },
           {
             "id": 37568,
@@ -3933,7 +4123,8 @@
               "وَ"
             ],
             "translation_en": "and smoke",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯨ"
           },
           {
             "id": 37569,
@@ -3952,7 +4143,8 @@
               "فَ"
             ],
             "translation_en": "and not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯩ"
           },
           {
             "id": 37570,
@@ -3969,7 +4161,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "you will (be able to) defend yourselves",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯪ"
           },
           {
             "id": 37571,
@@ -3986,7 +4179,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(35)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯫ"
           }
         ],
         "translation": "Na vas će se ognjeni plamen i rastopljen mjed prolivati, i vi se nećete moći odbraniti,"
@@ -4021,7 +4215,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯬ"
           },
           {
             "id": 38022,
@@ -4038,7 +4233,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯭ"
           },
           {
             "id": 38023,
@@ -4055,7 +4251,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯮ"
           },
           {
             "id": 38024,
@@ -4072,7 +4269,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯯ"
           },
           {
             "id": 38025,
@@ -4089,7 +4287,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(36)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯰ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -4123,7 +4322,8 @@
               "فَ"
             ],
             "translation_en": "Then when",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯱ"
           },
           {
             "id": 38836,
@@ -4140,7 +4340,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "is split",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯲ"
           },
           {
             "id": 38837,
@@ -4159,7 +4360,8 @@
               "ٱل"
             ],
             "translation_en": "the heaven",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯳ"
           },
           {
             "id": 38838,
@@ -4178,7 +4380,8 @@
               "فَ"
             ],
             "translation_en": "and it becomes",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯴ"
           },
           {
             "id": 38839,
@@ -4195,7 +4398,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "rose-colored",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯵ"
           },
           {
             "id": 38840,
@@ -4215,7 +4419,8 @@
               "ٱل"
             ],
             "translation_en": "like murky oil",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯶ"
           },
           {
             "id": 38841,
@@ -4232,7 +4437,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(37)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯷ"
           }
         ],
         "translation": "A kad se nebo razdvoji i postane ružičaste boje kao rastopljeno ulje,"
@@ -4267,7 +4473,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯸ"
           },
           {
             "id": 39723,
@@ -4284,7 +4491,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯹ"
           },
           {
             "id": 39724,
@@ -4301,7 +4509,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯺ"
           },
           {
             "id": 39725,
@@ -4318,7 +4527,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯻ"
           },
           {
             "id": 39726,
@@ -4335,7 +4545,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(38)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯼ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -4369,7 +4580,8 @@
               "فَ"
             ],
             "translation_en": "Then (on) that Day",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯽ"
           },
           {
             "id": 40783,
@@ -4386,7 +4598,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯾ"
           },
           {
             "id": 40784,
@@ -4403,7 +4616,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will be asked",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯿ"
           },
           {
             "id": 40785,
@@ -4420,7 +4634,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "about",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰀ"
           },
           {
             "id": 40786,
@@ -4437,7 +4652,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "his sin",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰁ"
           },
           {
             "id": 40787,
@@ -4454,7 +4670,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "any man",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰂ"
           },
           {
             "id": 40788,
@@ -4473,7 +4690,8 @@
               "وَ"
             ],
             "translation_en": "and not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰃ"
           },
           {
             "id": 40789,
@@ -4490,7 +4708,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "any jinn",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰄ"
           },
           {
             "id": 40790,
@@ -4507,7 +4726,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(39)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰅ"
           }
         ],
         "translation": "Taj dan ljudi i džini za grijehe svoje neće biti pitani,"
@@ -4542,7 +4762,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰆ"
           },
           {
             "id": 41247,
@@ -4559,7 +4780,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰇ"
           },
           {
             "id": 41248,
@@ -4576,7 +4798,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﰈ"
           },
           {
             "id": 41249,
@@ -4593,7 +4816,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰉ"
           },
           {
             "id": 41250,
@@ -4610,7 +4834,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(40)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰊ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -4624,7 +4849,7 @@
         "ruku_number": 469,
         "manzil_number": 7,
         "sajdah_number": null,
-        "page_number": 532,
+        "page_number": 533,
         "juz_number": 27,
         "words": [
           {
@@ -4642,7 +4867,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Will be known",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭑ"
           },
           {
             "id": 42123,
@@ -4661,7 +4887,8 @@
               "ٱلْ"
             ],
             "translation_en": "the criminals",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭒ"
           },
           {
             "id": 42124,
@@ -4680,7 +4907,8 @@
               "بِ"
             ],
             "translation_en": "by their marks",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭓ"
           },
           {
             "id": 42125,
@@ -4699,7 +4927,8 @@
               "فَ"
             ],
             "translation_en": "and will be seized",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭔ"
           },
           {
             "id": 42126,
@@ -4719,7 +4948,8 @@
               "ٱل"
             ],
             "translation_en": "by the forelocks",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭕ"
           },
           {
             "id": 42127,
@@ -4739,7 +4969,8 @@
               "ٱلْ"
             ],
             "translation_en": "and the feet",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭖ"
           },
           {
             "id": 42128,
@@ -4756,7 +4987,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(41)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭗ"
           }
         ],
         "translation": "A prestupnici će se po biljezima svojim poznati, pa će za kose i za noge ščepani biti,"
@@ -4791,7 +5023,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭘ"
           },
           {
             "id": 42953,
@@ -4808,7 +5041,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭙ"
           },
           {
             "id": 42954,
@@ -4825,7 +5059,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭚ"
           },
           {
             "id": 42955,
@@ -4842,7 +5077,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭛ"
           },
           {
             "id": 42956,
@@ -4859,7 +5095,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(42)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭜ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -4893,7 +5130,8 @@
               "هَٰ"
             ],
             "translation_en": "This",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭝ"
           },
           {
             "id": 43642,
@@ -4910,7 +5148,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(is) Hell",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭞ"
           },
           {
             "id": 43643,
@@ -4927,7 +5166,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭟ"
           },
           {
             "id": 43644,
@@ -4944,7 +5184,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭠ"
           },
           {
             "id": 43645,
@@ -4963,7 +5204,8 @@
               "بِ"
             ],
             "translation_en": "[of it]",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭡ"
           },
           {
             "id": 43646,
@@ -4982,7 +5224,8 @@
               "ٱلْ"
             ],
             "translation_en": "the criminals",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭢ"
           },
           {
             "id": 43647,
@@ -4999,7 +5242,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(43)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭣ"
           }
         ],
         "translation": "Evo, ovo je Džehennem, koji su prestupnici poricali!"
@@ -5031,7 +5275,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "They will go around",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭤ"
           },
           {
             "id": 44391,
@@ -5048,7 +5293,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "between it",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭥ"
           },
           {
             "id": 44392,
@@ -5067,7 +5313,8 @@
               "وَ"
             ],
             "translation_en": "and between",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭦ"
           },
           {
             "id": 44393,
@@ -5084,7 +5331,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "scalding water",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭧ"
           },
           {
             "id": 44394,
@@ -5101,7 +5349,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "heated",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭨ"
           },
           {
             "id": 44395,
@@ -5118,7 +5367,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(44)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭩ"
           }
         ],
         "translation": "Između vatre i uzavrele vode oni će kružiti,"
@@ -5153,7 +5403,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭪ"
           },
           {
             "id": 45151,
@@ -5170,7 +5421,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭫ"
           },
           {
             "id": 45152,
@@ -5187,7 +5439,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭬ"
           },
           {
             "id": 45153,
@@ -5204,7 +5457,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭭ"
           },
           {
             "id": 45154,
@@ -5221,7 +5475,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(45)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭮ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -5256,7 +5511,8 @@
               "لِ"
             ],
             "translation_en": "But for (him) who",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭯ"
           },
           {
             "id": 45872,
@@ -5273,7 +5529,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "fears",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭰ"
           },
           {
             "id": 45873,
@@ -5290,7 +5547,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(the) standing",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭱ"
           },
           {
             "id": 45874,
@@ -5307,7 +5565,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(before) his Lord",
-            "translation_bh": "njegovog Gospodara"
+            "translation_bh": "njegovog Gospodara",
+            "text": "ﭲ"
           },
           {
             "id": 45875,
@@ -5324,7 +5583,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) two gardens",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭳ"
           },
           {
             "id": 45876,
@@ -5341,7 +5601,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(46)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭴ"
           }
         ],
         "translation": "A onome ko se bude bojao stajanja pred svojim Gospodarom pripast će dva perivoja,"
@@ -5376,7 +5637,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭵ"
           },
           {
             "id": 46667,
@@ -5393,7 +5655,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭶ"
           },
           {
             "id": 46668,
@@ -5410,7 +5673,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭷ"
           },
           {
             "id": 46669,
@@ -5427,7 +5691,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭸ"
           },
           {
             "id": 46670,
@@ -5444,7 +5709,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(47)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭹ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -5476,7 +5742,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Having",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭺ"
           },
           {
             "id": 47270,
@@ -5493,7 +5760,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "branches",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭻ"
           },
           {
             "id": 47271,
@@ -5510,7 +5778,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(48)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭼ"
           }
         ],
         "translation": "puna stabala granatih,"
@@ -5545,7 +5814,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭽ"
           },
           {
             "id": 47881,
@@ -5562,7 +5832,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭾ"
           },
           {
             "id": 47882,
@@ -5579,7 +5850,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭿ"
           },
           {
             "id": 47883,
@@ -5596,7 +5868,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮀ"
           },
           {
             "id": 47884,
@@ -5613,7 +5886,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(49)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮁ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -5645,7 +5919,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "In both of them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮂ"
           },
           {
             "id": 48666,
@@ -5662,7 +5937,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) two springs",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮃ"
           },
           {
             "id": 48667,
@@ -5679,7 +5955,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "flowing",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮄ"
           },
           {
             "id": 48668,
@@ -5696,7 +5973,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(50)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮅ"
           }
         ],
         "translation": "u kojima su dva izvora koja teku"
@@ -5731,7 +6009,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮆ"
           },
           {
             "id": 49320,
@@ -5748,7 +6027,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮇ"
           },
           {
             "id": 49321,
@@ -5765,7 +6045,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮈ"
           },
           {
             "id": 49322,
@@ -5782,7 +6063,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮉ"
           },
           {
             "id": 49323,
@@ -5799,7 +6081,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(51)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮊ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -5831,7 +6114,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "In both of them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮋ"
           },
           {
             "id": 49885,
@@ -5848,7 +6132,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "[of]",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮌ"
           },
           {
             "id": 49886,
@@ -5865,7 +6150,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) every",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮍ"
           },
           {
             "id": 49887,
@@ -5882,7 +6168,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "fruits",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮎ"
           },
           {
             "id": 49888,
@@ -5899,7 +6186,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(in) pairs",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮏ"
           },
           {
             "id": 49889,
@@ -5916,7 +6204,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(52)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮐ"
           }
         ],
         "translation": "u njima će od svakog voća po dvije vrste biti,"
@@ -5951,7 +6240,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮑ"
           },
           {
             "id": 50594,
@@ -5968,7 +6258,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮒ"
           },
           {
             "id": 50595,
@@ -5985,7 +6276,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮓ"
           },
           {
             "id": 50596,
@@ -6002,7 +6294,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮔ"
           },
           {
             "id": 50597,
@@ -6019,7 +6312,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(53)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮕ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -6051,7 +6345,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Reclining",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮖ"
           },
           {
             "id": 51154,
@@ -6068,7 +6363,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "on",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮗ"
           },
           {
             "id": 51155,
@@ -6085,7 +6381,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "couches",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮘ"
           },
           {
             "id": 51156,
@@ -6102,7 +6399,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(whose) inner linings",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮙ"
           },
           {
             "id": 51157,
@@ -6119,7 +6417,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(are) of",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮚ"
           },
           {
             "id": 51158,
@@ -6136,7 +6435,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "brocade",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮛﮜ"
           },
           {
             "id": 51160,
@@ -6155,7 +6455,8 @@
               "وَ"
             ],
             "translation_en": "and (the) fruit",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮝ"
           },
           {
             "id": 51161,
@@ -6174,7 +6475,8 @@
               "ٱلْ"
             ],
             "translation_en": "(of) both the gardens",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮞ"
           },
           {
             "id": 51162,
@@ -6191,7 +6493,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(is) near",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮟ"
           },
           {
             "id": 51163,
@@ -6208,7 +6511,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(54)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮠ"
           }
         ],
         "translation": "Naslonjeni bit će na postelje čije će postave od kadife biti, a plodovi u oba perivoja nadohvat ruke će stajati,"
@@ -6243,7 +6547,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮡ"
           },
           {
             "id": 51791,
@@ -6260,7 +6565,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮢ"
           },
           {
             "id": 51792,
@@ -6277,7 +6583,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮣ"
           },
           {
             "id": 51793,
@@ -6294,7 +6601,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮤ"
           },
           {
             "id": 51794,
@@ -6311,7 +6619,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(55)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮥ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -6343,7 +6652,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "In them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮦ"
           },
           {
             "id": 52189,
@@ -6360,7 +6670,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(will be) companions of modest gaze",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮧ"
           },
           {
             "id": 52190,
@@ -6379,7 +6690,8 @@
               "ٱل"
             ],
             "translation_en": "(will be) companions of modest gaze",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮨ"
           },
           {
             "id": 52191,
@@ -6396,7 +6708,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮩ"
           },
           {
             "id": 52192,
@@ -6413,7 +6726,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "has touched them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮪ"
           },
           {
             "id": 52193,
@@ -6430,7 +6744,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "any man",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮫ"
           },
           {
             "id": 52194,
@@ -6447,7 +6762,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "before them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮬ"
           },
           {
             "id": 52195,
@@ -6466,7 +6782,8 @@
               "وَ"
             ],
             "translation_en": "and not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮭ"
           },
           {
             "id": 52196,
@@ -6483,7 +6800,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "any jinn",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮮ"
           },
           {
             "id": 52197,
@@ -6500,7 +6818,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(56)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮯ"
           }
         ],
         "translation": "U njima će biti one koje preda se gledaju, one koje, prije njih, ni čovjek ni džin nije dodirnuo,"
@@ -6535,7 +6854,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮰ"
           },
           {
             "id": 52807,
@@ -6552,7 +6872,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮱ"
           },
           {
             "id": 52808,
@@ -6569,7 +6890,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯓ"
           },
           {
             "id": 52809,
@@ -6586,7 +6908,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯔ"
           },
           {
             "id": 52810,
@@ -6603,7 +6926,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(57)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯕ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -6635,7 +6959,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "As if they were",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯖ"
           },
           {
             "id": 53398,
@@ -6654,7 +6979,8 @@
               "ٱلْ"
             ],
             "translation_en": "rubies",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯗ"
           },
           {
             "id": 53399,
@@ -6674,7 +7000,8 @@
               "ٱلْ"
             ],
             "translation_en": "and coral",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯘ"
           },
           {
             "id": 53400,
@@ -6691,7 +7018,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(58)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯙ"
           }
         ],
         "translation": "kao da su one dragulj i merdžan,"
@@ -6726,7 +7054,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯚ"
           },
           {
             "id": 53853,
@@ -6743,7 +7072,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯛ"
           },
           {
             "id": 53854,
@@ -6760,7 +7090,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯜ"
           },
           {
             "id": 53855,
@@ -6777,7 +7108,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯝ"
           },
           {
             "id": 53856,
@@ -6794,7 +7126,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(59)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯞ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -6826,7 +7159,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Is",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯟ"
           },
           {
             "id": 54425,
@@ -6843,7 +7177,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(the) reward",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯠ"
           },
           {
             "id": 54426,
@@ -6862,7 +7197,8 @@
               "ٱلْ"
             ],
             "translation_en": "for the good",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯡ"
           },
           {
             "id": 54427,
@@ -6879,7 +7215,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "but",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯢ"
           },
           {
             "id": 54428,
@@ -6898,7 +7235,8 @@
               "ٱلْ"
             ],
             "translation_en": "good",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯣ"
           },
           {
             "id": 54429,
@@ -6915,7 +7253,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(60)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯤ"
           }
         ],
         "translation": "Zar za dobro učinjeno djelo nagrada može biti nešto drugo do dobro?!"
@@ -6950,7 +7289,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯥ"
           },
           {
             "id": 55098,
@@ -6967,7 +7307,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯦ"
           },
           {
             "id": 55099,
@@ -6984,7 +7325,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯧ"
           },
           {
             "id": 55100,
@@ -7001,7 +7343,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯨ"
           },
           {
             "id": 55101,
@@ -7018,7 +7361,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(61)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯩ"
           }
         ],
         "translation": "Pa, koju blagodat Gospodara svoga poričete?!"
@@ -7052,7 +7396,8 @@
               "وَ"
             ],
             "translation_en": "Besides these two",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯪ"
           },
           {
             "id": 55720,
@@ -7069,7 +7414,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Besides these two",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯫ"
           },
           {
             "id": 55721,
@@ -7086,7 +7432,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) two gardens",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯬ"
           },
           {
             "id": 55722,
@@ -7103,7 +7450,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(62)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯭ"
           }
         ],
         "translation": "Osim ta dva, bit će još dva manje vrijedna perivoja,"
@@ -7138,7 +7486,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯮ"
           },
           {
             "id": 56168,
@@ -7155,7 +7504,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯯ"
           },
           {
             "id": 56169,
@@ -7172,7 +7522,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯰ"
           },
           {
             "id": 56170,
@@ -7189,7 +7540,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯱ"
           },
           {
             "id": 56171,
@@ -7206,7 +7558,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(63)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯲ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -7238,7 +7591,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Dark green",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯳ"
           },
           {
             "id": 56582,
@@ -7255,7 +7609,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(64)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯴ"
           }
         ],
         "translation": "tamnozelena,"
@@ -7290,7 +7645,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯵ"
           },
           {
             "id": 57227,
@@ -7307,7 +7663,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯶ"
           },
           {
             "id": 57228,
@@ -7324,7 +7681,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﯷ"
           },
           {
             "id": 57229,
@@ -7341,7 +7699,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯸ"
           },
           {
             "id": 57230,
@@ -7358,7 +7717,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(65)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯹ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -7390,7 +7750,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "In both of them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯺ"
           },
           {
             "id": 57767,
@@ -7407,7 +7768,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) two springs",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯻ"
           },
           {
             "id": 57768,
@@ -7424,7 +7786,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "gushing forth",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯼ"
           },
           {
             "id": 57769,
@@ -7441,7 +7804,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(66)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯽ"
           }
         ],
         "translation": "U njima su dva izvora iz kojih voda kulja;"
@@ -7476,7 +7840,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯾ"
           },
           {
             "id": 58088,
@@ -7493,7 +7858,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﯿ"
           },
           {
             "id": 58089,
@@ -7510,7 +7876,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﰀ"
           },
           {
             "id": 58090,
@@ -7527,7 +7894,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰁ"
           },
           {
             "id": 58091,
@@ -7544,7 +7912,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(67)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﰂ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -7558,7 +7927,7 @@
         "ruku_number": 470,
         "manzil_number": 7,
         "sajdah_number": null,
-        "page_number": 533,
+        "page_number": 534,
         "juz_number": 27,
         "words": [
           {
@@ -7576,7 +7945,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "In both of them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭑ"
           },
           {
             "id": 58643,
@@ -7593,7 +7963,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) fruits",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭒ"
           },
           {
             "id": 58644,
@@ -7612,7 +7983,8 @@
               "وَ"
             ],
             "translation_en": "and date-palms",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭓ"
           },
           {
             "id": 58645,
@@ -7631,7 +8003,8 @@
               "وَ"
             ],
             "translation_en": "and pomegranates",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭔ"
           },
           {
             "id": 58646,
@@ -7648,7 +8021,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(68)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭕ"
           }
         ],
         "translation": "U njima će biti voća i palmi i šipaka,"
@@ -7662,7 +8036,7 @@
         "ruku_number": 470,
         "manzil_number": 7,
         "sajdah_number": null,
-        "page_number": 533,
+        "page_number": 534,
         "juz_number": 27,
         "words": [
           {
@@ -7683,7 +8057,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭖ"
           },
           {
             "id": 59040,
@@ -7700,7 +8075,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭗ"
           },
           {
             "id": 59041,
@@ -7717,7 +8093,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭘ"
           },
           {
             "id": 59042,
@@ -7734,7 +8111,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭙ"
           },
           {
             "id": 59043,
@@ -7751,7 +8129,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(69)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭚ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -7783,7 +8162,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "In them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭛ"
           },
           {
             "id": 59466,
@@ -7800,7 +8180,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(are) good",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭜ"
           },
           {
             "id": 59467,
@@ -7817,7 +8198,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "and beautiful ones",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭝ"
           },
           {
             "id": 59468,
@@ -7834,7 +8216,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(70)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭞ"
           }
         ],
         "translation": "U njima će biti ljepotica naravi divnih,"
@@ -7869,7 +8252,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭟ"
           },
           {
             "id": 60059,
@@ -7886,7 +8270,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭠ"
           },
           {
             "id": 60060,
@@ -7903,7 +8288,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭡ"
           },
           {
             "id": 60061,
@@ -7920,7 +8306,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭢ"
           },
           {
             "id": 60062,
@@ -7937,7 +8324,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(71)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭣ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -7969,7 +8357,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Fair ones",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭤ"
           },
           {
             "id": 60463,
@@ -7986,7 +8375,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "restrained",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭥ"
           },
           {
             "id": 60464,
@@ -8003,7 +8393,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "in",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭦ"
           },
           {
             "id": 60465,
@@ -8022,7 +8413,8 @@
               "ٱلْ"
             ],
             "translation_en": "the pavilions",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭧ"
           },
           {
             "id": 60466,
@@ -8039,7 +8431,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(72)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭨ"
           }
         ],
         "translation": "Hurija u šatorima skrivenih,"
@@ -8074,7 +8467,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭩ"
           },
           {
             "id": 61063,
@@ -8091,7 +8485,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭪ"
           },
           {
             "id": 61064,
@@ -8108,7 +8503,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭫ"
           },
           {
             "id": 61065,
@@ -8125,7 +8521,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭬ"
           },
           {
             "id": 61066,
@@ -8142,7 +8539,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(73)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭭ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -8174,7 +8572,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭮ"
           },
           {
             "id": 61473,
@@ -8191,7 +8590,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "has touched them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭯ"
           },
           {
             "id": 61474,
@@ -8208,7 +8608,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "any man",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭰ"
           },
           {
             "id": 61475,
@@ -8225,7 +8626,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "before them",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭱ"
           },
           {
             "id": 61476,
@@ -8244,7 +8646,8 @@
               "وَ"
             ],
             "translation_en": "and not",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭲ"
           },
           {
             "id": 61477,
@@ -8261,7 +8664,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "any jinn",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭳ"
           },
           {
             "id": 61478,
@@ -8278,7 +8682,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(74)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭴ"
           }
         ],
         "translation": "Koje prije njih ni čovjek ni džin nije dodirnuo,"
@@ -8313,7 +8718,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭵ"
           },
           {
             "id": 61985,
@@ -8330,7 +8736,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭶ"
           },
           {
             "id": 61986,
@@ -8347,7 +8754,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﭷ"
           },
           {
             "id": 61987,
@@ -8364,7 +8772,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭸ"
           },
           {
             "id": 61988,
@@ -8381,7 +8790,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(75)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭹ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -8413,7 +8823,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "Reclining",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭺ"
           },
           {
             "id": 62451,
@@ -8430,7 +8841,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "on",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭻ"
           },
           {
             "id": 62452,
@@ -8447,7 +8859,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "cushions",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭼ"
           },
           {
             "id": 62453,
@@ -8464,7 +8877,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "green",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭽ"
           },
           {
             "id": 62454,
@@ -8483,7 +8897,8 @@
               "وَ"
             ],
             "translation_en": "and carpets",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭾ"
           },
           {
             "id": 62455,
@@ -8500,7 +8915,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "beautiful",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﭿ"
           },
           {
             "id": 62456,
@@ -8517,7 +8933,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(76)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮀ"
           }
         ],
         "translation": "Oni će biti naslonjeni, na prekrivačima zelenim i ćilimima čudesno ukrašenim i lijepim,"
@@ -8552,7 +8969,8 @@
               "بِ"
             ],
             "translation_en": "So which",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮁ"
           },
           {
             "id": 62939,
@@ -8569,7 +8987,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of the) favors",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮂ"
           },
           {
             "id": 62940,
@@ -8586,7 +9005,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara svoga / Gospodara vašeg "
+            "translation_bh": "Gospodara svoga / Gospodara vašeg ",
+            "text": "ﮃ"
           },
           {
             "id": 62941,
@@ -8603,7 +9023,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "will you both deny",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮄ"
           },
           {
             "id": 62942,
@@ -8620,7 +9041,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(77)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮅ"
           }
         ],
         "translation": "pa, koju blagodat Gospodara svoga poričete?!"
@@ -8652,7 +9074,8 @@
             "part_of_speech": "V",
             "addons": [],
             "translation_en": "Blessed is",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮆ"
           },
           {
             "id": 63261,
@@ -8669,7 +9092,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(the) name",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮇ"
           },
           {
             "id": 63262,
@@ -8686,7 +9110,8 @@
             "part_of_speech": "N",
             "addons": [],
             "translation_en": "(of) your Lord",
-            "translation_bh": "Gospodara tvoga"
+            "translation_bh": "Gospodara tvoga",
+            "text": "ﮈ"
           },
           {
             "id": 63263,
@@ -8703,7 +9128,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "Owner",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮉ"
           },
           {
             "id": 63264,
@@ -8722,7 +9148,8 @@
               "ٱلْ"
             ],
             "translation_en": "(of) Majesty",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮊ"
           },
           {
             "id": 63265,
@@ -8742,7 +9169,8 @@
               "ٱلْ"
             ],
             "translation_en": "and Honor",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮋ"
           },
           {
             "id": 63266,
@@ -8759,7 +9187,8 @@
             "part_of_speech": "",
             "addons": [],
             "translation_en": "(78)",
-            "translation_bh": ""
+            "translation_bh": "",
+            "text": "ﮌ"
           }
         ],
         "translation": "Neka je Uzvišeno ime Gospodara tvoga, Veličanstvenog i Plemenitog!"
