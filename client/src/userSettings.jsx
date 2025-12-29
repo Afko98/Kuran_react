@@ -3,7 +3,7 @@ import { X } from 'lucide-react'
 import Slider from './pages/moduls/slider';
 import './userSettings.css'
 
-function UserSettings({ setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, textStyleArabic, page=true }) {
+function UserSettings({ setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, textStyleArabic, setAudioEdition, page=true }) {
   const [isVisible, setIsVisible] = useState(false);
   const [fontSizeArabic, setFontSizeArabic] = useState(
     localStorage.getItem('fontSizeArabic') || 36
@@ -96,8 +96,39 @@ function UserSettings({ setShowSettings, showWordTranslation, setShowWordTransla
             <option value="dark">Tamna</option>
           </select>
         </div>      
+
+        <div className="setting-group">
+          <label >Učač</label>
+          <select 
+            id="audioEdition"
+            value={audioEdition}    
+            onChange={(e) => setAudioEdition(e.target.value)}
+          >
+            <option value="ar.alafasy">Alafasy</option>
+            <option value="ar.husary">Husary</option>
+            <option value="ar.minshawi">Minshawi</option>
+            <option value="ar.mahermuaiqly">Maher</option>
+            <option value="ar.hudhaify">Hudhaify</option>
+          </select>
+        </div>
+
         {page &&
         <>
+        <div className="setting-group">
+          <label >Učač</label>
+          <select 
+            id="audioEdition"
+            value={audioEdition}    
+            onChange={(e) => setAudioEdition(e.target.value)}
+          >
+            <option value="ar.alafasy">Alafasy</option>
+            <option value="ar.husary">Husary</option>
+            <option value="ar.minshawi">Minshawi</option>
+            <option value="ar.mahermuaiqly">Maher</option>
+            <option value="ar.hudhaify">Hudhaify</option>
+          </select>
+        </div>
+
         <div className="toggle-container">
           <label style={{maxWidth:"56%"}} className="toggle-label">Prijevod riječ po riječ (u izradi)</label>
           <label className="toggle-switch">

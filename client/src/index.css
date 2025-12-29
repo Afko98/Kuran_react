@@ -12,6 +12,7 @@
   --color-background-page-juz-number: rgb(231, 231, 231);
   --color-opacity-10: rgba(0, 0, 0, 0.075);
   --color-bookmark: #15b100;
+  --selected-verse-color: #0093ad; /* Color for selected verse highlight */
 }
 
 [data-theme="dark"] {
@@ -24,6 +25,7 @@
   --color-background-page-juz-number: rgb(37, 37, 37);
   --color-opacity-10: rgba(255, 255, 255, 0.089);
   --color-bookmark: #15b100;
+  --selected-verse-color: #45b8b2;
 }
 
 *, *::after, *::before {
@@ -50,7 +52,7 @@ body {
 
 @font-face {
   font-family: 'SurahNames';
-  src: url('/data/fonts/surah-name-v4.ttf') format('truetype');
+  src: url('/data/fonts/surah-name-v4.woff2') format('woff2');
     font-display: swap;
 }
 

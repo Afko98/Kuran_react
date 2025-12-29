@@ -52,9 +52,9 @@
 }
 
 .home_chapter_info_simple_name {
-    font-weight: 500;
+    font-weight: 600;
     font-size: 1.05rem;
-
+  opacity: 95%;
 }
 
 .home_chapter_info_name_bh, .home_chapter_info_revelation {

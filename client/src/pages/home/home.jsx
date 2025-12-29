@@ -9,19 +9,9 @@ import {BookmarkChapter, BookmarkPage} from './bookmark';
 import { Search } from 'lucide-react';
 
 function HomeHeader() {
-  const phrases = [
-    `"Ko krene putem traženja znanja, Allah mu olakšava put prema Džennetu." (Muslim)`,
-    `"Znanje je svetlo, a svetlo vodi ka pravdi."`,
-    `"Čitanje Kur'ana donosi mir srcu."`,
-    `"Put istine vodi kroz strpljenje i učenje."`,
-    `"Ko traži mudrost, Allah mu otvara vrata Dženneta."`
-  ];
 
   // Pick a random phrase once per component mount
-  const randomPhrase = useMemo(() => {
-    const index = Math.floor(Math.random() * phrases.length);
-    return phrases[index];
-  }, []);
+
 
   return (
     <div className='home_background_container'>
@@ -30,7 +20,7 @@ function HomeHeader() {
         <img className='home_background_quran_image' src={quran} alt="Quran background"/>
         <div>
           <h1>Kur'an i Tefsir</h1>
-          <p>{randomPhrase}</p>
+<h2>Pristupite kompletnom Kur'anu sa bosanskim prijevodom, audio recitacijama i skraćenim tefsirom Ibn Kesira</h2>
         </div>
       </div>
     </div>

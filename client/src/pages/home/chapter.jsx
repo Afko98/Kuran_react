@@ -37,7 +37,7 @@ function Chapter({ props, use_nav = true , onClick, page}) {
       </div>
       
       <div className='home_chapter_info_container'>
-        <span className='home_chapter_info_simple_name'>{props.name_simple}{page ? ` (strana ${page})` : ''}</span>
+        <h3 className='home_chapter_info_simple_name'>{props.name_simple}{page ? ` (strana ${page})` : ''}</h3>
         <div className='home_chapter_info_name_bh'>{props.name_bh}</div>
         <span className='home_chapter_info_revelation'>{props.revelation_place + ' ' + props.verses_count + ' ajeta'}</span>
       </div>

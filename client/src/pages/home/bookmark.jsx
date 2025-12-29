@@ -66,7 +66,6 @@ export function BookmarkPage({ page }) {
       const fetchPageInfo = async () => {
     try {
       const response = await api.get(`/api/page/pageInfo?page=${page}`);
-      console.log(response.data);
       setPageInfo(response.data);
     } catch (err) {
       console.error(err);

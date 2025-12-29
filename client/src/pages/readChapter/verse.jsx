@@ -123,7 +123,7 @@ const handleEnded = () => {
   };
 
   const playAyah = (ayahId) => {
-    const url = `https://cdn.islamic.network/quran/audio/128/${audioEdition}/${ayahId}.mp3`;
+    const url = `https://cdn.islamic.network/quran/audio/64/${audioEdition}/${ayahId}.mp3`;
     const currentAyahId = globalAudio.getAttribute('data-ayah-id');
 
     if (currentAyahId === String(ayahId) && !globalAudio.paused) {

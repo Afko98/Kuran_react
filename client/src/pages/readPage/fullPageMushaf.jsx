@@ -61,14 +61,14 @@ function FullPageMushaf() {
 
           linesMap.set(lineNumber - offset, {
             line_number: lineNumber - offset,
-            words: ['surah' + String(chapter.chapter_id).padStart(3, '0') + String.fromCharCode(0xe000)],
+            words: [{text:'surah' + String(chapter.chapter_id).padStart(3, '0') + String.fromCharCode(0xe000)}],
             surah_name: true
           });
           if (!no_b)
           {
                       linesMap.set(lineNumber - 1, {
             line_number: lineNumber - 1,
-            words: [String.fromCharCode(0xFC21)],
+            words: [{text: String.fromCharCode(0xFC21)}],
             bismillah: true
           });
           }
@@ -79,9 +79,9 @@ function FullPageMushaf() {
           verse.words.forEach(word => {
             const lineNumber = word.line_number;
             if (!linesMap.has(lineNumber)) {
-              linesMap.set(lineNumber, { line_number: lineNumber, words: [] });
+              linesMap.set(lineNumber, { line_number: lineNumber, words: []});
             }
-            linesMap.get(lineNumber).words.push(word.text);
+            linesMap.get(lineNumber).words.push({text: word.text, verse_id: verse.id, isEnd: word.char_type_name === "end", });
           });
         });
       });
@@ -89,7 +89,7 @@ function FullPageMushaf() {
 		const obj = {};           // create empty object
 		obj['lines'] = Array.from(linesMap.values()).sort((a, b) => a.line_number - b.line_number);
 		obj['chapter'] = page.chapters[0].chapter_id;
-
+console.log(obj);
 		return obj;
     } catch (err) {
       console.error(err);
@@ -170,7 +170,7 @@ function FullPageMushaf() {
             </div>
 
             <div>
-              <div className="h_line" style={{ width: '90%', margin: 'auto' }}></div>
+              <div className="h_line" style={{ width: '86%', margin: 'auto' }}></div>
               <div className="full_page_footer_buttons_container">
                 <button className="btn" onClick={goToNextPage}>
                   <ChevronLeft />

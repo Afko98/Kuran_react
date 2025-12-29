@@ -6,6 +6,10 @@
     overflow: hidden;
 }
 
+.home_background_container h2{
+font-size: 14px;
+font-weight: 500;
+}
 .home_background_image {
     position: absolute; /* Make background absolute instead */
     top: 0;
