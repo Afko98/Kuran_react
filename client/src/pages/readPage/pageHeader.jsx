@@ -3,7 +3,7 @@ import { TextAlignJustify, Settings, Bookmark } from 'lucide-react';
 import { useNavigate, useParams } from "react-router-dom";
 import UserSettings from '../../userSettings';
 
-export default function PageHeader({ booked, addPage, removePage, pages_l}) {
+export default function PageHeader({ booked, addPage, removePage, pages_l, audioEdition , setAudioEdition}) {
   const navigate = useNavigate();
   const { page_id } = useParams();
   const [showSettings, setShowSettings] = useState(false);
@@ -42,6 +42,8 @@ useEffect(() => {
           showSettings={showSettings} 
           setShowSettings={setShowSettings} 
           page={false}
+          audioEdition={audioEdition}
+          setAudioEdition={setAudioEdition}
         />
       }
       <header className="chapter_header_page">

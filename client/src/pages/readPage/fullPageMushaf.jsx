@@ -18,7 +18,9 @@ function FullPageMushaf() {
   const [pages_l, setPages_l] = useState(
       () => JSON.parse(localStorage.getItem('bookmarkPages')) || []
   )
-
+  const [audioEdition, setAudioEdition] = useState(
+    localStorage.getItem('audioEdition') || `ar.alafasy`
+  );
   const savePage = (list) => {
     setPages_l(list);
     localStorage.setItem('bookmarkPages', JSON.stringify(list));
@@ -145,7 +147,7 @@ console.log(obj);
 
   return (
     <div style={{ display: 'flex', flexDirection: 'column', height: '100%', gap: '12px' }}>
-      <PageHeader booked={booked} addPage={addPage} removePage={removePage} pages_l={pages_l}/>
+      <PageHeader booked={booked} addPage={addPage} removePage={removePage} pages_l={pages_l} audioEdition={audioEdition} setAudioEdition={setAudioEdition}/>
 
       <div {...swipeHandlers} style={{ flex: 1, position: 'relative', minHeight: 0}}>
         <AnimatePresence initial={false} custom={swipeDirection} mode="wait">
@@ -166,7 +168,7 @@ console.log(obj);
             }}
           >
             <div className="chapter_page_container_page">
-              <VersePage verse={lines} pageNumber={page_id} />
+              <VersePage verse={lines} pageNumber={page_id} audioEdition={audioEdition}/>
             </div>
 
             <div>

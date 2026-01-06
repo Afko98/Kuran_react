@@ -1,0 +1,18 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32" r="32" fill="#00778C"/>
+<rect width="44.8351" height="4.80827" transform="matrix(0.828388 -0.560155 0.558231 0.829686 9.28 45.8156)" fill="#E4622A"/>
+<rect width="44.8351" height="4.80827" transform="matrix(0.828388 0.560155 -0.558231 0.829686 17.4786 20.5709)" fill="#E4622A"/>
+<path d="M54.619 45.6857L51.9354 49.6749L32.0458 36.2257L36.3368 33.3234L54.619 45.6857Z" fill="#BA3F0A"/>
+<path d="M11.9645 49.8054L11.9098 49.7244H12.0846L11.9645 49.8054ZM49.1052 24.6902L36.3376 33.323L32.0456 30.4207L46.4206 20.7009L49.1052 24.6902Z" fill="#BA3F0A"/>
+<path d="M36.344 33.4747L32.052 36.3771L27.76 33.4747L32.051 30.5724L36.344 33.4747Z" fill="#D74303"/>
+<rect width="21.941" height="4.80827" transform="matrix(0.828388 -0.560155 0.558231 0.829686 29.28 26.566)" fill="#E9E9E9"/>
+<rect width="21.941" height="4.80827" transform="matrix(0.828388 0.560155 -0.558231 0.829686 16.6041 14.2756)" fill="white"/>
+<mask id="mask0_37_309" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="29" y="14" width="22" height="17">
+<rect width="21.941" height="4.80827" transform="matrix(0.828388 -0.560155 0.558231 0.829686 29.28 26.566)" fill="#E9E9E9"/>
+</mask>
+<g mask="url(#mask0_37_309)">
+<rect width="21.941" height="4.80827" transform="matrix(0.828388 0.560155 -0.558231 0.829686 16.6041 14.2756)" fill="#C2C2C2"/>
+</g>
+<rect width="21.941" height="0.530517" transform="matrix(0.828388 -0.560155 0.558231 0.829686 31.68 30.0948)" fill="black"/>
+<rect width="21.941" height="0.530517" transform="matrix(0.828388 0.560155 -0.558231 0.829686 14.2161 17.8046)" fill="black"/>
+</svg>

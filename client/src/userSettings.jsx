@@ -94,6 +94,10 @@ function UserSettings({ setShowSettings, showWordTranslation, setShowWordTransla
           <select id="theme-select" value={currentTheme} onChange={(e) => handleThemeChange(e.target.value)}>
             <option value="light">Svijetla</option>
             <option value="dark">Tamna</option>
+            <option value="midnight">Plava</option>
+            <option value="forest-dark">Zelena</option>
+            <option value="sepia">Topla</option>
+            <option value="rose">Ruža</option>
           </select>
         </div>      
 
@@ -106,7 +110,7 @@ function UserSettings({ setShowSettings, showWordTranslation, setShowWordTransla
           >
             <option value="ar.alafasy">Alafasy</option>
             <option value="ar.husary">Husary</option>
-            <option value="ar.minshawi">Minshawi</option>
+            <option value="ar.abdurrahmaansudais-2">Sudais</option>
             <option value="ar.mahermuaiqly">Maher</option>
             <option value="ar.hudhaify">Hudhaify</option>
           </select>
@@ -114,21 +118,6 @@ function UserSettings({ setShowSettings, showWordTranslation, setShowWordTransla
 
         {page &&
         <>
-        <div className="setting-group">
-          <label >Učač</label>
-          <select 
-            id="audioEdition"
-            value={audioEdition}    
-            onChange={(e) => setAudioEdition(e.target.value)}
-          >
-            <option value="ar.alafasy">Alafasy</option>
-            <option value="ar.husary">Husary</option>
-            <option value="ar.minshawi">Minshawi</option>
-            <option value="ar.mahermuaiqly">Maher</option>
-            <option value="ar.hudhaify">Hudhaify</option>
-          </select>
-        </div>
-
         <div className="toggle-container">
           <label style={{maxWidth:"56%"}} className="toggle-label">Prijevod riječ po riječ (u izradi)</label>
           <label className="toggle-switch">

@@ -28,6 +28,59 @@
   --selected-verse-color: #45b8b2;
 }
 
+[data-theme="sepia"] {
+  --color-background-1: #f4ecd8;
+  --color-home-chapter-container-background: #e9dec093;
+  --color-home-chapter-id: #d2c6a6ce;
+  --color-text-lighter: #3b2f2f;
+  --color-h-line: #d0c4a4;
+  --color-accent: #705c3d;
+  --color-background-page-juz-number: #ede2c6;
+  --color-opacity-10: rgba(0, 0, 0, 0.08);
+  --color-bookmark: #c58a00;
+  --selected-verse-color: #b6782b;
+}
+
+[data-theme="forest-dark"] {
+  --color-background-1: #121b12; /* deep forest green-black */
+  --color-home-chapter-container-background: #1b2a1b93; /* semi-transparent dark green */
+  --color-home-chapter-id: #2a3e2ace; /* subtle contrast */
+  --color-text-lighter: #d6e6d6; /* soft light greenish-gray text */
+  --color-h-line: #2f4430; /* muted divider */
+  --color-accent: #6ac06a; /* gentle green accent */
+  --color-background-page-juz-number: #1c281c; /* slightly lighter than background */
+  --color-opacity-10: rgba(255, 255, 255, 0.07); /* light overlay for shadows or cards */
+  --color-bookmark: #15b100; /* vibrant green for highlights */
+  --selected-verse-color: #38b48b; /* green-teal highlight for selection */
+}
+
+[data-theme="rose"] {
+  --color-background-1: #f6eaf8;
+  --color-home-chapter-container-background: #e9c9ef93;
+  --color-home-chapter-id: #d8a9e0ce;
+  --color-text-lighter: #331e3a;
+  --color-h-line: #debce8;
+  --color-accent: #7a2c82;
+  --color-background-page-juz-number: #f1d4f6;
+  --color-opacity-10: rgba(0, 0, 0, 0.05);
+  --color-bookmark: #d6428c;
+  --selected-verse-color: #aa33b0;
+}
+
+[data-theme="midnight"] {
+  --color-background-1: #101621;
+  --color-home-chapter-container-background: #1b263893;
+  --color-home-chapter-id: #24324bce;
+  --color-text-lighter: #d1d8e3;
+  --color-h-line: #303a52;
+  --color-accent: #7fa4e6;
+  --color-background-page-juz-number: #182030;
+  --color-opacity-10: rgba(255, 255, 255, 0.07);
+  --color-bookmark: #35c9ff;
+  --selected-verse-color: #4a9fff;
+}
+
+
 *, *::after, *::before {
     box-sizing: border-box;
     margin: 0;

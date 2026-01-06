@@ -1,12 +1,35 @@
-import { useState, useEffect } from 'react'
-import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
+import { useEffect } from 'react'
+import { BrowserRouter as Router, Routes, Route, Navigate, useNavigate, useLocation } from 'react-router-dom';
 
 import './App.css'
 import Home from './pages/home/home';
 import FullChapter from './pages/readChapter/fullChapter';
 import FullPageMushaf from './pages/readPage/fullPageMushaf';
 
-function App() {
+function AppContent() {
+  const navigate = useNavigate();
+  const location = useLocation();
+
+  useEffect(() => {
+    // Push a dummy state to history when navigating away from home
+    if (location.pathname !== '/home') {
+      window.history.pushState(null, '', window.location.href);
+    }
+
+    const handlePopState = () => {
+      // Always navigate to home when back button is pressed
+      if (location.pathname !== '/home') {
+        navigate('/home', { replace: true });
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+    };
+  }, [location.pathname, navigate]);
+
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme') || 'light';
     document.documentElement.setAttribute('data-theme', savedTheme);
@@ -31,15 +54,21 @@ function App() {
   }, []);
 
   return (
+    <Routes>
+      <Route path="/" element={<Navigate to="/home" replace/>}/>
+      <Route path="/home" element={<Home />} />
+      <Route path="chapter/:chapter_id" element={<FullChapter/>}/>
+      <Route path="chapter/:chapter_id/page/:page_id" element={<FullChapter/>}/>
+      <Route path="chapter/:chapter_id/verse/:verse_id" element={<FullChapter/>}/>
+      <Route path="page/:page_id" element={<FullPageMushaf/>}/>
+    </Routes>
+  );
+}
+
+function App() {
+  return (
     <Router>
-      <Routes>
-        <Route path="/" element={<Navigate to="/home" replace/>}/>
-        <Route path="/home" element={<Home />} />
-        <Route path="chapter/:chapter_id" element={<FullChapter/>}/>
-        <Route path="chapter/:chapter_id/page/:page_id" element={<FullChapter/>}/>
-        <Route path="chapter/:chapter_id/verse/:verse_id" element={<FullChapter/>}/>
-        <Route path="page/:page_id" element={<FullPageMushaf/>}/>
-      </Routes>
+      <AppContent />
     </Router>
   )
 }

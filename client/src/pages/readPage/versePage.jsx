@@ -183,7 +183,7 @@ function Word({ word, style, className, setSelectedVerse, selectedVerse, audioEd
   );
 }
 
-export default function VersePage({ verse, pageNumber}) {
+export default function VersePage({ verse, pageNumber, audioEdition}) {
   const containerStyle = {
     fontFamily: `QuranPage${pageNumber}`,
     direction: 'rtl'
@@ -211,7 +211,7 @@ export default function VersePage({ verse, pageNumber}) {
           wordStyle.padding = '8px';
         }
       }
-      return <Word setSelectedVerse={setSelectedVerse} selectedVerse={selectedVerse} key={`${line.line_number}-${index}`} word={word} style={wordStyle} className={(line.surah_name || line.bismillah) ? 'surah_name' : ''} />;
+      return <Word audioEdition={audioEdition} setSelectedVerse={setSelectedVerse} selectedVerse={selectedVerse} key={`${line.line_number}-${index}`} word={word} style={wordStyle} className={(line.surah_name || line.bismillah) ? 'surah_name' : ''} />;
     });
 
   // Render mode
