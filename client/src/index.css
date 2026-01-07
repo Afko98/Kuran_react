@@ -207,11 +207,11 @@ img, video, canvas {
 
 /* Global Button Styles */
 .btn {
-  padding: 4px 12px;
+  padding: 4px 4px;
   font-size: 1rem;
-  border: 1px solid var(--color-h-line);
+  border: none;
   border-radius: 8px;
-  background: var(--color-home-chapter-container-background);
+  background: transparent;
   color: var(--color-text-lighter);
   cursor: pointer;
   transition: all 0.2s ease;

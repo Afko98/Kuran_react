@@ -445,23 +445,42 @@ setTimeout(() => {
             }`}
               style={{ marginTop: '40px' }}
             >
-              {Number(chapter_id) < 114 && (
-                <button className='btn' onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}>
-                  <ChevronLeft/>
-                </button>
-              )}
-              {Number(chapter_id) > 1 && (
-                <button className='btn' onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}>
-                  <ChevronRight/>
-                </button>
-              )}
+
          
             </div>
 {loadedVerses.length > 0 && (
   <>
     {loadedVerses[0].page_number === chapter.verses[0].page_number && (
       <>
-        <SurahName number={chapter_id} />
+<div
+  style={{
+    display: "flex",
+    flexDirection: "row",
+    justifyContent: "space-between",
+    alignItems: "center",
+  }}
+>
+  <button
+    className="btn"
+    onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}
+    disabled={Number(chapter_id) === 114}
+    style={{ visibility: Number(chapter_id) === 114 ? "hidden" : "visible" }}
+  >
+    <ChevronLeft />
+  </button>
+
+  <SurahName number={chapter_id} />
+
+  <button
+    className="btn"
+    onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}
+    disabled={Number(chapter_id) === 1}
+    style={{ visibility: Number(chapter_id) === 1 ? "hidden" : "visible" }}
+  >
+    <ChevronRight />
+  </button>
+</div>
+        
         {chapter_id != 1 && chapter_id != 9 && <BismillahText />}
       </>
     )}

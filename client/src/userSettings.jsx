@@ -3,7 +3,7 @@ import { X } from 'lucide-react'
 import Slider from './pages/moduls/slider';
 import './userSettings.css'
 
-function UserSettings({ setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, textStyleArabic, setAudioEdition, page=true }) {
+function UserSettings({ setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, textStyleArabic, setAudioEdition, page=true, home=false }) {
   const [isVisible, setIsVisible] = useState(false);
   const [fontSizeArabic, setFontSizeArabic] = useState(
     localStorage.getItem('fontSizeArabic') || 36
@@ -100,7 +100,7 @@ function UserSettings({ setShowSettings, showWordTranslation, setShowWordTransla
             <option value="rose">Ruža</option>
           </select>
         </div>      
-
+{!home &&
         <div className="setting-group">
           <label >Učač</label>
           <select 
@@ -115,7 +115,7 @@ function UserSettings({ setShowSettings, showWordTranslation, setShowWordTransla
             <option value="ar.hudhaify">Hudhaify</option>
           </select>
         </div>
-
+}
         {page &&
         <>
         <div className="toggle-container">

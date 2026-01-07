@@ -1,12 +1,13 @@
 import {React, useEffect, useState, useMemo} from 'react'
-import api from '../../api'
+import chaptersInfo from '../../data/chapters_info.json';
 import Chapter from './chapter';
 import './home.css'
 import background from '../../../assets/quran-background-simple.jpg'
 import quran from '../../../assets/Holy-Quran-calligraphy-PNG.svg'
 import { useNavigate, useLocation } from "react-router-dom";
 import {BookmarkChapter, BookmarkPage} from './bookmark';
-import { Search } from 'lucide-react';
+import { Search, Bookmark, Settings } from 'lucide-react';
+import UserSettings from '../../userSettings';
 
 function HomeHeader() {
 
@@ -59,9 +60,9 @@ function VersionSelector({ selectedVersion, onVersionChange }) {
   );
 }
 
-
 function Home() {
-  const [chapters, setChapters] = useState([]);
+  
+  const [chapters, setChapters] = useState(chaptersInfo.chapters);
   const [lastRead, setLastRead] = useState(null);
   const { pathname } = useLocation();
       const navigate = useNavigate();
@@ -71,7 +72,7 @@ function Home() {
     // Initialize from localStorage or default to 'sura'
     return localStorage.getItem('selectedVersion') || 'sura';
   });
-  
+
 
   useEffect(() => {
     const chapterId = localStorage.getItem('lastReadChapter');
@@ -87,19 +88,7 @@ function Home() {
     });
   }, [selectedVersion]);
 
-  const fetchChapters = async () => {
-    try {
-      const response = await api.get('/api/chapter/info');
-      setChapters(response.data.chapters);
-    } catch (err) {
-      console.error(err);
-    }
-  };
 
-  useEffect(() => {
-    fetchChapters();
-
-  }, []);
   
 useEffect(() => {
   requestAnimationFrame(() => window.scrollTo({ top: 0, left: 0, behavior: 'instant' }));
@@ -144,8 +133,33 @@ const handlePageKeyPress = (e) => {
     }
   }
 };
+  const [currentTheme, setCurrentTheme] = useState(
+    localStorage.getItem('theme') || 'light'
+  )
+  function handleThemeChange(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    localStorage.setItem('theme', theme);
+    setCurrentTheme(theme);
+  }
+    const [showSettings, setShowSettings] = useState(false);
 return (
-  <>
+  <>  
+      {showSettings &&
+        <UserSettings 
+          showSettings={showSettings} 
+          setShowSettings={setShowSettings} 
+          page={false}
+          home={true}
+        />
+      }
+      <div style={{display:'flex', width:'94%', flexDirection:'row-reverse', alignContent:'center', alignItems:'center', marginTop:'6px', marginBottom:'-6px', gap:'8px', margin:'auto'}}>
+            <Settings 
+            className='header_icon_border padding_2_4' 
+            style={{cursor:'pointer'}} 
+            size={30} 
+            onClick={() => setShowSettings(true)}
+          />
+          </div>
     <HomeHeader />
 
     <div className='chapters_list_container'>
@@ -185,6 +199,8 @@ return (
     )}
       {selectedVersion === 'biljeske' && (
         <>
+        {bookmarks.pages.length !== 0 || bookmarks.chapters.length !== 0 ? (
+        <>
           <h3 className="bookmark_section_header">Kur'an</h3>
           {bookmarks.pages.toReversed().map(page => (
             <BookmarkPage
@@ -209,6 +225,30 @@ return (
               />
             );
           })}
+        </>
+        ) : (
+<>
+  <h3 className="bookmark_section_header">Nema sačuvanih bilješki.</h3>
+  <div style={{padding:'12px', alignItems:'start', width:'94%', display:'flex', flexDirection:'column', gap:'8px'}}>
+  <p style={{paddingBottom:'12px'}}>
+    Mozete sacuvati ajet (u "Prijevod" prikazu) ili stranicu (u "Kur'an" prikazu) uz pomoć tipke:
+  </p>
+
+  {/* Saved bookmark example */}
+  <div style={{ display: 'flex', alignItems: 'center', gap: '6px', marginBottom: '4px' }}>
+    <Bookmark color="var(--color-bookmark)" opacity={1} strokeWidth={2.6} size={20} />
+    <p> - Sačuvana bilješka.</p>
+  </div>
+
+  {/* Removed bookmark example */}
+  <div style={{ display: 'flex', alignItems: 'center', gap: '6px' }}>
+    <Bookmark color="currentColor" opacity={0.4} strokeWidth={1.6} size={20} />
+    <p> - Uklonjena bilješka.</p>
+  </div>
+  </div>
+</>
+
+        )}
         </>
       )}
 

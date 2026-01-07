@@ -26,7 +26,7 @@ font-weight: 500;
 
 /* 🌑 Dark theme — brighten a bit, slightly lower contrast to reduce glare */
 [data-theme="dark"] .home_background_image {
-  filter: brightness(1.2) contrast(0.9);
+  filter: invert(1) brightness(1.2) contrast(0.9);
 }
 
 /* 🌲 Forest-dark — add a hint of green tint + brightness boost */
