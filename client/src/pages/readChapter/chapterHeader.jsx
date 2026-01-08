@@ -4,7 +4,7 @@ import { TextAlignJustify , Settings, BookType } from 'lucide-react';
 import { useNavigate, useParams } from "react-router-dom";
 import UserSettings from '../../userSettings';
 
-export default function ChapterHeader({ headerRef, chapter, onNavigate, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition,textStyleArabic, setTextStyleArabic }) {
+export default function ChapterHeader({ headerRef, chapter, onNavigate, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition }) {
   const [selectorType, setSelectorType] = useState('page');
   const [showDropdown, setShowDropdown] = useState(false);
   const [showSettings, setShowSettings] = useState(false);
@@ -54,8 +54,6 @@ useEffect(() => {
         setShowWordTranslation={setShowWordTranslation}
         audioEdition={audioEdition}
         setAudioEdition={setAudioEdition}
-        textStyleArabic={textStyleArabic}
-        setTextStyleArabic={setTextStyleArabic}
       />
     }
     <header ref={headerRef} className="chapter_header">

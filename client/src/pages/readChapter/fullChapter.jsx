@@ -27,9 +27,7 @@ const [verses_l, setVerses_l] = useState(
   const [audioEdition, setAudioEdition] = useState(
     localStorage.getItem('audioEdition') || `ar.alafasy`
   );
-  const [textStyleArabic, setTextStyleArabic] = useState(
-    localStorage.getItem('textStyleArabic') || `text_uthmani`
-  );
+
   const [isAutoplayEnabled, setIsAutoplayEnabled] = useState(false);
   const [showWordTranslation, setShowWordTranslation] = useState(() => {
     return localStorage.getItem('showWordTranslation') === 'true';
@@ -407,7 +405,6 @@ setTimeout(() => {
               verse={verse} 
               headerRef={headerRef} 
               showWordTranslation={showWordTranslation} 
-              textStyleArabic={textStyleArabic}
               audioEdition={audioEdition}
               isAutoplayEnabled={isAutoplayEnabled}
               setIsAutoplayEnabled={setIsAutoplayEnabled}
@@ -421,7 +418,7 @@ setTimeout(() => {
         </React.Fragment>
       );
     });
-  }, [loadedVerses, verses_l, showWordTranslation, audioEdition, textStyleArabic, isAutoplayEnabled, setIsAutoplayEnabled, scrollToVerse]);
+  }, [loadedVerses, verses_l, showWordTranslation, audioEdition, isAutoplayEnabled, setIsAutoplayEnabled, scrollToVerse]);
 
   return (
     <>
@@ -433,8 +430,6 @@ setTimeout(() => {
         setShowWordTranslation={setShowWordTranslation}
         audioEdition={audioEdition}
         setAudioEdition={setAudioEdition}
-        textStyleArabic={textStyleArabic}
-        setTextStyleArabic={setTextStyleArabic}
       />
 
       <div className="chapter_page_container">

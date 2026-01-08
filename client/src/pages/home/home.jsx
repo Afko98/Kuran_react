@@ -152,7 +152,17 @@ return (
           home={true}
         />
       }
-      <div style={{display:'flex', width:'94%', flexDirection:'row-reverse', alignContent:'center', alignItems:'center', marginTop:'6px', marginBottom:'-6px', gap:'8px', margin:'auto'}}>
+      <div style={{
+  display: 'flex',
+  width: '94%',
+  flexDirection: 'row-reverse',
+  alignContent: 'center',
+  alignItems: 'center',
+  paddingTop: '4px',
+  gap: '8px',
+  margin: 'auto',
+  marginBottom: '-8px',  // <-- conflict warning
+}}>
             <Settings 
             className='header_icon_border padding_2_4' 
             style={{cursor:'pointer'}} 
