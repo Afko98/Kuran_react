@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import api from '../../api';
+import { api_git } from '../../api';
 import './fullChapter.css';
 import Verse from './verse';
 import ChapterHeader from './chapterHeader';
@@ -41,7 +41,7 @@ const [verses_l, setVerses_l] = useState(
 
   const fetchChapter = async () => {
     try {
-      const response = await api.get(`/api/chapter?chapter=${chapter_id}`);
+      const response = await api_git.get(`/chapters/${chapter_id}.json`);
       setChapter(response.data.chapter);
       
       // Load first pages initially

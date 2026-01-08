@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom';
 import './chapter.css'
-import api from '../../api';
+import {api_git} from '../../api';
 import { Bookmark } from 'lucide-react';
 
 export function BookmarkChapter({ verse_key, props}) {
@@ -65,7 +65,7 @@ export function BookmarkPage({ page }) {
       const navigate = useNavigate();
       const fetchPageInfo = async () => {
     try {
-      const response = await api.get(`/api/page/pageInfo?page=${page}`);
+      const response = await api_git.get(`/pages/${page}.json`);
       setPageInfo(response.data);
     } catch (err) {
       console.error(err);

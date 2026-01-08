@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
-import api from '../../api';
+import { api_git } from '../../api';
 import PageHeader from './pageHeader';
 import VersePage from './versePage';
 import { ChevronLeft, ChevronRight } from 'lucide-react';
@@ -38,7 +38,7 @@ function FullPageMushaf() {
   // Fetch page data
   const fetchPage = async () => {
     try {
-      const p = await api.get(`/api/page?page=${page_id}`);
+      const p = await api_git.get(`/pages/${page_id}.json`);
       const page = p.data;
       if (!page || !page.chapters) 
       {

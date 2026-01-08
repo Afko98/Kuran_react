@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './verse.css';
 import { Play, Pause, BookType, StepForward, Bookmark } from 'lucide-react';
-import api from '../../api';
+import  { api_server } from '../../api';
 
 // Global audio instance shared across all Verse components
 const globalAudio = new Audio();
@@ -114,7 +114,7 @@ const handleEnded = () => {
   const fetchTefsir = async (verse_key) => {
     try {
       const [chapter, ayah] = verse_key.split(':');
-      const response = await api.get(`/api/tefsir?chapter=${chapter}&ayah=${ayah}`);
+      const response = await api_server.get(`/api/tefsir?chapter=${chapter}&ayah=${ayah}`);
       setTefsirContent(response.data.content || response.data);
       setShowTefsir(true);
     } catch (err) {
