@@ -3,7 +3,7 @@ import { X } from 'lucide-react'
 import Slider from './pages/moduls/slider';
 import './userSettings.css'
 
-function UserSettings({ setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, textStyleArabic, setAudioEdition, page=true, home=false }) {
+function UserSettings({ setShowSettings, showWordTranslation, setShowWordTranslation, audioEdition, setAudioEdition, page=true, home=false }) {
   const [isVisible, setIsVisible] = useState(false);
   const [fontSizeArabic, setFontSizeArabic] = useState(
     localStorage.getItem('fontSizeArabic') || 36
@@ -56,11 +56,10 @@ function UserSettings({ setShowSettings, showWordTranslation, setShowWordTransla
     localStorage.setItem('fontSizeWordTranslation', fontSizeWordTranslation);
   }, [fontSizeWordTranslation]);
     useEffect(() => {
+      if (!home) {
     localStorage.setItem('audioEdition', audioEdition);
+      }
   }, [audioEdition]);
-    useEffect(() => {
-    localStorage.setItem('textStyleArabic', textStyleArabic);
-  }, [textStyleArabic]);
 
   function handleThemeChange(theme) {
     document.documentElement.setAttribute('data-theme', theme);

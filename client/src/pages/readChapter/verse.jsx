@@ -6,7 +6,7 @@ import  { api_server } from '../../api';
 // Global audio instance shared across all Verse components
 const globalAudio = new Audio();
 
-function Word({ word, showWordTranslation, textStyleArabic, pageNumber }) {
+function Word({ word, showWordTranslation, pageNumber }) {
   const isEnd = word.char_type_name === "end";
 
   return (
@@ -27,7 +27,7 @@ function Word({ word, showWordTranslation, textStyleArabic, pageNumber }) {
     </div>
   );
 }
-export default function Verse({ scrollToVerse, verse, booked, removeVerse, addVerse, showWordTranslation, audioEdition, textStyleArabic, isAutoplayEnabled, setIsAutoplayEnabled }) {
+export default function Verse({ scrollToVerse, verse, booked, removeVerse, addVerse, showWordTranslation, audioEdition, isAutoplayEnabled, setIsAutoplayEnabled }) {
   const [showTefsir, setShowTefsir] = useState(false);
   const [tefsirContent, setTefsirContent] = useState('');
   const [isPlaying, setIsPlaying] = useState(false);
@@ -169,7 +169,7 @@ const canPlayOpus = (() => {
     <div className="verse_container">
       <div className='verse_words_container'>
         {verse.words.map((word) => (
-          <Word pageNumber={verse.page_number} key={word.id} word={word} showWordTranslation={showWordTranslation} textStyleArabic={textStyleArabic} />
+          <Word pageNumber={verse.page_number} key={word.id} word={word} showWordTranslation={showWordTranslation} />
         ))}
       </div>
       <span className='verse_translation'>{verse.translation}</span>
