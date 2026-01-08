@@ -83,14 +83,46 @@ app.get('/api/stats', (req, res) => {
 });
 
 // Serve React frontend
-app.use(express.static(path.join(__dirname, '../client/dist')));
-
-// Catch-all for client-side routing
 app.use((req, res, next) => {
-  if (path.extname(req.path).length > 0) {
-    return next();
-  }
-  res.sendFile(path.join(__dirname, '../client/dist/index.html'));
+  const html = `
+    <!DOCTYPE html>
+    <html lang="bs">
+    <head>
+      <meta charset="UTF-8">
+      <title>Nova stranica</title>
+      <style>
+        body {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          height: 100vh;
+          margin: 0;
+          font-family: 'Arial', sans-serif;
+          background: linear-gradient(135deg, #125eb6ff, #0a9779ff);
+          color: #fff;
+          text-align: center;
+        }
+        a {
+          color: #b4ff83ff;
+          text-decoration: none;
+          font-weight: bold;
+          font-size: 2rem;
+          transition: transform 0.2s, color 0.2s;
+        }
+        h1 {
+          margin-bottom: 20px;
+        }
+      </style>
+    </head>
+    <body>
+      <div>
+        <h1>Nova stranica je dostupna!</h1>
+        <a href="https://kuran-tefsir.pages.dev/" target="_blank">Posjeti: https://kuran-tefsir.pages.dev/</a>
+      </div>
+    </body>
+    </html>
+  `;
+  res.send(html);
 });
 
 app.listen(PORT, () => {
