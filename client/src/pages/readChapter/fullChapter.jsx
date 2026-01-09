@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react';
+import React, { useState, useEffect, useRef, useCallback, useMemo, use } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import { api_git } from '../../api';
 import './fullChapter.css';
@@ -19,11 +19,18 @@ function FullChapter() {
   const loadMoreBottomRef = useRef(null);
   const isLoadingRef = useRef({ top: false, bottom: false });
   const PAGES_PER_LOAD = 1;
-  const MAX_PAGES_IN_MEMORY = 3; // Keep max 6 pages loaded
+  const MAX_PAGES_IN_MEMORY = 3;
   const [loadedFonts, setLoadedFonts] = useState(new Set());
-const [verses_l, setVerses_l] = useState(
-  () => JSON.parse(localStorage.getItem('bookmarkVerses')) || []
-);
+  const [tefsirMap, setTefsirMap] = useState([]);
+  
+  // Caches
+  const chapterCache = useRef({});
+  const tefsirCache = useRef({});
+  const fontLoadingPromises = useRef({});
+  
+  const [verses_l, setVerses_l] = useState(
+    () => JSON.parse(localStorage.getItem('bookmarkVerses')) || []
+  );
   const [audioEdition, setAudioEdition] = useState(
     localStorage.getItem('audioEdition') || `ar.alafasy`
   );
@@ -33,32 +40,117 @@ const [verses_l, setVerses_l] = useState(
     return localStorage.getItem('showWordTranslation') === 'true';
   });
 
+  // Optimized font preloading with caching
+  const preloadFont = useCallback((pageNum) => {
+    if (pageNum < 1 || pageNum > 604) return Promise.resolve();
+    
+    // Return existing promise if already loading
+    if (fontLoadingPromises.current[pageNum]) {
+      return fontLoadingPromises.current[pageNum];
+    }
+    
+    // Return resolved promise if already loaded
+    if (loadedFonts.has(pageNum)) {
+      return Promise.resolve();
+    }
+
+    const formatted = pageNum.toString().padStart(3, '0');
+    const fontFace = new FontFace(
+      `QuranPage${pageNum}`,
+      `url(https://raw.githubusercontent.com/mustafa0x/qpc-fonts/f93bf5f3/mushaf-woff2/QCF_P${formatted}.woff2)`,
+      { display: 'swap' }
+    );
+    
+    const promise = fontFace.load()
+      .then((loadedFace) => {
+        document.fonts.add(loadedFace);
+        setLoadedFonts(prev => new Set([...prev, pageNum]));
+        delete fontLoadingPromises.current[pageNum];
+      })
+      .catch(err => {
+        console.error(`Failed to load font for page ${pageNum}:`, err);
+        delete fontLoadingPromises.current[pageNum];
+      });
+    
+    fontLoadingPromises.current[pageNum] = promise;
+    return promise;
+  }, [loadedFonts]);
+
+  // Preload adjacent fonts
+  const preloadAdjacentFonts = useCallback((currentPages) => {
+    const pagesToPreload = new Set();
+    
+    currentPages.forEach(pageNum => {
+      // Preload current + 1 page ahead and behind
+      pagesToPreload.add(pageNum - 1);
+      pagesToPreload.add(pageNum);
+      pagesToPreload.add(pageNum + 1);
+    });
+
+    pagesToPreload.forEach(pageNum => {
+      if (pageNum > 0 && pageNum <= 604) {
+        preloadFont(pageNum);
+      }
+    });
+  }, [preloadFont]);
+
+
+  useEffect(() => {
+  const fetchTefsirMap = async () => {
+    try {
+      const response = await api_git.get(`/tefsir/chapters/chapter_${chapter_id}.json`);
+      setTefsirMap(response.data);
+    } catch (err) {
+      console.error(err);
+    }
+  };
+  fetchTefsirMap();
+}, []);
+
   useEffect(() => {
     localStorage.setItem('showWordTranslation', showWordTranslation);
   }, [showWordTranslation]);
 
+  // Cached chapter fetching
   const fetchChapter = async () => {
-    try {
-      const response = await api_git.get(`/chapters/${chapter_id}.json`);
-      setChapter(response.data.chapter);
+    // Check cache first
+    if (chapterCache.current[chapter_id]) {
+      const cachedChapter = chapterCache.current[chapter_id];
+      setChapter(cachedChapter);
       
-      // Load first pages initially
-      if (response.data.chapter.verses.length > 0) {
-        const firstPage = response.data.chapter.verses[0].page_number;
+      if (cachedChapter.verses.length > 0) {
+        const firstPage = cachedChapter.verses[0].page_number;
         localStorage.setItem('lastReadChapter', chapter_id);
         localStorage.setItem('prevReadPage', firstPage);
-        loadVersesByPageRange(response.data.chapter, firstPage, firstPage + PAGES_PER_LOAD - 1);
+        loadVersesByPageRange(cachedChapter, firstPage, firstPage + PAGES_PER_LOAD - 1);
+      }
+      return;
+    }
+    
+    try {
+      const response = await api_git.get(`/chapters/${chapter_id}.json`);
+      const chapterData = response.data.chapter;
+      
+      // Cache the chapter data
+      chapterCache.current[chapter_id] = chapterData;
+      setChapter(chapterData);
+      
+      // Load first pages initially
+      if (chapterData.verses.length > 0) {
+        const firstPage = chapterData.verses[0].page_number;
+        localStorage.setItem('lastReadChapter', chapter_id);
+        localStorage.setItem('prevReadPage', firstPage);
+        loadVersesByPageRange(chapterData, firstPage, firstPage + PAGES_PER_LOAD - 1);
       }
     } catch (err) {
       console.error(err);
     }
   };
 
-    const saveVerses = (list) => {
+  const saveVerses = (list) => {
     setVerses_l(list);
     localStorage.setItem('bookmarkVerses', JSON.stringify(list));
   };
-
 
   const addVerse = (verse_key) => {
     if (!verses_l.includes(verse_key)) saveVerses([...verses_l, verse_key]);
@@ -68,7 +160,6 @@ const [verses_l, setVerses_l] = useState(
     const updated = verses_l.filter(p => p !== verse_key);
     saveVerses(updated);
   };
-
 
   const loadVersesByPageRange = useCallback((chapterData, startPage, endPage) => {
     const verses = chapterData.verses.filter(
@@ -111,7 +202,6 @@ const [verses_l, setVerses_l] = useState(
   const loadMoreTop = useCallback(() => {
     if (!chapter || !currentPageRange.start || isLoadingRef.current.top) return;
     
-    // Check if we've reached the first verse
     const firstVerse = chapter.verses[0];
     if (currentPageRange.start <= firstVerse.page_number) return;
     
@@ -125,14 +215,12 @@ const [verses_l, setVerses_l] = useState(
     );
     
     if (newVerses.length > 0) {
-      // Store scroll position before adding
       const scrollPos = window.scrollY;
       const containerHeight = document.documentElement.scrollHeight;
       
       setLoadedVerses(prev => [...newVerses, ...prev]);
       setCurrentPageRange(prev => ({ start: prevStartPage, end: prev.end }));
       
-      // Restore scroll position after new content loads
       requestAnimationFrame(() => {
         const newHeight = document.documentElement.scrollHeight;
         window.scrollTo(0, scrollPos + (newHeight - containerHeight));
@@ -141,15 +229,11 @@ const [verses_l, setVerses_l] = useState(
     } else {
       isLoadingRef.current.top = false;
     }
-    
   }, [chapter, currentPageRange, PAGES_PER_LOAD]);
-
-  
 
   const loadMoreBottom = useCallback(() => {
     if (!chapter || !currentPageRange.end || isLoadingRef.current.bottom) return;
     
-    // Check if we've reached the last verse
     const lastVerse = chapter.verses[chapter.verses.length - 1];
     if (currentPageRange.end >= lastVerse.page_number) return;
     
@@ -167,7 +251,6 @@ const [verses_l, setVerses_l] = useState(
       setCurrentPageRange(prev => {
         const newRange = { start: prev.start, end: nextEndPage };
         
-        // Check if we need to trim from top
         const totalPages = newRange.end - newRange.start + 1;
         if (totalPages > MAX_PAGES_IN_MEMORY) {
           newRange.start = newRange.end - MAX_PAGES_IN_MEMORY + 1;
@@ -222,36 +305,29 @@ const [verses_l, setVerses_l] = useState(
 
     window.addEventListener('scroll', handleScroll, { passive: true });
     
-    return () => window.removeEventListener('scroll', handleScroll);
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+    };
   }, [chapter_id]);
 
-  useEffect(() => {
-    if (!loadedVerses.length) return;
+  // Memoize page numbers to prevent recalculation
+  const pageNumbers = useMemo(() => 
+    [...new Set(loadedVerses.map(v => v.page_number))],
+    [loadedVerses]
+  );
 
-    const pageNumbers = [...new Set(loadedVerses.map(v => v.page_number))];
+  // Load fonts for current pages and preload adjacent
+  useEffect(() => {
+    if (!pageNumbers.length) return;
     
+    // Load current page fonts
     pageNumbers.forEach(pageNum => {
-      if (!loadedFonts.has(pageNum)) {
-        const formatted = pageNum.toString().padStart(3, '0');
-        const fontFace = new FontFace(
-          `QuranPage${pageNum}`,
-          `url(https://raw.githubusercontent.com/mustafa0x/qpc-fonts/f93bf5f3/mushaf-woff2/QCF_P${formatted}.woff2)`,
-  {
-    display: 'swap'    // optional, similar to CSS
-  }
-        );
-        
-        fontFace.load()
-          .then((loadedFace) => {
-            document.fonts.add(loadedFace);
-            setLoadedFonts(prev => new Set([...prev, pageNum]));
-          })
-          .catch(err => {
-            console.error(`Failed to load font for page ${pageNum}:`, err);
-          });
-      }
+      preloadFont(pageNum);
     });
-  }, [loadedVerses, loadedFonts]);
+    
+    // Preload adjacent fonts
+    preloadAdjacentFonts(pageNumbers);
+  }, [pageNumbers, preloadFont, preloadAdjacentFonts]);
 
   useEffect(() => {
     if (!chapter || !loadMoreTopRef.current) return;
@@ -264,16 +340,14 @@ const [verses_l, setVerses_l] = useState(
       },
       { 
         threshold: 0,
-        rootMargin: '800px'
+        rootMargin: '400px' // Reduced from 800px
       }
     );
 
     observer.observe(loadMoreTopRef.current);
-
     return () => observer.disconnect();
   }, [chapter, loadMoreTop]);
 
-  // Observer for loading more at the bottom
   useEffect(() => {
     if (!chapter || !loadMoreBottomRef.current) return;
 
@@ -285,12 +359,11 @@ const [verses_l, setVerses_l] = useState(
       },
       { 
         threshold: 0,
-        rootMargin: '800px'
+        rootMargin: '400px' // Reduced from 800px
       }
     );
 
     observer.observe(loadMoreBottomRef.current);
-
     return () => observer.disconnect();
   }, [chapter, loadMoreBottom]);
 
@@ -351,17 +424,17 @@ const [verses_l, setVerses_l] = useState(
       
       loadVersesByPageRange(chapter, startPage , startPage);
       
-setTimeout(() => {
-  const verseEl = verseRefs.current[targetVerse.id];
-  if (verseEl) {
-    const headerHeight = headerRef.current?.offsetHeight || 0;
-    const verseTop = verseEl.getBoundingClientRect().top + window.scrollY;
-    window.scrollTo({
-      top: verseTop, // extra 10px for padding
-      behavior: 'smooth',
-    });
-  }
-}, 150);
+      setTimeout(() => {
+        const verseEl = verseRefs.current[targetVerse.id];
+        if (verseEl) {
+          const headerHeight = headerRef.current?.offsetHeight || 0;
+          const verseTop = verseEl.getBoundingClientRect().top + window.scrollY;
+          window.scrollTo({
+            top: verseTop,
+            behavior: 'smooth',
+          });
+        }
+      }, 150);
     }
   }, [chapter, loadVersesByPageRange, PAGES_PER_LOAD]);
 
@@ -384,7 +457,6 @@ setTimeout(() => {
     return currentPageRange.end < lastVerse.page_number;
   }, [chapter, currentPageRange]);
 
-  // Memoize verse rendering to prevent unnecessary re-renders
   const renderedVerses = useMemo(() => {
     return loadedVerses.map((verse, index) => {
       const prevPage = index > 0 ? loadedVerses[index - 1].page_number : null;
@@ -412,13 +484,14 @@ setTimeout(() => {
               addVerse={addVerse}
               removeVerse={removeVerse}
               booked={booked}
+              tefsirMap={tefsirMap}
             />
           </div>
           <div className="h_line"></div>
         </React.Fragment>
       );
     });
-  }, [loadedVerses, verses_l, showWordTranslation, audioEdition, isAutoplayEnabled, setIsAutoplayEnabled, scrollToVerse]);
+  }, [loadedVerses, tefsirMap, verses_l, showWordTranslation, audioEdition, isAutoplayEnabled, scrollToVerse]);
 
   return (
     <>
@@ -440,54 +513,53 @@ setTimeout(() => {
             }`}
               style={{ marginTop: '40px' }}
             >
-
-         
             </div>
-{loadedVerses.length > 0 && (
-  <>
-    {loadedVerses[0].page_number === chapter.verses[0].page_number && (
-      <>
-<div
-  style={{
-    display: "flex",
-    flexDirection: "row",
-    justifyContent: "space-between",
-    alignItems: "center",
-  }}
->
-  <button
-    className="btn"
-    onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}
-    disabled={Number(chapter_id) === 114}
-    style={{ visibility: Number(chapter_id) === 114 ? "hidden" : "visible" }}
-  >
-    <ChevronLeft />
-  </button>
 
-  <SurahName number={chapter_id} />
+            {loadedVerses.length > 0 && (
+              <>
+                {loadedVerses[0].page_number === chapter.verses[0].page_number && (
+                  <>
+                    <div
+                      style={{
+                        display: "flex",
+                        flexDirection: "row",
+                        justifyContent: "space-between",
+                        alignItems: "center",
+                      }}
+                    >
+                      <button
+                        className="btn"
+                        onClick={() => navigate(`/chapter/${Number(chapter_id) + 1}`)}
+                        disabled={Number(chapter_id) === 114}
+                        style={{ visibility: Number(chapter_id) === 114 ? "hidden" : "visible" }}
+                      >
+                        <ChevronLeft />
+                      </button>
 
-  <button
-    className="btn"
-    onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}
-    disabled={Number(chapter_id) === 1}
-    style={{ visibility: Number(chapter_id) === 1 ? "hidden" : "visible" }}
-  >
-    <ChevronRight />
-  </button>
-</div>
-        
-        {chapter_id != 1 && chapter_id != 9 && <BismillahText />}
-      </>
-    )}
-  </>
-)}
+                      <SurahName number={chapter_id} />
+
+                      <button
+                        className="btn"
+                        onClick={() => navigate(`/chapter/${Number(chapter_id) - 1}`)}
+                        disabled={Number(chapter_id) === 1}
+                        style={{ visibility: Number(chapter_id) === 1 ? "hidden" : "visible" }}
+                      >
+                        <ChevronRight />
+                      </button>
+                    </div>
+                    
+                    {chapter_id != 1 && chapter_id != 9 && <BismillahText />}
+                  </>
+                )}
+              </>
+            )}
+
             {hasMoreTop && (
               <div ref={loadMoreTopRef} style={{ height: '1px', margin: '10px 0' }} />
             )}
      
             {renderedVerses}
 
-            {/* Bottom infinite scroll trigger */}
             {hasMoreBottom && (
               <div ref={loadMoreBottomRef} style={{ height: '1px', margin: '40px 0' }} />
             )}
@@ -508,7 +580,6 @@ setTimeout(() => {
                   <ChevronRight/>
                 </button>
               )}
-              
             </div>
           </>
         ) : (

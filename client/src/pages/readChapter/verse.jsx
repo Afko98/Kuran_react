@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './verse.css';
-import { Play, Pause, BookType, StepForward, Bookmark } from 'lucide-react';
-import  { api_server } from '../../api';
+import { Play, Pause, BookType, StepForward, Bookmark, Columns3Cog } from 'lucide-react';
+import  { api_git } from '../../api';
 
 // Global audio instance shared across all Verse components
 const globalAudio = new Audio();
@@ -27,12 +27,13 @@ function Word({ word, showWordTranslation, pageNumber }) {
     </div>
   );
 }
-export default function Verse({ scrollToVerse, verse, booked, removeVerse, addVerse, showWordTranslation, audioEdition, isAutoplayEnabled, setIsAutoplayEnabled }) {
+export default function Verse({ scrollToVerse, tefsirMap, verse, booked, removeVerse, addVerse, showWordTranslation, audioEdition, isAutoplayEnabled, setIsAutoplayEnabled }) {
   const [showTefsir, setShowTefsir] = useState(false);
   const [tefsirContent, setTefsirContent] = useState('');
   const [isPlaying, setIsPlaying] = useState(false);
   const [progress, setProgress] = useState(0);
   const [duration, setDuration] = useState(0);
+
 
   useEffect(() => {
     document.body.style.overflow = showTefsir ? 'hidden' : '';
@@ -63,8 +64,6 @@ const handleEnded = () => {
       }
     }
   };
-
-
 
 
     const handlePlay = () => {
@@ -111,11 +110,15 @@ const handleEnded = () => {
     };
   }, [verse.id, isAutoplayEnabled,scrollToVerse]);
 
-  const fetchTefsir = async (verse_key) => {
+  const fetchTefsir = async (verse_number) => {
     try {
-      const [chapter, ayah] = verse_key.split(':');
-      const response = await api_server.get(`/api/tefsir?chapter=${chapter}&ayah=${ayah}`);
-      setTefsirContent(response.data.content || response.data);
+      if (tefsirMap[verse_number] == null) {
+        setTefsirContent('Tefsir nije dostupan za ovaj ajet.');
+        setShowTefsir(true);
+        return;
+      }
+      const response = await api_git.get(`/tefsir/${tefsirMap[verse_number]}`);
+      setTefsirContent(response.data || 'Tefsir nije dostupan za ovaj ajet.');
       setShowTefsir(true);
     } catch (err) {
       console.error(err);
@@ -177,7 +180,7 @@ const canPlayOpus = (() => {
         <div className='verse_footer_buttons'>
           <div
             className='verse_tefsir_button'
-            onClick={() => { fetchTefsir(verse.verse_key) }}
+            onClick={() => { fetchTefsir(verse.verse_number) }}
           >
             <BookType size={20} strokeWidth={1.6}/>
           </div>

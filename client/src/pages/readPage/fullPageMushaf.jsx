@@ -91,7 +91,7 @@ function FullPageMushaf() {
 		const obj = {};           // create empty object
 		obj['lines'] = Array.from(linesMap.values()).sort((a, b) => a.line_number - b.line_number);
 		obj['chapter'] = page.chapters[0].chapter_id;
-console.log(obj);
+
 		return obj;
     } catch (err) {
       console.error(err);
