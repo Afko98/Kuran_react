@@ -21,7 +21,7 @@ font-weight: 500;
   transform: scale(1.2);
   transform-origin: center;
   z-index: 0;
-  filter: brightness(0.9) contrast(1); /* natural tone for light theme */
+  filter: brightness(1) contrast(1); /* natural tone for light theme */
 }
 
 /* 🌑 Dark theme — brighten a bit, slightly lower contrast to reduce glare */
